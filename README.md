@@ -1,5 +1,5 @@
 # TML-Database
-A complete and live updated Database with ATP tournaments matches
+A complete and live updated Database with ATP tournaments matches tested many many times by the scripts to search tweeted records and stats
 
 This work is based on Sackmann one available at this link https://github.com/JeffSackmann/tennis_atp it were mantained the same pattern in columns order for a better compatibility. 
 
