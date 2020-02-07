@@ -12,12 +12,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-9158,Cordoba Open,Clay,28,A,20200203,,C882,6,,Pablo Cuevas,R,,URU,34.08898,46,,D874,,,Federico Delbonis,L,,ARG,29.330595,76,,7-5 6-2,3,R32,95,5,6,73,36,27,17,10,8,10,3,3,64,43,25,9,10,6,11
 2020-9158,Cordoba Open,Clay,28,A,20200203,,R772,5,,Albert Ramos-Vinolas,L,,ESP,32.046543,42,,BF23,Q,,Facundo Bagnis,L,,ARG,29.932923,135,,6-4 7-6(3),3,R32,119,3,2,81,41,26,27,11,6,8,2,4,69,37,21,20,11,1,4
 2020-9158,Cordoba Open,Clay,28,A,20200203,,MF35,,,Andrej Martin,R,,SVK,30.370979,105,,TE16,Q,,Carlos Taberner,R,,ESP,22.488706,187,,6-3 7-6(7),3,R16,120,6,1,76,57,40,15,11,4,4,2,1,74,52,34,14,10,4,5
+2020-9158,Cordoba Open,Clay,28,A,20200203,,LB84,8,,Juan Ignacio Londero,R,,ARG,26.469541,52,,CG04,WC,,Pedro Cachin,R,,ARG,24.813142,365,,6-3 6-3,3,R16,85,4,3,60,33,26,16,9,5,5,6,1,69,45,28,9,9,3,6
 2020-9158,Cordoba Open,Clay,28,A,20200203,,C882,6,,Pablo Cuevas,R,,URU,34.08898,46,,ML57,,,Gianluca Mager,R,,ITA,25.174538,117,,6-7(5) 7-6(2) 6-1,3,R16,139,8,6,95,54,42,23,15,5,8,5,4,120,65,42,29,16,9,15
 2020-9158,Cordoba Open,Clay,28,A,20200203,,R772,5,,Albert Ramos-Vinolas,L,,ESP,32.046543,42,,A596,,,Pablo Andujar,R,,ESP,34.028747,63,,6-3 6-7(4) 6-4,3,R16,199,2,4,109,68,40,20,15,5,10,2,8,133,86,50,22,16,13,21
 2020-9158,Cordoba Open,Clay,28,A,20200203,,DB63,4,,Laslo Djere,R,,SRB,24.673511,40,,MO44,Q,,Pedro Martinez,R,,ESP,22.773443,168,,6-3 6-4,3,R16,91,15,4,62,42,35,8,10,4,5,2,8,67,41,26,10,9,6,9
 2020-9158,Cordoba Open,Clay,28,A,20200203,,GD64,3 WC,,Cristian Garin,R,,CHI,23.679671,36,,BD80,,,Attila Balazs,R,,HUN,31.351129,112,,6-3 6-0,3,R16,68,2,2,37,21,17,12,7,0,0,0,4,67,37,21,10,8,11,16
 2020-9158,Cordoba Open,Clay,28,A,20200203,,MW02,,,Corentin Moutet,L,,FRA,20.793977,70,,PC11,2,,Guido Pella,L,,ARG,29.716632,25,,6-7(4) 7-5 6-3,3,R16,180,7,1,115,78,51,15,17,6,11,4,6,106,70,40,18,16,3,10
-2020-9158,Cordoba Open,Clay,28,A,20200203,,LB84,8,,Juan Ignacio Londero,R,,ARG,26.469541,52,,CG04,W,,Pedro Cachin,R,,ARG,24.813142,365,,6-3 6-3,3,R16,85,4,3,60,33,26,16,9,5,5,6,1,69,45,28,9,9,3,6
+2020-9158,Cordoba Open,Clay,28,A,20200203,,SM37,1,,Diego Schwartzman,R,,ARG,27.466119,14,,MU94,,,Jaume Munar,R,,ESP,22.748802,90,,6-1 7-5,3,R16,103,4,3,71,33,26,19,10,5,7,3,2,61,35,17,12,9,3,8
 2020-891,Tata Open Maharashtra,Hard,28,A,20200203,,V708,,,Jiri Vesely,L,,CZE,26.568104,109,,KD43,WC,,Arjun Kadhe,R,,IND,26.072553,617,,6-2 6-4,3,R32,75,13,2,48,31,26,11,9,0,0,3,2,64,43,26,10,9,9,12
 2020-891,Tata Open Maharashtra,Hard,28,A,20200203,,T840,Q,,Viktor Troicki,R,,SRB,33.979466,159,,N897,,,Sumit Nagal,R,,IND,22.466804,131,,6-2 6-7(4) 6-1,3,R32,139,9,2,110,83,56,14,14,9,10,4,4,96,65,43,15,13,11,16
 2020-891,Tata Open Maharashtra,Hard,28,A,20200203,,SK94,PR,,Cedrik-Marcel Stebe,L,,GER,29.319644,154,,K336,,,Ivo Karlovic,R,,CRO,40.930869,124,,6-3 6-4,3,R32,64,5,4,63,36,30,16,10,8,8,6,1,43,34,25,5,9,2,4
@@ -38,6 +39,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-891,Tata Open Maharashtra,Hard,28,A,20200203,,I305,,,Ilya Ivashka,R,,BLR,25.941136,149,,TA12,3,,Stefano Travaglia,R,,ITA,28.1013,74,,7-6(5) 7-6(3),3,R16,120,10,0,87,63,49,13,12,4,4,7,1,90,54,37,24,12,4,4
 2020-891,Tata Open Maharashtra,Hard,28,A,20200203,,BE90,2,,Ricardas Berankis,R,,LTU,29.620808,69,,SK94,PR,,Cedrik-Marcel Stebe,L,,GER,29.319644,154,,7-6(2) 6-1,3,R16,101,2,1,72,46,32,12,9,4,6,6,5,75,41,28,10,10,8,13
 2020-891,Tata Open Maharashtra,Hard,28,A,20200203,,MJ01,Q,,Roberto Marcora,R,,ITA,30.428474,172,,PD31,1,,Benoit Paire,R,,FRA,30.740589,21,,6-4 6-4,3,R16,77,2,2,75,46,30,17,10,7,8,6,1,52,24,17,17,10,1,4
+2020-891,Tata Open Maharashtra,Hard,28,A,20200203,,V708,,,Jiri Vesely,L,,CZE,26.568104,109,,I305,,,Ilya Ivashka,R,,BLR,25.941136,149,,2-6 6-1 7-6(11),3,,149,13,4,93,64,49,13,13,3,5,8,3,106,60,43,21,14,7,10
 2020-375,Open Sud de France,Hard,28,A,20200203,,Y268,,,Mikael Ymer,R,,SWE,21.40178,78,,S0AG,,,Jannik Sinner,R,,ITA,18.466804,82,,6-3 6-4,3,R32,85,3,3,58,38,29,10,10,2,4,2,3,52,31,22,7,9,2,6
 2020-375,Open Sud de France,Hard,28,A,20200203,,RH24,Q,,Emil Ruusuvuori,R,,FIN,20.84052,104,,DB59,,,Dennis Novak,R,,AUT,26.433949,99,,7-6(3) 4-6 6-2,3,R32,118,17,2,98,67,49,16,15,5,8,7,1,98,67,41,18,15,2,6
 2020-375,Open Sud de France,Hard,28,A,20200203,,PD07,PR,,Vasek Pospisil,R,,CAN,29.615332,138,,BH09,,,Aljaz Bedene,R,,SLO,30.546201,55,,6-3 6-4,3,R32,76,7,4,63,41,32,12,10,5,5,9,3,52,31,26,5,9,0,2
@@ -57,4 +59,4 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-375,Open Sud de France,Hard,28,A,20200203,,BK24,,,Gregoire Barrere,R,,FRA,25.963039,84,,D875,4 WC,,Grigor Dimitrov,R,,BUL,28.720055,20,,6-7(4) 6-4 7-5,3,R16,153,5,2,113,72,51,22,17,7,10,10,10,120,74,54,20,17,9,14
 2020-375,Open Sud de France,Hard,28,A,20200203,,PD07,PR,,Vasek Pospisil,R,,CAN,29.615332,138,,SU55,3,,Denis Shapovalov,L,,CAN,20.804928,13,,6-2 6-3,3,R16,56,5,3,42,31,28,8,9,0,0,5,2,41,23,17,8,8,3,6
 2020-375,Open Sud de France,Hard,28,A,20200203,,GB88,2,,David Goffin,R,,BEL,29.158111,11,,BK92,,,Alexander Bublik,R,,KAZ,22.631075,56,,6-3 7-6(9),3,R16,106,2,0,85,52,38,17,10,5,6,6,12,94,57,40,14,11,6,9
-2020-375,Open Sud de France,Hard,28,A,20200203,,MC65,1 W,,Gael Monfils,R,,FRA,33.423682,10,,ME82,,,Adrian Mannarino,L,,FRA,31.597536,44,,4-6 6-1 6-4,3,R16,120,6,6,86,53,38,17,14,1,4,2,1,86,50,33,15,13,9,14
+2020-375,Open Sud de France,Hard,28,A,20200203,,MC65,1 WC,,Gael Monfils,R,,FRA,33.423682,10,,ME82,,,Adrian Mannarino,L,,FRA,31.597536,44,,4-6 6-1 6-4,3,R16,120,6,6,86,53,38,17,14,1,4,2,1,86,50,33,15,13,9,14
