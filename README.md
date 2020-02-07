@@ -1,7 +1,7 @@
 # TML-Database
 A complete and live updated Database with ATP tournaments matches tested many many times by the scripts to search tweeted records and stats https://twitter.com/TennisMyLife68
 
-This work is based on Sackmann one available at this link https://github.com/JeffSackmann/tennis_atp it were mantained the same pattern in columns order for a better compatibility. 
+This work is based on Sackmann one (all rights reserved) available at this link https://github.com/JeffSackmann/tennis_atp it were mantained the same patterns in columns order for a better compatibility. But using Sackmann csvs we will find many missing data. i.e. the famous 1274 winning matches in Connors' career all avaible in our Database and not in Sackmann one, and many other examples.
 
 The columns are*
 * tourney_id = this is tournament id based on ATP database
