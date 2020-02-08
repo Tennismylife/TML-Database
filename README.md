@@ -1,11 +1,23 @@
 # TML-Database
-A complete and live updated Database with ATP tournaments matches tested many many times by the scripts to search tweeted records and stats https://twitter.com/TennisMyLife68
+A complete and live updated Database with ATP tournaments matches
+tested many many times by the scripts to search tweeted records and
+stats https://twitter.com/TennisMyLife68
 
-This work is based on Jeff Sackmann's (all rights reserved) available at this link https://github.com/JeffSackmann/tennis_atp it were mantained the same patterns in columns order for a better compatibility. But using Sackmann csvs we will find many missing data. i.e. the famous 1274 winning matches in Connors' career all avaible in our Database and not in Sackmann one, and many other examples.
+This work was originally based on Jeff Sackmann's (available at
+https://github.com/JeffSackmann/tennis_atp under Creative Common Non
+Commecial Share Alike). We therefore mantained the same patterns in
+column names and ordering. However, using Sackmann's csvs we
+encountered many missing data which we proceeded to integrate. As an
+example, the famous 1274 won matches in Connors' career are all
+present in our Database and not in Jeff's. There are many other
+examples, too many to list them all here. Another significant
+difference with Sackmann's database is using ATP's players id for a
+more confortable method to calculate records and searching data on ATP
+website.
 
 The columns are:
 
-* tourney_id = this is tournament id based on ATP database
+* tourney_id = tournament id based on ATP database
 
 * tourney_name = name of the city of the played tournament
 
@@ -103,10 +115,16 @@ The columns are:
 
 * l_bpFaced = loser faced break points
 
-There will be a constant checking on ATP database addition, removing, fixing etc. So as additions from newspapers, blog and tennis statistics website.
+We constantly check ATP additions, removals and fixings of historical
+records from their database. We keep integrating these data with own
+additions from newspapers, blogs and tennis statistics websites.
 
-There will be a live results update based on current ATP Matches so the stats and the records will be always updated not only on Monday as we can see on ATP website
+Our database will be frequently updated, daily or even more often,
+ideally following live results of ATP Matches: we don't want to wait
+till next Monday to compute interesting statistics!
 
-For a better quality the users can report eventual bugs, missing data and other errors
+We are open and thankful for collaborations and reporting of eventual
+bugs, missing data and other errors: we all want to improve the
+quality of this database.
 
-A significant different with Sackmann database is using ATP players id for a more confortable methods to calculate records and searching data on ATP website
+Enjoy!
