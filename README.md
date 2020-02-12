@@ -128,3 +128,9 @@ bugs, missing data and other errors: we all want to improve the
 quality of this database.
 
 Enjoy!
+
+
+This database is offered in partnership with https://canaltenis.com/
+
+
+![Image description](https://pbs.twimg.com/profile_images/1150124885148086273/MLggdMOo_400x400.png)
