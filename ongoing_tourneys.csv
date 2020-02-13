@@ -32,6 +32,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-424,New York Open,Hard,28,A,20200210,,J386,,,Steve Johnson,R,,USA,30.130048,75,,SL08,5,,Tennys Sandgren,R,,USA,28.555784,56,,6-7(5) 6-3 7-6(3),3,R32,140,7,2,114,67,55,27,17,4,5,14,3,97,59,47,24,16,6,8
 2020-424,New York Open,Hard,28,A,20200210,,SA93,,,Andreas Seppi,R,,ITA,35.969884,95,,J386,,,Steve Johnson,R,,USA,30.130048,75,,7-6(4) 6-3,3,R16,89,2,3,68,44,31,11,11,4,8,4,2,63,33,24,10,10,2,7
 2020-424,New York Open,Hard,28,A,20200210,,KI95,6,,Miomir Kecmanovic,R,,SRB,20.44627,57,,L503,Q,,Paolo Lorenzi,R,,ITA,38.154689,115,,6-3 6-3,3,R16,73,3,1,55,26,21,15,9,2,3,1,2,50,25,16,11,9,2,6
+2020-424,New York Open,Hard,28,A,20200210,,KF17,,,Soonwoo Kwon,R,,KOR,22.190281,88,,R975,2,,Milos Raonic,R,,CAN,29.122519,32,,7-6(4) 6-7(4) 6-4,3,R16,144,5,1,105,75,59,20,17,7,7,33,4,96,64,57,17,17,1,2
 2020-506,Argentina Open,Clay,28,A,20200210,,S483,LL,,Pedro Sousa,R,,POR,31.70705,143,,D0CG,WC,,Facundo Diaz Acosta,L,,ARG,19.154004,494,,4-6 6-2 6-3,3,R32,110,3,5,89,54,41,19,14,5,7,5,8,80,48,32,13,13,7,11
 2020-506,Argentina Open,Clay,28,A,20200210,,MJ08,,,Thiago Monteiro,L,,BRA,25.697467,89,,MU94,,,Jaume Munar,R,,ESP,22.767967,87,,6-3 6-3,3,R32,101,5,0,74,50,40,6,9,10,11,3,7,72,40,24,14,9,7,11
 2020-506,Argentina Open,Clay,28,A,20200210,,MO44,Q,,Pedro Martinez,R,,ESP,22.792608,150,,D985,LL,,Joao Domingues,R,,POR,26.349076,177,,7-6 7-5,3,R32,138,1,1,96,64,44,17,12,8,10,2,1,84,47,27,19,12,10,13
@@ -47,3 +48,4 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-506,Argentina Open,Clay,28,A,20200210,,S483,LL,,Pedro Sousa,R,,POR,31.70705,143,,KC04,Q,,Jozef Kovalik,R,,SVK,27.266256,130,,7-6(3) 7-6(5),3,R16,130,4,3,103,71,45,19,12,9,10,3,4,95,54,36,22,12,6,7
 2020-506,Argentina Open,Clay,28,A,20200210,,RH16,8,,Casper Ruud,R,,NOR,21.136208,46,,CF59,,,Roberto Carballes Baena,R,,ESP,26.885695,83,,6-1 6-0,3,R16,57,3,2,38,28,21,7,7,0,0,1,4,39,21,11,4,6,2,7
 2020-506,Argentina Open,Clay,28,A,20200210,,L987,3,,Dusan Lajovic,R,,SRB,29.615332,24,,MO44,Q,,Pedro Martinez,R,,ESP,22.792608,150,,7-6(6) 7-6(6),3,R16,127,7,4,93,55,40,21,12,4,5,1,1,93,74,49,9,12,3,4
+2020-506,Argentina Open,Clay,28,A,20200210,,MJ08,,,Thiago Monteiro,L,,BRA,25.697467,89,,CG80,4,,Borna Coric,R,,CRO,23.238877,30,,6-4 7-6(6),3,R16,105,3,1,64,43,37,12,11,1,2,6,1,70,49,39,8,11,1,3
