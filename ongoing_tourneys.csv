@@ -21,6 +21,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,CD85,,,Pablo Carreno Busta,R,,ESP,28.583162,29,,BD06,6,,Roberto Bautista Agut,R,,ESP,31.824778,12,,6-4 2-6 7-6(4),3,R16,148,11,2,116,79,56,19,15,7,9,5,1,90,57,45,20,15,2,3
 2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,S0AG,WC,,Jannik Sinner,R,,ITA,18.485969,78,,GB88,4,,David Goffin,R,,BEL,29.177276,10,,7-6(7) 7-5,3,R16,119,5,0,82,53,38,16,12,6,8,6,7,101,59,36,21,12,5,8
 2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,BH09,,,Aljaz Bedene,R,,SLO,30.565366,51,,TE51,2,,Stefanos Tsitsipas,R,,GRE,21.497604,6,,7-5 6-4,3,R16,92,9,2,77,47,38,15,11,5,5,3,2,53,34,26,13,11,0,2
+2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,MC65,3,,Gael Monfils,R,,FRA,33.442847,9,,SD32,,,Gilles Simon,R,,FRA,35.12115,59,,6-4 6-1,3,R16,90,5,2,57,40,28,6,8,4,6,2,1,51,25,13,10,9,1,7
 2020-424,New York Open,Hard,28,A,20200210,,TC61,,,Jordan Thompson,R,,AUS,25.809719,65,,K336,,,Ivo Karlovic,R,,CRO,40.950034,121,,6-3 7-6(2),3,R32,83,6,1,63,49,42,8,11,1,1,11,2,69,46,30,13,10,4,5
 2020-424,New York Open,Hard,28,A,20200210,,SA93,,,Andreas Seppi,R,,ITA,35.969884,95,,D923,,,Damir Dzumhur,R,,BIH,27.726215,97,,6-3 1-6 7-6(6),3,R32,127,6,3,94,54,33,22,14,3,7,7,4,100,57,42,19,14,6,9
 2020-424,New York Open,Hard,28,A,20200210,,N732,,,Yoshihito Nishioka,L,,JPN,24.372348,66,,L949,,,Henri Laaksonen,R,,SUI,27.863107,112,,6-3 0-6 6-2,3,R32,97,2,2,77,48,29,18,12,3,6,3,4,86,58,39,10,11,6,9
@@ -52,5 +53,6 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-506,Argentina Open,Clay,28,A,20200210,,DB63,6,,Laslo Djere,R,,SRB,24.692676,39,,C0AU,WC,,Francisco Cerundolo,R,,ARG,21.494867,240,,6-2 2-6 6-4,3,R32,119,0,6,80,51,32,15,13,1,5,0,2,91,54,29,18,13,6,11
 2020-506,Argentina Open,Clay,28,A,20200210,,S483,LL,,Pedro Sousa,R,,POR,31.70705,143,,KC04,Q,,Jozef Kovalik,R,,SVK,27.266256,130,,7-6(3) 7-6(5),3,R16,130,4,3,103,71,45,19,12,9,10,3,4,95,54,36,22,12,6,7
 2020-506,Argentina Open,Clay,28,A,20200210,,RH16,8,,Casper Ruud,R,,NOR,21.136208,46,,CF59,,,Roberto Carballes Baena,R,,ESP,26.885695,83,,6-1 6-0,3,R16,57,3,2,38,28,21,7,7,0,0,1,4,39,21,11,4,6,2,7
+2020-506,Argentina Open,Clay,28,A,20200210,,LB84,,,Juan Ignacio Londero,R,,ARG,26.488706,50,,DB63,6,,Laslo Djere,R,,SRB,24.692676,39,,6-7(3) 6-2 6-1,3,R16,119,6,0,76,42,33,24,13,2,2,10,9,85,55,36,15,14,4,9
 2020-506,Argentina Open,Clay,28,A,20200210,,MJ08,,,Thiago Monteiro,L,,BRA,25.697467,89,,CG80,4,,Borna Coric,R,,CRO,23.238877,30,,6-4 7-6(6),3,R16,105,3,1,64,43,37,12,11,1,2,6,1,70,49,39,8,11,1,3
 2020-506,Argentina Open,Clay,28,A,20200210,,L987,3,,Dusan Lajovic,R,,SRB,29.615332,24,,MO44,Q,,Pedro Martinez,R,,ESP,22.792608,150,,7-6(6) 7-6(6),3,R16,127,7,4,93,55,40,21,12,4,5,1,1,93,74,49,9,12,3,4
