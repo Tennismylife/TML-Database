@@ -25,8 +25,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,BH09,,,Aljaz Bedene,R,,SLO,30.565366,51,,TE51,2,,Stefanos Tsitsipas,R,,GRE,21.497604,6,,7-5 6-4,3,R16,92,9,2,77,47,38,15,11,5,5,3,2,53,34,26,13,11,0,2
 2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,CD85,,,Pablo Carreno Busta,R,,ESP,28.583162,29,,S0AG,WC,,Jannik Sinner,R,,ITA,18.485969,78,,7-5 3-6 7-6(6),3,QF,164,6,2,120,81,57,21,16,12,14,9,1,113,68,54,21,17,5,7
 2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,AG37,,,Felix Auger-Aliassime,R,,CAN,19.507187,21,,BH09,,,Aljaz Bedene,R,,SLO,30.565366,51,,6-4 7-6(6),3,QF,111,10,1,74,54,43,9,11,2,3,3,1,74,39,31,19,11,1,3
-2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,MC65,3,,Gael Monfils,R,,FRA,33.442847,9,,E687,,,Daniel Evans,R,,GBR,29.71937,34,,7-6(5) 6-2,3,QF,112,8,2,60,43,33,9,10,1,2,2,2,78,43,30,14,10,3,6
 2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,KB05,,,Filip Krajinovic,R,,SRB,27.953457,44,,RE44,7,,Andrey Rublev,R,,RUS,22.308008,15,,7-6(2) 6-4,3,QF,90,5,0,72,41,33,18,11,4,5,10,0,64,43,32,11,11,3,5
+2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,MC65,3,,Gael Monfils,R,,FRA,33.442847,9,,E687,,,Daniel Evans,R,,GBR,29.71937,34,,7-6(5) 6-2,3,QF,112,8,2,60,43,33,9,10,1,2,2,2,78,43,30,14,10,3,6
+2020-407,ABN AMRO World Tennis Tournament,Hard,32,A,20200210,,AG37,,,Felix Auger-Aliassime,R,,CAN,19.507187,21,,CD85,,,Pablo Carreno Busta,R,,ESP,28.583162,29,,7-6(2) 6-4,3,SF,109,16,2,71,48,45,9,11,4,4,4,1,79,49,33,18,11,4,5
 2020-424,New York Open,Hard,28,A,20200210,,TC61,,,Jordan Thompson,R,,AUS,25.809719,65,,K336,,,Ivo Karlovic,R,,CRO,40.950034,121,,6-3 7-6(2),3,R32,83,6,1,63,49,42,8,11,1,1,11,2,69,46,30,13,10,4,5
 2020-424,New York Open,Hard,28,A,20200210,,SA93,,,Andreas Seppi,R,,ITA,35.969884,95,,D923,,,Damir Dzumhur,R,,BIH,27.726215,97,,6-3 1-6 7-6(6),3,R32,127,6,3,94,54,33,22,14,3,7,7,4,100,57,42,19,14,6,9
 2020-424,New York Open,Hard,28,A,20200210,,N732,,,Yoshihito Nishioka,L,,JPN,24.372348,66,,L949,,,Henri Laaksonen,R,,SUI,27.863107,112,,6-3 0-6 6-2,3,R32,97,2,2,77,48,29,18,12,3,6,3,4,86,58,39,10,11,6,9
@@ -71,7 +72,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-506,Argentina Open,Clay,28,A,20200210,,L987,3,,Dusan Lajovic,R,,SRB,29.615332,24,,MO44,Q,,Pedro Martinez,R,,ESP,22.792608,150,,7-6(6) 7-6(6),3,R16,127,7,4,93,55,40,21,12,4,5,1,1,93,74,49,9,12,3,4
 2020-506,Argentina Open,Clay,28,A,20200210,,PC11,2,,Guido Pella,L,,ARG,29.735797,22,,BF23,Q,,Facundo Bagnis,L,,ARG,29.952088,135,,7-6(2) 6-7(2) 6-4,3,R16,192,9,3,122,82,57,19,17,5,7,7,2,133,96,56,23,17,10,13
 2020-506,Argentina Open,Clay,28,A,20200210,,SM37,1,,Diego Schwartzman,R,,ARG,27.485284,14,,D874,,,Federico Delbonis,L,,ARG,29.34976,74,,6-3 4-6 6-2,3,R16,152,0,9,95,55,40,15,13,8,12,2,7,98,54,34,15,14,6,13
+2020-506,Argentina Open,Clay,28,A,20200210,,S483,LL,,Pedro Sousa,R,,POR,31.70705,143,,MJ08,,,Thiago Monteiro,L,,BRA,25.697467,89,,7-6(5) 6-4,3,QF,102,8,4,81,50,37,13,11,6,8,3,2,77,50,32,15,11,4,7
 2020-506,Argentina Open,Clay,28,A,20200210,,RH16,8,,Casper Ruud,R,,NOR,21.136208,46,,L987,3,,Dusan Lajovic,R,,SRB,29.615332,24,,7-5 6-1,3,QF,85,0,1,61,40,28,13,10,4,5,3,1,61,38,22,11,9,3,7
 2020-506,Argentina Open,Clay,28,A,20200210,,LB84,,,Juan Ignacio Londero,R,,ARG,26.488706,50,,PC11,2,,Guido Pella,L,,ARG,29.735797,22,,6-4 7-6(4),3,QF,114,5,3,68,41,29,20,11,2,4,1,3,85,51,33,17,11,8,11
 2020-506,Argentina Open,Clay,28,A,20200210,,SM37,1,,Diego Schwartzman,R,,ARG,27.485284,14,,C882,,,Pablo Cuevas,R,,URU,34.108145,47,,5-7 7-6(11) 7-5,3,QF,221,1,3,142,107,67,16,18,8,12,14,4,124,74,53,22,18,8,12
-2020-506,Argentina Open,Clay,28,A,20200210,,S483,L,,Pedro Sousa,R,,POR,31.70705,143,,MJ08,,,Thiago Monteiro,L,,BRA,25.697467,89,,7-6(5) 6-4,3,QF,102,8,4,81,50,37,13,11,6,8,3,2,77,50,32,15,11,4,7
+2020-506,Argentina Open,Clay,28,A,20200210,,S483,L,,Pedro Sousa,R,,POR,31.70705,143,,SM37,1,,Diego Schwartzman,R,,ARG,27.485284,14,,W/O,3,SF,,,,,,,,,,,,,,,,,,,
