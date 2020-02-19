@@ -15,6 +15,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-6932,Rio Open presented by Claro,Clay,32,A,20200217,,GD64,3,,Cristian Garin,R,,CHI,23.718001,26,,MF35,,,Andrej Martin,R,,SVK,30.409309,93,,4-6 7-5 7-6(5),3,R32,189,3,5,104,58,44,23,17,4,8,4,3,132,88,56,22,17,12,16
 2020-6932,Rio Open presented by Claro,Clay,32,A,20200217,,L987,2,,Dusan Lajovic,R,,SRB,29.634497,23,,CF01,,,Marco Cecchinato,R,,ITA,27.381246,73,,6-4 6-7(4) 6-1,3,R32,136,7,3,92,59,50,18,15,3,3,6,3,108,72,51,15,14,6,9
 2020-6932,Rio Open presented by Claro,Clay,32,A,20200217,,TB69,1,,Dominic Thiem,R,,AUT,26.455852,4,,MW75,WC,,Felipe Meligeni Rodrigues Alves,R,,BRA,21.993155,318,,6-2 4-6 6-1,3,R32,124,3,2,75,41,30,23,13,0,1,3,1,77,60,33,10,12,4,8
+2020-6932,Rio Open presented by Claro,Clay,32,A,20200217,,GD64,3,,Cristian Garin,R,,CHI,23.718001,26,,D874,,,Federico Delbonis,L,,ARG,29.368925,87,,6-4 6-3,3,R16,96,6,1,49,28,23,13,9,0,0,1,5,79,46,26,18,10,4,7
 2020-496,Open 13 Provence,Hard,28,A,20200217,,Y268,,,Mikael Ymer,R,,SWE,21.44011,74,,G628,,,Richard Gasquet,R,,FRA,33.667351,55,,6-3 3-6 7-5,3,R32,142,6,3,104,73,50,16,15,7,10,4,4,92,46,36,22,15,3,7
 2020-496,Open 13 Provence,Hard,28,A,20200217,,S0AG,,,Jannik Sinner,R,,ITA,18.505133,79,,GB93,Q,,Norbert Gombos,R,,SVK,29.514031,103,,6-4 7-6(5),3,R32,123,9,2,84,46,36,20,11,6,6,4,0,71,38,25,20,11,2,3
 2020-496,Open 13 Provence,Hard,28,A,20200217,,SD32,,,Gilles Simon,R,,FRA,35.140315,57,,M0G4,WC,,Harold Mayot,,,FRA,18.034223,525,,6-4 7-6(3),3,R32,116,9,0,64,40,35,13,11,1,2,3,2,86,47,33,19,11,4,6
@@ -29,6 +30,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-496,Open 13 Provence,Hard,28,A,20200217,,BH09,,,Aljaz Bedene,R,,SLO,30.584531,52,,KE29,5,,Karen Khachanov,R,,RUS,23.742642,17,,4-6 6-4 7-5,3,R32,142,18,7,100,60,50,19,16,2,3,8,2,109,67,51,20,16,9,11
 2020-496,Open 13 Provence,Hard,28,A,20200217,,PD07,PR,,Vasek Pospisil,R,,CAN,29.653662,104,,HB71,8,,Hubert Hurkacz,R,,POL,23.014374,29,,6-3 6-4,3,R16,88,9,1,62,41,33,12,10,4,4,3,5,65,31,21,18,9,6,8
 2020-496,Open 13 Provence,Hard,28,A,20200217,,TE51,2,,Stefanos Tsitsipas,R,,GRE,21.516769,6,,Y268,,,Mikael Ymer,R,,SWE,21.44011,74,,6-1 6-3,3,R16,71,6,0,42,24,21,12,8,0,0,2,3,54,38,19,7,8,4,8
+2020-496,Open 13 Provence,Hard,28,A,20200217,,BK92,,,Alexander Bublik,R,,KAZ,22.669405,56,,PD31,6,,Benoit Paire,R,,FRA,30.778919,19,,3-6 6-4 6-4,3,R16,97,7,3,85,58,48,11,15,2,4,14,7,86,55,43,15,14,9,11
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,TD51,,,Frances Tiafoe,R,,USA,22.075291,80,,GA36,Q,,Emilio Gomez,R,,ECU,28.221766,150,,7-6(3) 6-2,3,R32,89,1,1,66,47,35,9,10,0,1,6,0,65,34,24,13,10,1,4
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,SK94,PR,,Cedrik-Marcel Stebe,L,,GER,29.357974,147,,TA46,LL,,Bernard Tomic,R,,AUS,27.323751,191,,6-2 3-6 6-2,3,R32,99,9,2,79,50,35,19,12,5,6,8,2,93,64,41,13,13,13,17
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,RC96,Q,,Noah Rubin,R,,USA,23.989049,269,,J380,SE,,Jason Jung,R,,TPE,30.67488,131,,6-3 4-3 RET,3,R32,74,5,1,53,33,24,9,8,5,7,4,1,58,40,21,9,8,4,8
@@ -45,3 +47,5 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,O522,4,,Reilly Opelka,R,,USA,22.472279,40,,G858,Q,,Ernests Gulbis,R,,LAT,31.466119,190,,6-7(5) 6-4 7-6(4),3,R32,159,20,1,99,65,57,21,17,1,1,13,7,119,73,56,27,17,7,8
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,N771,Q,,Cameron Norrie,L,,GBR,24.487337,59,,FB98,3,,Taylor Fritz,R,,USA,22.30527,36,,6-4 6-7(4) 6-4,3,R32,132,6,8,99,65,51,20,16,5,6,13,2,99,64,54,13,16,2,5
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,R975,2,,Milos Raonic,R,,CAN,29.141684,32,,I165,LL,,Denis Istomin,R,,UZB,33.445585,161,,6-2 6-2,3,R32,65,9,5,46,22,21,12,8,2,2,2,2,50,32,21,5,8,6,10
+2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,KF17,,,Soonwoo Kwon,R,,KOR,22.209446,84,,H940,WC,,Ryan Harrison,R,,USA,27.780972,392,,6-4 3-6 7-6,3,R16,158,1,1,87,52,39,20,15,4,7,11,7,117,74,51,19,16,9,12
+2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,N732,,,Yoshihito Nishioka,L,,JPN,24.391513,64,,RC96,Q,,Noah Rubin,R,,USA,23.989049,269,,6-1 6-2,3,R16,55,3,0,39,25,22,10,8,0,0,2,0,40,21,11,8,7,2,6
