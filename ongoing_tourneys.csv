@@ -37,6 +37,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-496,Open 13 Provence,Hard,28,A,20200217,,SU55,4,,Denis Shapovalov,L,,CAN,20.843258,16,,C977,,,Marin Cilic,R,,CRO,31.386721,37,,6-4 4-6 6-2,3,R16,119,17,2,87,59,45,15,14,6,7,7,5,79,52,32,17,14,6,9
 2020-496,Open 13 Provence,Hard,28,A,20200217,,TE51,2,,Stefanos Tsitsipas,R,,GRE,21.516769,6,,Y268,,,Mikael Ymer,R,,SWE,21.44011,74,,6-1 6-3,3,R16,71,6,0,42,24,21,12,8,0,0,2,3,54,38,19,7,8,4,8
 2020-496,Open 13 Provence,Hard,28,A,20200217,,MM58,1,,Daniil Medvedev,R,,RUS,24.016427,5,,S0AG,,,Jannik Sinner,R,,ITA,18.505133,79,,1-6 6-1 6-2,3,R16,79,7,1,58,29,23,20,11,0,2,1,1,67,41,24,12,11,3,7
+2020-496,Open 13 Provence,Hard,28,A,20200217,,AG37,7,,Felix Auger-Aliassime,R,,CAN,19.526352,21,,H996,,,Pierre-Hugues Herbert,R,,FRA,28.919918,78,,6-0 6-7(6) 7-6(9),3,R16,160,16,2,93,66,56,17,15,0,0,3,4,119,74,54,20,15,4,7
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,TD51,,,Frances Tiafoe,R,,USA,22.075291,80,,GA36,Q,,Emilio Gomez,R,,ECU,28.221766,150,,7-6(3) 6-2,3,R32,89,1,1,66,47,35,9,10,0,1,6,0,65,34,24,13,10,1,4
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,SK94,PR,,Cedrik-Marcel Stebe,L,,GER,29.357974,147,,TA46,LL,,Bernard Tomic,R,,AUS,27.323751,191,,6-2 3-6 6-2,3,R32,99,9,2,79,50,35,19,12,5,6,8,2,93,64,41,13,13,13,17
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,RC96,Q,,Noah Rubin,R,,USA,23.989049,269,,J380,SE,,Jason Jung,R,,TPE,30.67488,131,,6-3 4-3 RET,3,R32,74,5,1,53,33,24,9,8,5,7,4,1,58,40,21,9,8,4,8
@@ -57,3 +58,4 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,N0AE,WC,,Brandon Nakashima,R,,USA,18.540726,295,,N771,Q,,Cameron Norrie,L,,GBR,24.487337,59,,7-5 6-2,3,R16,81,3,0,55,28,21,18,10,1,2,3,4,63,37,20,15,10,3,7
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,KF17,,,Soonwoo Kwon,R,,KOR,22.209446,84,,H940,WC,,Ryan Harrison,R,,USA,27.780972,392,,6-4 3-6 7-6,3,R16,158,1,1,87,52,39,20,15,4,7,11,7,117,74,51,19,16,9,12
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,O522,4,,Reilly Opelka,R,,USA,22.472279,40,,MK66,PR,,Mackenzie McDonald,R,,USA,24.84052,160,,6-3 6-4,3,R16,64,17,0,50,36,32,9,10,2,2,2,0,49,29,22,12,9,1,3
+2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,HH26,6,,Ugo Humbert,L,,FRA,21.645448,43,,KI95,,,Miomir Kecmanovic,R,,SRB,20.465435,54,,6-4 7-6(6),3,R16,102,9,5,83,51,39,14,11,8,10,7,2,63,34,27,15,11,1,4
