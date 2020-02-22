@@ -24,6 +24,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-6932,Rio Open presented by Claro,Clay,32,A,20200217,,SU87,,,Lorenzo Sonego,R,,ITA,24.772074,49,,L987,2,,Dusan Lajovic,R,,SRB,29.634497,23,,7-6(5) 7-6(5),3,R16,129,4,2,87,58,44,13,12,2,4,4,3,81,53,41,14,12,1,3
 2020-6932,Rio Open presented by Claro,Clay,32,A,20200217,,TB69,1,,Dominic Thiem,R,,AUT,26.455852,4,,MU94,,,Jaume Munar,R,,ESP,22.787132,95,,6-7(5) 6-3 6-4,3,R16,161,4,5,99,74,50,13,15,6,8,0,3,99,67,47,12,16,3,8
 2020-6932,Rio Open presented by Claro,Clay,32,A,20200217,,GD64,3,,Cristian Garin,R,,CHI,23.718001,26,,CE77,Q,,Federico Coria,R,,ARG,27.942505,117,,2-6 6-3 7-5,3,QF,134,4,7,94,54,41,15,15,3,7,1,0,101,72,42,15,14,8,12
+2020-6932,Rio Open presented by Claro,Clay,32,A,20200217,,CG80,5,,Borna Coric,R,,CRO,23.258042,31,,SU87,,,Lorenzo Sonego,R,,ITA,24.772074,49,,7-6(5) 6-3,3,QF,129,4,1,86,49,40,17,11,8,8,3,2,74,48,35,11,10,2,3
 2020-496,Open 13 Provence,Hard,28,A,20200217,,Y268,,,Mikael Ymer,R,,SWE,21.44011,74,,G628,,,Richard Gasquet,R,,FRA,33.667351,55,,6-3 3-6 7-5,3,R32,142,6,3,104,73,50,16,15,7,10,4,4,92,46,36,22,15,3,7
 2020-496,Open 13 Provence,Hard,28,A,20200217,,S0AG,,,Jannik Sinner,R,,ITA,18.505133,79,,GB93,Q,,Norbert Gombos,R,,SVK,29.514031,103,,6-4 7-6(5),3,R32,123,9,2,84,46,36,20,11,6,6,4,0,71,38,25,20,11,2,3
 2020-496,Open 13 Provence,Hard,28,A,20200217,,SD32,,,Gilles Simon,R,,FRA,35.140315,57,,M0G4,WC,,Harold Mayot,,,FRA,18.034223,525,,6-4 7-6(3),3,R32,116,9,0,64,40,35,13,11,1,2,3,2,86,47,33,19,11,4,6
@@ -75,3 +76,4 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,N732,,,Yoshihito Nishioka,L,,JPN,24.391513,64,,N0AE,WC,,Brandon Nakashima,R,,USA,18.540726,295,,3-6 7-6(5) 6-4,3,QF,145,4,2,97,62,40,24,15,4,7,12,4,129,84,57,21,16,9,12
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,HH26,6,,Ugo Humbert,L,,FRA,21.645448,43,,TD51,,,Frances Tiafoe,R,,USA,22.075291,80,,6-1 6-2,3,QF,71,8,0,48,33,24,10,8,2,2,1,0,54,35,16,10,7,6,10
 2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,O522,4,,Reilly Opelka,R,,USA,22.472279,40,,KF17,,,Soonwoo Kwon,R,,KOR,22.209446,84,,6-3 6-4,3,QF,66,16,0,53,38,30,10,10,0,0,4,2,46,31,21,9,9,2,4
+2020-499,Delray Beach Open by VITACOST.com,Hard,32,A,20200217,,R975,2,,Milos Raonic,R,,CAN,29.141684,32,,J386,,,Steve Johnson,R,,USA,30.149213,75,,7-6(6) 6-3,3,QF,98,3,1,63,44,34,12,10,1,2,5,3,84,57,40,12,11,8,11
