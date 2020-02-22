@@ -2493,14 +2493,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-568,St. Petersburg,Hard,32,A,20180917,273,SU55,7,,Denis Shapovalov,L,,CAN,19.425,34,1270,MB53,,Q,Adrian Menendez-Maceiras,R,,ESP,32.887,126,445,7-6(3) 6-2,3,R32,83,10,6,58,33,31,13,10,0,0,1,1,60,36,30,8,10,0,2
 2018-568,St. Petersburg,Hard,32,A,20180917,272,BK40,,,Matteo Berrettini,U,,ITA,22.431,62,864,G476,,,Guillermo Garcia-Lopez,R,188,ESP,35.288,80,708,7-6(5) 2-6 6-3,3,R32,119,16,3,88,51,45,18,15,1,3,8,6,85,47,41,19,14,0,1
 2018-568,St. Petersburg,Hard,32,A,20180917,271,K966,,,Martin Klizan,L,190,SVK,29.185,65,823,D864,,,Evgeny Donskoy,R,185,RUS,28.359,84,681,6-4 6-4,3,R32,90,5,2,60,34,24,11,10,4,7,5,1,67,41,22,13,10,7,12
-2018-9210,Laver Cup,Hard,2,A,20180921,,D875,,,Grigor Dimitrov,,,BUL,,7,,TD51,,,Frances Tiafoe,,,USA,,40,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,,E831,,,Kyle Edmund,,,GBR,,16,,SM25,,,Jack Sock,,,USA,,17,,6-4 5-7 [10-6],3,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,,GB88,,,David Goffin,,,BEL,,11,,SM37,,,Diego Schwartzman,,,ARG,,14,,6-4 4-6 [11-9],3,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,,Z355,,,Alexander Zverev,,,GER,,5,,I186,,,John Isner,,,USA,,10,,3-6 7-6(6) [10-7],3,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,,F324,,,Roger Federer,,,SUI,,2,,KE17,,,Nick Kyrgios,,,AUS,,27,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,,A678,,,Kevin Anderson,,,RSA,,9,,D643,,,Novak Djokovic,,,SRB,,3,,7-6(5) 5-7 [10-6],3,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,,F324,,,Roger Federer,,,SUI,,2,,I186,,,John Isner,,,USA,,10,,6-7(5) 7-6(6) [10-7],3,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,,Z355,,,Alexander Zverev,,,GER,,5,,A678,,,Kevin Anderson,,,RSA,,9,,6-7(3) 7-5 [10-7],3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,D875,,,Grigor Dimitrov,,,BUL,27,351,7,,TD51,,,Frances Tiafoe,,,USA,20.668,40,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,E831,,,Kyle Edmund,,,GBR,23.701,16,,SM25,,,Jack Sock,,,USA,25.990,17,,6-4 5-7 [10-6],3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,GB88,,,David Goffin,,,BEL,27.789,11,,SM37,,,Diego Schwartzman,,,ARG,26.097,14,,6-4 4-6 [11-9],3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,Z355,,,Alexander Zverev,,,GER,21.420,5,,I186,,,John Isner,,,USA,33.404,10,,3-6 7-6(6) [10-7],3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,F324,,,Roger Federer,,,SUI,37.119,2,,KE17,,,Nick Kyrgios,,,AUS,23.403,27,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,A678,,,Kevin Anderson,,,RSA,32.344,9,,D643,,,Novak Djokovic,,,SRB,31.334,3,,7-6(5) 5-7 [10-6],3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,F324,,,Roger Federer,,,SUI,37.119,2,,I186,,,John Isner,,,USA,33.404,10,,6-7(5) 7-6(6) [10-7],3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,Z355,,,Alexander Zverev,,,GER,21.420,5,,A678,,,Kevin Anderson,,,RSA,32.344,9,,6-7(3) 7-5 [10-7],3,RR,,,,,,,,,,,,,,,,,,,
 2018-7581,Chengdu,Hard,32,A,20180924,,TA46,,Q,Bernard Tomic,R,,AUS,25.925,123,,F510,1,,Fabio Fognini,R,,ITA,31.337,13,,6-1 3-6 7-6(7),3,F,135,12,0,102,71,50,9,14,7,11,7,7,106,65,41,17,14,8,13
 2018-7581,Chengdu,Hard,32,A,20180924,,TA46,,Q,Bernard Tomic,R,,AUS,25.925,123,,SH90,7,,Joao Sousa,R,,POR,29.487,50,,6-4 6-4,3,SF,75,12,2,58,41,34,8,10,3,3,3,1,61,42,27,13,10,8,10
 2018-7581,Chengdu,Hard,32,A,20180924,,F510,1,,Fabio Fognini,R,,ITA,31.337,13,,FB98,,,Taylor Fritz,R,,USA,20.906,62,,6-7(5) 6-0 6-3,3,SF,109,2,5,85,45,37,22,14,3,5,8,3,82,46,28,14,13,5,11
