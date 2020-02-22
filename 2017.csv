@@ -2102,7 +2102,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-6116,Atlanta,Hard,32,A,20170724,293,SM25,1,,Jack Sock,R,185,USA,24.83,19,2245,SC56,,,Dudi Sela,R,175,ISR,32.304,74,650,6-4 6-3,3,R16,71,5,4,58,37,31,9,9,6,6,7,2,59,39,25,12,10,3,6
 2017-6116,Atlanta,Hard,32,A,20170724,294,I186,2,,John Isner,R,206,USA,32.244,20,2045,L797,,,Lukas Lacko,R,185,SVK,29.722,129,424,7-5 6-4,3,QF,73,13,0,58,44,38,7,11,1,1,9,2,55,29,24,15,11,0,2
 2017-6116,Atlanta,Hard,32,A,20170724,295,MA30,3,,Gilles Muller,L,193,LUX,34.209,22,1885,PL56,,Q,Tommy Paul,R,,USA,20.186,291,172,6-3 6-1,3,QF,69,16,1,61,37,28,12,8,4,4,3,1,44,34,18,6,8,2,6
-2017-6116,Atlanta,Hard,32,A,20170724,296,H940,4,,Ryan Harrison,R,183,USA,25.213,42,983,E865,,WC,Christopher Eubanks,U,26.587,USA,,461,83,6-1 6-2,3,QF,55,7,1,43,34,26,7,8,0,0,1,10,58,32,20,8,7,8,12
+2017-6116,Atlanta,Hard,32,A,20170724,296,H940,4,,Ryan Harrison,R,183,USA,25.213,42,983,E865,,WC,Christopher Eubanks,U,,USA,26.587,461,83,6-1 6-2,3,QF,55,7,1,43,34,26,7,8,0,0,1,10,58,32,20,8,7,8,12
 2017-6116,Atlanta,Hard,32,A,20170724,297,E831,5,,Kyle Edmund,R,,GBR,22.541,45,933,SM25,1,,Jack Sock,R,185,USA,24.83,19,2245,6-4 6-1,3,QF,88,4,0,46,28,23,12,9,0,1,3,2,57,34,21,7,8,5,9
 2017-6116,Atlanta,Hard,32,A,20170724,298,I186,2,,John Isner,R,206,USA,32.244,20,2045,MA30,3,,Gilles Muller,L,193,LUX,34.209,22,1885,6-4 6-2,3,SF,75,15,5,54,35,28,12,9,4,4,8,4,61,34,23,11,9,1,4
 2017-6116,Atlanta,Hard,32,A,20170724,299,H940,4,,Ryan Harrison,R,183,USA,25.213,42,983,E831,5,,Kyle Edmund,R,,GBR,22.541,45,933,6-7(5) 6-3 6-4,3,SF,122,9,2,90,58,49,17,16,2,3,6,2,90,58,42,16,15,4,7
@@ -2273,7 +2273,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-422,Cincinnati Masters,Hard,64,M,20170814,248,PL56,,WC,Tommy Paul,R,,USA,20.244,175,319,Y124,,,Donald Young,L,183,USA,28.06,57,830,6-4 7-6(4),3,R64,95,4,2,95,56,36,24,11,11,12,6,1,69,49,33,13,11,2,4
 2017-422,Cincinnati Masters,Hard,64,M,20170814,249,I186,14,,John Isner,R,206,USA,32.301,19,2110,T840,,,Viktor Troicki,R,193,SRB,31.507,47,965,7-6(3) 6-4,3,R64,85,20,5,70,46,42,11,11,2,2,9,1,72,49,40,9,11,3,4
 2017-422,Cincinnati Masters,Hard,64,M,20170814,250,DC58,,WC,Jared Donaldson,R,,USA,20.846,60,793,BD06,12,,Roberto Bautista Agut,R,183,ESP,29.333,14,2425,7-6(5) 6-3,3,R64,92,11,4,71,38,27,18,11,4,6,0,7,65,37,28,9,10,1,4
-2017-422,Cincinnati Masters,Hard,64,M,20170814,251,RB56,,LL,Ramkumar Ramanathan,R,,IND,22.765,180,308,E865,,Q,Christopher Eubanks,U,26.644,USA,,374,116,6-7(5) 6-1 6-4,3,R64,108,14,1,91,64,50,19,15,4,4,5,3,97,61,43,19,14,4,7
+2017-422,Cincinnati Masters,Hard,64,M,20170814,251,RB56,,LL,Ramkumar Ramanathan,R,,IND,22.765,180,308,E865,,Q,Christopher Eubanks,U,,USA,26.644,374,116,6-7(5) 6-1 6-4,3,R64,108,14,1,91,64,50,19,15,4,4,5,3,97,61,43,19,14,4,7
 2017-422,Cincinnati Masters,Hard,64,M,20170814,252,BG23,,,Nikoloz Basilashvili,R,185,RUS,25.473,65,739,CG80,,,Borna Coric,R,,CRO,20.747,50,921,6-3 7-6(5),3,R64,111,4,4,79,38,32,23,11,3,3,10,2,86,53,36,17,10,10,11
 2017-422,Cincinnati Masters,Hard,64,M,20170814,255,F401,,,David Ferrer,R,175,ESP,35.368,31,1345,J386,,,Steve Johnson,R,188,USA,27.639,37,1170,6-1 5-7 6-3,3,R64,142,4,8,99,60,43,20,14,7,9,5,6,98,44,30,24,14,6,11
 2017-422,Cincinnati Masters,Hard,64,M,20170814,256,Z168,,,Mischa Zverev,L,190,GER,29.979,26,1474,V306,,,Fernando Verdasco,L,188,ESP,33.747,40,1115,6-4 6-4,3,R64,68,4,0,49,38,32,8,10,0,0,4,2,57,33,24,15,10,4,6
@@ -2598,15 +2598,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-568,St. Petersburg,Hard,32,A,20170918,273,SL28,8,,Jan-Lennard Struff,R,,GER,27.4,54,898,CG80,,,Borna Coric,R,,CRO,20.843,56,876,3-6 6-2 6-4,3,R32,103,11,4,82,52,40,18,14,4,6,5,2,77,51,36,13,13,5,8
 2017-568,St. Petersburg,Hard,32,A,20170918,272,F586,,,Thomas Fabbiano,R,,ITA,28.315,70,701,MM58,,,Daniil Medvedev,R,,RUS,21.602,62,819,7-6(4) 7-5,3,R32,93,1,6,63,33,26,16,12,0,3,9,4,85,55,38,9,12,7,11
 2017-568,St. Petersburg,Hard,32,A,20170918,271,SH90,,,Joao Sousa,R,185,POR,28.471,57,870,D864,,WC,Evgeny Donskoy,R,185,RUS,27.362,88,595,7-6(2) 6-3,3,R32,98,5,2,72,46,34,14,10,5,7,5,4,84,46,28,19,11,4,8
-2017-9210,Laver Cup,Hard,2,A,20170922,,C977,,,Marin Cilic,,,CRO,,5,,TD51,,,Frances Tiafoe,,,USA,,72,,7-6(3) 7-6(0),3,RR,,,,,,,,,,,,,,,,,,,
-2017-9210,Laver Cup,Hard,2,A,20170922,,TB69,,,Dominic Thiem,,,AUT,,7,,I186,,,John Isner,,,USA,,17,,6-7(15) 7-6(2) [10-7],3,RR,,,,,,,,,,,,,,,,,,,
-2017-9210,Laver Cup,Hard,2,A,20170922,,Z355,,,Alexander Zverev,,,GER,,4,,SU55,,,Denis Shapovalov,,,CAN,,51,,7-6(3) 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
-2017-9210,Laver Cup,Hard,2,A,20170922,,F324,,,Roger Federer,,,SUI,,2,,Q927,,,Sam Querrey,,,USA,,16,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2017-9210,Laver Cup,Hard,2,A,20170922,,N409,,,Rafael Nadal,,,ESP,,1,,SM25,,,Jack Sock,,,USA,,21,,6-3 3-6 [11-9],3,RR,,,,,,,,,,,,,,,,,,,
-2017-9210,Laver Cup,Hard,2,A,20170922,,KE17,,,Nick Kyrgios,,,AUS,,20,,BA47,,,Tomas Berdych,,,CZE,,19,,6-4 6-7(4) [6-10],3,RR,,,,,,,,,,,,,,,,,,,
-2017-9210,Laver Cup,Hard,2,A,20170922,,Z355,,,Alexander Zverev,,,GER,,4,,Q927,,,Sam Querrey,,,USA,,16,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2017-9210,Laver Cup,Hard,2,A,20170922,,I186,,,John Isner,,,USA,,17,,N409,,,Rafael Nadal,,,ESP,,1,,7-6(1) 7-5,3,RR,,,,,,,,,,,,,,,,,,,
-2017-9210,Laver Cup,Hard,2,A,20170922,,F324,,,Roger Federer,,,SUI,,2,,KE17,,,Nick Kyrgios,,,AUS,,20,,4-6 7-6(6) [11-9],3,RR,,,,,,,,,,,,,,,,,,,
+2017-9210,Laver Cup,Hard,2,A,20170922,,C977,,,Marin Cilic,,,CRO,28.982,5,,TD51,,,Frances Tiafoe,,,USA,19.671,72,,7-6(3) 7-6(0),3,RR,,,,,,,,,,,,,,,,,,,
+2017-9210,Laver Cup,Hard,2,A,20170922,,TB69,,,Dominic Thiem,,,AUT,24.052,7,,I186,,,John Isner,,,USA,32.407,17,,6-7(15) 7-6(2) [10-7],3,RR,,,,,,,,,,,,,,,,,,,
+2017-9210,Laver Cup,Hard,2,A,20170922,,Z355,,,Alexander Zverev,,,GER,20.424,4,,SU55,,,Denis Shapovalov,,,CAN,18.439,51,,7-6(3) 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
+2017-9210,Laver Cup,Hard,2,A,20170922,,F324,,,Roger Federer,,,SUI,36.123,2,,Q927,,,Sam Querrey,,,USA,29.960,16,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2017-9210,Laver Cup,Hard,2,A,20170922,,N409,,,Rafael Nadal,,,ESP,31.304,1,,SM25,,,Jack Sock,,,USA,24.993,21,,6-3 3-6 [11-9],3,RR,,,,,,,,,,,,,,,,,,,
+2017-9210,Laver Cup,Hard,2,A,20170922,,KE17,,,Nick Kyrgios,,,AUS,22.406,20,,BA47,,,Tomas Berdych,,,CZE,32.013,19,,6-4 6-7(4) [6-10],3,RR,,,,,,,,,,,,,,,,,,,
+2017-9210,Laver Cup,Hard,2,A,20170922,,Z355,,,Alexander Zverev,,,GER,20.424,4,,Q927,,,Sam Querrey,,,USA,29.960,16,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2017-9210,Laver Cup,Hard,2,A,20170922,,I186,,,John Isner,,,USA,32.407,17,,N409,,,Rafael Nadal,,,ESP,31.304,1,,7-6(1) 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+2017-9210,Laver Cup,Hard,2,A,20170922,,F324,,,Roger Federer,,,SUI,36.123,2,,KE17,,,Nick Kyrgios,,,AUS,22.406,20,,4-6 7-6(6) [11-9],3,RR,,,,,,,,,,,,,,,,,,,
 2017-7581,Chengdu,Hard,32,A,20170925,300,I165,,,Denis Istomin,R,188,UZB,31.05,78,671,B837,,,Marcos Baghdatis,R,183,CYP,32.274,113,495,3-2 RET,3,F,23,3,0,16,10,7,5,3,0,0,1,2,16,4,2,7,2,0,0
 2017-7581,Chengdu,Hard,32,A,20170925,299,B837,,,Marcos Baghdatis,R,183,CYP,32.274,113,495,PC11,,,Guido Pella,L,185,ARG,27.359,72,712,5-7 6-4 6-2,3,SF,122,12,3,93,50,34,24,15,5,8,5,3,91,62,38,15,15,7,12
 2017-7581,Chengdu,Hard,32,A,20170925,298,I165,,,Denis Istomin,R,188,UZB,31.05,78,671,SE73,5,,Yuichi Sugita,R,173,JPN,29.018,43,1045,6-2 6-7(4) 6-0,3,SF,98,11,1,74,53,42,10,13,1,2,5,2,77,51,31,11,13,3,9
@@ -2709,7 +2709,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-329,Tokyo,Hard,32,A,20171002,286,J386,,,Steve Johnson,R,188,USA,27.773,46,1000,D801,,SE,Alexandr Dolgopolov,R,180,UKR,28.901,44,1071,6-2 6-4,3,R16,60,6,2,47,27,25,10,9,1,2,6,1,48,28,20,6,9,2,6
 2017-329,Tokyo,Hard,32,A,20171002,285,C977,1,,Marin Cilic,R,198,CRO,29.01,5,4155,TE51,,Q,Stefanos Tsitsipas,R,,GRE,19.14,115,491,6-3 6-2,3,R32,73,8,3,48,29,24,11,9,0,1,2,2,50,30,22,4,8,7,11
 2017-329,Tokyo,Hard,32,A,20171002,284,U134,,WC,Yasutaka Uchiyama,R,,JPN,25.158,214,242,SF76,,Q,Franko Skugor,R,193,CRO,30.034,324,146,6-3 3-6 6-1,3,R32,124,9,1,72,47,39,15,13,2,3,7,4,93,58,40,13,12,8,11
-2017-329,Tokyo,Hard,32,A,20171002,283,H940,,,Ryan Harrison,R,183,USA,25.405,52,920,TF58,,Q,Yusuke Takahashi,U,,JPN,,262,194,6-4 4-6 6-4,3,R32,121,5,4,90,45,29,25,15,6,10,4,2,87,43,28,22,15,4,9
+2017-329,Tokyo,Hard,32,A,20171002,283,H940,,,Ryan Harrison,R,183,USA,25.405,52,920,TF58,,Q,Yusuke Takahashi,U,,JPN,19.958,262,194,6-4 4-6 6-4,3,R32,121,5,4,90,45,29,25,15,6,10,4,2,87,43,28,22,15,4,9
 2017-329,Tokyo,Hard,32,A,20171002,282,A678,5,,Kevin Anderson,R,203,RSA,31.376,16,2425,SD32,,,Gilles Simon,R,183,FRA,32.764,45,1005,6-2 7-6(6),3,R32,92,17,3,57,41,35,10,10,0,0,4,2,73,40,30,16,10,7,9
 2017-329,Tokyo,Hard,32,A,20171002,281,R975,3,,Milos Raonic,R,196,CAN,26.765,12,2825,T840,,,Viktor Troicki,R,193,SRB,31.641,55,895,6-3 6-4,3,R32,71,16,2,63,42,32,11,10,1,1,1,0,47,39,27,4,9,0,2
 2017-329,Tokyo,Hard,32,A,20171002,280,SE73,,,Yuichi Sugita,R,173,JPN,29.038,40,1127,PD31,,,Benoit Paire,R,196,FRA,28.402,37,1190,6-4 0-0 RET,3,R32,34,3,2,23,16,15,1,5,0,1,2,2,30,16,12,3,5,1,3

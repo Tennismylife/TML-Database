@@ -1394,12 +1394,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-615,World Team Championship,Clay,32,A,20090517,,Q927,,,Sam Querrey,R,,USA,21.61,60,,S636,,,Rainer Schuettler,R,,GER,33.06,31,,2-6 6-4 6-2,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,MA21,,,Juan Monaco,R,,ARG,25.133,47,,T742,,,Janko Tipsarevic,R,,SRB,24.901,62,,6-4 7-6(8),3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,K760,,,Evgeny Korolev,R,,KAZ,21.254,102,,SA93,,,Andreas Seppi,R,,ITA,25.235,36,,6-4 6-4,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
-2009-615,World Team Championship,Clay,32,A,20090517,,BA98,,,Simone Bolelli,R,,ITA,23.606,61,,V627,,,Stanislav Vovk,R,185,RUS,,,,7-6(1) 6-2,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
+2009-615,World Team Championship,Clay,32,A,20090517,,BA98,,,Simone Bolelli,R,,ITA,23.606,61,,V627,,,Stanislav Vovk,R,185,RUS,18.242,,,7-6(1) 6-2,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,T840,,,Viktor Troicki,R,,SRB,23.264,41,,G585,,,Maximo Gonzalez,R,,ARG,25.826,69,,6-4 6-1,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,K435,,,Philipp Kohlschreiber,R,,GER,25.585,35,,G569,,,Robby Ginepri,R,,USA,26.609,64,,6-7(5) 7-6(4) 6-0,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,V250,,,Andreas Vinciguerra,L,,SWE,28.238,658,,G569,,,Robby Ginepri,R,,USA,26.609,64,,7-5 6-4,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,T840,,,Viktor Troicki,R,,SRB,23.264,41,,K760,,,Evgeny Korolev,R,,KAZ,21.254,102,,6-2 6-2,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
-2009-615,World Team Championship,Clay,32,A,20090517,,T742,,,Janko Tipsarevic,R,,SRB,24.901,62,,V627,,,Stanislav Vovk,R,185,RUS,,1137,,6-2 6-4,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
+2009-615,World Team Championship,Clay,32,A,20090517,,T742,,,Janko Tipsarevic,R,,SRB,24.901,62,,V627,,,Stanislav Vovk,R,185,RUS,18.242,1137,,6-2 6-4,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,SA49,,,Robin Soderling,R,,SWE,24.756,23,,Q927,,,Sam Querrey,R,,USA,21.61,60,,6-2 6-2,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,S636,,,Rainer Schuettler,R,,GER,33.06,31,,SD32,,,Gilles Simon,R,,FRA,24.386,7,,6-4 6-4,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,D683,,,Juan Martin del Potro,R,,ARG,20.646,5,,SA93,,,Andreas Seppi,R,,ITA,25.235,36,,6-3 6-4,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
@@ -1410,7 +1410,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-615,World Team Championship,Clay,32,A,20090517,,SA93,,,Andreas Seppi,R,,ITA,25.235,36,,T840,,,Viktor Troicki,R,,SRB,23.264,41,,6-1 6-4,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,Q927,,,Sam Querrey,R,,USA,21.61,60,,SD32,,,Gilles Simon,R,,FRA,24.386,7,,7-5 6-3,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,D683,,,Juan Martin del Potro,R,,ARG,20.646,5,,A511,,,Igor Andreev,R,,RUS,25.843,30,,6-3 7-6(3),3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
-2009-615,World Team Championship,Clay,32,A,20090517,,T742,,,Janko Tipsarevic,R,,SRB,24.901,62,,P471,,,Francesco Piccari,R,,ITA,,406,,6-2 6-3,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
+2009-615,World Team Championship,Clay,32,A,20090517,,T742,,,Janko Tipsarevic,R,,SRB,24.901,62,,P471,,,Francesco Piccari,R,,ITA,29.694,406,,6-2 6-3,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,K435,,,Philipp Kohlschreiber,R,,GER,25.585,35,,V250,,,Andreas Vinciguerra,L,,SWE,28.238,658,,6-1 6-2,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,G585,,,Maximo Gonzalez,R,,ARG,25.826,69,,K760,,,Evgeny Korolev,R,,KAZ,21.254,102,,6-3 3-6 6-3,3,RR,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
 2009-615,World Team Championship,Clay,32,A,20090517,,T840,,,Viktor Troicki,R,,SRB,23.264,41,,S636,,,Rainer Schuettler,R,,GER,33.06,31,,6-4 7-6(5),3,F,190,0,8,103,73,46,13,14,4,8,6,9,119,84,54,11,16,13,18
