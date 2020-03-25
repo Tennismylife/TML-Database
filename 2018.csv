@@ -2862,6 +2862,22 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-352,Paris Masters,Hard,48,M,20181029,,MM58,,,Daniil Medvedev,R,,RUS,22.713,17,,CD85,,,Pablo Carreno Busta,R,,ESP,27.299,24,,6-2 6-2,3,R64,48,8,3,41,28,27,6,8,0,0,0,4,39,26,16,4,8,2,6
 2018-352,Paris Masters,Hard,48,M,20181029,,G628,,,Richard Gasquet,R,,FRA,32.364,28,,SU55,,,Denis Shapovalov,L,,CAN,19.54,29,,6-4 7-6(3),3,R64,99,4,0,62,38,29,15,11,1,3,6,10,87,50,38,11,11,6,9
 2018-352,Paris Masters,Hard,48,M,20181029,,V306,,,Fernando Verdasco,L,,ESP,34.954,27,,CA12,,,Jeremy Chardy,R,,FRA,31.71,40,,6-4 6-4,3,R64,80,9,4,62,35,26,17,10,4,5,10,7,62,32,23,13,10,4,7
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Andrey Rublev,,,RUS,21.0431211498973,68,,,,,Liam Caruana,,,ITA,20.7857631759069,622,,4-3(7) 4-1 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Taylor Fritz,,,USA,21.0212183436003,47,,,,,Liam Caruana,,,ITA,20.7857631759069,622,,1-4 4-1 4-3(9) 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Andrey Rublev,,,RUS,21.0431211498973,68,,,,,Taylor Fritz,,,USA,21.0212183436003,47,,4-2 1-4 3-4(4) 4-3(2) 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Alex De Minaur,,,AUS,19.7152635181383,31,,,,,Liam Caruana,,,ITA,20.7857631759069,622,,4-1 4-1 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Alex De Minaur,,,AUS,19.7152635181383,31,,,,,Andrey Rublev,,,RUS,21.0431211498973,68,,4-1 3-4(5) 4-1 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Alex De Minaur,,,AUS,19.7152635181383,31,,,,,Taylor Fritz,,,USA,21.0212183436003,47,,4-3(8) 4-1 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Hubert Hurkacz,,,POL,21.7303216974675,85,,,,,Jaume Munar,,,ESP,21.5030800821355,76,,4-2 4-2 2-4 3-4(5) 4-1,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Jaume Munar,,,ESP,21.5030800821355,76,,,,,Frances Tiafoe,,,USA,20.7912388774812,40,,4-1 4-3(3) 4-1,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Frances Tiafoe,,,USA,20.7912388774812,40,,,,,Hubert Hurkacz,,,POL,21.7303216974675,85,,4-1 4-2 2-4 4-3(10),3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Stefanos Tsitsipas,,,GRE,20.2327173169062,15,,,,,Jaume Munar,,,ESP,21.5030800821355,76,,4-3(5) 4-3(3) 3-4(4) 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Stefanos Tsitsipas,,,GRE,20.2327173169062,15,,,,,Hubert Hurkacz,,,POL,21.7303216974675,85,,4-1 4-3(2) 4-1,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Stefanos Tsitsipas,,,GRE,20.2327173169062,15,,,,,Frances Tiafoe,,,USA,20.7912388774812,40,,4-3(3) 4-3(5) 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Alex De Minaur,,,AUS,19.7152635181383,31,,,,,Jaume Munar,,,ESP,21.5030800821355,76,,3-4(5) 4-1 4-1 3-4(4) 4-2,3,SF,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Stefanos Tsitsipas,,,GRE,20.2327173169062,15,,,,,Andrey Rublev,,,RUS,21.0431211498973,68,,4-3(3) 3-4(5) 4-0 2-4 4-3(2),3,SF,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Andrey Rublev,,,RUS,21.0431211498973,68,,,,,Jaume Munar,,,ESP,21.5030800821355,76,,1-4 4-3(4) 2-4 4-2 4-3(3),3,BR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen Finals,Hard,8,A,20181105,,,,,Stefanos Tsitsipas,,,GRE,20.2327173169062,15,,,,,Alex De Minaur,,,AUS,19.7152635181383,31,,2-4 4-1 4-3(3) 4-3(3),3,F,,,,,,,,,,,,,,,,,,,
 2018-605,Tour Finals,Hard,8,F,20181112,,Z355,3,,Alexander Zverev,R,,GER,21.563,5,,D643,1,,Novak Djokovic,R,,SRB,31.477,1,,6-4 6-3,3,F,80,10,3,46,33,26,7,9,0,1,1,1,57,34,25,8,10,2,6
 2018-605,Tour Finals,Hard,8,F,20181112,,Z355,3,,Alexander Zverev,R,,GER,21.563,5,,F324,2,,Roger Federer,R,,SUI,37.262,3,,7-5 7-6(5),3,SF,95,7,1,65,43,38,14,12,2,3,3,0,65,37,29,17,12,0,2
 2018-605,Tour Finals,Hard,8,F,20181112,,D643,1,,Novak Djokovic,R,,SRB,31.477,1,,A678,4,,Kevin Anderson,R,,RSA,32.487,6,,6-2 6-2,3,SF,75,6,1,39,27,23,9,8,0,0,4,3,60,33,23,7,8,5,9

@@ -2968,6 +2968,22 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-352,Paris Masters,Hard,64,M,20171030,243,V306,,,Fernando Verdasco,L,188,ESP,33.958,39,1160,RE44,,,Andrey Rublev,R,,RUS,20.027,35,1284,7-6(1) 7-6(6),3,R64,109,11,5,95,64,45,16,12,3,5,5,1,86,53,37,16,12,6,8
 2017-352,Paris Masters,Hard,64,M,20171030,240,E831,,,Kyle Edmund,R,,GBR,22.809,50,967,D864,,LL,Evgeny Donskoy,R,185,RUS,27.477,76,686,5-7 7-6(7) 6-3,3,R64,141,10,6,107,57,49,22,17,2,5,12,2,100,50,36,29,16,2,5
 2017-352,Paris Masters,Hard,64,M,20171030,239,L397,,,Feliciano Lopez,L,188,ESP,36.11,33,1295,H996,,WC,Pierre-Hugues Herbert,R,188,FRA,26.62,75,687,7-6(4) 6-3,3,R64,94,10,6,79,46,35,19,11,3,4,11,6,68,33,25,18,10,1,3
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,MM58,7,,Daniil Medvedev,,,RUS,21.3305954825462,65,,DC58,5,,Jared Donaldson,,,USA,20.6707734428474,55,,3-4(3) 4-2 4-3(1) 4-0,3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,CG80,4,,Borna Coric,,,CRO,20.5722108145106,48,,MM58,7,,Daniil Medvedev,,,RUS,21.3305954825462,65,,4-3(5) 2-4 4-1 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,CG80,4,,Borna Coric,,,CRO,20.5722108145106,48,,DC58,5,,Jared Donaldson,,,USA,20.6707734428474,55,,4-3(2) 4-1 4-3(5),3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,MM58,7,,Daniil Medvedev,,,RUS,21.3305954825462,65,,KE29,2,,Karen Khachanov,,,RUS,21.056810403833,45,,2-4 4-3(6) 4-3(3) 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,KE29,2,,Karen Khachanov,,,RUS,21.056810403833,45,,DC58,5,,Jared Donaldson,,,USA,20.6707734428474,55,,4-1 4-3(3) 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,CG80,4,,Borna Coric,,,CRO,20.5722108145106,48,,KE29,2,,Karen Khachanov,,,RUS,21.056810403833,45,,3-4(3) 2-4 4-2 4-0 4-2,3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,CH27,6,,Hyeon Chung,,,KOR,21.0622861054073,54,,Q948,8,,Gianluigi Quinzi,,,ITA,21.3579739904175,306,,1-4 4-1 4-2 3-4(6) 4-3(3),3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,SU55,3,,Denis Shapovalov,,,CAN,18.1574264202601,51,,Q948,8,,Gianluigi Quinzi,,,ITA,21.3579739904175,306,,4-1 4-1 3-4(5) 4-3(5),3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,CG80,6,,Hyeon Chung,,,KOR,21.0622861054073,54,,SU55,3,,Denis Shapovalov,,,CAN,18.1574264202601,51,,1-4 4-3(5) 4-3(4) 4-1,3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,RE44,1,,Andrey Rublev,,,RUS,19.6413415468857,37,,Q948,8,,Gianluigi Quinzi,,,ITA,21.3579739904175,306,,1-4 4-0 4-3(3) 0-4 4-3(3),3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,CH27,6,,Hyeon Chung,,,KOR,21.0622861054073,54,,RE44,1,,Andrey Rublev,,,RUS,19.6413415468857,37,,4-0 4-1 4-3(1),3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,RE44,1,,Andrey Rublev,,,RUS,19.6413415468857,37,,SU55,3,,Denis Shapovalov,,,CAN,18.1574264202601,51,,4-1 3-4(8) 4-3(2) 0-4 4-3(3),3,RR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,RE44,1,,Andrey Rublev,,,RUS,19.6413415468857,37,,CG80,4,,Borna Coric,,,CRO,20.5722108145106,48,,4-1 4-3(6) 4-1,3,SF,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,CH27,6,,Hyeon Chung,,,KOR,21.0622861054073,54,,MM58,7,,Daniil Medvedev,,,RUS,21.3305954825462,65,,4-1 4-1 3-4(4) 1-4 4-0,3,SF,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,MM58,7,,Daniil Medvedev,,,RUS,21.3305954825462,65,,CG80,4,,Borna Coric,,,CRO,20.5722108145106,48,,W/O,3,BR,,,,,,,,,,,,,,,,,,,
+2017-7696,Next Gen Finals,Hard,8,A,20171106,,CH27,6,,Hyeon Chung,,,KOR,21.0622861054073,54,,RE44,1,,Andrey Rublev,,,RUS,19.6413415468857,37,,3-4(5) 4-3(2) 4-2 4-2,3,F,,,,,,,,,,,,,,,,,,,
 2017-605,Tour Finals,Hard,8,F,20171113,300,D875,6,,Grigor Dimitrov,R,188,BUL,26.497,6,3650,GB88,7,,David Goffin,R,163,BEL,26.935,8,2975,7-5 4-6 6-3,3,F,150,5,6,103,67,47,18,16,7,10,10,5,107,54,42,22,15,11,15
 2017-605,Tour Finals,Hard,8,F,20171113,299,D875,6,,Grigor Dimitrov,R,188,BUL,26.497,6,3650,SM25,8,,Jack Sock,R,185,USA,25.136,9,2765,4-6 6-0 6-3,3,SF,119,3,5,92,59,40,17,13,4,6,3,5,76,47,29,13,12,3,8
 2017-605,Tour Finals,Hard,8,F,20171113,298,GB88,7,,David Goffin,R,163,BEL,26.935,8,2975,F324,2,,Roger Federer,R,185,SUI,36.266,2,9005,2-6 6-3 6-4,3,SF,105,7,1,93,55,40,22,14,9,11,7,3,77,47,35,17,13,1,3
