@@ -2506,6 +2506,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-DC-2016-WG-PO-SUI-UZB-01,Davis Cup WG PO: SUI vs UZB,Clay,4,D,20160916,2,L949,,,Henri Laaksonen,R,,SUI,24.452,138,433,F786,,,Sanjar Fayziev,U,,UZB,22.125,634,42,6-2 6-2 6-2,3,RR,113,7,8,76,45,37,18,12,3,3,3,1,107,73,36,18,12,10,16
 2016-M-DC-2016-WG-PO-SUI-UZB-01,Davis Cup WG PO: SUI vs UZB,Clay,4,D,20160916,4,I165,,,Denis Istomin,R,188,UZB,30.015,113,550,L949,,,Henri Laaksonen,R,,SUI,24.452,138,433,6-7(3) 7-6(6) 7-6(6) 7-5,5,RR,248,7,3,160,88,62,42,24,4,8,3,6,169,103,70,34,24,2,7
 2016-M-DC-2016-WG-PO-SUI-UZB-01,Davis Cup WG PO: SUI vs UZB,Clay,4,D,20160916,5,BP41,,,Antoine Bellier,U,,SUI,19.901,507,72,127300,,,Djurabek Karimov,U,,UZB,18.275,769,26,6-2 6-4 6-7(6) 6-3,5,RR,195,4,5,142,86,60,25,20,4,8,8,3,114,63,39,26,19,6,14
+2016-M-DC-2016-G1-AO-REL-NZL-PAK-01,Davis Cup G1 R2: PAK vs NZL,Hard,4,D,20160916,,SF89,,,Rubin Statham,,,NZL,,,,120792,,,M Abid Ali Khan Akbar,,,PAK,,,,6-0 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-AO-REL-NZL-PAK-01,Davis Cup G1 R2: PAK vs NZL,Hard,4,D,20160916,,TA04,,,Finn Tearney,,,NZL,,,,108766,,,Samir Iftikhar,,,PAK,,,,6-2 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-AO-REL-NZL-PAK-01,Davis Cup G1 R2: PAK vs NZL,Hard,4,D,20160916,,TA04,,,Finn Tearney,,,NZL,,,,120792,,,M Abid Ali Khan Akbar,,,PAK,,,,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-AO-REL-NZL-PAK-01,Davis Cup G1 R2: PAK vs NZL,Hard,4,D,20160916,,SF89,,,Rubin Statham,,,NZL,,,,108766,,,Samir Iftikhar,,,PAK,,,,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-EPA-REL-SWE-NED-01,Davis Cup G1 R2: NED vs SWE,Clay,4,D,20160916,,D776,,,Thiemo De Bakker,,,NED,,,,Y218,,,Elias Ymer,,,SWE,,,,6-4 6-4 1-6 4-6 7-6(2),5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-EPA-REL-SWE-NED-01,Davis Cup G1 R2: NED vs SWE,Clay,4,D,20160916,,H756,,,Robin Haase,,,NED,,,,Y268,,,Mikael Ymer,,,SWE,,,,6-3 6-3 7-6(10),5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-EPA-REL-SWE-NED-01,Davis Cup G1 R2: NED vs SWE,Clay,4,D,20160916,,H756,,,Robin Haase,,,NED,,,,AB12,,,Isak Arvidsson,,,SWE,,,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-EPA-REL-SWE-NED-01,Davis Cup G1 R2: NED vs SWE,Clay,4,D,20160916,,V942,,,Tim Van Rijthoven,,,NED,,,,108766,,,Mikael Ymer,,,SWE,,,,6-7(1) 7-6(6) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-AM-REL-DOM-COL-01,Davis Cup G1 R2: COL vs DOM,Clay,4,D,20160916,,E224,,,Victor Estrella Burgos,,,DOM,,,,G892,,,Alejandro Gonzalez,,,COL,,,,6-4 1-6 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-AM-REL-DOM-COL-01,Davis Cup G1 R2: COL vs DOM,Clay,4,D,20160916,,G725,,,Santiago Giraldo,,,COL,,,,H896,,,Jose Hernandez-Fernandez,,,DOM,,,,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-AM-REL-DOM-COL-01,Davis Cup G1 R2: COL vs DOM,Clay,4,D,20160916,,G725,,,Santiago Giraldo,,,COL,,,,E224,,,Victor Estrella Burgos,,,DOM,,,,7-5 7-5 2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G1-AM-REL-DOM-COL-01,Davis Cup G1 R2: COL vs DOM,Clay,4,D,20160916,,G892,,,Alejandro Gonzalez,,,COL,,,,CF88,,,Roberto Cid Subervi,,,DOM,,,,6-2 2-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2016-341,Metz,Hard,32,A,20160919,271,SL28,,,Jan-Lennard Struff,R,,GER,26.404,87,649,R419,,WC,Tommy Robredo,R,180,ESP,34.387,251,210,7-6(5) 7-5,3,R32,92,2,4,73,41,34,15,12,2,4,5,1,76,53,35,14,12,2,5
 2016-341,Metz,Hard,32,A,20160919,272,ME89,,,Illya Marchenko,R,185,UKR,29.032,50,905,SA93,,,Andreas Seppi,R,190,ITA,32.578,92,630,6-7(1) 6-3 7-6(4),3,R32,148,10,2,106,69,51,23,17,4,5,11,1,106,61,49,22,16,5,7
 2016-341,Metz,Hard,32,A,20160919,273,M873,8,,Nicolas Mahut,R,190,FRA,34.661,40,1083,HB64,,WC,Quentin Halys,R,,FRA,19.899,154,371,6-3 6-4,3,R32,68,5,1,51,39,33,8,10,1,1,9,7,70,45,35,9,9,2,4
