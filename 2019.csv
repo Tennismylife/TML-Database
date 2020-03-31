@@ -265,6 +265,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-580,Australian Open,Hard,128,G,20190114,,L949,Q,,Henri Laaksonen,R,,SUI,26.79,166,,BE67,,,Mirza Basic,L,,BIH,27.51,99,,6-4 7-6(4) 4-6 6-3,5,R128,163,20,2,136,95,68,22,21,5,9,9,6,134,80,54,30,20,8,13
 2019-580,Australian Open,Hard,128,G,20190114,,E690,,,Matthew Ebden,R,,AUS,31.135,48,,SL28,,,Jan-Lennard Struff,L,,GER,28.723,51,,1-6 6-4 6-3 6-4,5,R128,142,12,11,101,61,44,20,18,6,11,12,9,118,56,40,25,18,5,11
 2019-580,Australian Open,Hard,128,G,20190114,,N409,2,,Rafael Nadal,L,,ESP,32.616,2,,D994,WC,,James Duckworth,L,,AUS,26.982,237,,6-4 6-3 7-5,5,R128,135,6,2,81,54,40,16,16,1,3,12,11,111,62,40,20,15,6,12
+2019-M-DC-2019-QLS-M-BRA-BEL-01,Davis Cup QLS R1: BRA vs BEL,Clay,4,D,20190128,,MJ08,,,Thiago Monteiro,,,BRA,,,,D981,,,Arthur De Greef,,,BEL,,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-BRA-BEL-01,Davis Cup QLS R1: BRA vs BEL,Clay,4,D,20190128,,CG33,,,Kimmer Coppejans,,,BEL,,,,SC73,,,Rogerio Dutra Silva,,,BRA,,,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-BRA-BEL-01,Davis Cup QLS R1: BRA vs BEL,Clay,4,D,20190128,,CG33,,,Kimmer Coppejans,,,BEL,,,,MJ08,,,Thiago Monteiro,,,BRA,,,,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-UZB-SRB-01,Davis Cup QLS R1: UZB vs SRB,Hard,4,D,20190128,,L987,,,Dusan Lajovic,,,SRB,,,,F786,,,Sanjar Fayziev,,,UZB,,,,7-6(4) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-UZB-SRB-01,Davis Cup QLS R1: UZB vs SRB,Hard,4,D,20190128,,KB05,,,Filip Krajinovic,,,SRB,,,,I165,,,Denis Istomin,,,UZB,,,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-UZB-SRB-01,Davis Cup QLS R1: UZB vs SRB,Hard,4,D,20190128,,I165,,,Denis Istomin,,,UZB,,,,L987,,,Dusan Lajovic,,,SRB,,,,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-UZB-SRB-01,Davis Cup QLS R1: UZB vs SRB,Hard,4,D,20190128,,KB05,,,Filip Krajinovic,,,SRB,,,,F786,,,Sanjar Fayziev,,,UZB,,,,4-6 6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-AUS-BIH-01,Davis Cup QLS R1: AUS vs BIH,Hard,4,D,20190128,,MH30,,,John Millman,,,AUS,,,,D923,,,Damir Dzumhur,,,BIH,,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-AUS-BIH-01,Davis Cup QLS R1: AUS vs BIH,Hard,4,D,20190128,,DH58,,,Alex de Minaur,,,AUS,,,,BE67,,,Mirza Basic,,,BIH,,,,6-3 7-6(0),3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-AUS-BIH-01,Davis Cup QLS R1: AUS vs BIH,Hard,4,D,20190128,,P09Z,,,Alexei Popyrin,,,AUS,,,,F840,,,Nerman Fatic,,,BIH,,,,6-1 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-IND-ITA-01,Davis Cup QLS R1: IND vs ITA,Grass,4,D,20190128,,SA93,,,Andreas Seppi,,,ITA,,,,RB56,,,Ramkumar Ramanathan,,,IND,,,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-IND-ITA-01,Davis Cup QLS R1: IND vs ITA,Grass,4,D,20190128,,BK40,,,Matteo Berrettini,,,ITA,,,,GA94,,,Prajnesh Gunneswaran,,,IND,,,,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-IND-ITA-01,Davis Cup QLS R1: IND vs ITA,Grass,4,D,20190128,,SA93,,,Andreas Seppi,,,ITA,,,,GA94,,,Prajnesh Gunneswaran,,,IND,,,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2019-345,Montpellier,Hard,28,A,20190204,,B837,,Q,Marcos Baghdatis,R,,CYP,33.635,128,,BE54,,LL,Ruben Bemelmans,L,,BEL,31.058,132,,6-2 6-4,3,R32,74,7,3,55,36,28,9,9,3,4,0,1,59,41,23,7,9,3,7
 2019-345,Montpellier,Hard,28,A,20190204,,G858,,,Ernests Gulbis,R,,LAT,30.431,83,,HB71,,,Hubert Hurkacz,L,,POL,21.979,73,,6-4 7-6(5),3,R32,98,14,2,73,49,39,13,11,1,2,4,3,81,49,36,15,11,4,6
 2019-345,Montpellier,Hard,28,A,20190204,,A829,,,Radu Albot,R,,MDA,29.232,90,,K435,5,,Philipp Kohlschreiber,L,,GER,35.305,32,,6-4 6-3,3,R32,72,6,2,53,33,26,13,10,1,2,4,1,58,34,20,14,9,0,3
