@@ -278,6 +278,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-DC-2019-QLS-M-IND-ITA-01,Davis Cup QLS R1: IND vs ITA,Grass,4,D,20190128,,SA93,,,Andreas Seppi,,,ITA,,,,RB56,,,Ramkumar Ramanathan,,,IND,,,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-QLS-M-IND-ITA-01,Davis Cup QLS R1: IND vs ITA,Grass,4,D,20190128,,BK40,,,Matteo Berrettini,,,ITA,,,,GA94,,,Prajnesh Gunneswaran,,,IND,,,,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-QLS-M-IND-ITA-01,Davis Cup QLS R1: IND vs ITA,Grass,4,D,20190128,,SA93,,,Andreas Seppi,,,ITA,,,,GA94,,,Prajnesh Gunneswaran,,,IND,,,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-GER-HUN-01,Davis Cup QLS R1: GER vs HUN,Hard,4,D,20190128,,K435,,,Philipp Kohlschreiber,,,GER,,,,P09O,,,Zsombor Piros,,,HUN,,,,6-7(6) 7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-GER-HUN-01,Davis Cup QLS R1: GER vs HUN,Hard,4,D,20190128,,Z355,,,Alexander Zverev,,,GER,,,,N729,,,Peter Nagy,,,HUN,,,,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-GER-HUN-01,Davis Cup QLS R1: GER vs HUN,Hard,4,D,20190128,,Z355,,,Alexander Zverev,,,GER,,,,BJ92,,,Gabor Borsos,,,HUN,,,,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-GER-HUN-01,Davis Cup QLS R1: GER vs HUN,Hard,4,D,20190128,,K435,,,Philipp Kohlschreiber,,,GER,,,,S09V,,,David Szintai,,,HUN,,,,6-7(5) 6-3 [10-5],3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-SUI-RUS-01,Davis Cup QLS R1: SUI vs RUS,Hard,4,D,20190128,,MM58,,,Daniil Medvedev,,,RUS,,,,L949,,,Henri Laaksonen,,,SUI,,,,6-7(8) 7-6(8) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-SUI-RUS-01,Davis Cup QLS R1: SUI vs RUS,Hard,4,D,20190128,,KE29,,,Karen Khachanov,,,RUS,,,,HH06,,,Marc-Andrea Husler,,,SUI,,,,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-SUI-RUS-01,Davis Cup QLS R1: SUI vs RUS,Hard,4,D,20190128,,KE29,,,Karen Khachanov,,,RUS,,,,L949,,,Henri Laaksonen,,,SUI,,,,6-7(2) 7-6(8) 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2019-345,Montpellier,Hard,28,A,20190204,,B837,,Q,Marcos Baghdatis,R,,CYP,33.635,128,,BE54,,LL,Ruben Bemelmans,L,,BEL,31.058,132,,6-2 6-4,3,R32,74,7,3,55,36,28,9,9,3,4,0,1,59,41,23,7,9,3,7
 2019-345,Montpellier,Hard,28,A,20190204,,G858,,,Ernests Gulbis,R,,LAT,30.431,83,,HB71,,,Hubert Hurkacz,L,,POL,21.979,73,,6-4 7-6(5),3,R32,98,14,2,73,49,39,13,11,1,2,4,3,81,49,36,15,11,4,6
 2019-345,Montpellier,Hard,28,A,20190204,,A829,,,Radu Albot,R,,MDA,29.232,90,,K435,5,,Philipp Kohlschreiber,L,,GER,35.305,32,,6-4 6-3,3,R32,72,6,2,53,33,26,13,10,1,2,4,1,58,34,20,14,9,0,3
