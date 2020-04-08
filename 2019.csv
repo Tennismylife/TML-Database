@@ -291,6 +291,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-DC-2019-QLS-M-CZE-NED-01,Davis Cup QLS R1: CZE vs NED,Hard,4,D,20190128,,V708,,,Jiri Vesely,,,CZE,,,,GJ37,,,Tallon Griekspoor,,,NED,,,,5-7 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-QLS-M-CZE-NED-01,Davis Cup QLS R1: CZE vs NED,Hard,4,D,20190128,,H756,,,Robin Haase,,,NED,,,,R685,,,Lukas Rosol,,,CZE,,,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-QLS-M-CZE-NED-01,Davis Cup QLS R1: CZE vs NED,Hard,4,D,20190128,,H756,,,Robin Haase,,,NED,,,,L0BV,,,Jiri Lehecka,,,CZE,,,,6-4 2-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-COL-SWE-01,Davis Cup QLS R1: COL vs SWE,Hard,4,D,20190128,,G725,,,Santiago Giraldo,,,COL,,,,Y218,,,Elias Ymer,,,SWE,,,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-COL-SWE-01,Davis Cup QLS R1: COL vs SWE,Hard,4,D,20190128,,GE33,,,Daniel Elahi Galan,,,COL,,,,Y268,,,Mikael Ymer,,,SWE,,,,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-COL-SWE-01,Davis Cup QLS R1: COL vs SWE,Hard,4,D,20190128,,G892,,,Alejandro Gonzalez,,,COL,,,,Y218,,,Elias Ymer,,,SWE,,,,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-AUT-CHI-01,Davis Cup QLS R1: AUT vs CHI,Hard,4,D,20190128,,J551,,,Nicolas Jarry,,,CHI,,,,R09X,,,Jurij Rodionov,,,AUT,,,,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-AUT-CHI-01,Davis Cup QLS R1: AUT vs CHI,Hard,4,D,20190128,,DB59,,,Dennis Novak,,,AUT,,,,GD64,,,Cristian Garin,,,CHI,,,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-AUT-CHI-01,Davis Cup QLS R1: AUT vs CHI,Hard,4,D,20190128,,J551,,,Nicolas Jarry,,,CHI,,,,DB59,,,Dennis Novak,,,AUT,,,,6-4 3-6 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-QLS-M-AUT-CHI-01,Davis Cup QLS R1: AUT vs CHI,Hard,4,D,20190128,,GD64,,,Cristian Garin,,,CHI,,,,R09X,,,Jurij Rodionov,,,AUT,,,,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2019-345,Montpellier,Hard,28,A,20190204,,B837,,Q,Marcos Baghdatis,R,,CYP,33.635,128,,BE54,,LL,Ruben Bemelmans,L,,BEL,31.058,132,,6-2 6-4,3,R32,74,7,3,55,36,28,9,9,3,4,0,1,59,41,23,7,9,3,7
 2019-345,Montpellier,Hard,28,A,20190204,,G858,,,Ernests Gulbis,R,,LAT,30.431,83,,HB71,,,Hubert Hurkacz,L,,POL,21.979,73,,6-4 7-6(5),3,R32,98,14,2,73,49,39,13,11,1,2,4,3,81,49,36,15,11,4,6
 2019-345,Montpellier,Hard,28,A,20190204,,A829,,,Radu Albot,R,,MDA,29.232,90,,K435,5,,Philipp Kohlschreiber,L,,GER,35.305,32,,6-4 6-3,3,R32,72,6,2,53,33,26,13,10,1,2,4,1,58,34,20,14,9,0,3
