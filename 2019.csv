@@ -1141,7 +1141,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-416,Rome Masters,Clay,56,M,20190513,,N409,2,,Rafael Nadal,L,,ESP,32.942,2,,BG23,14,,Nikoloz Basilashvili,L,,RUS,27.217,18,,6-1 6-0,3,R16,62,1,1,37,25,20,9,7,1,1,1,3,44,32,12,5,6,6,11
 2019-416,Rome Masters,Clay,56,M,20190513,,D643,1,,Novak Djokovic,R,,SRB,31.975,1,,SU55,,,Denis Shapovalov,L,,CAN,20.077,22,,6-1 6-3,3,R32,66,1,0,40,32,28,4,8,0,0,2,3,61,32,18,12,8,9,13
 2019-416,Rome Masters,Clay,56,M,20190513,,K435,,,Philipp Kohlschreiber,R,,GER,35.573,56,,CF01,16,,Marco Cecchinato,L,,ITA,26.615,19,,6-3 6-3,3,R32,69,5,2,53,31,21,17,9,0,1,1,0,46,31,20,5,9,1,5
-2019-416,Rome Masters,Clay,56,M,20190513,,RH16,,Q,Casper Ruud,R,,NOR,20.389,76,,KE17,,,Nick Kyrgios,L,,AUS,24.044,36,,6-3 6-7(5) 2-1 Def.,3,R32,,7,3,73,54,44,8,13,0,2,11,4,71,42,31,13,11,2,5
+2019-416,Rome Masters,Clay,56,M,20190513,,RH16,,Q,Casper Ruud,R,,NOR,20.389,76,,KE17,,,Nick Kyrgios,L,,AUS,24.044,36,,6-3 6-7(5) 2-1 DEF,3,R32,,7,3,73,54,44,8,13,0,2,11,4,71,42,31,13,11,2,5
 2019-416,Rome Masters,Clay,56,M,20190513,,D683,7,,Juan Martin del Potro,R,,ARG,30.634,9,,GB88,,,David Goffin,L,,BEL,28.43,23,,6-4 6-2,3,R32,78,7,2,50,25,20,15,9,0,1,3,2,55,40,26,4,9,4,8
 2019-416,Rome Masters,Clay,56,M,20190513,,BK40,,WC,Matteo Berrettini,U,,ITA,23.083,33,,Z355,4,,Alexander Zverev,L,,GER,22.062,5,,7-5 7-5,3,R32,108,5,3,75,42,33,16,12,7,9,11,6,75,46,37,8,12,4,8
 2019-416,Rome Masters,Clay,56,M,20190513,,SM37,,,Diego Schwartzman,R,,ARG,26.738,24,,R772,,Q,Albert Ramos-Vinolas,L,,ESP,31.318,88,,7-6(5) 6-1,3,R32,92,1,1,58,30,20,17,9,3,5,2,4,61,34,23,6,10,2,7
@@ -2621,21 +2621,21 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-352,Paris Masters,Hard,56,M,20191028,,SL28,,,Jan-Lennard Struff,R,,GER,29.509,36,,N732,,Q,Yoshihito Nishioka,L,,JPN,24.085,72,,4-6 7-5 6-2,3,R64,119,20,2,107,67,51,17,15,7,9,1,2,82,53,36,16,15,1,5
 2019-352,Paris Masters,Hard,56,M,20191028,,T786,,WC,Jo-Wilfried Tsonga,R,,FRA,34.53,35,,RE44,,,Andrey Rublev,L,,RUS,22.021,22,,4-6 7-5 6-4,3,R64,142,20,3,108,70,54,16,16,9,11,4,3,104,66,47,17,16,2,5
 2019-352,Paris Masters,Hard,56,M,20191028,,V306,,,Fernando Verdasco,L,,ESP,35.951,49,,CG80,,,Borna Coric,L,,CRO,22.951,25,,3-6 6-4 6-3,3,R64,118,13,2,81,48,39,15,14,3,6,8,1,86,64,43,10,14,4,8
-2019-7696,Next Gen Finals,Hard,8,A,,,,8,,Jannik Sinner,,,ITA,18.2203969883641,82,,,6,,Mikael Ymer,,,SWE,21.1553730321697,73,,4-0 4-2 4-1,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,5,,Miomir Kecmanovic,,,SRB,20.1806981519507,55,,,7,,Alejandro Davidovich Fokina,,,ESP,20.4188911704312,82,,4-1 4-1 4-3(6),3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,4,,Casper Ruud,,,NOR,20.870636550308,63,,,7,,Alejandro Davidovich Fokina,,,ESP,20.4188911704312,82,,3-4(2) 4-3(2) 4-2 3-4(2) 4-1,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,5,,Miomir Kecmanovic,,,SRB,20.1806981519507,55,,,4,,Casper Ruud,,,NOR,20.870636550308,63,,4-3(5) 4-3(5) 4-2,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,6,,Mikael Ymer,,,SWE,21.1553730321697,73,,,3,,Ugo Humbert,,,FRA,21.3607118412047,56,,4-3(2) 1-4 4-2 4-1,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,3,,Ugo Humbert,,,FRA,21.3607118412047,56,,,8,,Jannik Sinner,,,ITA,18.2203969883641,82,,4-3(5) 3-4(3) 4-2 4-2,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,2,,Frances Tiafoe,,,USA,21.7905544147844,46,,,6,,Mikael Ymer,,,SWE,21.1553730321697,73,,4-2 4-2 4-2,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,2,,Frances Tiafoe,,,USA,21.7905544147844,46,,,3,,Ugo Humbert,,,FRA,21.3607118412047,56,,4-2 4-3(5) 3-4(4) 4-1,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,8,,Jannik Sinner,,,ITA,18.2203969883641,82,,,2,,Frances Tiafoe,,,USA,21.7905544147844,46,,3-4(4) 4-2 4-2 4-2,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,1,,Alex De Minaur,,,AUS,20.7145790554415,18,,,7,,Alejandro Davidovich Fokina,,,ESP,20.4188911704312,55,,4-3 3-4(5) 4-1 4-1,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,1,,Alex De Minaur,,,AUS,20.7145790554415,18,,,5,,Miomir Kecmanovic,,,SRB,20.1806981519507,82,,4-1 4-3(4) 1-4 4-0,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,1,,Alex De Minaur,,,AUS,20.7145790554415,18,,,4,,Casper Ruud,,,NOR,20.870636550308,63,,4-1 4-0 4-2,3,RR,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,8,,Jannik Sinner,,,ITA,18.2203969883641,82,,,5,,Miomir Kecmanovic,,,SRB,20.1806981519507,55,,2-4 4-1 4-2 4-2,3,SF,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,1,,Alex De Minaur,,,AUS,20.7145790554415,18,,,2,,Frances Tiafoe,,,USA,21.7905544147844,46,,4-2 4-1 0-4 4-2,3,SF,,,,,,,,,,,,,,,,,,,
-2019-7696,Next Gen Finals,Hard,8,A,,,,8,,Jannik Sinner,,,ITA,18.2203969883641,82,,,1,,Alex De Minaur,,,AUS,20.7145790554415,18,,4-2 4-1 4-2,3,F,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,8,,Jannik Sinner,,,ITA,18.2203969883641,82,,,6,,Mikael Ymer,,,SWE,21.1553730321697,73,,4-0 4-2 4-1,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,5,,Miomir Kecmanovic,,,SRB,20.1806981519507,55,,,7,,Alejandro Davidovich Fokina,,,ESP,20.4188911704312,82,,4-1 4-1 4-3(6),5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,4,,Casper Ruud,,,NOR,20.870636550308,63,,,7,,Alejandro Davidovich Fokina,,,ESP,20.4188911704312,82,,3-4(2) 4-3(2) 4-2 3-4(2) 4-1,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,5,,Miomir Kecmanovic,,,SRB,20.1806981519507,55,,,4,,Casper Ruud,,,NOR,20.870636550308,63,,4-3(5) 4-3(5) 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,6,,Mikael Ymer,,,SWE,21.1553730321697,73,,,3,,Ugo Humbert,,,FRA,21.3607118412047,56,,4-3(2) 1-4 4-2 4-1,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,3,,Ugo Humbert,,,FRA,21.3607118412047,56,,,8,,Jannik Sinner,,,ITA,18.2203969883641,82,,4-3(5) 3-4(3) 4-2 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,2,,Frances Tiafoe,,,USA,21.7905544147844,46,,,6,,Mikael Ymer,,,SWE,21.1553730321697,73,,4-2 4-2 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,2,,Frances Tiafoe,,,USA,21.7905544147844,46,,,3,,Ugo Humbert,,,FRA,21.3607118412047,56,,4-2 4-3(5) 3-4(4) 4-1,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,8,,Jannik Sinner,,,ITA,18.2203969883641,82,,,2,,Frances Tiafoe,,,USA,21.7905544147844,46,,3-4(4) 4-2 4-2 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,1,,Alex De Minaur,,,AUS,20.7145790554415,18,,,7,,Alejandro Davidovich Fokina,,,ESP,20.4188911704312,55,,4-3 3-4(5) 4-1 4-1,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,1,,Alex De Minaur,,,AUS,20.7145790554415,18,,,5,,Miomir Kecmanovic,,,SRB,20.1806981519507,82,,4-1 4-3(4) 1-4 4-0,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,1,,Alex De Minaur,,,AUS,20.7145790554415,18,,,4,,Casper Ruud,,,NOR,20.870636550308,63,,4-1 4-0 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,8,,Jannik Sinner,,,ITA,18.2203969883641,82,,,5,,Miomir Kecmanovic,,,SRB,20.1806981519507,55,,2-4 4-1 4-2 4-2,5,SF,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,1,,Alex De Minaur,,,AUS,20.7145790554415,18,,,2,,Frances Tiafoe,,,USA,21.7905544147844,46,,4-2 4-1 0-4 4-2,5,SF,,,,,,,,,,,,,,,,,,,
+2019-7696,Next Gen Finals,Hard,8,A,,,,8,,Jannik Sinner,,,ITA,18.2203969883641,82,,,1,,Alex De Minaur,,,AUS,20.7145790554415,18,,4-2 4-1 4-2,5,F,,,,,,,,,,,,,,,,,,,
 2019-605,Tour Finals,Hard,8,F,20191111,,TE51,6,,Stefanos Tsitsipas,R,,GRE,21.248,6,,TB69,5,,Dominic Thiem,R,,AUT,26.188,5,,6-7(6) 6-2 7-6(4),3,F,155,9,0,97,60,50,23,16,3,4,8,3,106,73,52,17,16,7,10
 2019-605,Tour Finals,Hard,8,F,20191111,,TB69,5,,Dominic Thiem,R,,AUT,26.188,5,,Z355,7,,Alexander Zverev,R,,GER,22.56,7,,7-5 6-3,3,SF,94,6,2,71,42,34,17,11,4,4,8,4,66,50,34,8,10,3,5
 2019-605,Tour Finals,Hard,8,F,20191111,,TE51,6,,Stefanos Tsitsipas,R,,GRE,21.248,6,,F324,3,,Roger Federer,R,,SUI,38.259,3,,6-3 6-4,3,SF,96,6,3,89,56,36,18,10,11,12,3,0,54,30,21,11,9,1,4
