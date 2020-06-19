@@ -27,7 +27,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-339,Brisbane,Hard,32,A,20180101,272,DC58,,,Jared Donaldson,R,,USA,21.229,54,890,TC61,,WC,Jordan Thompson,R,,AUS,23.702,94,593,6-2 6-4,3,R32,90,5,3,58,32,25,14,9,4,5,3,5,62,41,25,7,9,7,11
 2018-339,Brisbane,Hard,32,A,20180101,271,H940,,,Ryan Harrison,R,183,USA,25.654,47,1010,MD56,,,Leonardo Mayer,R,188,ARG,30.634,52,909,6-4 3-6 6-2,3,R32,123,9,2,82,49,39,20,13,8,9,10,3,80,47,33,19,14,1,4
 2018-451,Doha,Hard,32,A,20180101,300,MC65,,WC,Gael Monfils,R,193,FRA,31.335,46,1015,RE44,,,Andrey Rublev,R,,RUS,20.2,39,1229,6-2 6-3,3,F,123,9,2,82,49,39,20,13,8,9,10,3,80,47,33,19,14,1,4
-2018-451,Doha,Hard,32,A,20180101,299,MC65,,WC,Gael Monfils,R,193,FRA,31.335,46,1015,TB69,1,,Dominic Thiem,R,185,AUT,24.329,5,4015,W/O,3,SF,123,9,2,82,49,39,20,13,8,9,10,3,80,47,33,19,14,1,4
+2018-451,Doha,Hard,32,A,20180101,299,MC65,,WC,Gael Monfils,R,193,FRA,31.335,46,1015,TB69,1,,Dominic Thiem,R,185,AUT,24.329,5,4015,W/O,3,SF,,,,,,,,,,,,,,,,,,,
 2018-451,Doha,Hard,32,A,20180101,298,RE44,,,Andrey Rublev,R,,RUS,20.2,39,1229,PC11,,,Guido Pella,L,185,ARG,27.628,64,774,6-2 4-6 7-6(2),3,SF,145,2,11,117,76,55,14,15,7,11,3,0,101,74,44,12,15,6,11
 2018-451,Doha,Hard,32,A,20180101,297,TB69,1,,Dominic Thiem,R,185,AUT,24.329,5,4015,TE51,,Q,Stefanos Tsitsipas,R,,GRE,19.389,91,606,7-5 6-4,3,QF,100,7,4,70,45,33,13,11,6,7,4,3,76,49,32,11,11,2,5
 2018-451,Doha,Hard,32,A,20180101,296,MC65,,WC,Gael Monfils,R,193,FRA,31.335,46,1015,G967,,,Peter Gojowczyk,R,185,GER,28.465,60,817,6-3 7-6(6),3,QF,87,8,4,70,51,37,8,11,1,3,0,0,68,35,21,19,10,3,6
@@ -517,7 +517,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-407,Rotterdam,Hard,32,A,20180212,298,D875,2,,Grigor Dimitrov,R,188,BUL,26.746,5,4425,GB88,4,,David Goffin,R,163,BEL,27.184,7,3400,6-3 0-1 RET,3,SF,61,6,4,48,32,22,8,5,6,6,4,0,32,18,14,7,5,1,2
 2018-407,Rotterdam,Hard,32,A,20180212,297,F324,1,,Roger Federer,R,185,SUI,36.515,2,9605,H756,,,Robin Haase,R,190,NED,30.856,42,1175,4-6 6-1 6-1,3,QF,79,6,1,61,35,26,19,12,0,1,9,2,70,46,28,9,12,3,8
 2018-407,Rotterdam,Hard,32,A,20180212,296,SA93,,LL,Andreas Seppi,R,190,ITA,33.977,81,686,MM58,,Q,Daniil Medvedev,R,,RUS,22.004,57,894,7-6(4) 4-6 6-3,3,QF,123,15,1,101,74,56,10,16,4,7,6,7,98,63,44,19,15,5,8
-2018-407,Rotterdam,Hard,32,A,20180212,295,GB88,4,,David Goffin,R,163,BEL,27.184,7,3400,BA47,6,,Tomas Berdych,R,196,CZE,32.405,17,2320,W/O,3,QF,123,15,1,101,74,56,10,16,4,7,6,7,98,63,44,19,15,5,8
+2018-407,Rotterdam,Hard,32,A,20180212,295,GB88,4,,David Goffin,R,163,BEL,27.184,7,3400,BA47,6,,Tomas Berdych,R,196,CZE,32.405,17,2320,W/O,3,QF,,,,,,,,,,,,,,,,,,,
 2018-407,Rotterdam,Hard,32,A,20180212,294,D875,2,,Grigor Dimitrov,R,188,BUL,26.746,5,4425,RE44,,,Andrey Rublev,R,,RUS,20.315,34,1355,6-3 6-4,3,QF,76,12,2,66,45,37,10,10,2,2,3,0,54,37,26,8,9,1,3
 2018-407,Rotterdam,Hard,32,A,20180212,293,F324,1,,Roger Federer,R,185,SUI,36.515,2,9605,K435,,,Philipp Kohlschreiber,R,178,GER,34.327,36,1335,7-6(8) 7-5,3,R16,101,11,0,68,46,41,14,12,0,0,5,2,91,56,36,24,12,5,6
 2018-407,Rotterdam,Hard,32,A,20180212,292,H756,,,Robin Haase,R,190,NED,30.856,42,1175,GJ37,,WC,Tallon Griekspoor,R,,NED,21.615,259,197,6-4 6-0,3,R16,65,6,0,44,20,19,12,8,0,1,2,1,53,35,18,6,8,5,10
@@ -733,7 +733,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-404,Indian Wells Masters,Hard,96,M,20180305,291,CG80,,,Borna Coric,R,,CRO,21.303,49,1026,FB98,,,Taylor Fritz,R,,USA,20.35,74,714,6-2 6-7(6) 6-4,3,R16,131,9,1,81,57,45,15,15,1,3,5,3,93,49,38,19,15,4,9
 2018-404,Indian Wells Masters,Hard,96,M,20180305,290,A678,7,,Kevin Anderson,R,203,RSA,31.797,9,3080,CD85,11,,Pablo Carreno Busta,R,188,ESP,26.648,14,2315,4-6 6-3 7-6(6),3,R16,138,16,2,86,50,43,27,16,2,3,2,1,94,60,44,23,15,5,6
 2018-404,Indian Wells Masters,Hard,96,M,20180305,289,Q927,18,,Sam Querrey,R,198,USA,30.409,21,2095,L397,28,,Feliciano Lopez,L,188,ESP,36.454,32,1340,6-3 6-4,3,R16,66,14,1,53,30,24,14,10,0,1,4,3,61,39,26,8,9,3,6
-2018-404,Indian Wells Masters,Hard,96,M,20180305,288,R975,32,,Milos Raonic,R,196,CAN,27.187,38,1270,B837,,Q,Marcos Baghdatis,R,183,CYP,32.715,102,564,W/O,3,R16,66,14,1,53,30,24,14,10,0,1,4,3,61,39,26,8,9,3,6
+2018-404,Indian Wells Masters,Hard,96,M,20180305,288,R975,32,,Milos Raonic,R,196,CAN,27.187,38,1270,B837,,Q,Marcos Baghdatis,R,183,CYP,32.715,102,564,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2018-404,Indian Wells Masters,Hard,96,M,20180305,287,D683,6,,Juan Martin del Potro,R,198,ARG,29.446,8,3200,MD56,,,Leonardo Mayer,R,188,ARG,30.806,47,1044,3-6 7-6(2) 6-3,3,R16,149,6,3,89,56,43,18,14,5,7,8,2,110,67,48,22,16,7,10
 2018-404,Indian Wells Masters,Hard,96,M,20180305,286,K435,31,,Philipp Kohlschreiber,R,178,GER,34.385,37,1290,H996,,,Pierre-Hugues Herbert,R,188,FRA,26.965,93,610,6-4 7-6(1),3,R16,89,3,0,68,54,40,8,11,3,4,6,6,60,43,32,9,11,1,3
 2018-404,Indian Wells Masters,Hard,96,M,20180305,285,F324,1,,Roger Federer,R,185,SUI,36.572,1,10060,KB05,25,,Filip Krajinovic,R,185,SRB,26.018,28,1503,6-2 6-1,3,R32,58,6,1,42,27,24,8,8,2,3,0,4,51,27,14,7,7,3,8
@@ -1055,7 +1055,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-410,Monte Carlo Masters,Clay,56,M,20180416,289,G628,,,Richard Gasquet,R,185,FRA,31.828,34,1340,Z168,,,Mischa Zverev,L,190,GER,30.65,55,932,6-2 7-5,3,R16,88,3,2,61,41,27,9,10,4,6,3,1,60,40,24,7,10,7,12
 2018-410,Monte Carlo Masters,Clay,56,M,20180416,288,Z355,3,,Alexander Zverev,R,198,GER,20.988,4,4925,SL28,,,Jan-Lennard Struff,R,,GER,27.975,61,855,6-4 4-6 6-4,3,R16,123,5,7,92,53,32,13,15,3,10,2,6,87,47,27,13,15,4,12
 2018-410,Monte Carlo Masters,Clay,56,M,20180416,287,N552,,,Kei Nishikori,R,178,JPN,28.296,36,1280,SA93,,Q,Andreas Seppi,R,190,ITA,34.149,62,851,6-0 2-6 6-3,3,R16,106,1,0,75,44,30,19,12,5,7,3,1,73,41,26,16,11,5,9
-2018-410,Monte Carlo Masters,Clay,56,M,20180416,286,C977,2,,Marin Cilic,R,198,CRO,29.547,3,4985,R975,14,,Milos Raonic,R,196,CAN,27.302,22,1765,W/O,3,R16,106,1,0,75,44,30,19,12,5,7,3,1,73,41,26,16,11,5,9
+2018-410,Monte Carlo Masters,Clay,56,M,20180416,286,C977,2,,Marin Cilic,R,198,CRO,29.547,3,4985,R975,14,,Milos Raonic,R,196,CAN,27.302,22,1765,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2018-410,Monte Carlo Masters,Clay,56,M,20180416,285,N409,1,,Rafael Nadal,L,185,ESP,31.869,1,8770,BH09,,,Aljaz Bedene,R,181,SLO,28.745,58,877,6-1 6-3,3,R32,78,0,0,48,32,24,11,8,2,2,2,1,51,31,19,8,8,4,8
 2018-410,Monte Carlo Masters,Clay,56,M,20180416,284,KE29,,,Karen Khachanov,R,,RUS,21.903,38,1255,SD32,,WC,Gilles Simon,R,183,FRA,33.3,69,780,6-2 6-2,3,R32,83,4,1,53,31,24,14,8,7,7,1,1,52,35,20,6,8,5,9
 2018-410,Monte Carlo Masters,Clay,56,M,20180416,283,D643,9,,Novak Djokovic,R,188,SRB,30.902,13,2310,CG80,,,Borna Coric,R,,CRO,21.418,39,1251,7-6(2) 7-5,3,R32,135,5,1,92,60,40,18,12,6,9,1,3,80,48,31,14,12,4,8
@@ -1636,7 +1636,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-311,Queen's Club,Grass,32,A,20180618,294,D643,,WC,Novak Djokovic,R,188,SRB,31.075,22,1665,ME82,,,Adrian Mannarino,L,183,FRA,29.969,26,1535,7-5 6-1,3,QF,78,6,2,55,35,29,11,10,1,2,4,2,63,40,24,9,9,9,13
 2018-311,Queen's Club,Grass,32,A,20180618,293,C977,1,,Marin Cilic,R,198,CRO,29.719,6,4860,MA30,,,Gilles Muller,L,193,LUX,35.11,46,1050,4-6 6-3 6-3,3,R16,102,19,1,73,48,42,15,14,3,4,17,3,91,68,49,7,14,7,10
 2018-311,Queen's Club,Grass,32,A,20180618,292,Q927,5,,Sam Querrey,R,198,USA,30.697,13,2130,W367,,,Stan Wawrinka,R,183,SUI,33.224,261,210,7-5 6-7(3) 6-1,3,R16,115,25,3,113,67,54,24,16,12,13,8,2,89,56,43,16,15,3,7
-2018-311,Queen's Club,Grass,32,A,20180618,291,L397,,,Feliciano Lopez,L,188,ESP,36.742,37,1190,R975,,,Milos Raonic,R,196,CAN,27.474,31,1405,W/O,3,R16,115,25,3,113,67,54,24,16,12,13,8,2,89,56,43,16,15,3,7
+2018-311,Queen's Club,Grass,32,A,20180618,291,L397,,,Feliciano Lopez,L,188,ESP,36.742,37,1190,R975,,,Milos Raonic,R,196,CAN,27.474,31,1405,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2018-311,Queen's Club,Grass,32,A,20180618,290,KE17,,,Nick Kyrgios,R,193,AUS,23.143,21,1675,E831,7,,Kyle Edmund,R,,GBR,23.441,17,1950,7-6(3) 6-7(5) 6-3,3,R16,131,32,6,102,72,63,16,17,1,1,10,3,110,67,52,24,16,5,6
 2018-311,Queen's Club,Grass,32,A,20180618,289,CA12,,SE,Jeremy Chardy,R,188,FRA,31.346,61,910,MM58,,,Daniil Medvedev,R,,RUS,22.349,53,962,7-6(6) 6-3,3,R16,83,14,3,64,44,38,12,11,0,0,12,5,74,44,33,14,10,2,3
 2018-311,Queen's Club,Grass,32,A,20180618,288,TD51,,,Frances Tiafoe,R,,USA,20.408,62,903,MD56,,,Leonardo Mayer,R,188,ARG,31.094,38,1182,6-4 2-6 6-4,3,R16,110,10,2,85,51,41,17,14,4,6,10,2,78,51,42,14,14,5,7
@@ -1982,7 +1982,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-414,Hamburg,Clay,32,A,20180723,295,KC04,,Q,Jozef Kovalik,R,,SVK,25.714,113,501,MJ08,,LL,Thiago Monteiro,L,,BRA,24.145,146,395,3-6 6-3 6-2,3,QF,126,8,5,74,40,33,15,13,2,5,0,0,78,42,23,22,13,4,9
 2018-414,Hamburg,Clay,32,A,20180723,294,MD56,,,Leonardo Mayer,R,188,ARG,31.19,36,1197,SM37,2,,Diego Schwartzman,R,170,ARG,25.933,12,2470,6-3 4-6 6-3,3,QF,133,4,6,83,48,36,14,14,5,9,2,8,86,53,38,9,14,7,13
 2018-414,Hamburg,Clay,32,A,20180723,293,TB69,1,,Dominic Thiem,R,185,AUT,24.884,8,3665,MH30,,,John Millman,R,183,AUS,29.106,50,966,6-2 6-2,3,R16,72,2,2,51,29,26,10,8,3,3,3,4,53,34,20,8,8,7,11
-2018-414,Hamburg,Clay,32,A,20180723,292,J551,,,Nicolas Jarry,R,,CHI,22.782,69,789,G628,7,,Richard Gasquet,R,185,FRA,32.096,28,1525,W/O,3,R16,72,2,2,51,29,26,10,8,3,3,3,4,53,34,20,8,8,7,11
+2018-414,Hamburg,Clay,32,A,20180723,292,J551,,,Nicolas Jarry,R,,CHI,22.782,69,789,G628,7,,Richard Gasquet,R,185,FRA,32.096,28,1525,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2018-414,Hamburg,Clay,32,A,20180723,291,CD85,3,,Pablo Carreno Busta,R,188,ESP,27.031,13,2200,BH09,,,Aljaz Bedene,R,181,SLO,29.013,80,725,6-2 4-0 RET,3,R16,62,3,1,43,30,21,8,6,5,5,2,1,38,21,13,3,6,4,8
 2018-414,Hamburg,Clay,32,A,20180723,290,BG23,,Q,Nikoloz Basilashvili,R,185,RUS,26.412,81,715,C882,,,Pablo Cuevas,R,180,URU,32.556,72,770,7-6(6) 6-4,3,R16,103,5,4,74,34,24,27,11,2,3,8,3,75,46,35,14,11,7,9
 2018-414,Hamburg,Clay,32,A,20180723,289,MJ08,,LL,Thiago Monteiro,L,,BRA,24.145,146,395,V306,8,,Fernando Verdasco,L,188,ESP,34.686,33,1280,3-6 6-2 7-5,3,R16,132,6,1,81,50,35,21,14,5,7,5,3,88,65,45,7,15,4,8
@@ -2064,7 +2064,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-418,Washington,Hard,64,A,20180730,298,DH58,,,Alex de Minaur,R,,AUS,19.447,72,803,RE44,16,,Andrey Rublev,R,,RUS,20.775,46,1000,5-7 7-6(6) 6-4,3,SF,172,12,4,115,67,49,22,17,6,9,8,5,126,80,61,17,17,11,14
 2018-418,Washington,Hard,64,A,20180730,297,Z355,1,,Alexander Zverev,R,198,GER,21.276,3,5665,N552,7,,Kei Nishikori,R,178,JPN,28.583,20,1800,3-6 6-1 6-4,3,QF,105,8,1,60,45,35,9,13,0,2,2,1,80,50,31,15,13,7,11
 2018-418,Washington,Hard,64,A,20180730,296,TE51,10,,Stefanos Tsitsipas,R,,GRE,19.964,32,1399,GB88,3,,David Goffin,R,163,BEL,27.644,11,3120,6-3 6-4,3,QF,74,7,5,59,36,31,11,10,3,3,4,3,49,32,27,6,9,1,3
-2018-418,Washington,Hard,64,A,20180730,295,DH58,,,Alex de Minaur,R,,AUS,19.447,72,803,MC10,,,Andy Murray,R,190,GBR,31.209,832,20,W/O,3,QF,74,7,5,59,36,31,11,10,3,3,4,3,49,32,27,6,9,1,3
+2018-418,Washington,Hard,64,A,20180730,295,DH58,,,Alex de Minaur,R,,AUS,19.447,72,803,MC10,,,Andy Murray,R,190,GBR,31.209,832,20,W/O,3,QF,,,,,,,,,,,,,,,,,,,
 2018-418,Washington,Hard,64,A,20180730,294,RE44,16,,Andrey Rublev,R,,RUS,20.775,46,1000,KB09,,,Denis Kudla,R,180,USA,25.949,85,683,6-1 6-4,3,QF,74,12,3,59,33,27,13,9,3,3,8,2,50,26,20,8,8,0,3
 2018-418,Washington,Hard,64,A,20180730,293,Z355,1,,Alexander Zverev,R,198,GER,21.276,3,5665,Z168,15,,Mischa Zverev,L,190,GER,30.938,42,1030,6-3 7-5,3,R16,111,5,5,84,48,36,16,11,2,3,4,0,60,29,19,16,10,0,3
 2018-418,Washington,Hard,64,A,20180730,292,N552,7,,Kei Nishikori,R,178,JPN,28.583,20,1800,SU55,9,,Denis Shapovalov,L,,CAN,19.291,26,1530,7-6(1) 6-3,3,R16,102,0,2,59,39,28,15,10,0,0,7,6,82,37,25,22,11,2,4
@@ -2233,7 +2233,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-6242,Winston-Salem,Hard,48,A,20180820,286,CD85,2,,Pablo Carreno Busta,R,188,ESP,27.107,12,2380,G967,16,,Peter Gojowczyk,R,185,GER,29.098,45,1038,6-2 7-6(5),3,R16,96,5,1,68,51,37,10,10,5,5,8,9,89,41,33,18,10,5,7
 2018-6242,Winston-Salem,Hard,48,A,20180820,285,A887,,LL,Guido Andreozzi,R,,ARG,27.042,118,475,A829,,Q,Radu Albot,R,,MDA,28.772,96,598,6-4 6-3,3,R32,102,4,7,77,43,32,15,9,9,10,1,4,64,40,26,12,10,4,8
 2018-6242,Winston-Salem,Hard,48,A,20180820,284,MM58,,,Daniil Medvedev,R,,RUS,22.522,57,952,DH58,15,,Alex de Minaur,R,,AUS,19.504,43,1043,6-3 6-3,3,R32,91,7,7,59,31,24,13,9,2,3,2,4,73,39,24,15,9,11,15
-2018-6242,Winston-Salem,Hard,48,A,20180820,283,H940,,,Ryan Harrison,R,183,USA,26.286,56,955,SD32,12,,Gilles Simon,R,183,FRA,33.645,39,1080,W/O,3,R32,91,7,7,59,31,24,13,9,2,3,2,4,73,39,24,15,9,11,15
+2018-6242,Winston-Salem,Hard,48,A,20180820,283,H940,,,Ryan Harrison,R,183,USA,26.286,56,955,SD32,12,,Gilles Simon,R,183,FRA,33.645,39,1080,W/O,3,R32,,,,,,,,,,,,,,,,,,,
 2018-6242,Winston-Salem,Hard,48,A,20180820,282,KB05,7,,Filip Krajinovic,R,185,SRB,26.478,32,1314,FB98,,WC,Taylor Fritz,R,,USA,20.81,70,810,6-4 6-1,3,R32,63,2,0,45,27,20,14,8,2,2,3,3,67,35,22,14,9,8,12
 2018-6242,Winston-Salem,Hard,48,A,20180820,281,SL28,,,Jan-Lennard Struff,R,,GER,28.32,52,975,CF01,4,,Marco Cecchinato,R,,ITA,25.886,22,1734,6-3 6-4,3,R32,68,5,1,61,29,21,22,10,2,2,3,3,56,33,23,13,9,2,4
 2018-6242,Winston-Salem,Hard,48,A,20180820,280,J551,14,,Nicolas Jarry,R,,CHI,22.858,47,1024,SA93,,,Andreas Seppi,R,190,ITA,34.494,50,996,6-4 6-3,3,R32,66,8,0,51,27,23,14,9,0,1,6,3,59,30,24,10,10,3,7
@@ -2571,7 +2571,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-6967,Shenzhen,Hard,32,A,20180924,,MC10,,WC,Andy Murray,R,,GBR,31.362,311,,Z371,,WC,Zhizhen Zhang,U,,CHN,21.938,340,,6-3 6-7(3) 4-2 RET,3,R32,143,9,3,103,61,42,23,14,8,10,9,3,89,53,35,15,13,5,9
 2018-747,Beijing,Hard,32,A,20181001,,BG23,,,Nikoloz Basilashvili,R,,RUS,26.604,34,,D683,1,,Juan Martin del Potro,R,,ARG,30.021,4,,6-4 6-4,3,F,99,3,5,75,45,33,17,10,7,7,11,0,65,41,31,9,10,6,8
 2018-747,Beijing,Hard,32,A,20181001,,BG23,,,Nikoloz Basilashvili,R,,RUS,26.604,34,,E831,5,,Kyle Edmund,R,,GBR,23.729,16,,7-6(6) 6-4,3,SF,99,7,4,73,41,32,15,11,4,6,3,1,73,38,24,19,11,3,6
-2018-747,Beijing,Hard,32,A,20181001,,D683,1,,Juan Martin del Potro,R,,ARG,30.021,4,,F510,4,,Fabio Fognini,R,,ITA,31.357,13,,W/O,3,SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018-747,Beijing,Hard,32,A,20181001,,D683,1,,Juan Martin del Potro,R,,ARG,30.021,4,,F510,4,,Fabio Fognini,R,,ITA,31.357,13,,W/O,3,SF,,,,,,,,,,,,,,,,,,,
 2018-747,Beijing,Hard,32,A,20181001,,BG23,,,Nikoloz Basilashvili,R,,RUS,26.604,34,,J267,,Alt,Malek Jaziri,R,,TUN,34.697,61,,6-2 6-2,3,QF,68,6,2,46,22,18,15,8,1,1,3,5,62,28,18,12,8,4,8
 2018-747,Beijing,Hard,32,A,20181001,,E831,5,,Kyle Edmund,R,,GBR,23.729,16,,L987,,Q,Dusan Lajovic,R,,SRB,28.255,55,,6-3 7-6(4),3,QF,93,3,2,81,44,35,20,11,2,2,7,0,62,33,27,16,10,1,2
 2018-747,Beijing,Hard,32,A,20181001,,F510,4,,Fabio Fognini,R,,ITA,31.357,13,,F724,,,Marton Fucsovics,R,,HUN,26.645,45,,6-4 6-4,3,QF,98,2,1,71,46,30,16,10,5,6,4,6,73,32,21,20,10,5,8
@@ -2696,7 +2696,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-438,Moscow,Hard,32,A,20181015,,MM58,2,,Daniil Medvedev,R,,RUS,22.675,21,,L987,,,Dusan Lajovic,R,,SRB,28.293,50,,6-2 6-1,3,R16,53,5,4,51,31,22,11,8,1,2,2,1,48,34,16,6,7,6,11
 2018-438,Moscow,Hard,32,A,20181015,,BE90,,LL,Ricardas Berankis,R,,LTU,28.318,107,,BH09,,,Aljaz Bedene,R,,SLO,29.243,72,,3-6 7-6(3) 7-6(5),3,R16,158,8,3,123,57,48,25,17,6,11,12,3,108,55,41,26,16,4,7
 2018-438,Moscow,Hard,32,A,20181015,,KE29,3,,Karen Khachanov,R,,RUS,22.401,26,,R685,,Q,Lukas Rosol,R,,CZE,33.227,172,,6-4 7-5,3,R16,89,10,1,81,58,43,12,11,12,13,6,4,77,49,30,15,11,3,6
-2018-438,Moscow,Hard,32,A,20181015,,BE67,,,Mirza Basic,R,,BIH,27.261,76,,KE17,5,,Nick Kyrgios,R,,AUS,23.469,37,,W/O,3,R16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018-438,Moscow,Hard,32,A,20181015,,BE67,,,Mirza Basic,R,,BIH,27.261,76,,KE17,5,,Nick Kyrgios,R,,AUS,23.469,37,,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2018-438,Moscow,Hard,32,A,20181015,,SA93,,,Andreas Seppi,R,,ITA,34.648,46,,H996,,,Pierre-Hugues Herbert,R,,FRA,27.578,51,,7-6(6) 7-6(5),3,R16,110,1,2,86,49,38,18,12,6,9,9,2,74,43,33,14,12,1,4
 2018-438,Moscow,Hard,32,A,20181015,,KB05,4,,Filip Krajinovic,R,,SRB,26.631,34,,D864,,,Evgeny Donskoy,R,,RUS,28.435,105,,7-5 6-4,3,R16,94,12,2,67,40,26,15,11,3,6,2,3,81,45,27,16,11,5,10
 2018-438,Moscow,Hard,32,A,20181015,,GC89,,Q,Egor Gerasimov,R,,BLR,25.925,217,,PD31,,,Benoit Paire,R,,FRA,29.437,57,,6-4 6-4,3,R16,72,8,4,65,40,27,11,10,8,11,7,2,60,37,27,4,10,9,14
@@ -2746,7 +2746,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-7485,Antwerp,Hard,32,A,20181015,,SM37,2,,Diego Schwartzman,R,,ARG,26.163,17,,SD32,5,,Gilles Simon,R,,FRA,33.799,32,,6-4 6-3,3,QF,96,1,2,61,43,29,4,9,3,6,4,2,61,35,21,7,10,4,10
 2018-7485,Antwerp,Hard,32,A,20181015,,MC65,6,,Gael Monfils,R,,FRA,32.12,38,,PD07,,,Vasek Pospisil,R,,CAN,28.312,79,,7-5 6-4,3,QF,95,10,1,65,41,32,14,11,2,2,10,3,73,45,31,15,11,6,8
 2018-7485,Antwerp,Hard,32,A,20181015,,G628,4,,Richard Gasquet,R,,FRA,32.326,28,,SL28,,,Jan-Lennard Struff,R,,GER,28.474,58,,6-4 6-7(4) 7-6(9),3,QF,136,12,4,107,70,55,21,17,2,4,21,1,105,74,54,21,17,2,5
-2018-7485,Antwerp,Hard,32,A,20181015,,E831,1,,Kyle Edmund,R,,GBR,23.767,15,,I305,,Q,Ilya Ivashka,R,,BLR,24.638,97,,W/O,3,QF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018-7485,Antwerp,Hard,32,A,20181015,,E831,1,,Kyle Edmund,R,,GBR,23.767,15,,I305,,Q,Ilya Ivashka,R,,BLR,24.638,97,,W/O,3,QF,,,,,,,,,,,,,,,,,,,
 2018-7485,Antwerp,Hard,32,A,20181015,,SM37,2,,Diego Schwartzman,R,,ARG,26.163,17,,N771,,,Cameron Norrie,L,,GBR,23.146,87,,7-6(1) 6-7(3) 7-5,3,R16,151,5,3,117,70,53,25,18,3,6,9,2,124,87,56,21,18,12,16
 2018-7485,Antwerp,Hard,32,A,20181015,,SD32,5,,Gilles Simon,R,,FRA,33.799,32,,MK66,,,Mackenzie McDonald,R,,USA,23.499,84,,6-1 6-1,3,R16,63,5,0,40,23,19,11,7,2,2,2,2,56,37,17,6,7,6,11
 2018-7485,Antwerp,Hard,32,A,20181015,,PD07,,,Vasek Pospisil,R,,CAN,28.312,79,,R975,3,,Milos Raonic,R,,CAN,27.8,20,,7-6(3) 7-5,3,R16,97,11,1,74,57,48,9,12,0,0,9,1,63,47,39,9,12,0,1
@@ -2774,7 +2774,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-337,Vienna,Hard,32,A,20181022,,V306,,,Fernando Verdasco,L,,ESP,34.935,30,,MC65,,SE,Gael Monfils,R,,FRA,32.14,33,,6-4 2-1 RET,3,QF,60,5,2,43,23,18,7,6,5,7,1,2,34,17,9,6,7,1,5
 2018-337,Vienna,Hard,32,A,20181022,,K926,,Q,Mikhail Kukushkin,R,,KAZ,30.823,71,,F724,,,Marton Fucsovics,R,,HUN,26.702,40,,4-6 7-6(2) 7-6(4),3,QF,198,2,0,119,69,49,31,17,7,9,8,3,128,69,57,26,17,8,9
 2018-337,Vienna,Hard,32,A,20181022,,N552,5,,Kei Nishikori,R,,JPN,28.813,11,,TB69,1,,Dominic Thiem,R,,AUT,25.133,7,,6-3 6-1,3,QF,68,0,2,48,32,21,11,8,5,6,5,3,48,25,17,6,8,5,10
-2018-337,Vienna,Hard,32,A,20181022,,A678,2,,Kevin Anderson,R,,RSA,32.43,8,,M762,,WC,Jurgen Melzer,L,,AUT,37.418,426,,W/O,3,R16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018-337,Vienna,Hard,32,A,20181022,,A678,2,,Kevin Anderson,R,,RSA,32.43,8,,M762,,WC,Jurgen Melzer,L,,AUT,37.418,426,,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2018-337,Vienna,Hard,32,A,20181022,,CG80,6,,Borna Coric,R,,CRO,21.936,13,,PF39,,,Lucas Pouille,R,,FRA,24.66,23,,4-6 6-0 6-4,3,R16,118,10,1,85,55,40,18,13,6,7,9,2,84,47,34,14,13,4,8
 2018-337,Vienna,Hard,32,A,20181022,,MC65,,SE,Gael Monfils,R,,FRA,32.14,33,,I186,4,,John Isner,R,,USA,33.489,9,,6-4 6-4,3,R16,69,10,2,57,41,34,9,10,1,1,9,2,66,47,32,9,10,2,4
 2018-337,Vienna,Hard,32,A,20181022,,V306,,,Fernando Verdasco,L,,ESP,34.935,30,,E831,8,,Kyle Edmund,R,,GBR,23.786,14,,6-4 3-6 6-3,3,R16,115,8,4,86,50,37,19,14,5,7,3,0,87,56,40,16,14,9,12
@@ -2848,8 +2848,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-352,Paris Masters,Hard,48,M,20181029,,D923,,,Damir Dzumhur,R,,BIH,26.442,52,,TE51,14,,Stefanos Tsitsipas,R,,GRE,20.214,16,,6-3 6-3,3,R32,71,1,1,52,35,24,11,9,0,2,2,3,56,26,14,15,9,3,8
 2018-352,Paris Masters,Hard,48,M,20181029,,D875,9,,Grigor Dimitrov,R,,BUL,27.455,10,,BD06,,,Roberto Bautista Agut,R,,ESP,30.541,25,,7-6(10) 6-4,3,R32,96,13,6,76,41,32,17,11,2,4,3,0,68,48,34,11,11,3,6
 2018-352,Paris Masters,Hard,48,M,20181029,,C977,5,,Marin Cilic,R,,CRO,30.084,7,,K435,,,Philipp Kohlschreiber,R,,GER,35.036,43,,6-3 6-4,3,R32,72,8,1,55,35,28,10,10,0,1,5,1,54,34,19,12,9,2,5
-2018-352,Paris Masters,Hard,48,M,20181029,,F324,3,,Roger Federer,R,,SUI,37.224,3,,R975,,,Milos Raonic,R,,CAN,27.838,21,,W/O,3,R32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2018-352,Paris Masters,Hard,48,M,20181029,,F510,13,,Fabio Fognini,R,,ITA,31.433,14,,F724,,,Marton Fucsovics,R,,HUN,26.721,42,,W/O,3,R32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018-352,Paris Masters,Hard,48,M,20181029,,F324,3,,Roger Federer,R,,SUI,37.224,3,,R975,,,Milos Raonic,R,,CAN,27.838,21,,W/O,3,R32,,,,,,,,,,,,,,,,,,,
+2018-352,Paris Masters,Hard,48,M,20181029,,F510,13,,Fabio Fognini,R,,ITA,31.433,14,,F724,,,Marton Fucsovics,R,,HUN,26.721,42,,W/O,3,R32,,,,,,,,,,,,,,,,,,,
 2018-352,Paris Masters,Hard,48,M,20181029,,N552,10,,Kei Nishikori,R,,JPN,28.832,11,,ME82,,,Adrian Mannarino,L,,FRA,30.333,46,,7-5 6-4,3,R32,87,6,2,65,39,30,18,11,0,0,2,2,66,41,33,10,11,0,2
 2018-352,Paris Masters,Hard,48,M,20181029,,A678,7,,Kevin Anderson,R,,RSA,32.449,6,,BG23,,,Nikoloz Basilashvili,R,,RUS,26.68,22,,6-3 6-7(3) 7-6(3),3,R32,135,18,4,106,73,63,17,17,3,3,6,7,103,54,43,30,16,2,3
 2018-352,Paris Masters,Hard,48,M,20181029,,I186,8,,John Isner,R,,USA,33.509,9,,K926,,SE,Mikhail Kukushkin,R,,KAZ,30.842,54,,6-3 6-7(2) 7-6(1),3,R32,137,33,1,90,69,61,16,17,1,1,2,1,119,80,54,24,16,7,8

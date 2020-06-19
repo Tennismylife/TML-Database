@@ -8,7 +8,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-451,Doha,Hard,32,A,20181231,,D643,1,,Novak Djokovic,R,,SRB,31.611,1,,BG23,5,,Nikoloz Basilashvili,R,,RUS,26.853,21,,4-6 6-3 6-4,3,QF,116,7,3,86,57,41,15,15,3,6,4,3,82,54,39,12,14,3,7
 2019-451,Doha,Hard,32,A,20181231,,H996,,,Pierre-Hugues Herbert,R,,FRA,27.789,55,,MN13,,Q,Maximilian Marterer,L,,GER,23.546,74,,6-3 6-7(6) 7-6(6),3,R16,149,9,2,110,73,57,25,17,2,2,14,3,108,73,56,22,16,5,6
 2019-451,Doha,Hard,32,A,20181231,,BA47,,WC,Tomas Berdych,R,,CZE,33.287,71,,V306,8,,Fernando Verdasco,L,,ESP,35.127,28,,4-6 6-3 7-5,3,R16,133,3,2,89,59,44,15,16,2,5,9,3,113,75,50,16,15,10,14
-2019-451,Doha,Hard,32,A,20181231,,CF01,4,,Marco Cecchinato,R,,ITA,26.251,20,,PC11,,,Guido Pella,L,,ARG,28.624,58,,W/O,3,R16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-451,Doha,Hard,32,A,20181231,,CF01,4,,Marco Cecchinato,R,,ITA,26.251,20,,PC11,,,Guido Pella,L,,ARG,28.624,58,,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2019-451,Doha,Hard,32,A,20181231,,L987,,,Dusan Lajovic,R,,SRB,28.504,48,,BE90,,Q,Ricardas Berankis,R,,LTU,28.528,116,,7-6(4) 0-6 7-5,3,R16,131,8,2,100,73,48,12,15,7,12,4,2,98,61,45,16,15,4,7
 2019-451,Doha,Hard,32,A,20181231,,BD06,7,,Roberto Bautista Agut,R,,ESP,30.713,24,,G476,,Q,Guillermo Garcia-Lopez,R,,ESP,35.576,105,,6-1 6-4,3,R16,70,2,0,49,33,25,11,9,3,4,2,4,49,32,20,3,8,3,7
 2019-451,Doha,Hard,32,A,20181231,,W367,,,Stan Wawrinka,R,,SUI,33.76,66,,J551,,,Nicolas Jarry,R,,CHI,23.222,43,,6-4 7-6(3),3,R16,88,5,1,61,30,28,20,11,0,0,9,3,70,47,38,11,11,5,6
@@ -346,7 +346,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-7434,Sofia,Hard,28,A,20190204,,MC65,7,,Gael Monfils,R,,FRA,32.427,33,,K926,,,Mikhail Kukushkin,L,,KAZ,31.11,55,,7-5 6-3,3,R16,76,15,5,64,37,32,11,11,4,6,1,2,57,35,20,13,10,9,13
 2019-7434,Sofia,Hard,28,A,20190204,,TE51,2,,Stefanos Tsitsipas,R,,GRE,20.482,12,,SL28,,,Jan-Lennard Struff,L,,GER,28.78,51,,7-6(5) 6-4,3,R16,89,10,4,70,46,35,17,11,1,1,7,4,78,46,36,16,11,4,5
 2019-7434,Sofia,Hard,28,A,20190204,,BK40,,,Matteo Berrettini,U,,ITA,22.815,53,,V306,6,,Fernando Verdasco,L,,ESP,35.222,26,,4-6 7-5 6-4,3,QF,142,8,3,98,59,45,22,16,7,9,7,3,101,65,47,18,16,5,3333
-2019-7434,Sofia,Hard,28,A,20190204,,F724,,,Marton Fucsovics,R,,HUN,26.99,47,,BD06,4,,Roberto Bautista Agut,L,,ESP,30.809,18,,W/O,3,QF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-7434,Sofia,Hard,28,A,20190204,,F724,,,Marton Fucsovics,R,,HUN,26.99,47,,BD06,4,,Roberto Bautista Agut,L,,ESP,30.809,18,,W/O,3,QF,,,,,,,,,,,,,,,,,,,
 2019-7434,Sofia,Hard,28,A,20190204,,MM58,3,,Daniil Medvedev,R,,RUS,22.982,16,,K966,,,Martin Klizan,L,,SVK,29.569,38,,6-4 6-1,3,QF,69,9,0,38,26,22,10,8,0,0,3,5,66,41,21,13,9,10,14
 2019-7434,Sofia,Hard,28,A,20190204,,MC65,7,,Gael Monfils,R,,FRA,32.427,33,,TE51,2,,Stefanos Tsitsipas,L,,GRE,20.482,12,,6-3 7-6(5),3,QF,90,5,3,59,30,28,17,10,0,0,6,0,81,54,38,14,11,6,8
 2019-7434,Sofia,Hard,28,A,20190204,,F724,,,Marton Fucsovics,R,,HUN,26.99,47,,BK40,,,Matteo Berrettini,L,,ITA,22.815,53,,5-7 7-5 6-3,3,SF,136,6,4,106,58,45,27,17,6,7,10,1,88,54,43,19,16,2,4
@@ -461,7 +461,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-506,Buenos Aires,Clay,28,A,20190211,,PC11,,,Guido Pella,L,,ARG,28.739,50,,C0AU,,WC,Francisco Cerundolo,L,,ARG,20.498,,,3-6 6-4 6-1,3,R32,95,2,3,75,52,34,13,13,3,6,0,6,76,50,30,11,13,6,11
 2019-506,Buenos Aires,Clay,28,A,20190211,,MU94,,,Jaume Munar,U,,ESP,21.771,77,,D874,,,Federico Delbonis,L,,ARG,28.353,64,,6-2 2-6 6-1,3,R32,119,1,2,74,49,36,12,12,6,8,2,4,99,59,34,18,11,8,12
 2019-6932,Rio De Janeiro,Clay,32,A,20190218,,DB63,,,Laslo Djere,R,,SRB,23.715,90,,AG37,,WC,Felix Auger-Aliassime,L,,CAN,18.53,104,,6-3 7-5,3,F,120,1,3,56,23,14,19,10,1,4,4,9,92,50,29,17,11,8,14
-2019-6932,Rio De Janeiro,Clay,32,A,20190218,,DB63,,,Laslo Djere,R,,SRB,23.715,90,,BH09,,,Aljaz Bedene,L,,SLO,29.588,83,,W/O,3,SF,120,1,3,56,23,14,19,10,1,4,4,9,92,50,29,17,11,8,14
+2019-6932,Rio De Janeiro,Clay,32,A,20190218,,DB63,,,Laslo Djere,R,,SRB,23.715,90,,BH09,,,Aljaz Bedene,L,,SLO,29.588,83,,W/O,3,SF,,,,,,,,,,,,,,,,,,,
 2019-6932,Rio De Janeiro,Clay,32,A,20190218,,AG37,,WC,Felix Auger-Aliassime,R,,CAN,18.53,104,,C882,,,Pablo Cuevas,L,,URU,33.131,63,,6-3 3-6 6-3,3,SF,125,9,7,87,65,48,9,14,5,7,5,1,73,46,33,14,13,3,6
 2019-6932,Rio De Janeiro,Clay,32,A,20190218,,DB63,,,Laslo Djere,R,,SRB,23.715,90,,RH16,,Q,Casper Ruud,L,,NOR,20.159,135,,6-4 7-5,3,QF,96,4,4,59,32,24,16,11,1,3,1,3,69,43,26,14,11,5,9
 2019-6932,Rio De Janeiro,Clay,32,A,20190218,,BH09,,,Aljaz Bedene,R,,SLO,29.588,83,,DA31,,Q,Hugo Dellien,L,,BOL,25.676,113,,4-6 6-2 6-3,3,QF,143,13,6,103,52,37,28,14,9,11,0,6,87,59,37,13,13,6,10
@@ -593,7 +593,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-807,Acapulco,Hard,32,A,20190225,,MH30,8,,John Millman,R,,AUS,29.7,44,,G967,,,Peter Gojowczyk,L,,GER,29.615,87,,6-0 6-2,3,R16,62,2,0,51,30,21,12,7,2,3,0,7,37,15,7,4,7,2,8
 2019-807,Acapulco,Hard,32,A,20190225,,MK66,,SE,Mackenzie McDonald,R,,USA,23.863,71,,TD51,6,,Frances Tiafoe,L,,USA,21.098,34,,6-7(7) 7-5 6-3,3,R16,149,10,2,102,62,50,24,16,6,7,9,4,110,72,48,23,17,5,9
 2019-807,Acapulco,Hard,32,A,20190225,,N771,,,Cameron Norrie,L,,GBR,23.51,64,,SM37,4,,Diego Schwartzman,L,,ARG,26.527,25,,7-6(5) 4-6 6-3,3,R16,140,2,5,113,68,39,23,15,5,10,0,4,95,65,39,14,16,5,11
-2019-807,Acapulco,Hard,32,A,20190225,,DH58,5,,Alex de Minaur,R,,AUS,20.022,26,,L397,,,Feliciano Lopez,L,,ESP,37.432,73,,W/O,3,R16,140,2,5,113,68,39,23,15,5,10,0,4,95,65,39,14,16,5,11
+2019-807,Acapulco,Hard,32,A,20190225,,DH58,5,,Alex de Minaur,R,,AUS,20.022,26,,L397,,,Feliciano Lopez,L,,ESP,37.432,73,,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2019-807,Acapulco,Hard,32,A,20190225,,Z355,2,,Alexander Zverev,R,,GER,21.851,3,,F401,,WC,David Ferrer,L,,ESP,36.901,145,,7-6(0) 6-1,3,R16,88,9,6,62,37,29,15,10,3,4,0,2,59,36,23,9,9,3,6
 2019-807,Acapulco,Hard,32,A,20190225,,N409,1,,Rafael Nadal,L,,ESP,32.731,2,,Z168,,,Mischa Zverev,L,,GER,31.513,76,,6-3 6-3,3,R32,80,3,4,56,30,20,19,9,1,1,5,3,61,39,25,10,9,4,7
 2019-807,Acapulco,Hard,32,A,20190225,,KE17,,,Nick Kyrgios,R,,AUS,23.833,72,,SA93,,,Andreas Seppi,L,,ITA,35.012,49,,6-3 7-5,3,R32,73,13,1,61,41,30,13,10,4,5,6,3,55,31,25,9,11,1,5
@@ -640,8 +640,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-533,Sao Paulo,Clay,28,A,20190225,,DB63,,,Laslo Djere,R,,SRB,23.734,37,,G983,,Q,Alessandro Giannessi,L,,ITA,28.742,168,,7-6(5) 4-6 6-4,3,R32,142,1,4,94,53,34,27,16,0,4,4,0,107,74,49,18,16,5,9
 2019-404,Indian Wells Masters,Hard,96,M,20190304,,TB69,7,,Dominic Thiem,R,,AUT,25.498,8,,F324,4,,Roger Federer,L,,SUI,37.569,4,,3-6 6-3 7-5,3,F,122,1,3,97,67,47,18,15,9,11,3,2,84,59,42,12,15,1,4
 2019-404,Indian Wells Masters,Hard,96,M,20190304,,TB69,7,,Dominic Thiem,R,,AUT,25.498,8,,R975,13,,Milos Raonic,L,,CAN,28.183,14,,7-6(3) 6-7(3) 6-4,3,SF,151,5,2,104,79,65,15,17,1,1,17,5,110,71,57,22,17,2,3
-2019-404,Indian Wells Masters,Hard,96,M,20190304,,F324,4,,Roger Federer,R,,SUI,37.569,4,,N409,2,,Rafael Nadal,L,,ESP,32.75,2,,W/O,3,SF,151,5,2,104,79,65,15,17,1,1,17,5,110,71,57,22,17,2,3
-2019-404,Indian Wells Masters,Hard,96,M,20190304,,TB69,7,,Dominic Thiem,R,,AUT,25.498,8,,MC65,18,,Gael Monfils,L,,FRA,32.504,19,,W/O,3,QF,151,5,2,104,79,65,15,17,1,1,17,5,110,71,57,22,17,2,3
+2019-404,Indian Wells Masters,Hard,96,M,20190304,,F324,4,,Roger Federer,R,,SUI,37.569,4,,N409,2,,Rafael Nadal,L,,ESP,32.75,2,,W/O,3,SF,,,,,,,,,,,,,,,,,,,
+2019-404,Indian Wells Masters,Hard,96,M,20190304,,TB69,7,,Dominic Thiem,R,,AUT,25.498,8,,MC65,18,,Gael Monfils,L,,FRA,32.504,19,,W/O,3,QF,,,,,,,,,,,,,,,,,,,
 2019-404,Indian Wells Masters,Hard,96,M,20190304,,R975,13,,Milos Raonic,R,,CAN,28.183,14,,KI95,,LL,Miomir Kecmanovic,L,,SRB,19.507,130,,6-3 6-4,3,QF,72,13,0,62,34,30,15,10,3,3,2,1,44,31,23,8,9,1,3
 2019-404,Indian Wells Masters,Hard,96,M,20190304,,F324,4,,Roger Federer,R,,SUI,37.569,4,,HB71,,,Hubert Hurkacz,L,,POL,22.056,67,,6-4 6-4,3,QF,73,4,3,59,32,27,16,10,2,2,6,4,61,37,27,11,10,1,3
 2019-404,Indian Wells Masters,Hard,96,M,20190304,,N409,2,,Rafael Nadal,L,,ESP,32.75,2,,KE29,12,,Karen Khachanov,L,,RUS,22.784,13,,7-6(2) 7-6(2),3,QF,136,1,3,84,50,38,19,12,4,6,17,1,89,69,47,9,12,7,9
@@ -768,7 +768,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-403,Miami Masters,Hard,96,M,20190318,,D874,,,Federico Delbonis,L,,ARG,28.449,83,,MH30,32,,John Millman,L,,AUS,29.758,39,,7-5 3-6 7-6(2),3,R64,149,5,5,102,67,44,20,16,2,6,3,3,113,63,43,25,17,6,10
 2019-403,Miami Masters,Hard,96,M,20190318,,BD06,22,,Roberto Bautista Agut,R,,ESP,30.924,25,,T742,,PR,Janko Tipsarevic,L,,SRB,34.735,453,,7-6(3) 6-4,3,R64,119,2,2,61,34,25,17,11,0,2,2,3,93,58,33,18,11,11,14
 2019-403,Miami Masters,Hard,96,M,20190318,,F510,15,,Fabio Fognini,R,,ITA,31.817,17,,A887,,,Guido Andreozzi,L,,ARG,27.617,80,,5-7 6-4 6-4,3,R64,144,3,5,98,52,32,23,16,6,12,5,7,101,53,36,16,16,10,17
-2019-403,Miami Masters,Hard,96,M,20190318,,R975,12,,Milos Raonic,R,,CAN,28.222,14,,MN13,,,Maximilian Marterer,L,,GER,23.756,101,,W/O,3,R64,144,3,5,98,52,32,23,16,6,12,5,7,101,53,36,16,16,10,17
+2019-403,Miami Masters,Hard,96,M,20190318,,R975,12,,Milos Raonic,R,,CAN,28.222,14,,MN13,,,Maximilian Marterer,L,,GER,23.756,101,,W/O,3,R64,,,,,,,,,,,,,,,,,,,
 2019-403,Miami Masters,Hard,96,M,20190318,,E831,19,,Kyle Edmund,R,,GBR,24.189,22,,I305,,,Ilya Ivashka,L,,BLR,25.06,110,,6-3 6-2,3,R64,70,2,2,45,27,22,11,8,1,1,5,4,57,37,25,7,9,1,5
 2019-403,Miami Masters,Hard,96,M,20190318,,R772,,,Albert Ramos-Vinolas,L,,ESP,31.165,86,,PF39,25,,Lucas Pouille,L,,FRA,25.062,30,,4-6 6-4 6-3,3,R64,126,4,2,91,51,35,25,14,5,7,3,3,92,56,38,16,15,3,7
 2019-403,Miami Masters,Hard,96,M,20190318,,I186,7,,John Isner,R,,USA,33.892,9,,SU87,,Q,Lorenzo Sonego,L,,ITA,23.852,106,,7-6(2) 7-6(7),3,R64,108,20,3,70,48,44,15,12,0,0,5,4,85,51,39,20,12,1,1
@@ -792,7 +792,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-403,Miami Masters,Hard,96,M,20190318,,MD56,,,Leonardo Mayer,R,,ARG,31.841,62,,PC11,26,,Guido Pella,L,,ARG,28.835,32,,6-2 6-4,3,R64,100,8,10,74,42,34,13,9,10,11,4,2,69,47,27,10,9,7,11
 2019-403,Miami Masters,Hard,96,M,20190318,,SU55,20,,Denis Shapovalov,L,,CAN,19.923,23,,E687,,LL,Daniel Evans,L,,GBR,28.819,97,,4-6 6-1 6-3,3,R64,118,4,3,80,50,37,19,13,3,4,3,3,81,44,28,22,13,5,9
 2019-403,Miami Masters,Hard,96,M,20190318,,RE44,,Q,Andrey Rublev,R,,RUS,21.407,99,,C977,9,,Marin Cilic,L,,CRO,30.467,11,,6-4 6-4,3,R64,104,5,4,61,32,23,15,10,0,2,9,4,83,53,35,11,10,18,22
-2019-403,Miami Masters,Hard,96,M,20190318,,CF01,14,,Marco Cecchinato,R,,ITA,26.461,16,,D923,,,Damir Dzumhur,L,,BIH,26.825,53,,W/O,3,R64,104,5,4,61,32,23,15,10,0,2,9,4,83,53,35,11,10,18,22
+2019-403,Miami Masters,Hard,96,M,20190318,,CF01,14,,Marco Cecchinato,R,,ITA,26.461,16,,D923,,,Damir Dzumhur,L,,BIH,26.825,53,,W/O,3,R64,,,,,,,,,,,,,,,,,,,
 2019-403,Miami Masters,Hard,96,M,20190318,,GB88,18,,David Goffin,R,,BEL,28.277,20,,A596,,,Pablo Andujar,L,,ESP,33.147,88,,6-4 6-1,3,R64,90,7,2,66,42,32,8,9,7,9,1,1,60,40,19,8,8,5,10
 2019-403,Miami Masters,Hard,96,M,20190318,,TD51,28,,Frances Tiafoe,R,,USA,21.155,34,,KI95,,WC,Miomir Kecmanovic,L,,SRB,19.546,95,,7-6(6) 7-6(5),3,R64,124,5,4,85,60,40,11,12,1,4,2,2,104,62,40,19,12,11,14
 2019-403,Miami Masters,Hard,96,M,20190318,,F401,,WC,David Ferrer,R,,ESP,36.958,155,,Z355,2,,Alexander Zverev,L,,GER,21.908,3,,2-6 7-5 6-3,3,R64,142,0,2,84,53,30,19,14,3,7,9,12,100,55,38,18,15,9,14
@@ -861,7 +861,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-360,Marrakech,Clay,28,A,20190408,,PD31,,,Benoit Paire,R,,FRA,29.916,69,,MU94,,,Jaume Munar,L,,ESP,21.925,60,,6-1 6-3,3,QF,58,6,5,49,26,22,13,8,2,2,2,0,46,26,16,8,8,4,8
 2019-360,Marrakech,Clay,28,A,20190408,,T786,,WC,Jo-Wilfried Tsonga,R,,FRA,33.974,116,,SU87,,Q,Lorenzo Sonego,L,,ITA,23.91,103,,6-3 6-2,3,QF,66,4,2,43,29,26,10,9,0,0,5,3,44,26,19,7,8,3,6
 2019-360,Marrakech,Clay,28,A,20190408,,SD32,4,,Gilles Simon,R,,FRA,34.278,27,,DA81,,,Taro Daniel,L,,JPN,26.193,75,,6-4 7-5,3,QF,154,2,2,89,57,37,14,11,12,15,2,3,83,53,30,13,11,6,11
-2019-360,Marrakech,Clay,28,A,20190408,,A596,,,Pablo Andujar,R,,ESP,33.205,70,,V708,,,Jiri Vesely,L,,CZE,25.744,101,,W/O,3,QF,154,2,2,89,57,37,14,11,12,15,2,3,83,53,30,13,11,6,11
+2019-360,Marrakech,Clay,28,A,20190408,,A596,,,Pablo Andujar,R,,ESP,33.205,70,,V708,,,Jiri Vesely,L,,CZE,25.744,101,,W/O,3,QF,,,,,,,,,,,,,,,,,,,
 2019-360,Marrakech,Clay,28,A,20190408,,MU94,,,Jaume Munar,U,,ESP,21.925,60,,Z355,1,,Alexander Zverev,L,,GER,21.966,3,,7-6(1) 2-6 6-3,3,R16,145,4,2,103,58,38,23,14,5,9,6,7,90,61,36,13,15,2,6
 2019-360,Marrakech,Clay,28,A,20190408,,PD31,,,Benoit Paire,R,,FRA,29.916,69,,H996,8,,Pierre-Hugues Herbert,L,,FRA,28.057,50,,6-4 6-2,3,R16,76,7,2,60,32,29,12,9,2,2,3,3,66,44,24,13,9,4,7
 2019-360,Marrakech,Clay,28,A,20190408,,T786,,WC,Jo-Wilfried Tsonga,R,,FRA,33.974,116,,E831,3,,Kyle Edmund,L,,GBR,24.246,22,,7-6(6) 6-3,3,R16,89,8,1,60,44,37,9,10,1,1,7,1,66,36,28,17,11,2,4
@@ -911,7 +911,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-410,Monte Carlo Masters,Clay,48,M,20190415,,SU87,,Q,Lorenzo Sonego,R,,ITA,23.929,96,,KE29,8,,Karen Khachanov,L,,RUS,22.899,12,,7-6(4) 6-4,3,R32,112,5,0,78,50,37,19,11,7,8,3,1,73,48,28,17,11,1,3
 2019-410,Monte Carlo Masters,Clay,48,M,20190415,,H996,,,Pierre-Hugues Herbert,R,,FRA,28.077,49,,N552,5,,Kei Nishikori,L,,JPN,29.292,6,,7-5 6-4,3,R32,102,7,2,74,43,35,18,11,10,10,2,1,68,48,32,12,11,1,3
 2019-410,Monte Carlo Masters,Clay,48,M,20190415,,CG80,9,,Borna Coric,R,,CRO,22.415,13,,MU94,,WC,Jaume Munar,L,,ESP,21.944,61,,6-7(3) 7-6(7) 6-4,3,R32,208,3,3,132,78,53,30,17,12,15,5,1,127,75,53,22,17,5,9
-2019-410,Monte Carlo Masters,Clay,48,M,20190415,,F510,13,,Fabio Fognini,R,,ITA,31.893,18,,SD32,,,Gilles Simon,L,,FRA,34.297,26,,W/O,3,R32,208,3,3,132,78,53,30,17,12,15,5,1,127,75,53,22,17,5,9
+2019-410,Monte Carlo Masters,Clay,48,M,20190415,,F510,13,,Fabio Fognini,R,,ITA,31.893,18,,SD32,,,Gilles Simon,L,,FRA,34.297,26,,W/O,3,R32,,,,,,,,,,,,,,,,,,,
 2019-410,Monte Carlo Masters,Clay,48,M,20190415,,Z355,3,,Alexander Zverev,R,,GER,21.985,3,,AG37,,WC,Felix Auger-Aliassime,L,,CAN,18.683,33,,6-1 6-4,3,R32,78,0,3,47,32,21,7,8,1,3,1,5,53,26,12,10,9,1,7
 2019-410,Monte Carlo Masters,Clay,48,M,20190415,,PC11,,,Guido Pella,L,,ARG,28.912,35,,C977,7,,Marin Cilic,L,,CRO,30.543,11,,6-3 5-7 6-1,3,R32,136,5,2,76,48,26,17,14,1,6,4,7,93,45,32,13,14,5,13
 2019-410,Monte Carlo Masters,Clay,48,M,20190415,,CF01,11,,Marco Cecchinato,R,,ITA,26.538,16,,W367,,,Stan Wawrinka,L,,SUI,34.048,36,,0-6 7-5 6-3,3,R32,104,2,2,92,61,41,14,14,5,9,5,2,69,36,25,18,13,0,3
@@ -1072,7 +1072,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-1536,Madrid Masters,Clay,56,M,20190506,,D643,1,,Novak Djokovic,R,,SRB,31.956,1,,TE51,8,,Stefanos Tsitsipas,L,,GRE,20.731,9,,6-3 6-4,3,F,92,2,0,59,40,31,11,10,0,0,1,1,56,33,20,13,9,3,5
 2019-1536,Madrid Masters,Clay,56,M,20190506,,D643,1,,Novak Djokovic,R,,SRB,31.956,1,,TB69,5,,Dominic Thiem,L,,AUT,25.67,5,,7-6(2) 7-6(4),3,SF,142,3,1,90,55,41,16,12,7,10,2,2,81,42,27,21,12,0,3
 2019-1536,Madrid Masters,Clay,56,M,20190506,,TE51,8,,Stefanos Tsitsipas,R,,GRE,20.731,9,,N409,2,,Rafael Nadal,L,,ESP,32.923,2,,6-4 2-6 6-3,3,SF,154,5,1,86,60,34,11,13,11,16,1,1,94,69,41,11,14,8,14
-2019-1536,Madrid Masters,Clay,56,M,20190506,,D643,1,,Novak Djokovic,R,,SRB,31.956,1,,C977,9,,Marin Cilic,L,,CRO,30.601,11,,W/O,3,QF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-1536,Madrid Masters,Clay,56,M,20190506,,D643,1,,Novak Djokovic,R,,SRB,31.956,1,,C977,9,,Marin Cilic,L,,CRO,30.601,11,,W/O,3,QF,,,,,,,,,,,,,,,,,,,
 2019-1536,Madrid Masters,Clay,56,M,20190506,,TB69,5,,Dominic Thiem,R,,AUT,25.67,5,,F324,4,,Roger Federer,L,,SUI,37.741,3,,3-6 7-6(11) 6-4,3,QF,130,8,1,96,67,54,16,15,3,5,6,3,106,76,60,14,16,10,12
 2019-1536,Madrid Masters,Clay,56,M,20190506,,TE51,8,,Stefanos Tsitsipas,R,,GRE,20.731,9,,Z355,3,,Alexander Zverev,L,,GER,22.042,4,,7-5 3-6 6-2,3,QF,130,4,2,88,61,47,13,14,4,5,8,4,96,67,46,16,15,5,8
 2019-1536,Madrid Masters,Clay,56,M,20190506,,N409,2,,Rafael Nadal,L,,ESP,32.923,2,,W367,,,Stan Wawrinka,L,,SUI,34.105,34,,6-1 6-2,3,QF,68,0,0,39,28,22,10,8,0,0,3,2,45,26,14,6,7,6,10
@@ -1129,7 +1129,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-416,Rome Masters,Clay,56,M,20190513,,N409,2,,Rafael Nadal,L,,ESP,32.942,2,,TE51,8,,Stefanos Tsitsipas,L,,GRE,20.75,7,,6-3 6-4,3,SF,102,1,1,59,35,25,19,10,2,2,7,1,53,34,26,8,9,2,4
 2019-416,Rome Masters,Clay,56,M,20190513,,D643,1,,Novak Djokovic,R,,SRB,31.975,1,,D683,7,,Juan Martin del Potro,L,,ARG,30.634,9,,4-6 7-6(6) 6-4,3,QF,181,6,3,99,67,45,23,16,5,7,12,1,114,77,55,18,16,9,11
 2019-416,Rome Masters,Clay,56,M,20190513,,SM37,,,Diego Schwartzman,R,,ARG,26.738,24,,N552,6,,Kei Nishikori,L,,JPN,29.369,6,,6-4 6-2,3,QF,87,2,1,53,33,22,11,9,1,3,2,2,60,39,23,7,9,6,11
-2019-416,Rome Masters,Clay,56,M,20190513,,TE51,8,,Stefanos Tsitsipas,R,,GRE,20.75,7,,F324,3,,Roger Federer,L,,SUI,37.76,3,,W/O,3,QF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-416,Rome Masters,Clay,56,M,20190513,,TE51,8,,Stefanos Tsitsipas,R,,GRE,20.75,7,,F324,3,,Roger Federer,L,,SUI,37.76,3,,W/O,3,QF,,,,,,,,,,,,,,,,,,,
 2019-416,Rome Masters,Clay,56,M,20190513,,N409,2,,Rafael Nadal,L,,ESP,32.942,2,,V306,,,Fernando Verdasco,L,,ESP,35.491,38,,6-4 6-0,3,QF,98,2,1,59,41,31,7,8,8,9,0,5,52,34,18,4,8,3,8
 2019-416,Rome Masters,Clay,56,M,20190513,,D643,1,,Novak Djokovic,R,,SRB,31.975,1,,K435,,,Philipp Kohlschreiber,L,,GER,35.573,56,,6-3 6-0,3,R16,62,2,3,54,33,25,13,8,3,3,2,0,38,23,11,7,7,0,4
 2019-416,Rome Masters,Clay,56,M,20190513,,D683,7,,Juan Martin del Potro,R,,ARG,30.634,9,,RH16,,Q,Casper Ruud,L,,NOR,20.389,76,,6-4 6-4,3,R16,95,8,2,63,39,31,12,10,1,2,2,2,61,39,24,13,10,4,7
@@ -1191,7 +1191,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-7694,Lyon,Clay,28,A,20190520,,J386,,,Steve Johnson,R,,USA,29.402,59,,H996,7,,Pierre-Hugues Herbert,L,,FRA,28.172,42,,7-6(6) 5-7 6-1,3,R16,144,6,1,89,59,43,19,15,2,4,8,4,109,67,45,23,16,7,11
 2019-7694,Lyon,Clay,28,A,20190520,,PD31,,,Benoit Paire,R,,FRA,30.031,51,,C882,,,Pablo Cuevas,L,,URU,33.38,50,,6-4 6-3,3,R16,67,4,6,53,22,16,15,9,1,4,3,6,64,35,21,9,10,4,10
 2019-7694,Lyon,Clay,28,A,20190520,,SU55,3,,Denis Shapovalov,L,,CAN,20.096,23,,HH26,,,Ugo Humbert,L,,FRA,20.898,61,,2-6 7-6(3) 6-2,3,R16,136,7,5,91,55,36,19,14,5,10,6,5,96,47,32,22,14,5,10
-2019-7694,Lyon,Clay,28,A,20190520,,FB98,,,Taylor Fritz,R,,USA,21.558,46,,G628,6,,Richard Gasquet,L,,FRA,32.92,39,,W/O,3,R16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-7694,Lyon,Clay,28,A,20190520,,FB98,,,Taylor Fritz,R,,USA,21.558,46,,G628,6,,Richard Gasquet,L,,FRA,32.92,39,,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2019-7694,Lyon,Clay,28,A,20190520,,BD06,2,,Roberto Bautista Agut,R,,ESP,31.097,21,,MW02,,WC,Corentin Moutet,L,,FRA,20.085,117,,4-6 6-4 6-3,3,R16,140,4,1,91,58,36,17,15,6,11,7,5,99,65,43,11,14,8,14
 2019-7694,Lyon,Clay,28,A,20190520,,LC11,,LL,Tristan Lamasine,R,,FRA,26.207,270,,S0AG,,Q,Jannik Sinner,L,,ITA,17.758,229,,6-0 7-6(5),3,R32,77,1,1,66,50,38,6,9,4,5,3,2,55,31,14,17,9,3,7
 2019-7694,Lyon,Clay,28,A,20190520,,D916,,Q,Steven Diez,R,,CAN,28.175,262,,TA46,,,Bernard Tomic,L,,AUS,26.576,82,,6-4 4-1 RET,3,R32,69,1,0,39,26,17,9,7,3,5,5,1,74,34,22,13,8,10,15
@@ -1385,7 +1385,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-440,S-Hertogenbosch,Grass,32,A,20190610,,H756,,,Robin Haase,R,,NED,32.178,67,,HH26,,,Ugo Humbert,L,,FRA,20.956,64,,5-7 7-6(2) 7-6(4),3,R32,146,15,3,112,69,55,24,18,3,5,18,3,114,70,57,23,18,3,4
 2019-440,S-Hertogenbosch,Grass,32,A,20190610,,FB98,,,Taylor Fritz,R,,USA,21.615,41,,R09X,,WC,Jurij Rodionov,L,,AUT,20.068,211,,7-6(2) 6-4,3,R32,79,14,2,73,41,33,20,11,7,7,8,0,65,39,30,16,11,2,3
 2019-321,Stuttgart,Grass,32,A,20190610,,BK40,,,Matteo Berrettini,U,,ITA,23.159,30,,AG37,7,,Felix Auger-Aliassime,L,,CAN,18.836,21,,6-4 7-6(11),3,F,107,6,2,71,44,41,16,11,0,0,16,1,76,52,44,12,11,5,6
-2019-321,Stuttgart,Grass,32,A,20190610,,AG37,7,,Felix Auger-Aliassime,R,,CAN,18.836,21,,R975,6,,Milos Raonic,L,,CAN,28.452,18,,W/O,3,SF,107,6,2,71,44,41,16,11,0,0,16,1,76,52,44,12,11,5,6
+2019-321,Stuttgart,Grass,32,A,20190610,,AG37,7,,Felix Auger-Aliassime,R,,CAN,18.836,21,,R975,6,,Milos Raonic,L,,CAN,28.452,18,,W/O,3,SF,,,,,,,,,,,,,,,,,,,
 2019-321,Stuttgart,Grass,32,A,20190610,,BK40,,,Matteo Berrettini,U,,ITA,23.159,30,,SL28,,,Jan-Lennard Struff,L,,GER,29.125,38,,6-4 7-5,3,SF,74,8,4,57,37,33,13,11,2,2,7,2,62,36,28,15,11,2,4
 2019-321,Stuttgart,Grass,32,A,20190610,,AG37,7,,Felix Auger-Aliassime,R,,CAN,18.836,21,,BA65,,Q,Dustin Brown,L,,GER,34.502,170,,7-6(3) 6-7(2) 7-6(2),3,QF,148,30,3,116,77,64,23,18,4,5,9,6,124,81,56,28,18,6,7
 2019-321,Stuttgart,Grass,32,A,20190610,,R975,6,,Milos Raonic,R,,CAN,28.452,18,,F724,,,Marton Fucsovics,L,,HUN,27.335,52,,6-4 6-4,3,QF,73,12,4,53,36,32,10,10,1,1,7,7,60,31,24,12,10,0,2
@@ -1451,7 +1451,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-311,Queen's,Grass,32,A,20190617,,SD32,,,Gilles Simon,R,,FRA,34.47,38,,M873,,Q,Nicolas Mahut,L,,FRA,37.402,191,,7-6(5) 5-7 7-6(3),3,QF,200,10,3,137,86,61,27,18,10,13,6,4,157,99,69,26,18,11,13
 2019-311,Queen's,Grass,32,A,20190617,,TE51,1,,Stefanos Tsitsipas,R,,GRE,20.846,6,,CA12,,,Jeremy Chardy,L,,FRA,32.342,65,,4-6 7-6(0) 7-6(4),3,R16,158,12,6,114,82,62,11,17,7,11,8,5,139,92,59,24,17,10,13
 2019-311,Queen's,Grass,32,A,20190617,,AG37,8,,Felix Auger-Aliassime,R,,CAN,18.856,21,,KE17,,,Nick Kyrgios,L,,AUS,24.14,39,,6-7(4) 7-6(3) 7-5,3,R16,133,19,7,104,65,54,26,18,0,0,17,3,107,71,56,24,18,1,2
-2019-311,Queen's,Grass,32,A,20190617,,L397,,WC,Feliciano Lopez,L,,ESP,37.739,113,,D683,3,,Juan Martin del Potro,L,,ARG,30.73,12,,W/O,3,R16,133,19,7,104,65,54,26,18,0,0,17,3,107,71,56,24,18,1,2
+2019-311,Queen's,Grass,32,A,20190617,,L397,,WC,Feliciano Lopez,L,,ESP,37.739,113,,D683,3,,Juan Martin del Potro,L,,ARG,30.73,12,,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2019-311,Queen's,Grass,32,A,20190617,,R975,6,,Milos Raonic,R,,CAN,28.471,18,,BH09,,Q,Aljaz Bedene,L,,SLO,29.914,92,,6-3 7-6(3),3,R16,85,16,5,67,38,31,16,11,3,5,6,2,59,29,21,16,10,0,3
 2019-311,Queen's,Grass,32,A,20190617,,SM37,,,Diego Schwartzman,R,,ARG,26.834,23,,C977,5,,Marin Cilic,L,,CRO,30.716,15,,6-4 6-4,3,R16,82,3,3,52,33,26,13,10,2,3,6,4,63,37,27,11,10,5,8
 2019-311,Queen's,Grass,32,A,20190617,,MM58,4,,Daniil Medvedev,R,,RUS,23.346,13,,PF39,,,Lucas Pouille,L,,FRA,25.311,29,,7-6(9) 6-7(5) 6-4,3,R16,134,11,4,110,64,44,29,17,0,3,2,4,110,63,44,25,17,3,7
@@ -1914,7 +1914,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-418,Washington,Hard,48,A,20190727,,TE51,1,,Stefanos Tsitsipas,R,,GRE,20.956,6,,TC61,,,Jordan Thompson,R,,AUS,25.268,46,,6-3 7-6(4),3,R16,99,3,1,69,40,34,20,11,4,4,5,0,69,47,36,10,10,6,7
 2019-418,Washington,Hard,48,A,20190727,,KE17,,,Nick Kyrgios,R,,AUS,24.249,52,,N732,,,Yoshihito Nishioka,L,,JPN,23.83,77,,6-2 7-5,3,R16,75,15,1,55,41,35,5,10,2,2,0,2,59,33,22,12,10,5,9
 2019-421,Canada Masters,Hard,56,M,20190805,,N409,1,,Rafael Nadal,L,,ESP,33.172,2,,MM58,8,,Daniil Medvedev,L,,RUS,23.48,9,,6-3 6-0,3,F,70,0,1,46,33,27,8,8,1,1,5,5,49,31,19,6,7,4,8
-2019-421,Canada Masters,Hard,56,M,20190805,,N409,1,,Rafael Nadal,L,,ESP,33.172,2,,MC65,16,,Gael Monfils,L,,FRA,32.925,20,,W/O,3,SF,70,0,1,46,33,27,8,8,1,1,5,5,49,31,19,6,7,4,8
+2019-421,Canada Masters,Hard,56,M,20190805,,N409,1,,Rafael Nadal,L,,ESP,33.172,2,,MC65,16,,Gael Monfils,L,,FRA,32.925,20,,W/O,3,SF,,,,,,,,,,,,,,,,,,,
 2019-421,Canada Masters,Hard,56,M,20190805,,MM58,8,,Daniil Medvedev,R,,RUS,23.48,9,,KE29,6,,Karen Khachanov,L,,RUS,23.206,8,,6-1 7-6(6),3,SF,83,4,5,65,37,33,11,10,0,2,4,4,55,29,17,11,9,2,6
 2019-421,Canada Masters,Hard,56,M,20190805,,N409,1,,Rafael Nadal,L,,ESP,33.172,2,,F510,7,,Fabio Fognini,L,,ITA,32.2,11,,2-6 6-1 6-2,3,QF,117,7,1,70,40,35,11,12,3,5,4,2,67,47,29,8,11,2,6
 2019-421,Canada Masters,Hard,56,M,20190805,,MC65,16,,Gael Monfils,R,,FRA,32.925,20,,BD06,10,,Roberto Bautista Agut,L,,ESP,31.307,13,,6-4 3-6 7-6(2),3,QF,144,6,3,116,76,58,18,15,8,10,2,0,91,64,49,17,16,7,9
@@ -1974,7 +1974,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-422,Cincinnati Masters,Hard,56,M,20190812,,D643,1,,Novak Djokovic,R,,SRB,32.225,1,,PF39,,,Lucas Pouille,L,,FRA,25.465,31,,7-6(2) 6-1,3,QF,86,5,6,63,45,40,7,10,3,3,2,5,62,37,24,12,9,2,4
 2019-422,Cincinnati Masters,Hard,56,M,20190812,,MM58,9,,Daniil Medvedev,R,,RUS,23.499,8,,RE44,,Q,Andrey Rublev,L,,RUS,21.81,70,,6-2 6-3,3,QF,61,9,2,51,28,21,13,9,0,1,4,2,47,26,17,6,8,3,7
 2019-422,Cincinnati Masters,Hard,56,M,20190812,,G628,,PR,Richard Gasquet,R,,FRA,33.15,56,,BD06,11,,Roberto Bautista Agut,L,,ESP,31.326,11,,7-6(2) 3-6 6-2,3,QF,133,8,5,96,52,38,27,15,5,7,6,3,87,55,42,15,14,2,4
-2019-422,Cincinnati Masters,Hard,56,M,20190812,,GB88,16,,David Goffin,R,,BEL,28.679,19,,N732,,Q,Yoshihito Nishioka,L,,JPN,23.874,77,,W/O,3,QF,133,8,5,96,52,38,27,15,5,7,6,3,87,55,42,15,14,2,4
+2019-422,Cincinnati Masters,Hard,56,M,20190812,,GB88,16,,David Goffin,R,,BEL,28.679,19,,N732,,Q,Yoshihito Nishioka,L,,JPN,23.874,77,,W/O,3,QF,,,,,,,,,,,,,,,,,,,
 2019-422,Cincinnati Masters,Hard,56,M,20190812,,D643,1,,Novak Djokovic,R,,SRB,32.225,1,,CD85,,Q,Pablo Carreno Busta,L,,ESP,28.085,53,,6-3 6-4,3,R16,90,8,0,62,44,36,9,10,4,4,0,2,62,42,26,11,9,4,6
 2019-422,Cincinnati Masters,Hard,56,M,20190812,,PF39,,,Lucas Pouille,R,,FRA,25.465,31,,KE29,8,,Karen Khachanov,L,,RUS,23.225,9,,6-7(3) 6-4 6-2,3,R16,118,9,5,100,60,45,24,15,2,2,17,2,89,64,48,13,15,7,10
 2019-422,Cincinnati Masters,Hard,56,M,20190812,,RE44,,Q,Andrey Rublev,R,,RUS,21.81,70,,F324,3,,Roger Federer,L,,SUI,38.01,3,,6-3 6-4,3,R16,61,5,0,54,33,27,12,10,2,3,5,2,49,32,20,9,9,1,4
@@ -2102,12 +2102,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-560,US Open,Hard,128,G,20190826,,A596,,,Pablo Andujar,R,,ESP,33.588,70,,BK92,,,Alexander Bublik,L,,KAZ,22.19,75,,6-4 6-3 6-2,5,R32,119,3,3,90,57,42,18,14,1,2,7,6,93,47,31,18,13,5,10
 2019-560,US Open,Hard,128,G,20190826,,D875,,,Grigor Dimitrov,R,,BUL,28.279,78,,MQ75,,,Kamil Majchrzak,L,,POL,23.617,94,,7-5 7-6(8) 6-2,5,R32,137,8,4,99,58,47,26,16,6,7,9,5,107,64,48,19,17,4,8
 2019-560,US Open,Hard,128,G,20190826,,D643,1,,Novak Djokovic,R,,SRB,32.263,1,,LB84,,,Juan Ignacio Londero,L,,ARG,26.029,56,,6-4 7-6(3) 6-1,5,R64,135,7,8,82,42,30,19,14,3,8,6,5,103,64,31,18,16,9,18
-2019-560,US Open,Hard,128,G,20190826,,N409,2,,Rafael Nadal,L,,ESP,33.229,2,,KD46,,,Thanasi Kokkinakis,L,,AUS,23.376,203,,W/O,5,R64,135,7,8,82,42,30,19,14,3,8,6,5,103,64,31,18,16,9,18
+2019-560,US Open,Hard,128,G,20190826,,N409,2,,Rafael Nadal,L,,ESP,33.229,2,,KD46,,,Thanasi Kokkinakis,L,,AUS,23.376,203,,W/O,5,R64,,,,,,,,,,,,,,,,,,,
 2019-560,US Open,Hard,128,G,20190826,,F324,3,,Roger Federer,R,,SUI,38.048,3,,D923,,,Damir Dzumhur,L,,BIH,27.266,99,,3-6 6-2 6-3 6-4,5,R64,142,16,4,119,82,63,16,18,6,8,2,8,117,76,49,21,18,4,9
 2019-560,US Open,Hard,128,G,20190826,,MM58,5,,Daniil Medvedev,R,,RUS,23.537,5,,DA31,,,Hugo Dellien,L,,BOL,26.193,84,,6-3 7-5 5-7 6-3,5,R64,163,16,6,115,62,47,26,21,8,14,0,0,142,110,61,15,21,17,26
 2019-560,US Open,Hard,128,G,20190826,,Z355,6,,Alexander Zverev,R,,GER,22.349,6,,TD51,,,Frances Tiafoe,L,,USA,21.596,45,,6-3 3-6 6-2 2-6 6-3,5,R64,189,22,11,153,96,72,26,22,8,11,6,2,127,89,63,20,21,8,12
 2019-560,US Open,Hard,128,G,20190826,,N552,7,,Kei Nishikori,R,,JPN,29.656,7,,KA98,,,Bradley Klahn,L,,USA,29.016,108,,6-2 4-6 6-3 7-5,5,R64,164,2,5,106,53,38,32,19,5,9,18,8,126,64,49,23,20,12,20
-2019-560,US Open,Hard,128,G,20190826,,D875,,,Grigor Dimitrov,R,,BUL,28.279,78,,CG80,12,,Borna Coric,L,,CRO,22.779,12,,W/O,5,R64,164,2,5,106,53,38,32,19,5,9,18,8,126,64,49,23,20,12,20
+2019-560,US Open,Hard,128,G,20190826,,D875,,,Grigor Dimitrov,R,,BUL,28.279,78,,CG80,12,,Borna Coric,L,,CRO,22.779,12,,W/O,5,R64,,,,,,,,,,,,,,,,,,,
 2019-560,US Open,Hard,128,G,20190826,,MC65,13,,Gael Monfils,R,,FRA,32.983,13,,CA99,,,Marius Copil,L,,ROU,28.857,93,,6-3 6-2 6-2,5,R64,83,5,6,74,47,40,14,13,5,6,4,5,67,34,24,11,12,3,9
 2019-560,US Open,Hard,128,G,20190826,,I186,14,,John Isner,R,,USA,34.333,14,,SL28,,,Jan-Lennard Struff,L,,GER,29.336,37,,6-3 7-6(4) 7-6(5),5,R64,135,22,1,102,72,60,15,19,2,3,18,6,102,46,36,32,16,4,6
 2019-560,US Open,Hard,128,G,20190826,,GB88,15,,David Goffin,R,,BEL,28.717,15,,BK24,,,Gregoire Barrere,L,,FRA,25.522,109,,6-2 6-2 6-2,5,R64,86,8,5,65,35,30,18,12,0,1,2,4,71,43,27,8,12,5,12
@@ -2546,7 +2546,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-328,Basel,Hard,32,A,20191021,,F324,1,,Roger Federer,R,,SUI,38.201,3,,DH58,,WC,Alex de Minaur,L,,AUS,20.674,28,,6-2 6-2,3,F,68,4,0,50,32,25,11,8,0,0,0,1,46,30,16,8,8,6,10
 2019-328,Basel,Hard,32,A,20191021,,F324,1,,Roger Federer,R,,SUI,38.201,3,,TE51,3,,Stefanos Tsitsipas,L,,GRE,21.191,7,,6-4 6-4,3,SF,78,6,2,52,30,24,17,10,1,1,4,3,65,43,32,11,10,6,8
 2019-328,Basel,Hard,32,A,20191021,,DH58,,WC,Alex de Minaur,R,,AUS,20.674,28,,O522,,,Reilly Opelka,L,,USA,22.146,37,,7-6(2) 6-7(4) 7-6(3),3,SF,153,14,0,105,59,50,34,18,1,2,26,3,113,67,51,28,18,1,2
-2019-328,Basel,Hard,32,A,20191021,,F324,1,,Roger Federer,R,,SUI,38.201,3,,W367,7,,Stan Wawrinka,L,,SUI,34.565,17,,W/O,3,QF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-328,Basel,Hard,32,A,20191021,,F324,1,,Roger Federer,R,,SUI,38.201,3,,W367,7,,Stan Wawrinka,L,,SUI,34.565,17,,W/O,3,QF,,,,,,,,,,,,,,,,,,,
 2019-328,Basel,Hard,32,A,20191021,,TE51,3,,Stefanos Tsitsipas,R,,GRE,21.191,7,,KB05,,SE,Filip Krajinovic,L,,SRB,27.647,46,,3-6 6-4 6-4,3,QF,113,12,1,80,54,39,17,15,3,6,2,2,87,63,44,12,14,3,6
 2019-328,Basel,Hard,32,A,20191021,,O522,,,Reilly Opelka,R,,USA,22.146,37,,BD06,4,,Roberto Bautista Agut,L,,ESP,31.518,10,,6-3 3-6 6-3,3,QF,93,31,5,77,54,49,5,14,3,5,3,1,63,39,33,12,13,1,4
 2019-328,Basel,Hard,32,A,20191021,,DH58,,WC,Alex de Minaur,R,,AUS,20.674,28,,SL28,,,Jan-Lennard Struff,L,,GER,29.489,41,,6-4 7-6(4),3,QF,102,2,0,78,50,37,17,11,0,1,12,2,69,41,34,14,11,3,5
@@ -2576,7 +2576,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-328,Basel,Hard,32,A,20191021,,TD51,,,Frances Tiafoe,R,,USA,21.749,48,,E687,,,Daniel Evans,L,,GBR,29.413,43,,6-4 6-2,3,R32,76,4,1,64,45,34,7,9,6,7,8,1,54,36,24,8,9,2,6
 2019-352,Paris Masters,Hard,56,M,20191028,,D643,1,,Novak Djokovic,R,,SRB,32.435,1,,SU55,,,Denis Shapovalov,L,,CAN,20.537,28,,6-3 6-4,3,F,65,2,1,51,36,29,12,10,1,1,11,3,53,36,30,3,9,2,4
 2019-352,Paris Masters,Hard,56,M,20191028,,D643,1,,Novak Djokovic,R,,SRB,32.435,1,,D875,,,Grigor Dimitrov,L,,BUL,28.452,27,,7-6(5) 6-4,3,SF,98,5,4,62,40,34,14,11,0,0,7,1,60,40,32,13,11,1,2
-2019-352,Paris Masters,Hard,56,M,20191028,,SU55,,,Denis Shapovalov,L,,CAN,20.537,28,,N409,2,,Rafael Nadal,L,,ESP,33.402,2,,W/O,3,SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019-352,Paris Masters,Hard,56,M,20191028,,SU55,,,Denis Shapovalov,L,,CAN,20.537,28,,N409,2,,Rafael Nadal,L,,ESP,33.402,2,,W/O,3,SF,,,,,,,,,,,,,,,,,,,
 2019-352,Paris Masters,Hard,56,M,20191028,,D643,1,,Novak Djokovic,R,,SRB,32.435,1,,TE51,7,,Stefanos Tsitsipas,L,,GRE,21.21,7,,6-1 6-2,3,QF,58,5,0,42,29,23,10,8,0,0,3,3,42,24,15,6,7,5,9
 2019-352,Paris Masters,Hard,56,M,20191028,,N409,2,,Rafael Nadal,L,,ESP,33.402,2,,T786,,WC,Jo-Wilfried Tsonga,L,,FRA,34.53,35,,7-6(4) 6-1,3,QF,95,7,1,58,40,37,8,10,0,0,8,2,53,33,29,5,9,0,2
 2019-352,Paris Masters,Hard,56,M,20191028,,SU55,,,Denis Shapovalov,L,,CAN,20.537,28,,MC65,13,,Gael Monfils,L,,FRA,33.155,13,,6-2 6-2,3,QF,59,5,0,39,25,23,9,8,0,0,3,3,56,33,18,11,8,1,5
