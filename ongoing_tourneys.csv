@@ -27,6 +27,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,BH09,,,Aljaz Bedene,R,,SLO,31.096509,61,,FB98,,,Taylor Fritz,R,,USA,22.817248,24,,7-6(5) 7-5,3,R32,104,11,3,77,43,36,17,12,3,4,10,1,71,45,33,16,12,4,6
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,I186,,,John Isner,R,,USA,35.323751,21,,MH30,,,John Millman,R,,AUS,31.189596,43,,4-6 7-6(3) 7-6(5),3,R32,32,7,1,27,21,15,2,4,3,4,2,0,21,6,5,10,3,1,1
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,SL08,,,Tennys Sandgren,R,,USA,29.086927,55,,AG37,,,Felix Auger-Aliassime,R,,CAN,20.03833,20,,6-7(4) 6-2 7-6(5),3,R32,157,5,4,100,56,39,28,16,4,6,2,14,105,60,44,20,15,9,13
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,F724,,,Marton Fucsovics,R,,HUN,28.536619,84,,D875,,,Grigor Dimitrov,R,,BUL,29.270363,19,,7-5 4-6 6-2,3,R32,9,0,1,6,4,4,0,1,0,0,0,1,9,5,3,1,1,0,1
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,SL28,,,Jan-Lennard Struff,R,,GER,30.327173,34,,SU55,,,Denis Shapovalov,L,,CAN,21.355236,16,,7-6(4) 3-6 6-4,3,R32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,KE29,,,Karen Khachanov,R,,RUS,24.25462,15,,CD85,,,Pablo Carreno Busta,R,,ESP,29.114305,25,,7-6(8) 6-1,3,R32,40,4,1,31,13,10,14,6,0,0,4,0,29,20,15,7,5,0,0
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,O522,,,Reilly Opelka,R,,USA,22.984257,39,,SM37,,,Diego Schwartzman,R,,ARG,28.016427,13,,6-3 7-6(4),3,R32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,3 +38,4 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,TE51,,,Stefanos Tsitsipas,R,,GRE,22.028747,6,,A678,,,Kevin Anderson,R,,RSA,34.264203,123,,6-1 6-3,3,R32,4,0,0,0,0,0,0,0,0,0,0,0,6,3,2,1,0,0,0
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,MM58,,,Daniil Medvedev,R,,RUS,24.528405,5,,GC88,,,Marcos Giron,R,,USA,27.080082,102,,6-4 6-4,3,R32,6,1,1,5,3,3,1,1,0,0,0,0,7,7,6,0,1,0,0
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,KB05,,,Filip Krajinovic,R,,SRB,28.4846,32,,TB69,,,Dominic Thiem,R,,AUT,26.96783,3,,6-2 6-1,3,R32,38,3,0,21,15,14,6,5,0,0,1,3,34,17,12,4,4,0,2
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,D643,,,Novak Djokovic,R,,SRB,33.253936,1,,BE90,,,Ricardas Berankis,R,,LTU,30.171116,72,,7-6(2) 6-4,3,R32,28,3,4,23,12,8,6,4,2,3,0,0,18,10,7,6,3,1,1
