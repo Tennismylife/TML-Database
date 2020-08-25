@@ -25,7 +25,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,SM37,,,Diego Schwartzman,R,,ARG,28.016427,13,,RH16,,,Casper Ruud,R,,NOR,21.667351,36,,7-6(2) 6-3,3,R64,5,0,0,0,0,0,0,0,0,0,1,0,10,7,4,1,0,2,2
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,R975,,,Milos Raonic,R,,CAN,29.653662,30,,E687,,,Daniel Evans,R,,GBR,30.250513,28,,6-3 7-5,3,R32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,BH09,,,Aljaz Bedene,R,,SLO,31.096509,61,,FB98,,,Taylor Fritz,R,,USA,22.817248,24,,7-6(5) 7-5,3,R32,104,11,3,77,43,36,17,12,3,4,10,1,71,45,33,16,12,4,6
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,I186,,,John Isner,R,,USA,35.323751,21,,MH30,,,John Millman,R,,AUS,31.189596,43,,4-6 7-6(3) 7-6(5),3,R32,32,7,1,27,21,15,2,4,3,4,2,0,21,6,5,10,3,1,1
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,SL08,,,Tennys Sandgren,R,,USA,29.086927,55,,AG37,,,Felix Auger-Aliassime,R,,CAN,20.03833,20,,6-7(4) 6-2 7-6(5),3,R32,157,5,4,100,56,39,28,16,4,6,2,14,105,60,44,20,15,9,13
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,SL28,,,Jan-Lennard Struff,R,,GER,30.327173,34,,SU55,,,Denis Shapovalov,L,,CAN,21.355236,16,,7-6(4) 3-6 6-4,3,R32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,KE29,,,Karen Khachanov,R,,RUS,24.25462,15,,CD85,,,Pablo Carreno Busta,R,,ESP,29.114305,25,,7-6(8) 6-1,3,R32,40,4,1,31,13,10,14,6,0,0,4,0,29,20,15,7,5,0,0
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,O522,,,Reilly Opelka,R,,USA,22.984257,39,,SM37,,,Diego Schwartzman,R,,ARG,28.016427,13,,6-3 7-6(4),3,R32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,BD06,,,Roberto Bautista Agut,R,,ESP,32.355921,12,,G628,,,Richard Gasquet,R,,FRA,34.179329,50,,7-5 6-1,3,R32,5,2,0,6,4,2,2,1,0,0,0,0,5,3,2,2,1,0,0
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,GB88,,,David Goffin,R,,BEL,29.708419,10,,CG80,,,Borna Coric,R,,CRO,23.770021,33,,7-6(6) 6-4,3,R32,109,8,5,68,37,27,18,11,2,4,6,2,72,45,25,18,11,4,7
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,BK40,,,Matteo Berrettini,R,,ITA,24.361396,8,,RH24,,,Emil Ruusuvuori,R,,FIN,21.390828,101,,6-4 6-7(3) 7-5,3,R32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,MC10,,,Andy Murray,R,,GBR,33.273101,129,,Z355,,,Alexander Zverev,R,,GER,23.340178,7,,6-3 3-6 7-5,3,R32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,TE51,,,Stefanos Tsitsipas,R,,GRE,22.028747,6,,A678,,,Kevin Anderson,R,,RSA,34.264203,123,,6-1 6-3,3,R32,4,0,0,0,0,0,0,0,0,0,0,0,6,3,2,1,0,0,0
 2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,MM58,,,Daniil Medvedev,R,,RUS,24.528405,5,,GC88,,,Marcos Giron,R,,USA,27.080082,102,,6-4 6-4,3,R32,6,1,1,5,3,3,1,1,0,0,0,0,7,7,6,0,1,0,0
-2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,SL08,,,Tennys Sandgren,R,,USA,29.086927,55,,AG37,,,Felix Auger-Aliassime,R,,CAN,20.03833,20,,6-7(4) 6-2 7-6(5),3,R32,157,5,4,100,56,39,28,16,4,6,2,14,105,60,44,20,15,9,13
+2020-422,ATP Masters 1000 Cincinnati,Hard,56,M,20200822,,KB05,,,Filip Krajinovic,R,,SRB,28.4846,32,,TB69,,,Dominic Thiem,R,,AUT,26.96783,3,,6-2 6-1,3,R32,38,3,0,21,15,14,6,5,0,0,1,3,34,17,12,4,4,0,2
