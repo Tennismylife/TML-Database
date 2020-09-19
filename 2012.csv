@@ -1464,7 +1464,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-615,World Team Championship,Clay,32,A,20120520,,K435,,,Philipp Kohlschreiber,R,,GER,28.594,24,,B842,,,Alex Bogomolov Jr.,R,,RUS,29.076,44,,6-0 6-2,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,I230,,,Tatsuma Ito,R,,JPN,24.005,70,,S694,,,Radek Stepanek,R,,CZE,33.478,25,,3-6 6-4 6-4,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,B884,,,Carlos Berlocq,R,,ARG,29.292,38,,R485,,,Andy Roddick,R,,USA,29.722,27,,6-2 6-2,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
-2012-615,World Team Championship,Clay,32,A,20120520,,T742,,,Janko Tipsarevic,R,,SRB,27.91,8,,Z104,,,Lovro Zovko,R,,CRO,31.173,0,,6-0 6-0,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
+2012-615,World Team Championship,Clay,32,A,20120520,,T742,,,Janko Tipsarevic,R,,SRB,27.91,8,,Z104,,,Lovro Zovko,R,,CRO,31.173,,,6-0 6-0,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,MB02,,,Florian Mayer,R,,GER,28.624,28,,A511,,,Igor Andreev,R,,RUS,28.851,78,,6-2 7-6(7),3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,BA47,,,Tomas Berdych,R,,CZE,26.672,7,,SC47,,,Go Soeda,R,,JPN,27.704,61,,6-1 3-6 6-1,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,T840,,,Viktor Troicki,R,,SRB,26.272,29,,T315,,,Dmitry Tursunov,R,,RUS,29.437,86,,6-3 6-2,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
@@ -1473,7 +1473,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-615,World Team Championship,Clay,32,A,20120520,,MD56,,,Leonardo Mayer,R,,ARG,25.016,68,,I230,,,Tatsuma Ito,R,,JPN,24.005,70,,6-4 6-4,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,MB02,,,Florian Mayer,R,,GER,28.624,28,,D646,,,Ivan Dodig,R,,CRO,27.379,74,,6-1 6-1,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,BA47,,,Tomas Berdych,R,,CZE,26.672,7,,R485,,,Andy Roddick,R,,USA,29.722,27,,6-1 6-2,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
-2012-615,World Team Championship,Clay,32,A,20120520,,K435,,,Philipp Kohlschreiber,R,,GER,28.594,24,,Z104,,,Lovro Zovko,R,,CRO,31.173,0,,6-2 7-6(2),3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
+2012-615,World Team Championship,Clay,32,A,20120520,,K435,,,Philipp Kohlschreiber,R,,GER,28.594,24,,Z104,,,Lovro Zovko,R,,CRO,31.173,,,6-2 7-6(2),3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,B884,,,Carlos Berlocq,R,,ARG,29.292,38,,SC47,,,Go Soeda,R,,JPN,27.704,61,,6-3 6-4,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,T840,,,Viktor Troicki,R,,SRB,26.272,29,,MB02,,,Florian Mayer,R,,GER,28.624,28,,7-6(6) 6-3,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,SC47,,,Go Soeda,R,,JPN,27.704,61,,R485,,,Andy Roddick,R,,USA,29.722,27,,7-5 7-6(4),3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
@@ -1482,7 +1482,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-615,World Team Championship,Clay,32,A,20120520,,BA47,,,Tomas Berdych,R,,CZE,26.672,7,,B884,,,Carlos Berlocq,R,,ARG,29.292,38,,6-1 6-7(2) 6-3,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,T742,,,Janko Tipsarevic,R,,SRB,27.91,8,,K435,,,Philipp Kohlschreiber,R,,GER,28.594,24,,6-4 3-6 7-5,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,MD56,,,Leonardo Mayer,R,,ARG,25.016,68,,S694,,,Radek Stepanek,R,,CZE,33.478,25,,6-7(4) 7-5 6-4,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
-2012-615,World Team Championship,Clay,32,A,20120520,,B842,,,Alex Bogomolov Jr.,R,,RUS,29.076,44,,Z104,,,Lovro Zovko,R,,CRO,31.173,0,,6-4 6-2,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
+2012-615,World Team Championship,Clay,32,A,20120520,,B842,,,Alex Bogomolov Jr.,R,,RUS,29.076,44,,Z104,,,Lovro Zovko,R,,CRO,31.173,,,6-4 6-2,3,RR,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,T840,,,Viktor Troicki,R,,SRB,26.272,29,,S694,,,Radek Stepanek,R,,CZE,33.478,25,,2-6 6-4 6-3,3,F,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-615,World Team Championship,Clay,32,A,20120520,,T742,,,Janko Tipsarevic,R,,SRB,27.91,8,,BA47,,,Tomas Berdych,R,,CZE,26.672,7,,7-5 7-6(8),3,F,109,2,4,101,64,44,20,11,8,9,9,5,79,45,34,12,11,5,7
 2012-520,Roland Garros,Clay,128,G,20120527,1,D643,1,,Novak Djokovic,R,188,SRB,25.018,1,11800,S843,,,Potito Starace,R,188,ITA,30.872,97,558,7-6(3) 6-3 6-1,5,R128,124,6,0,79,61,50,12,14,0,0,4,0,106,79,47,13,14,11,15
