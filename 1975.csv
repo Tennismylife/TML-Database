@@ -1,4 +1,8 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced
+1975-D001,Davis Cup SAM SF: BRA vs ARG,Clay,4,D,19741220,1,K036,,,Thomaz Koch,L,,BRA,29.61,,,C010,,,Ricardo Cano,R,170,ARG,23.814,189,11,6-3 7-5 2-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1975-D001,Davis Cup SAM SF: BRA vs ARG,Clay,4,D,19741220,2,V028,,,Guillermo Vilas,L,180,ARG,22.341,5,786,M135,,,Jose Edison Mandarino,U,,BRA,33.736,88,45,8-6 6-2 11-13 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1975-D001,Davis Cup SAM SF: BRA vs ARG,Clay,4,D,19741220,3,V028,,,Guillermo Vilas,L,180,ARG,22.341,5,786,K036,,,Thomaz Koch,L,,BRA,29.61,,,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1975-D001,Davis Cup SAM SF: BRA vs ARG,Clay,4,D,19741220,4,M135,,,Jose Edison Mandarino,U,,BRA,33.736,88,45,C010,,,Ricardo Cano,R,170,ARG,23.814,189,11,2-6 8-6 3-6 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
 1975-580,Australian Open,Grass,64,G,19741221,,W006,,,Kim Warwick,R,,AUS,22.702,39,121,H544,,,Ken Hiskins,,,AUS,,,,6-1 6-3 6-2,5,R64,,,,,,,,,,,,,,,,,,,
 1975-580,Australian Open,Grass,64,G,19741221,,T096,,,Graeme Thomson,R,,AUS,,211,8,PA47,,,Mike Prineas,,,USA,,376,1,4-6 3-6,5,R64,,,,,,,,,,,,,,,,,,,
 1975-580,Australian Open,Grass,64,G,19741221,,S148,,,Allan Stone,R,,AUS,29.185,50,110,M180,,,Stephen Myers,R,,AUS,,,,6-4 6-4 6-3,5,R64,,,,,,,,,,,,,,,,,,,
