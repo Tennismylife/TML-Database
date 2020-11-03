@@ -656,9 +656,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-DC-2020-QLS-M-CZE-SVK-01,Davis Cup QLS R1: CZE vs SVK,Clay,4,D,20200306,1,V708,,,Jiri Vesely,L,,CZE,26.6447638604,64,785,KC04,,,Jozef Kovalik,R,,SVK,27.3237508556,121,447,6-3 7-5,3,RR,94,8,0,52,41,33,5,11,0,1,2,3,68,32,18,19,10,4,8
 2020-M-DC-2020-QLS-M-CZE-SVK-01,Davis Cup QLS R1: CZE vs SVK,Clay,4,D,20200306,2,R685,,,Lukas Rosol,R,196,CZE,34.6064339493,179,285,MF35,,,Andrej Martin,R,180,SVK,30.4476386037,95,629,6-4 6-4,3,RR,88,3,1,64,47,32,10,10,3,4,3,3,63,36,26,12,10,5,8
 2020-M-DC-2020-QLS-M-CZE-SVK-01,Davis Cup QLS R1: CZE vs SVK,Clay,4,D,20200306,4,V708,,,Jiri Vesely,L,,CZE,26.6447638604,64,785,MF35,,,Andrej Martin,R,180,SVK,30.4476386037,95,629,4-6 7-5 7-5,3,RR,167,6,2,99,65,45,19,17,2,5,3,2,115,83,52,18,17,10,14
-2020-M-DC-2020-QLS-M-GER-BLR-01,Davis Cup QLS R1: GER vs BLR,Hard,4,D,20200306,1,SL28,,,Jan Lennard Struff,R,,GER,29.8535249829,34,1315,I305,,,Ilya Ivashka,R,,BLR,26.0177960301,138,396,6-4 6-4,3,RR,79,18,4,71,39,34,16,10,5,5,8,1,53,41,32,4,10,2,4
+2020-M-DC-2020-QLS-M-GER-BLR-01,Davis Cup QLS R1: GER vs BLR,Hard,4,D,20200306,1,SL28,,,Jan-Lennard Struff,R,,GER,29.8535249829,34,1315,I305,,,Ilya Ivashka,R,,BLR,26.0177960301,138,396,6-4 6-4,3,RR,79,18,4,71,39,34,16,10,5,5,8,1,53,41,32,4,10,2,4
 2020-M-DC-2020-QLS-M-GER-BLR-01,Davis Cup QLS R1: GER vs BLR,Hard,4,D,20200306,2,GC89,,,Egor Gerasimov,R,,BLR,27.3045859001,68,744,K435,,,Philipp Kohlschreiber,R,178,GER,36.3778234086,73,729,4-6 7-5 7-6(3),3,RR,158,20,5,109,85,66,10,17,4,5,3,2,123,79,52,27,17,6,7
-2020-M-DC-2020-QLS-M-GER-BLR-01,Davis Cup QLS R1: GER vs BLR,Hard,4,D,20200306,4,K435,,,Jan Lennard Struff,R,,GER,29.8535249829,34,1315,106078,,,GC89,R,,BLR,27.3045859001,68,744,6-3 6-2,3,RR,58,12,1,48,27,22,13,9,1,2,1,5,50,34,22,4,8,5,9
+2020-M-DC-2020-QLS-M-GER-BLR-01,Davis Cup QLS R1: GER vs BLR,Hard,4,D,20200306,4,SL28,,,Jan-Lennard Struff,R,,GER,29.8535249829,34,1315,GC89,,,Egor Gerasimov,R,,BLR,27.3045859001,68,744,6-3 6-2,3,RR,58,12,1,48,27,22,13,9,1,2,1,5,50,34,22,4,8,5,9
 2020-M-DC-2020-QLS-M-GER-BLR-01,Davis Cup QLS R1: GER vs BLR,Hard,4,D,20200306,5,KE73,,,Dominik Koepfer,L,,GER,25.8425735797,92,643,O0BR,,,Daniil Ostapenkov,,,BLR,16.8186173854,,,6-0 6-2,3,RR,46,3,1,41,23,18,12,7,2,2,0,5,40,20,11,4,7,5,10
 2020-M-DC-2020-QLS-M-JPN-ECU-01,Davis Cup QLS R1: JPN vs ECU,Hard,4,D,20200306,1,GA36,,,Emilio Gomez,R,,ECU,28.2600958248,151,365,SC47,,,Go Soeda,R,178,JPN,35.4880219028,117,480,7-5 7-6(3),3,RR,113,5,4,83,48,35,18,12,4,7,2,1,75,43,26,16,12,7,11
 2020-M-DC-2020-QLS-M-JPN-ECU-01,Davis Cup QLS R1: JPN vs ECU,Hard,4,D,20200306,2,Q941,,,Roberto Quiroz,L,,ECU,28.0219028063,276,163,U134,,,Yasutaka Uchiyama,R,,JPN,27.5728952772,90,669,7-6(4) 2-6 7-6(8),3,RR,151,16,2,123,81,63,22,16,7,9,9,1,105,71,56,22,16,6,6
@@ -690,7 +690,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-DC-2020-WG1-PO-NOR-BAR-01,Davis Cup WG1 PO: NOR vs BAR,Hard,4,D,20200306,1,DC76,,,Viktor Durasovic,U,,NOR,22.9541409993,337,115,KC86,,,Darian King,R,,BAR,27.8494182067,263,176,6-4 6-2,3,RR,76,1,1,44,28,17,10,9,0,3,0,4,59,39,20,6,9,3,9
 2020-M-DC-2020-WG1-PO-NOR-BAR-01,Davis Cup WG1 PO: NOR vs BAR,Hard,4,D,20200306,2,RH16,,,Casper Ruud,R,,NOR,21.1937029432,36,1279,L653,,,Haydn Lewis,L,,BAR,34.1629021218,,,6-2 6-2,3,RR,57,1,0,34,25,24,8,8,0,0,6,3,50,28,20,5,8,5,9
 2020-M-DC-2020-WG1-PO-NOR-BAR-01,Davis Cup WG1 PO: NOR vs BAR,Hard,4,D,20200306,4,H0BC,,,Lukas Hellum Lilleengen,U,,NOR,19.2936344969,1564,2,M0GR,,,Kaipo Marshall,,,BAR,17.9493497604,,,6-2 6-1,3,RR,54,2,1,36,23,18,8,8,2,3,1,4,43,20,9,9,7,2,8
-2020-M-DC-2020-WG1-PO-PAK-SLO-01,Davis Cup WG1 PO: PAK vs SLO,Grass,4,D,20200306,1,Q019,,,Aisam Ul Haq Qureshi,R,183,PAK,39.9589322382,,,RB89,,,Nik Razborsek,L,,SLO,26.4093086927,700,26,4-6 7-5 7-6(1),3,RR,143,21,8,110,70,59,14,17,4,6,8,4,116,77,53,20,17,7,9
+2020-M-DC-2020-WG1-PO-PAK-SLO-01,Davis Cup WG1 PO: PAK vs SLO,Grass,4,D,20200306,1,Q019,,,Aisam-Ul-Haq Qureshi,R,183,PAK,39.9589322382,,,RB89,,,Nik Razborsek,L,,SLO,26.4093086927,700,26,4-6 7-5 7-6(1),3,RR,143,21,8,110,70,59,14,17,4,6,8,4,116,77,53,20,17,7,9
 2020-M-DC-2020-WG1-PO-PAK-SLO-01,Davis Cup WG1 PO: PAK vs SLO,Grass,4,D,20200306,2,K425,,,Aqeel Khan,R,,PAK,40.0876112252,,,K834,,,Blaz Kavcic,R,188,SLO,32.9938398357,285,148,0-6 7-6(6) 6-4,3,RR,145,18,7,115,58,50,19,14,9,12,15,3,83,51,44,16,14,4,5
 2020-M-DC-2020-WG1-PO-PER-SUI-01,Davis Cup WG1 PO: PER vs SUI,Clay,4,D,20200306,1,V836,,,Juan Pablo Varillas,R,,PER,24.4052019165,135,403,E780,,,Sandro Ehrat,R,180,SUI,28.8733744011,382,93,7-6(4) 7-6(3),3,RR,123,4,0,72,43,34,16,12,0,2,8,1,79,41,31,18,12,3,5
 2020-M-DC-2020-WG1-PO-PER-SUI-01,Davis Cup WG1 PO: PER vs SUI,Clay,4,D,20200306,2,L949,,,Henri Laaksonen,R,,SUI,27.9206023272,137,400,AC58,,,Nicolas Alvarez,R,,PER,23.7316906229,330,119,6-4 6-4,3,RR,97,10,2,59,31,23,19,10,3,4,7,2,73,45,30,15,10,6,9
@@ -699,8 +699,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-DC-2020-WG1-PO-TUR-ISR-01,Davis Cup WG1 PO: TUR vs ISR,Clay,4,D,20200306,2,CH05,,,Altug Celikbilek,U,,TUR,23.4825462012,329,119,FB18,,,Ben Patael,U,,ISR,22.7488021903,562,45,7-5 1-6 6-4,3,RR,129,3,5,93,61,39,14,15,7,12,3,2,100,66,39,17,14,7,12
 2020-M-DC-2020-WG1-PO-TUR-ISR-01,Davis Cup WG1 PO: TUR vs ISR,Clay,4,D,20200306,4,LD26,,,Edan Leshem,U,,ISR,22.9541409993,355,107,I306,,,Cem Ilkel,R,,TUR,24.5311430527,195,257,6-2 7-6(4),3,RR,95,2,5,66,43,28,14,10,2,4,3,0,69,48,28,11,10,2,6
 2020-M-DC-2020-WG1-PO-UKR-TPE-01,Davis Cup WG1 PO: UKR vs TPE,Hard,4,D,20200306,1,T0AP,,,Chun Hsin Tseng,R,,TPE,18.5653661875,279,159,SC77,,,Sergiy Stakhovsky,R,193,UKR,34.1519507187,167,307,3-6 6-1 6-2,3,RR,122,4,2,94,57,41,21,12,10,11,3,4,76,35,26,19,12,3,7
-2020-M-DC-2020-WG1-PO-UKR-TPE-01,Davis Cup WG1 PO: UKR vs TPE,Hard,4,D,20200306,2,W857,,,Tung Lin Wu,R,,TPE,21.8069815195,232,209,ME89,,,Illya Marchenko,R,185,UKR,32.4818617385,207,240,6-4 6-4,3,RR,94,6,1,59,37,27,10,10,4,6,6,4,57,31,20,11,10,1,5
-2020-M-DC-2020-WG1-PO-UKR-TPE-01,Davis Cup WG1 PO: UKR vs TPE,Hard,4,D,20200306,4,SC77,,,Sergiy Stakhovsky,R,193,UKR,34.1519507187,167,307,W857,,,Tung Lin Wu,R,,TPE,21.8069815195,232,209,7-6(3) 4-6 6-3,3,RR,153,9,4,89,52,45,20,16,5,7,5,3,109,66,43,24,15,8,10
+2020-M-DC-2020-WG1-PO-UKR-TPE-01,Davis Cup WG1 PO: UKR vs TPE,Hard,4,D,20200306,2,W857,,,Tung-Lin Wu,R,,TPE,21.8069815195,232,209,ME89,,,Illya Marchenko,R,185,UKR,32.4818617385,207,240,6-4 6-4,3,RR,94,6,1,59,37,27,10,10,4,6,6,4,57,31,20,11,10,1,5
+2020-M-DC-2020-WG1-PO-UKR-TPE-01,Davis Cup WG1 PO: UKR vs TPE,Hard,4,D,20200306,4,SC77,,,Sergiy Stakhovsky,R,193,UKR,34.1519507187,167,307,W857,,,Tung-Lin Wu,R,,TPE,21.8069815195,232,209,7-6(3) 4-6 6-3,3,RR,153,9,4,89,52,45,20,16,5,7,5,3,109,66,43,24,15,8,10
 2020-M-DC-2020-WG1-PO-UKR-TPE-01,Davis Cup WG1 PO: UKR vs TPE,Hard,4,D,20200306,5,ME89,,,Illya Marchenko,R,185,UKR,32.4818617385,207,240,T0AP,,,Chun Hsin Tseng,R,,TPE,18.5653661875,279,159,6-3 6-2,3,RR,76,7,1,57,34,28,14,9,4,4,1,0,46,27,20,8,8,4,7
 2020-M-DC-2020-WG1-PO-VEN-NZL-01,Davis Cup WG1 PO: VEN vs NZL,Hard,4,D,20200306,1,TA04,,,Finn Tearney,R,,NZL,29.4291581109,1018,9,MG99,,,Jordi Munoz Abreu,U,,VEN,30.12183436,1234,4,6-4 6-4,3,RR,79,3,8,60,41,30,8,10,5,7,1,2,52,38,21,8,10,4,8
 2020-M-DC-2020-WG1-PO-VEN-NZL-01,Davis Cup WG1 PO: VEN vs NZL,Hard,4,D,20200306,2,MF70,,,Luis David Martinez,U,,VEN,30.8062970568,,,R0DC,,,Ajeet Rai,R,,NZL,21.1197809719,915,13,5-7 6-4 6-2,3,RR,137,4,1,86,56,40,17,15,5,8,9,5,105,56,40,19,15,10,15
@@ -763,7 +763,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-560,US Open,Hard,128,G,20200831,,D643,1,,Novak Djokovic,R,,SRB,33.278576,1,,D923,,,Damir Dzumhur,L,,BIH,28.281998,109,,6-1 6-4 6-1,5,R128,118,5,5,82,49,36,18,12,6,7,2,8,95,53,29,15,12,12,19
 2020-560,US Open,Hard,128,G,20200831,,TB69,2,,Dominic Thiem,R,,AUT,26.992472,3,,MU94,,,Jaume Munar,L,,ESP,23.323751,105,,7-6(6) 6-3 RET,5,R128,115,9,2,68,43,31,15,12,5,7,1,5,76,43,25,19,10,7,10
 2020-560,US Open,Hard,128,G,20200831,,MM58,3,,Daniil Medvedev,R,,RUS,24.553045,5,,D874,,,Federico Delbonis,L,,ARG,29.905544,79,,6-1 6-2 6-4,5,R128,106,4,4,66,43,37,16,13,2,2,1,3,84,54,32,13,12,4,9
-2020-560,US Open,Hard,128,G,20200831,,TE51,4,,Stefanos Tsitsipas,R,,GRE,22.053389,6,,R772,,,Albert Ramos,L,,ESP,32.62149,41,,6-2 6-1 6-1,5,R128,98,13,5,64,39,35,11,11,0,0,0,7,77,37,20,16,11,7,14
+2020-560,US Open,Hard,128,G,20200831,,TE51,4,,Stefanos Tsitsipas,R,,GRE,22.053389,6,,R772,,,Albert Ramos-Vinolas,L,,ESP,32.62149,41,,6-2 6-1 6-1,5,R128,98,13,5,64,39,35,11,11,0,0,0,7,77,37,20,16,11,7,14
 2020-560,US Open,Hard,128,G,20200831,,Z355,5,,Alexander Zverev,R,,GER,23.364819,7,,A678,,,Kevin Anderson,L,,RSA,34.288845,117,,7-6(2) 5-7 6-3 7-5,5,R128,187,18,6,135,91,78,20,23,3,5,20,7,131,77,62,27,23,1,4
 2020-560,US Open,Hard,128,G,20200831,,BK40,6,,Matteo Berrettini,R,,ITA,24.386038,8,,SC47,,,Go Soeda,L,,JPN,35.98631,119,,7-6(5) 6-1 6-4,5,R128,121,18,0,78,50,47,19,15,4,4,0,3,88,53,32,23,15,2,5
 2020-560,US Open,Hard,128,G,20200831,,GB88,7,,David Goffin,R,,BEL,29.733059,10,,O522,,,Reilly Opelka,L,,USA,23.008898,35,,7-6(2) 3-6 6-1 6-4,5,R128,147,3,7,117,65,53,30,19,6,8,18,4,125,77,59,19,20,3,7
@@ -779,7 +779,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-560,US Open,Hard,128,G,20200831,,GC89,,,Egor Gerasimov,R,,BLR,27.802876,72,,L987,18,,Dusan Lajovic,L,,SRB,30.171116,24,,6-1 4-6 6-4 6-4,5,R128,146,11,4,111,68,54,21,19,3,5,7,2,112,77,49,20,18,10,15
 2020-560,US Open,Hard,128,G,20200831,,FB98,19,,Taylor Fritz,R,,USA,22.841888,25,,KE73,,,Dominik Koepfer,L,,GER,26.340862,91,,6-7(7) 6-3 6-2 6-4,5,R128,165,15,4,118,63,52,31,20,6,8,5,10,126,71,47,27,20,7,14
 2020-560,US Open,Hard,128,G,20200831,,CD85,20,,Pablo Carreno Busta,R,,ESP,29.138947,27,,U134,,,Yasutaka Uchiyama,L,,JPN,28.071184,86,,4-6 6-3 1-6 6-3 6-3,5,R128,201,5,5,149,96,69,26,22,9,12,14,5,148,101,79,15,22,12,16
-2020-560,US Open,Hard,128,G,20200831,,DH58,21,,Alex De Minaur,R,,AUS,21.535934,28,,MF35,,,Andrej Martin,L,,SVK,30.945927,98,,6-4 6-3 7-5,5,R128,131,2,4,97,59,41,21,15,6,8,6,2,102,64,38,18,16,2,8
+2020-560,US Open,Hard,128,G,20200831,,DH58,21,,Alex de Minaur,R,,AUS,21.535934,28,,MF35,,,Andrej Martin,L,,SVK,30.945927,98,,6-4 6-3 7-5,5,R128,131,2,4,97,59,41,21,15,6,8,6,2,102,64,38,18,16,2,8
 2020-560,US Open,Hard,128,G,20200831,,MH30,,,John Millman,R,,AUS,31.214237,43,,BG23,22,,Nikoloz Basilashvili,L,,GEO,28.520191,30,,6-1 6-4 6-4,5,R128,119,6,0,93,54,43,23,14,7,7,4,2,82,47,30,18,13,4,8
 2020-560,US Open,Hard,128,G,20200831,,E687,23,,Daniel Evans,R,,GBR,30.275154,31,,SX91,,,Thiago Seyboth Wild,L,,BRA,20.476385,113,,6-2 6-1 7-6(5),5,R128,136,9,1,83,48,38,24,14,2,2,5,4,92,53,30,20,14,5,10
 2020-560,US Open,Hard,128,G,20200831,,HB71,24,,Hubert Hurkacz,R,,POL,23.550993,33,,G967,,,Peter Gojowczyk,L,,GER,31.129364,127,,6-3 6-4 6-4,5,R128,110,14,2,90,54,39,22,15,3,5,3,10,91,47,33,19,14,6,11
@@ -840,7 +840,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-560,US Open,Hard,128,G,20200831,,AG37,15,,Felix Auger-Aliassime,R,,CAN,20.062971,21,,MC10,,,Andy Murray,L,,GBR,33.29774,115,,6-2 6-3 6-4,5,R64,128,24,2,70,46,41,15,14,0,0,2,2,95,52,29,25,13,5,9
 2020-560,US Open,Hard,128,G,20200831,,FB98,19,,Taylor Fritz,R,,USA,22.841888,25,,SD32,,,Gilles Simon,L,,FRA,35.676933,52,,7-5 6-3 6-2,5,R64,120,16,2,94,51,39,27,15,8,9,4,2,75,44,31,15,14,3,8
 2020-560,US Open,Hard,128,G,20200831,,CD85,20,,Pablo Carreno Busta,R,,ESP,29.138947,27,,KC12,,,Mitchell Krueger,L,,USA,26.633812,198,,6-1 6-2 6-2,5,R64,93,4,1,52,36,30,14,11,0,0,6,3,72,42,24,10,12,4,11
-2020-560,US Open,Hard,128,G,20200831,,DH58,21,,Alex De Minaur,R,,AUS,21.535934,28,,G628,,,Richard Gasquet,L,,FRA,34.203968,51,,6-4 6-3 6-7(6) 7-5,5,R64,182,11,8,137,80,64,27,10,6,9,8,3,135,83,52,26,9,6,12
+2020-560,US Open,Hard,128,G,20200831,,DH58,21,,Alex de Minaur,R,,AUS,21.535934,28,,G628,,,Richard Gasquet,L,,FRA,34.203968,51,,6-4 6-3 6-7(6) 7-5,5,R64,182,11,8,137,80,64,27,10,6,9,8,3,135,83,52,26,9,6,12
 2020-560,US Open,Hard,128,G,20200831,,MW02,,,Corentin Moutet,L,,FRA,21.368925,77,,E687,23,,Daniel Evans,L,,GBR,30.275154,31,,4-6 6-3 7-6(5) 7-6(1),5,R64,255,6,6,150,97,67,26,22,6,11,5,12,163,88,59,35,23,12,18
 2020-560,US Open,Hard,128,G,20200831,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.240246,99,,HB71,24,,Hubert Hurkacz,L,,POL,23.550993,33,,6-4 1-6 6-2 6-2,5,R64,167,2,2,105,71,48,20,0,4,6,17,4,127,73,52,22,0,13,18
 2020-560,US Open,Hard,128,G,20200831,,PD07,,,Vasek Pospisil,R,,CAN,30.19028,94,,R975,25,,Milos Raonic,L,,CAN,29.678303,18,,6-7(1) 6-3 7-6(4) 6-3,5,R64,198,20,5,132,88,72,27,23,5,5,29,11,133,91,75,19,21,8,10
@@ -890,7 +890,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-319,Kitzbuhel,Clay,32,A,20200907,,HB71,5,,Hubert Hurkacz,R,,POL,23.550993,33,,SH90,,,Joao Sousa,L,,POR,31.441479,68,,6-3 7-5,3,R32,84,6,4,58,26,24,19,11,0,1,1,3,60,34,24,12,10,2,5
 2020-319,Kitzbuhel,Clay,32,A,20200907,,KI95,,,Miomir Kecmanovic,R,,SRB,21.002054,47,,N552,6,,Kei Nishikori,L,,JPN,30.691307,34,,4-6 6-4 6-2,3,R32,118,3,4,75,36,24,21,14,1,6,2,6,85,45,24,20,14,3,10
 2020-319,Kitzbuhel,Clay,32,A,20200907,,PC11,7,,Guido Pella,L,,ARG,30.29158,36,,N732,,,Yoshihito Nishioka,L,,JPN,24.947296,49,,6-3 6-0,3,R32,61,1,0,42,28,22,10,8,0,0,0,2,50,28,16,8,7,4,8
-2020-319,Kitzbuhel,Clay,32,A,20200907,,DB63,,Q,Laslo Djere,R,,SRB,25.24846,81,,R772,8,,Albert Ramos,L,,ESP,32.640656,41,,6-1 3-6 7-6(2),3,R32,142,7,7,88,47,37,19,14,2,6,1,5,86,44,28,21,14,3,8
+2020-319,Kitzbuhel,Clay,32,A,20200907,,DB63,,Q,Laslo Djere,R,,SRB,25.24846,81,,R772,8,,Albert Ramos-Vinolas,L,,ESP,32.640656,41,,6-1 3-6 7-6(2),3,R32,142,7,7,88,47,37,19,14,2,6,1,5,86,44,28,21,14,3,8
 2020-319,Kitzbuhel,Clay,32,A,20200907,,D874,,Q,Federico Delbonis,L,,ARG,29.905544,79,,LB84,,,Juan Ignacio Londero,L,,ARG,27.063656,62,,6-4 6-0,3,R32,78,3,1,59,32,26,13,8,2,2,0,2,45,25,12,11,8,2,6
 2020-319,Kitzbuhel,Clay,32,A,20200907,,H997,,Q,Yannick Hanfmann,U,,GER,28.799452,118,,BK92,,,Alexander Bublik,L,,KAZ,23.225187,54,,7-5 6-2,3,R32,72,0,1,56,32,24,14,10,0,1,7,3,55,30,20,12,10,2,6
 2020-319,Kitzbuhel,Clay,32,A,20200907,,HH06,,Q,Marc-Andrea Huesler,U,,SUI,24.186174,303,,RH24,,WC,Emil Ruusuvuori,L,,FIN,21.434633,92,,3-6 6-4 7-6(2),3,R32,129,6,5,102,53,33,28,15,4,8,7,7,101,55,37,24,16,5,9
@@ -900,7 +900,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-319,Kitzbuhel,Clay,32,A,20200907,,S0AG,,WC,Jannik Sinner,U,,ITA,19.041752,74,,K435,,WC,Philipp Kohlschreiber,L,,GER,36.89528,75,,6-3 6-2,3,R32,67,5,0,44,26,22,11,9,1,2,1,0,50,30,16,9,8,3,7
 2020-319,Kitzbuhel,Clay,32,A,20200907,,TC61,,,Jordan Thompson,R,,AUS,26.365503,63,,MH30,,,John Millman,L,,AUS,31.233402,43,,6-3 4-6 7-6(2),3,R32,178,6,5,109,53,37,27,16,7,13,2,10,108,58,37,22,15,8,14
 2020-319,Kitzbuhel,Clay,32,A,20200907,,HH06,,Q,Marc-Andrea Huesler,U,,SUI,24.186174,303,,F510,1,,Fabio Fognini,L,,ITA,33.292267,12,,6-1 6-2,3,R16,56,5,1,44,25,22,12,8,3,3,1,6,45,20,13,8,7,5,9
-2020-319,Kitzbuhel,Clay,32,A,20200907,,SM37,2,,Diego Sebastian Schwartzman,R,,ARG,28.060232,13,,O513,,WC,Sebastian Ofner,L,,AUT,24.323067,159,,6-2 2-6 7-5,3,R16,133,2,6,86,50,36,15,14,1,5,5,4,94,59,36,17,14,8,13
+2020-319,Kitzbuhel,Clay,32,A,20200907,,SM37,2,,Diego Schwartzman,R,,ARG,28.060232,13,,O513,,WC,Sebastian Ofner,L,,AUT,24.323067,159,,6-2 2-6 7-5,3,R16,133,2,6,86,50,36,15,14,1,5,5,4,94,59,36,17,14,8,13
 2020-319,Kitzbuhel,Clay,32,A,20200907,,H997,,Q,Yannick Hanfmann,U,,GER,28.799452,118,,L987,3,,Dusan Lajovic,L,,SRB,30.19028,24,,4-6 6-3 6-4,3,R16,140,0,2,95,55,35,24,15,4,7,7,1,104,64,36,23,14,6,10
 2020-319,Kitzbuhel,Clay,32,A,20200907,,D874,,Q,Federico Delbonis,L,,ARG,29.905544,79,,BG23,4,,Nikoloz Basilashvili,L,,GEO,28.539356,30,,7-5 6-3,3,R16,86,4,4,60,33,28,12,11,2,4,2,7,79,45,31,9,10,11,15
 2020-319,Kitzbuhel,Clay,32,A,20200907,,MN13,,Q,Maximilian Marterer,L,,GER,25.212868,337,,HB71,5,,Hubert Hurkacz,L,,POL,23.570158,33,,6-1 6-4,3,R16,73,3,3,55,30,26,9,9,2,4,0,3,46,27,15,5,8,2,7
@@ -916,18 +916,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-319,Kitzbuhel,Clay,32,A,20200907,,KI95,,,Miomir Kecmanovic,R,,SRB,21.02122,47,,H997,,Q,Yannick Hanfmann,L,,GER,28.818617,118,,6-4 6-4,3,F,76,1,1,57,20,13,27,10,4,5,1,2,52,28,20,11,10,1,4
 2020-416,Rome Masters,Clay,56,M,20200914,,CE25,,WC,Salvatore Caruso,R,,ITA,27.748117,87,,SL08,,Q,Tennys Sandgren,L,,USA,29.149897,49,,3-6 6-3 7-6(4),3,R64,171,5,4,117,59,43,31,15,4,6,7,3,95,59,40,21,15,3,5
 2020-416,Rome Masters,Clay,56,M,20200914,,CF01,,Q,Marco Cecchinato,R,,ITA,27.956194,113,,E831,,,Kyle Edmund,L,,GBR,25.683779,45,,3-6 7-6(7) 6-2,3,R64,138,4,0,85,65,43,15,14,3,5,6,5,91,58,45,13,15,2,5
-2020-416,Rome Masters,Clay,56,M,20200914,,KB05,,,Filip Krajinovic,R,,SRB,28.54757,29,,E831,16,,Felix Auger Aliassime,L,,CAN,20.101301,20,,6-4 7-5,3,R64,103,1,1,59,30,27,17,11,2,3,6,6,74,47,31,13,11,7,10
+2020-416,Rome Masters,Clay,56,M,20200914,,KB05,,,Filip Krajinovic,R,,SRB,28.54757,29,,E831,16,,Felix Auger-Aliassime,L,,CAN,20.101301,20,,6-4 7-5,3,R64,103,1,1,59,30,27,17,11,2,3,6,6,74,47,31,13,11,7,10
 2020-416,Rome Masters,Clay,56,M,20200914,,M0EJ,,Q,Lorenzo Musetti,R,,ITA,18.53525,249,,W367,10,,Stan Wawrinka,L,,SUI,35.466118,17,,6-0 7-6(2),3,R64,83,5,0,54,36,25,12,9,0,1,2,0,69,39,23,12,9,3,7
-2020-416,Rome Masters,Clay,56,M,20200914,,N552,,,Kei Nishikori,R,,JPN,30.710472,35,,R772,,,Albert Ramos,L,,ESP,32.65982,44,,6-4 7-6(3),3,R64,123,2,1,78,43,33,22,11,2,2,2,2,83,48,34,21,11,9,10
-2020-416,Rome Masters,Clay,56,M,20200914,,KE73,,Q,Dominik Koepfer,L,,GER,26.379192,97,,R772,,,Alex De Minaur,L,,AUS,21.574265,27,,3-6 6-3 7-6(5),3,R64,153,2,5,104,69,42,15,15,8,14,1,4,113,58,35,26,15,7,13
-2020-416,Rome Masters,Clay,56,M,20200914,,CE77,,Q,Federico Coria,R,,ARG,28.517454,104,,R772,,,Jan Lennard Struff,L,,GER,30.390144,30,,6-1 7-6(5),3,R64,89,1,0,64,50,41,7,10,4,4,4,2,64,36,29,12,9,3,5
-2020-416,Rome Masters,Clay,56,M,20200914,,TA12,,WC,Stefano Travaglia,U,,ITA,28.741957,84,,R772,,,Taylor Harry Fritz,L,,USA,22.880219,28,,6-4 7-6(4),3,R64,94,7,4,76,39,35,19,11,3,3,9,1,71,42,36,13,11,2,3
+2020-416,Rome Masters,Clay,56,M,20200914,,N552,,,Kei Nishikori,R,,JPN,30.710472,35,,R772,,,Albert Ramos-Vinolas,L,,ESP,32.65982,44,,6-4 7-6(3),3,R64,123,2,1,78,43,33,22,11,2,2,2,2,83,48,34,21,11,9,10
+2020-416,Rome Masters,Clay,56,M,20200914,,KE73,,Q,Dominik Koepfer,L,,GER,26.379192,97,,R772,,,Alex de Minaur,L,,AUS,21.574265,27,,3-6 6-3 7-6(5),3,R64,153,2,5,104,69,42,15,15,8,14,1,4,113,58,35,26,15,7,13
+2020-416,Rome Masters,Clay,56,M,20200914,,CE77,,Q,Federico Coria,R,,ARG,28.517454,104,,R772,,,Jan-Lennard Struff,L,,GER,30.390144,30,,6-1 7-6(5),3,R64,89,1,0,64,50,41,7,10,4,4,4,2,64,36,29,12,9,3,5
+2020-416,Rome Masters,Clay,56,M,20200914,,TA12,,WC,Stefano Travaglia,U,,ITA,28.741957,84,,R772,,,Taylor Fritz,L,,USA,22.880219,28,,6-4 7-6(4),3,R64,94,7,4,76,39,35,19,11,3,3,9,1,71,42,36,13,11,2,3
 2020-416,Rome Masters,Clay,56,M,20200914,,CG80,,,Borna Coric,R,,CRO,23.83299,26,,GD64,14,,Christian Garin,L,,CHI,24.29295,21,,6-4 6-4,3,R64,126,5,4,66,35,25,14,10,3,6,4,11,69,39,24,12,10,8,13
 2020-416,Rome Masters,Clay,56,M,20200914,,RH16,,,Casper Ruud,R,,NOR,21.730322,34,,KE29,11,,Karen Khachanov,L,,RUS,24.31759,16,,6-3 3-6 6-1,3,R64,133,6,0,75,48,32,18,13,1,3,4,1,90,49,32,20,12,13,17
 2020-416,Rome Masters,Clay,56,M,20200914,,SU87,,,Lorenzo Sonego,R,,ITA,25.347023,47,,BG23,,,Nikoloz Basilashvili,L,,GEO,28.558521,32,,6-3 6-1,3,R64,79,4,3,51,32,23,10,8,6,7,1,4,52,24,12,11,8,5,10
 2020-416,Rome Masters,Clay,56,M,20200914,,C977,,,Marin Cilic,R,,CRO,31.96167,40,,BK92,,,Alexander Bublik,L,,KAZ,23.244352,56,,6-7(4) 6-2 6-4,3,R64,134,7,5,100,58,44,28,15,9,9,17,6,91,49,37,22,15,2,5
 2020-416,Rome Masters,Clay,56,M,20200914,,HH26,,,Ugo Humbert,L,,FRA,22.220396,42,,A678,,PR,Kevin Anderson,L,,RSA,34.32717,119,,6-3 7-6(5),3,R64,104,4,4,68,29,21,27,11,3,4,9,2,62,40,29,10,10,4,6
-2020-416,Rome Masters,Clay,56,M,20200914,,HH26,,Q,Pedro Martinez Portero,R,,ESP,23.38672,109,,Q927,,,Sam Querrey,L,,USA,32.939083,46,,6-3 7-6(3),3,R64,99,3,7,87,53,35,18,11,5,6,13,2,59,33,24,12,10,0,2
+2020-416,Rome Masters,Clay,56,M,20200914,,HH26,,Q,Pedro Martinez,R,,ESP,23.38672,109,,Q927,,,Sam Querrey,L,,USA,32.939083,46,,6-3 7-6(3),3,R64,99,3,7,87,53,35,18,11,5,6,13,2,59,33,24,12,10,0,2
 2020-416,Rome Masters,Clay,56,M,20200914,,SU55,12,,Denis Shapovalov,L,,CAN,21.418207,14,,PC11,,,Guido Pella,L,,ARG,30.32991,37,,6-2 6-3,3,R64,85,7,6,50,26,22,13,8,2,2,0,2,68,40,25,11,9,7,11
 2020-416,Rome Masters,Clay,56,M,20200914,,D875,15,,Grigor Dimitrov,R,,BUL,29.333334,22,,ML57,,WC,Gianluca Mager,L,,ITA,25.787817,85,,7-5 6-1,3,R64,74,3,5,57,27,22,18,10,1,2,0,0,51,35,21,6,9,2,6
 2020-416,Rome Masters,Clay,56,M,20200914,,N732,,,Yoshihito Nishioka,L,,JPN,24.966461,50,,KI95,,,Miomir Kecmanovic,L,,SRB,21.040382,39,,6-4 6-1,3,R64,77,4,1,48,34,20,12,8,3,4,2,1,73,37,22,14,9,7,12
@@ -946,10 +946,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-416,Rome Masters,Clay,56,M,20200914,,RH16,,,Casper Ruud,R,,NOR,21.730322,34,,SU87,,,Lorenzo Sonego,L,,ITA,25.347023,47,,6-3 6-4,3,R32,107,0,0,61,45,30,8,10,1,3,4,1,71,46,26,11,9,7,11
 2020-416,Rome Masters,Clay,56,M,20200914,,C977,,,Marin Cilic,R,,CRO,31.96167,40,,GB88,6,,David Goffin,L,,BEL,29.771389,11,,6-2 6-2,3,R32,70,8,0,40,26,23,9,8,0,0,2,1,54,25,16,11,8,3,7
 2020-416,Rome Masters,Clay,56,M,20200914,,HH26,,,Ugo Humbert,L,,FRA,22.220396,42,,F510,7,,Fabio Fognini,L,,ITA,33.31143,13,,7-5 7-6(4),3,R32,119,2,2,79,50,31,11,12,2,7,3,3,71,37,25,13,12,6,12
-2020-416,Rome Masters,Clay,56,M,20200914,,SU55,12,,Denis Shapovalov,L,,CAN,21.418207,14,,F510,,Q,Pedro Martinez Portero,L,,ESP,23.38672,109,,6-4 6-4,3,R32,100,3,2,61,30,17,21,10,2,4,1,7,65,38,26,10,10,2,6
+2020-416,Rome Masters,Clay,56,M,20200914,,SU55,12,,Denis Shapovalov,L,,CAN,21.418207,14,,F510,,Q,Pedro Martinez,L,,ESP,23.38672,109,,6-4 6-4,3,R32,100,3,2,61,30,17,21,10,2,4,1,7,65,38,26,10,10,2,6
 2020-416,Rome Masters,Clay,56,M,20200914,,D875,15,,Grigor Dimitrov,R,,BUL,29.333334,22,,N732,,,Yoshihito Nishioka,L,,JPN,24.966461,50,,6-1 6-0,3,R32,55,2,4,48,25,24,10,7,1,1,0,1,38,22,8,4,6,3,8
 2020-416,Rome Masters,Clay,56,M,20200914,,S0AG,,WC,Jannik Sinner,U,,ITA,19.080082,81,,TE51,3,,Stefanos Tsitsipas,L,,GRE,22.091719,6,,6-1 6-7(9) 6-2,3,R32,133,1,1,81,55,38,18,13,1,3,5,6,101,60,32,20,14,7,14
-2020-416,Rome Masters,Clay,56,M,20200914,,SM37,8,,Diego Sebastian Schwartzman,R,,ARG,28.079397,15,,MH30,,,John Millman,L,,AUS,31.252567,43,,6-4 7-6(1),3,R32,137,3,6,77,49,31,14,11,3,6,4,2,90,51,32,16,11,7,11
+2020-416,Rome Masters,Clay,56,M,20200914,,SM37,8,,Diego Schwartzman,R,,ARG,28.079397,15,,MH30,,,John Millman,L,,AUS,31.252567,43,,6-4 7-6(1),3,R32,137,3,6,77,49,31,14,11,3,6,4,2,90,51,32,16,11,7,11
 2020-416,Rome Masters,Clay,56,M,20200914,,HB71,,,Hubert Hurkacz,R,,POL,23.589323,31,,RE44,9,,Andrey Rublev,L,,RUS,22.902122,12,,7-6(6) 3-6 6-2,3,R32,117,15,1,89,54,41,19,14,4,6,12,1,82,49,38,20,15,4,7
 2020-416,Rome Masters,Clay,56,M,20200914,,L987,,,Dusan Lajovic,R,,SRB,30.209446,25,,R975,13,,Milos Raonic,L,,CAN,29.716633,19,,7-6(3) 4-6 6-2,3,R32,152,8,4,106,75,52,16,15,4,7,8,10,91,51,38,19,15,6,10
 2020-416,Rome Masters,Clay,56,M,20200914,,N409,2,,Rafael Nadal,L,,ESP,34.283367,2,,CD85,,,Pablo Carreno Busta,L,,ESP,29.177277,18,,6-1 6-1,3,R32,73,2,2,39,19,15,16,7,1,1,0,1,56,41,19,5,7,4,9
@@ -959,25 +959,25 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-416,Rome Masters,Clay,56,M,20200914,,RH16,,,Casper Ruud,R,,NOR,21.730322,34,,C977,,,Marin Cilic,L,,CRO,31.96167,40,,6-2 7-6(6),3,R16,93,3,1,63,40,34,12,10,2,2,4,3,58,29,27,15,10,1,3
 2020-416,Rome Masters,Clay,56,M,20200914,,SU55,12,,Denis Shapovalov,L,,CAN,21.418207,14,,HH26,,,Ugo Humbert,L,,FRA,22.220396,42,,6-7(5) 6-1 6-4,3,R16,171,4,6,95,55,47,25,15,5,5,4,3,115,66,51,20,14,13,16
 2020-416,Rome Masters,Clay,56,M,20200914,,D875,15,,Grigor Dimitrov,R,,BUL,29.333334,22,,S0AG,,WC,Jannik Sinner,L,,ITA,19.080082,81,,4-6 6-4 6-4,3,R16,144,0,0,86,50,35,19,15,4,7,1,4,106,66,44,17,15,9,13
-2020-416,Rome Masters,Clay,56,M,20200914,,SM37,8,,Diego Sebastian Schwartzman,R,,ARG,28.079397,15,,HB71,,,Hubert Hurkacz,L,,POL,23.589323,31,,3-6 6-2 6-4,3,R16,129,1,6,75,53,36,10,13,4,7,3,5,83,45,30,21,14,4,9
+2020-416,Rome Masters,Clay,56,M,20200914,,SM37,8,,Diego Schwartzman,R,,ARG,28.079397,15,,HB71,,,Hubert Hurkacz,L,,POL,23.589323,31,,3-6 6-2 6-4,3,R16,129,1,6,75,53,36,10,13,4,7,3,5,83,45,30,21,14,4,9
 2020-416,Rome Masters,Clay,56,M,20200914,,N409,2,,Rafael Nadal,L,,ESP,34.283367,2,,L987,,,Dusan Lajovic,L,,SRB,30.209446,25,,6-1 6-3,3,R16,90,2,1,41,27,17,9,8,2,4,1,4,62,42,17,9,8,8,14
 2020-416,Rome Masters,Clay,56,M,20200914,,D643,1,,Novak Djokovic,R,,SRB,33.316906,1,,KE73,,Q,Dominik Koepfer,L,,GER,26.379192,97,,6-3 4-6 6-3,3,QF,130,5,0,75,48,31,14,14,0,4,4,4,102,62,38,13,14,15,21
 2020-416,Rome Masters,Clay,56,M,20200914,,RH16,,,Casper Ruud,R,,NOR,21.730322,34,,BK40,4,,Matteo Berrettini,L,,ITA,24.424366,8,,4-6 6-3 7-6(5),3,QF,177,4,3,103,61,46,23,16,4,6,12,1,106,70,54,14,15,7,9
 2020-416,Rome Masters,Clay,56,M,20200914,,SU55,12,,Denis Shapovalov,L,,CAN,21.418207,14,,D875,15,,Grigor Dimitrov,L,,BUL,29.333334,22,,6-2 3-6 6-2,3,QF,110,3,5,67,35,28,17,12,0,2,2,3,71,44,26,16,13,4,9
-2020-416,Rome Masters,Clay,56,M,20200914,,SM37,8,,Diego Sebastian Schwartzman,R,,ARG,28.079397,15,,N409,2,,Rafael Nadal,L,,ESP,34.283367,2,,6-2 7-5,3,QF,123,0,0,60,36,23,14,10,3,5,2,0,63,27,13,16,10,4,9
+2020-416,Rome Masters,Clay,56,M,20200914,,SM37,8,,Diego Schwartzman,R,,ARG,28.079397,15,,N409,2,,Rafael Nadal,L,,ESP,34.283367,2,,6-2 7-5,3,QF,123,0,0,60,36,23,14,10,3,5,2,0,63,27,13,16,10,4,9
 2020-416,Rome Masters,Clay,56,M,20200914,,D643,1,,Novak Djokovic,R,,SRB,33.316906,1,,RH16,,,Casper Ruud,L,,NOR,21.730322,34,,7-5 6-3,3,SF,131,12,1,79,53,37,16,11,7,8,2,1,84,59,36,12,10,6,9
-2020-416,Rome Masters,Clay,56,M,20200914,,SM37,8,,Diego Sebastian Schwartzman,R,,ARG,28.079397,15,,SU55,12,,Denis Shapovalov,L,,CAN,21.418207,14,,6-4 5-7 7-6(4),3,SF,195,0,2,113,78,44,19,17,9,15,10,8,112,61,40,22,17,8,14
-2020-416,Rome Masters,Clay,56,M,20200914,,D643,1,,Novak Djokovic,R,,SRB,33.316906,1,,SM37,8,,Diego Sebastian Schwartzman,L,,ARG,28.079397,15,,7-5 6-3,3,F,113,2,1,70,48,33,9,11,3,6,1,3,66,43,25,8,10,4,9
+2020-416,Rome Masters,Clay,56,M,20200914,,SM37,8,,Diego Schwartzman,R,,ARG,28.079397,15,,SU55,12,,Denis Shapovalov,L,,CAN,21.418207,14,,6-4 5-7 7-6(4),3,SF,195,0,2,113,78,44,19,17,9,15,10,8,112,61,40,22,17,8,14
+2020-416,Rome Masters,Clay,56,M,20200914,,D643,1,,Novak Djokovic,R,,SRB,33.316906,1,,SM37,8,,Diego Schwartzman,L,,ARG,28.079397,15,,7-5 6-3,3,F,113,2,1,70,48,33,9,11,3,6,1,3,66,43,25,8,10,4,9
 2020-414,Hamburg,Clay,32,A,20200921,,HH26,,,Ugo Humbert,L,,FRA,22.239561,41,,MM58,1,,Daniil Medvedev,L,,RUS,24.61054,5,,6-4 6-3,3,R32,82,3,0,60,44,31,10,10,2,3,2,2,46,28,19,10,9,2,5
 2020-414,Hamburg,Clay,32,A,20200921,,TE51,2,,Stefanos Tsitsipas,R,,GRE,22.110884,6,,E687,,,Daniel Evans,L,,GBR,30.33265,34,,6-3 6-1,3,R32,59,4,1,48,35,27,7,8,1,1,0,1,41,22,13,9,8,1,5
 2020-414,Hamburg,Clay,32,A,20200921,,H997,,WC,Yannick Hanfmann,U,,GER,28.856947,103,,MC65,3,,Gael Monfils,L,,FRA,34.056126,9,,6-4 6-3,3,R32,74,2,0,51,35,32,9,10,1,1,0,3,56,33,22,14,9,0,2
 2020-414,Hamburg,Clay,32,A,20200921,,BD06,4,,Roberto Bautista Agut,R,,ESP,32.438057,11,,BG23,,,Nikoloz Basilashvili,L,,GEO,28.577686,33,,6-4 6-3,3,R32,85,5,2,62,45,28,10,10,2,4,0,2,51,34,20,7,9,5,9
 2020-414,Hamburg,Clay,32,A,20200921,,RE44,5,,Andrey Rublev,R,,RUS,22.921288,14,,SL08,,Q,Tennys Sandgren,L,,USA,29.169062,48,,6-3 6-3,3,R32,68,6,0,46,30,27,9,9,0,0,4,0,63,41,22,13,9,5,8
 2020-414,Hamburg,Clay,32,A,20200921,,F510,6,,Fabio Fognini,R,,ITA,33.330597,15,,K435,,WC,Philipp Kohlschreiber,L,,GER,36.93361,85,,4-6 6-1 7-5,3,R32,139,3,2,77,45,36,17,15,0,3,3,2,115,72,41,24,14,14,19
-2020-414,Hamburg,Clay,32,A,20200921,,KE29,8,,Karen Khachanov,R,,RUS,24.336756,16,,K435,,,Jan Lennard Struff,L,,GER,30.40931,32,,7-6(5) 4-6 7-5,3,R32,154,5,3,110,67,49,19,17,9,14,8,3,105,49,36,24,17,4,9
-2020-414,Hamburg,Clay,32,A,20200921,,KE29,,,Felix Auger Aliassime,R,,CAN,20.120466,21,,SU87,,,Lorenzo Sonego,L,,ITA,25.366188,46,,6-2 7-6(2),3,R32,107,1,1,63,34,28,21,10,4,4,2,1,57,40,31,7,10,3,5
-2020-414,Hamburg,Clay,32,A,20200921,,BK92,,LL,Alexander Bublik,R,,KAZ,23.263517,56,,R772,,,Albert Ramos,L,,ESP,32.678986,44,,6-2 7-6(5),3,R32,112,17,5,74,39,33,15,10,5,6,0,2,83,46,27,22,10,7,10
-2020-414,Hamburg,Clay,32,A,20200921,,C882,,Q,Pablo Cuevas,R,,URU,34.721424,64,,R772,,,Taylor Harry Fritz,L,,USA,22.899384,29,,6-4 6-2,3,R32,80,1,1,60,42,29,10,9,5,6,3,1,60,38,21,10,9,3,7
+2020-414,Hamburg,Clay,32,A,20200921,,KE29,8,,Karen Khachanov,R,,RUS,24.336756,16,,K435,,,Jan-Lennard Struff,L,,GER,30.40931,32,,7-6(5) 4-6 7-5,3,R32,154,5,3,110,67,49,19,17,9,14,8,3,105,49,36,24,17,4,9
+2020-414,Hamburg,Clay,32,A,20200921,,KE29,,,Felix Auger-Aliassime,R,,CAN,20.120466,21,,SU87,,,Lorenzo Sonego,L,,ITA,25.366188,46,,6-2 7-6(2),3,R32,107,1,1,63,34,28,21,10,4,4,2,1,57,40,31,7,10,3,5
+2020-414,Hamburg,Clay,32,A,20200921,,BK92,,LL,Alexander Bublik,R,,KAZ,23.263517,56,,R772,,,Albert Ramos-Vinolas,L,,ESP,32.678986,44,,6-2 7-6(5),3,R32,112,17,5,74,39,33,15,10,5,6,0,2,83,46,27,22,10,7,10
+2020-414,Hamburg,Clay,32,A,20200921,,C882,,Q,Pablo Cuevas,R,,URU,34.721424,64,,R772,,,Taylor Fritz,L,,USA,22.899384,29,,6-4 6-2,3,R32,80,1,1,60,42,29,10,9,5,6,3,1,60,38,21,10,9,3,7
 2020-414,Hamburg,Clay,32,A,20200921,,GD64,,,Christian Garin,R,,CHI,24.312115,22,,N552,,,Kei Nishikori,L,,JPN,30.729637,35,,6-0 6-3,3,R32,76,1,4,59,43,33,4,8,6,7,0,0,51,40,19,4,7,4,9
 2020-414,Hamburg,Clay,32,A,20200921,,KE73,,SE,Dominik Koepfer,L,,GER,26.398357,66,,N732,,,Yoshihito Nishioka,L,,JPN,24.985626,50,,7-6(0) 4-6 6-1,3,R32,149,10,1,127,78,49,27,15,16,19,0,1,98,73,43,15,14,11,15
 2020-414,Hamburg,Clay,32,A,20200921,,L987,,,Dusan Lajovic,R,,SRB,30.228611,24,,ME82,,,Adrian Mannarino,L,,FRA,32.22998,38,,6-4 6-1,3,R32,96,1,2,52,36,25,9,8,0,1,1,3,73,47,22,13,9,7,12
@@ -989,7 +989,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-414,Hamburg,Clay,32,A,20200921,,RE44,5,,Andrey Rublev,R,,RUS,22.921288,14,,PL56,,Q,Tommy Paul,L,,USA,23.34839,59,,6-1 3-6 6-2,3,R16,96,4,2,64,40,33,12,12,3,5,3,0,78,47,27,13,12,5,10
 2020-414,Hamburg,Clay,32,A,20200921,,RH16,,,Casper Ruud,R,,NOR,21.749487,30,,F510,6,,Fabio Fognini,L,,ITA,33.330597,15,,6-3 6-3,3,R16,67,2,0,44,28,25,9,9,2,3,0,1,50,26,13,13,9,0,4
 2020-414,Hamburg,Clay,32,A,20200921,,L987,,,Dusan Lajovic,R,,SRB,30.228611,24,,KE29,8,,Karen Khachanov,L,,RUS,24.336756,16,,6-1 6-2,3,R16,62,2,3,43,29,20,9,8,0,2,0,3,45,21,9,7,7,7,13
-2020-414,Hamburg,Clay,32,A,20200921,,BK92,,LL,Alexander Bublik,R,,KAZ,23.263517,56,,KE29,,,Felix Auger Aliassime,L,,CAN,20.120466,21,,6-4 6-2,3,R16,78,2,0,52,29,22,14,9,5,6,5,4,56,32,16,13,9,4,8
+2020-414,Hamburg,Clay,32,A,20200921,,BK92,,LL,Alexander Bublik,R,,KAZ,23.263517,56,,KE29,,,Felix Auger-Aliassime,L,,CAN,20.120466,21,,6-4 6-2,3,R16,78,2,0,52,29,22,14,9,5,6,5,4,56,32,16,13,9,4,8
 2020-414,Hamburg,Clay,32,A,20200921,,GD64,,,Christian Garin,R,,CHI,24.312115,22,,H997,,WC,Yannick Hanfmann,L,,GER,28.856947,103,,6-2 7-6(3),3,R16,97,5,2,60,39,30,11,10,2,4,0,2,77,45,29,12,10,5,9
 2020-414,Hamburg,Clay,32,A,20200921,,HH26,,,Ugo Humbert,L,,FRA,22.239561,41,,V708,,Q,Jiri Vesely,L,,CZE,27.200548,75,,6-4 6-3,3,R16,105,3,3,66,42,31,11,10,4,6,2,3,68,44,26,10,9,4,8
 2020-414,Hamburg,Clay,32,A,20200921,,TE51,2,,Stefanos Tsitsipas,R,,GRE,22.110884,6,,L987,,,Dusan Lajovic,L,,SRB,30.228611,24,,7-6(5) 6-2,3,QF,96,3,0,68,48,32,16,10,6,7,0,0,72,51,29,14,10,4,7
@@ -1010,25 +1010,25 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-520,Roland Garros,Clay,128,G,20200928,,SU55,,,Denis Shapovalov,L,,CAN,21.456537,11,,SD32,,,Gilles Simon,L,,FRA,35.753593,54,,6-2 7-5 5-7 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,BD06,,,Roberto Bautista Agut,R,,ESP,32.457222,10,,G628,,,Richard Gasquet,L,,FRA,34.28063,50,,7-6(5) 6-2 6-1,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,S0AG,,,Jannik Sinner,U,,ITA,19.118412,75,,GB88,,,David Goffin,L,,BEL,29.80972,13,,7-5 6-0 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,SM37,,,Diego Sebastian Schwartzman,R,,ARG,28.117727,14,,KI95,,,Miomir Kecmanovic,L,,SRB,21.078712,41,,6-0 6-1 6-3,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,SM37,,,Diego Schwartzman,R,,ARG,28.117727,14,,KI95,,,Miomir Kecmanovic,L,,SRB,21.078712,41,,6-0 6-1 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,RE44,,,Andrey Rublev,R,,RUS,22.940453,12,,Q927,,,Sam Querrey,L,,USA,32.977413,48,,6-7(5) 6-7(4) 7-5 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,K926,,,Mikhail Kukushkin,R,,KAZ,32.758385,88,,F510,,,Fabio Fognini,L,,ITA,33.349762,15,,7-5 3-6 7-6(1) 6-0,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,KE29,,,Karen Khachanov,R,,RUS,24.35592,16,,MQ75,,,Kamil Majchrzak,L,,POL,24.709103,100,,7-6(3) 6-3 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,W367,,,Stan Wawrinka,R,,SUI,35.504448,17,,MC10,,,Andy Murray,L,,GBR,33.3744,111,,6-1 6-3 6-2,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,CD85,,,Pablo Carreno Busta,R,,ESP,29.215607,18,,MH30,,,John Millman,L,,AUS,31.290897,43,,6-3 6-2 7-5,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,D875,,,Grigor Dimitrov,R,,BUL,29.371664,20,,BK24,,,Gregoire Barrere,L,,FRA,26.614647,103,,6-3 6-2 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,N732,,,Yoshihito Nishioka,L,,JPN,25.004791,52,,BK24,,,Felix Auger Aliassime,L,,CAN,20.139631,22,,7-5 6-3 6-3,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,N732,,,Yoshihito Nishioka,L,,JPN,25.004791,52,,BK24,,,Felix Auger-Aliassime,L,,CAN,20.139631,22,,7-5 6-3 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,GD64,,,Christian Garin,R,,CHI,24.33128,19,,K435,,,Philipp Kohlschreiber,L,,GER,36.95277,86,,6-4 4-6 6-1 6-4,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,I186,,,John Isner,R,,USA,35.425053,23,,BT68,,,Elliot Benchetrit,L,,FRA,21.990417,217,,6-4 6-1 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,L987,,,Dusan Lajovic,R,,SRB,30.247776,24,,ML57,,,Gianluca Mager,L,,ITA,25.826147,89,,6-4 7-6(4) 4-6 6-1,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,PD31,,,Benoit Paire,R,,FRA,31.392197,26,,ML57,,,Soon Woo Kwon,L,,KOR,22.822723,82,,7-5 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,PD31,,,Benoit Paire,R,,FRA,31.392197,26,,ML57,,,Soonwoo Kwon,L,,KOR,22.822723,82,,7-5 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,GB93,,,Norbert Gombos,R,,SVK,30.12731,106,,CG80,,,Borna Coric,L,,CRO,23.87132,27,,6-4 3-6 6-3 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,CF01,,,Marco Cecchinato,R,,ITA,27.994524,110,,CG80,,,Alex De Minaur,L,,AUS,21.612595,28,,7-6(9) 6-4 6-0,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,CF01,,,Marco Cecchinato,R,,ITA,27.994524,110,,CG80,,,Alex de Minaur,L,,AUS,21.612595,28,,7-6(9) 6-4 6-0,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,MM66,,,Nikola Milojevic,U,,SRB,25.278576,144,,KB05,,,Filip Krajinovic,L,,SRB,28.5859,29,,6-4 3-6 6-3 6-1,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,MM66,,,Taylor Harry Fritz,R,,USA,22.918549,30,,KB05,,,Tomas Machac,L,,CZE,19.958933,253,,7-5 7-6(2) 1-6 2-6 6-3,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,MM66,,,Taylor Fritz,R,,USA,22.918549,30,,KB05,,,Tomas Machac,L,,CZE,19.958933,253,,7-5 7-6(2) 1-6 2-6 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,RH16,,,Casper Ruud,R,,NOR,21.768652,25,,SE73,,,Yuichi Sugita,L,,JPN,32.027378,94,,6-1 6-3 6-1,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,SL08,,,Tennys Sandgren,R,,USA,29.188227,47,,HB71,,,Hubert Hurkacz,L,,POL,23.627653,31,,7-5 2-6 4-6 7-6(1) 11-9,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,SL08,,,Jan Lennard Struff,R,,GER,30.428474,32,,HB71,,,Francis Tiafoe,L,,USA,22.68857,67,,3-6 7-6(5) 6-3 6-7(2) 6-3,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,SL08,,,Jan-Lennard Struff,R,,GER,30.428474,32,,HB71,,,Francis Tiafoe,L,,USA,22.68857,67,,3-6 7-6(5) 6-3 6-7(2) 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,MJ08,,,Thiago Monteiro,L,,BRA,26.32991,84,,BG23,,,Nikoloz Basilashvili,L,,GEO,28.596851,33,,7-5 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,N552,,,Kei Nishikori,R,,JPN,30.748802,35,,E687,,,Daniel Evans,L,,GBR,30.351814,34,,1-6 6-1 7-6(3) 1-6 6-4,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,A829,,,Radu Albot,R,,MDA,30.880219,79,,TC61,,,Jordan Thompson,L,,AUS,26.442163,55,,6-2 6-4 6-1,5,R128,,,,,,,,,,,,,,,,,,,
@@ -1042,36 +1042,36 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-520,Roland Garros,Clay,128,G,20200928,,CE77,,,Federico Coria,R,,ARG,28.555784,99,,J380,,,Jason Jung,L,,TPE,31.288158,125,,7-5 7-6(6) 7-6(3),5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,C882,,,Pablo Cuevas,R,,URU,34.74059,60,,L949,,,Henri Laaksonen,L,,SUI,28.49555,135,,6-1 2-6 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.316906,70,,M0G4,,,Harold Mayot,L,,FRA,18.647501,412,,7-6(5) 6-3 7-5,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,DH50,,,Daniel Elahi Galan Riveros,U,,COL,24.27926,153,,N771,,,Cameron Norrie,L,,GBR,25.100616,72,,4-6 6-3 5-7 6-1 6-1,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,DH50,,,Daniel Elahi Galan,U,,COL,24.27926,153,,N771,,,Cameron Norrie,L,,GBR,25.100616,72,,4-6 6-3 5-7 6-1 6-1,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,G09O,,,Hugo Gaston,U,,FRA,20.005476,239,,N771,,,Maxime Janvier,L,,FRA,23.945244,204,,7-6(5) 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,GC88,,,Marcos Giron,R,,USA,27.181383,96,,HB64,,,Quentin Halys,L,,FRA,23.92334,202,,7-5 3-6 6-7(5) 7-5 8-6,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,GA79,,,Lorenzo Giustino,R,,ITA,29.051334,157,,MW02,,,Corentin Moutet,L,,FRA,21.445585,71,,0-6 7-6(7) 7-6(3) 2-6 18-16,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,GA79,,,Lloyd George Muirhead Harris,R,,RSA,23.59206,90,,P09Z,,,Alexei Popyrin,L,,AUS,21.149897,108,,6-4 6-4 7-6(7),5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,H996,,,Pierre Hugues Herbert,R,,FRA,29.533195,78,,MP01,,,Michael Mmoh,L,,USA,22.715948,178,,6-3 6-2 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,KE73,,,Dominik Koepfer,L,,GER,26.417522,61,,MP01,,,Antonie Hoang,L,,FRA,24.900753,126,,6-2 3-6 6-1 6-1,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,GA79,,,Lloyd Harris,R,,RSA,23.59206,90,,P09Z,,,Alexei Popyrin,L,,AUS,21.149897,108,,6-4 6-4 7-6(7),5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,H996,,,Pierre-Hugues Herbert,R,,FRA,29.533195,78,,MP01,,,Michael Mmoh,L,,USA,22.715948,178,,6-3 6-2 6-3,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,KE73,,,Dominik Koepfer,L,,GER,26.417522,61,,MP01,,,Antoine Hoang,L,,FRA,24.900753,126,,6-2 3-6 6-1 6-1,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,K0AH,,,Sebastian Korda,U,,USA,20.232718,213,,SA93,,,Andreas Seppi,L,,ITA,36.602325,98,,6-2 4-6 6-3 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,LB84,,,Juan Ignacio Londero,R,,ARG,27.12115,69,,D874,,,Federico Delbonis,L,,ARG,29.982204,81,,6-4 7-6(1) 2-6 1-6 14-12,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,MF35,,,Andrej Martin,R,,SVK,31.022587,102,,SH90,,,Joao Sousa,L,,POR,31.498974,77,,7-5 6-1 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,MF35,,,Pedro Martinez Portero,R,,ESP,23.42505,105,,SH90,,,Aleksandar Vukic,L,,AUS,24.479124,193,,7-5 6-4 6-0,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,MK66,,,Mackenzie Mcdonald,R,,USA,25.453798,236,,SH90,,,Steven Diez,L,,CAN,29.535934,181,,4-6 6-3 6-3 6-4,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,MF35,,,Pedro Martinez,R,,ESP,23.42505,105,,SH90,,,Aleksandar Vukic,L,,AUS,24.479124,193,,7-5 6-4 6-0,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,MK66,,,Mackenzie McDonald,R,,USA,25.453798,236,,SH90,,,Steven Diez,L,,CAN,29.535934,181,,4-6 6-3 6-3 6-4,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,PL56,,,Tommy Paul,R,,USA,23.367556,58,,D994,,,James Duckworth,L,,AUS,28.6872,91,,6-2 6-3 6-2,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,PC11,,,Guido Pella,L,,ARG,30.36824,37,,CE25,,,Salvatore Caruso,L,,ITA,27.786448,85,,7-6(6) 6-7(4) 7-5 6-4,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,PG94,,,Marc Polmans,U,,AUS,23.408625,122,,HH26,,,Ugo Humbert,L,,FRA,22.258726,38,,6-2 6-2 3-6 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,R772,,,Albert Ramos,L,,ESP,32.69815,44,,ME82,,,Adrian Mannarino,L,,FRA,32.249146,39,,6-4 6-3 6-0,5,R128,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,R772,,,Albert Ramos-Vinolas,L,,ESP,32.69815,44,,ME82,,,Adrian Mannarino,L,,FRA,32.249146,39,,6-4 6-3 6-0,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,R772,,,Jurij Rodionov,L,,AUT,21.371664,170,,CA12,,,Jeremy Chardy,L,,FRA,33.62628,65,,3-6 4-6 7-6(6) 6-4 10-8,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,SM25,,,Jack Sock,R,,USA,28.010952,310,,O522,,,Reilly Opelka,L,,USA,23.085558,36,,6-4 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,SU87,,,Lorenzo Sonego,R,,ITA,25.385353,46,,GA36,,,Emilio Gomez,L,,ECU,28.835045,156,,6-7(6) 6-3 6-1 6-7(4) 6-3,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,TA12,,,Stefano Travaglia,U,,ITA,28.780287,74,,A596,,,Pablo Andujar,L,,ESP,34.680355,51,,6-3 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,V708,,,Jiri Vesely,L,,CZE,27.219713,68,,A596,,,Liam Broady,L,,GBR,26.732374,207,,6-2 5-7 6-3 6-2,5,R128,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,D643,,,Novak Djokovic,R,,SRB,33.355236,1,,BE90,,,Ricardas Berankis,L,,LTU,30.272417,66,,6-1 6-2 6-2,5,R64,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,N409,,,Rafael Nadal,L,,ESP,34.321697,2,,MK66,,,Mackenzie Mcdonald,L,,USA,25.453798,236,,6-1 6-0 6-3,5,R64,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,N409,,,Rafael Nadal,L,,ESP,34.321697,2,,MK66,,,Mackenzie McDonald,L,,USA,25.453798,236,,6-1 6-0 6-3,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,TB69,,,Dominic Thiem,R,,AUT,27.06913,3,,SM25,,,Jack Sock,L,,USA,28.010952,310,,6-1 6-3 7-6(6),5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,TE51,,,Stefanos Tsitsipas,R,,GRE,22.130049,6,,C882,,,Pablo Cuevas,L,,URU,34.74059,60,,6-1 6-4 6-2,5,R64,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,Z355,,,Alexander Zverev,R,,GER,23.441479,7,,H996,,,Pierre Hugues Herbert,L,,FRA,29.533195,78,,2-6 6-4 7-6(5) 4-6 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,BK40,,,Matteo Berrettini,R,,ITA,24.462696,8,,H996,,,Lloyd George Muirhead Harris,L,,RSA,23.59206,90,,6-4 4-6 6-2 6-3,5,R64,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,Z355,,,Alexander Zverev,R,,GER,23.441479,7,,H996,,,Pierre-Hugues Herbert,L,,FRA,29.533195,78,,2-6 6-4 7-6(5) 4-6 6-4,5,R64,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,BK40,,,Matteo Berrettini,R,,ITA,24.462696,8,,H996,,,Lloyd Harris,L,,RSA,23.59206,90,,6-4 4-6 6-2 6-3,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,CF59,,,Roberto Carballes Baena,R,,ESP,27.518139,101,,SU55,,,Denis Shapovalov,L,,CAN,21.456537,11,,7-5 6-7(5) 6-3 3-6 8-6,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,BD06,,,Roberto Bautista Agut,R,,ESP,32.457222,10,,BD80,,,Attila Balazs,L,,HUN,32.00274,87,,6-3 6-1 6-2,5,R64,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,SM37,,,Diego Sebastian Schwartzman,R,,ARG,28.117727,14,,GA79,,,Lorenzo Giustino,L,,ITA,29.051334,157,,6-1 7-5 6-0,5,R64,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,SM37,,,Diego Schwartzman,R,,ARG,28.117727,14,,GA79,,,Lorenzo Giustino,L,,ITA,29.051334,157,,6-1 7-5 6-0,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,RE44,,,Andrey Rublev,R,,RUS,22.940453,12,,DH50,,,Alejandro Davidovich Fokina,L,,ESP,21.316906,70,,7-5 6-1 3-6 6-1,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,KE29,,,Karen Khachanov,R,,RUS,24.35592,16,,V708,,,Jiri Vesely,L,,CZE,27.219713,68,,6-1 6-7(4) 7-6(7) 7-6(2),5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,W367,,,Stan Wawrinka,R,,SUI,35.504448,17,,KE73,,,Dominik Koepfer,L,,GER,26.417522,61,,6-3 6-2 3-6 6-1,5,R64,,,,,,,,,,,,,,,,,,,
@@ -1081,50 +1081,50 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-520,Roland Garros,Clay,128,G,20200928,,K0AH,,,Sebastian Korda,U,,USA,20.232718,213,,I186,,,John Isner,L,,USA,35.425053,23,,6-4 6-4 2-6 6-4,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,A678,,,Kevin Anderson,R,,RSA,34.3655,118,,L987,,,Dusan Lajovic,L,,SRB,30.247776,24,,6-2 6-4 4-6 3-6 6-3,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,CE77,,,Federico Coria,R,,ARG,28.555784,99,,PD31,,,Benoit Paire,L,,FRA,31.392197,26,,7-6(3) 4-6 6-3 6-1,5,R64,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,CE77,,,Taylor Harry Fritz,R,,USA,22.918549,30,,A829,,,Radu Albot,L,,MDA,30.880219,79,,6-3 6-2 6-4,5,R64,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,CE77,,,Taylor Fritz,R,,USA,22.918549,30,,A829,,,Radu Albot,L,,MDA,30.880219,79,,6-3 6-2 6-4,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,RH16,,,Casper Ruud,R,,NOR,21.768652,25,,PL56,,,Tommy Paul,L,,USA,23.367556,58,,6-1 1-6 6-3 1-6 6-3,5,R64,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,RH16,,,Daniel Altmaier,U,,GER,22.045174,186,,PL56,,,Jan Lennard Struff,L,,GER,30.428474,32,,6-3 7-6(4) 6-3,5,R64,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,RH16,,,Daniel Altmaier,U,,GER,22.045174,186,,PL56,,,Jan-Lennard Struff,L,,GER,30.428474,32,,6-3 7-6(4) 6-3,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,BH09,,,Aljaz Bedene,R,,SLO,31.19781,56,,MM66,,,Nikola Milojevic,L,,SRB,25.278576,144,,7-5 2-6 6-1 7-6(4),5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,CF01,,,Marco Cecchinato,R,,ITA,27.994524,110,,LB84,,,Juan Ignacio Londero,L,,ARG,27.12115,69,,6-3 6-2 5-7 6-2,5,R64,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,F724,,,Marton Fucsovics,R,,HUN,28.637918,63,,R772,,,Albert Ramos,L,,ESP,32.69815,44,,7-6(2) 6-3 7-5,5,R64,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,F724,,,Daniel Elahi Galan Riveros,U,,COL,24.27926,153,,SL08,,,Tennys Sandgren,L,,USA,29.188227,47,,6-2 6-2 6-3,5,R64,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,F724,,,Marton Fucsovics,R,,HUN,28.637918,63,,R772,,,Albert Ramos-Vinolas,L,,ESP,32.69815,44,,7-6(2) 6-3 7-5,5,R64,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,F724,,,Daniel Elahi Galan,U,,COL,24.27926,153,,SL08,,,Tennys Sandgren,L,,USA,29.188227,47,,6-2 6-2 6-3,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,G09O,,,Hugo Gaston,U,,FRA,20.005476,239,,N732,,,Yoshihito Nishioka,L,,JPN,25.004791,52,,6-4 7-6(4) 3-6 6-2,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,GB93,,,Norbert Gombos,R,,SVK,30.12731,106,,N732,,,Jurij Rodionov,L,,AUT,21.371664,170,,6-2 2-6 7-6(4) 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,GB93,,,Pedro Martinez Portero,R,,ESP,23.42505,105,,K926,,,Mikhail Kukushkin,L,,KAZ,32.758385,88,,6-3 6-1 6-0,5,R64,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,GB93,,,Pedro Martinez,R,,ESP,23.42505,105,,K926,,,Mikhail Kukushkin,L,,KAZ,32.758385,88,,6-3 6-1 6-0,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,MJ08,,,Thiago Monteiro,L,,BRA,26.32991,84,,GC88,,,Marcos Giron,L,,USA,27.181383,96,,7-6(5) 6-4 6-1,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,S0AG,,,Jannik Sinner,U,,ITA,19.118412,75,,GC88,,,Benjamin Bonzi,L,,FRA,24.303902,227,,6-2 6-4 6-4,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,SU87,,,Lorenzo Sonego,R,,ITA,25.385353,46,,BK92,,,Alexander Bublik,L,,KAZ,23.282682,49,,7-6(8) 6-1 7-5,5,R64,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,TA12,,,Stefano Travaglia,U,,ITA,28.780287,74,,N552,,,Kei Nishikori,L,,JPN,30.748802,35,,6-4 2-6 7-6(7) 4-6 6-2,5,R64,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,D643,,,Novak Djokovic,R,,SRB,33.355236,1,,F724,,,Daniel Elahi Galan Riveros,L,,COL,24.27926,153,,6-0 6-3 6-2,5,R32,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,D643,,,Novak Djokovic,R,,SRB,33.355236,1,,F724,,,Daniel Elahi Galan,L,,COL,24.27926,153,,6-0 6-3 6-2,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,N409,,,Rafael Nadal,L,,ESP,34.321697,2,,TA12,,,Stefano Travaglia,L,,ITA,28.780287,74,,6-1 6-4 6-0,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,TB69,,,Dominic Thiem,R,,AUT,27.06913,3,,RH16,,,Casper Ruud,L,,NOR,21.768652,25,,6-4 6-3 6-1,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,TE51,,,Stefanos Tsitsipas,R,,GRE,22.130049,6,,BH09,,,Aljaz Bedene,L,,SLO,31.19781,56,,6-1 6-2 3-1,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,Z355,,,Alexander Zverev,R,,GER,23.441479,7,,CF01,,,Marco Cecchinato,L,,ITA,27.994524,110,,6-1 7-5 6-3,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,Z355,,,Daniel Altmaier,U,,GER,22.045174,186,,BK40,,,Matteo Berrettini,L,,ITA,24.462696,8,,6-2 7-6(5) 6-4,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,CD85,,,Pablo Carreno Busta,R,,ESP,29.215607,18,,BD06,,,Roberto Bautista Agut,L,,ESP,32.457222,10,,6-4 6-3 5-7 6-4,5,R32,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,SM37,,,Diego Sebastian Schwartzman,R,,ARG,28.117727,14,,GB93,,,Norbert Gombos,L,,SVK,30.12731,106,,7-6(3) 6-3 6-3,5,R32,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,SM37,,,Diego Schwartzman,R,,ARG,28.117727,14,,GB93,,,Norbert Gombos,L,,SVK,30.12731,106,,7-6(3) 6-3 6-3,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,RE44,,,Andrey Rublev,R,,RUS,22.940453,12,,A678,,,Kevin Anderson,L,,RSA,34.3655,118,,6-3 6-2 6-3,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,KE29,,,Karen Khachanov,R,,RUS,24.35592,16,,GD64,,,Christian Garin,L,,CHI,24.33128,19,,6-2 3-6 6-4 6-2,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,G09O,,,Hugo Gaston,U,,FRA,20.005476,239,,W367,,,Stan Wawrinka,L,,SUI,35.504448,17,,2-6 6-3 6-3 4-6 6-0,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,D875,,,Grigor Dimitrov,R,,BUL,29.371664,20,,CF59,,,Roberto Carballes Baena,L,,ESP,27.518139,101,,6-1 6-3 0-0,5,R32,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,SU87,,,Lorenzo Sonego,R,,ITA,25.385353,46,,CF59,,,Taylor Harry Fritz,L,,USA,22.918549,30,,7-6(5) 6-3 7-6(17),5,R32,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,SU87,,,Lorenzo Sonego,R,,ITA,25.385353,46,,CF59,,,Taylor Fritz,L,,USA,22.918549,30,,7-6(5) 6-3 7-6(17),5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,F724,,,Marton Fucsovics,R,,HUN,28.637918,63,,MJ08,,,Thiago Monteiro,L,,BRA,26.32991,84,,7-5 6-1 6-3,5,R32,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,K0AH,,,Sebastian Korda,U,,USA,20.232718,213,,MJ08,,,Pedro Martinez Portero,L,,ESP,23.42505,105,,6-4 6-3 6-1,5,R32,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,K0AH,,,Sebastian Korda,U,,USA,20.232718,213,,MJ08,,,Pedro Martinez,L,,ESP,23.42505,105,,6-4 6-3 6-1,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,S0AG,,,Jannik Sinner,U,,ITA,19.118412,75,,CE77,,,Federico Coria,L,,ARG,28.555784,99,,6-3 7-5 7-5,5,R32,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,D643,,,Novak Djokovic,R,,SRB,33.355236,1,,KE29,,,Karen Khachanov,L,,RUS,24.35592,16,,6-4 6-3 6-3,5,R16,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,N409,,,Rafael Nadal,L,,ESP,34.321697,2,,K0AH,,,Sebastian Korda,L,,USA,20.232718,213,,6-1 6-1 6-2,5,R16,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,TB69,,,Dominic Thiem,R,,AUT,27.06913,3,,G09O,,,Hugo Gaston,L,,FRA,20.005476,239,,6-4 6-4 5-7 3-6 6-3,5,R16,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,TE51,,,Stefanos Tsitsipas,R,,GRE,22.130049,6,,D875,,,Grigor Dimitrov,L,,BUL,29.371664,20,,6-3 7-6(9) 6-2,5,R16,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,S0AG,,,Jannik Sinner,U,,ITA,19.118412,75,,Z355,,,Alexander Zverev,L,,GER,23.441479,7,,6-3 6-3 4-6 6-3,5,R16,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,SM37,,,Diego Sebastian Schwartzman,R,,ARG,28.117727,14,,SU87,,,Lorenzo Sonego,L,,ITA,25.385353,46,,6-1 6-3 6-4,5,R16,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,SM37,,,Diego Schwartzman,R,,ARG,28.117727,14,,SU87,,,Lorenzo Sonego,L,,ITA,25.385353,46,,6-1 6-3 6-4,5,R16,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,RE44,,,Andrey Rublev,R,,RUS,22.940453,12,,F724,,,Marton Fucsovics,L,,HUN,28.637918,63,,6-7(4) 7-5 6-4 7-6(3),5,R16,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,CD85,,,Pablo Carreno Busta,R,,ESP,29.215607,18,,F724,,,Daniel Altmaier,L,,GER,22.045174,186,,6-2 7-5 6-2,5,R16,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,D643,,,Novak Djokovic,R,,SRB,33.355236,1,,CD85,,,Pablo Carreno Busta,L,,ESP,29.215607,18,,4-6 6-2 6-3 6-4,5,QF,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,N409,,,Rafael Nadal,L,,ESP,34.321697,2,,S0AG,,,Jannik Sinner,L,,ITA,19.118412,75,,7-6(4) 6-4 6-1,5,QF,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,SM37,,,Diego Sebastian Schwartzman,R,,ARG,28.117727,14,,TB69,,,Dominic Thiem,L,,AUT,27.06913,3,,7-6(1) 5-7 6-7(6) 7-6(5) 6-2,5,QF,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,SM37,,,Diego Schwartzman,R,,ARG,28.117727,14,,TB69,,,Dominic Thiem,L,,AUT,27.06913,3,,7-6(1) 5-7 6-7(6) 7-6(5) 6-2,5,QF,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,TE51,,,Stefanos Tsitsipas,R,,GRE,22.130049,6,,RE44,,,Andrey Rublev,L,,RUS,22.940453,12,,7-5 6-2 6-3,5,QF,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,D643,,,Novak Djokovic,R,,SRB,33.355236,1,,TE51,,,Stefanos Tsitsipas,L,,GRE,22.130049,6,,6-3 6-2 5-7 4-6 6-1,5,SF,,,,,,,,,,,,,,,,,,,
-2020-520,Roland Garros,Clay,128,G,20200928,,N409,,,Rafael Nadal,L,,ESP,34.321697,2,,SM37,,,Diego Sebastian Schwartzman,L,,ARG,28.117727,14,,6-3 6-3 7-6(0),5,SF,,,,,,,,,,,,,,,,,,,
+2020-520,Roland Garros,Clay,128,G,20200928,,N409,,,Rafael Nadal,L,,ESP,34.321697,2,,SM37,,,Diego Schwartzman,L,,ARG,28.117727,14,,6-3 6-3 7-6(0),5,SF,,,,,,,,,,,,,,,,,,,
 2020-520,Roland Garros,Clay,128,G,20200928,,N409,,,Rafael Nadal,R,,ESP,34.321697,2,,D643,,,Novak Djokovic,L,,SRB,33.355236,1,,6-0 6-2 7-5,5,F,,,,,,,,,,,,,,,,,,,
 2020-568,St. Petersburg,Hard,32,A,20201012,,MM58,1,,Daniil Medvedev,R,,RUS,24.668036,6,,G628,,,Richard Gasquet,L,,FRA,34.31896,53,,3-6 6-3 6-0,3,R32,97,22,3,62,41,34,13,12,2,3,0,3,83,52,37,9,12,2,6
 2020-568,St. Petersburg,Hard,32,A,20201012,,SU55,2,,Denis Shapovalov,L,,CAN,21.494867,12,,T840,,LL,Viktor Troicki,L,,SRB,34.669403,197,,6-2 6-3,3,R32,62,10,1,43,28,24,8,8,0,0,5,1,51,38,22,6,9,0,4
@@ -1133,8 +1133,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-568,St. Petersburg,Hard,32,A,20201012,,W367,5,,Stan Wawrinka,R,,SUI,35.542778,18,,E687,,,Daniel Evans,L,,GBR,30.390144,34,,3-6 7-6(3) 7-5,3,R32,151,7,0,100,68,48,15,17,3,7,4,2,113,78,52,19,16,6,9
 2020-568,St. Petersburg,Hard,32,A,20201012,,R975,6,,Milos Raonic,R,,CAN,29.793293,21,,W09G,,Q,Jeffrey John Wolf,L,,USA,21.80972,123,,7-6(5) 6-1,3,R32,100,21,0,68,49,38,14,10,5,5,0,1,67,40,27,13,9,4,6
 2020-568,St. Petersburg,Hard,32,A,20201012,,CG80,7,,Borna Coric,R,,CRO,23.90965,27,,L397,,,Feliciano Lopez,L,,ESP,39.060917,60,,6-3 7-6(2),3,R32,96,12,1,54,40,33,12,10,0,0,13,4,79,46,33,16,11,3,5
-2020-568,St. Petersburg,Hard,32,A,20201012,,N771,,,Cameron Norrie,L,,GBR,25.138947,75,,FB98,8,,Taylor Harry Fritz,L,,USA,22.956879,28,,6-4 4-6 6-3,3,R32,116,16,5,95,72,54,10,15,2,3,13,0,78,45,39,15,14,0,2
-2020-568,St. Petersburg,Hard,32,A,20201012,,BK92,,,Alexander Bublik,R,,KAZ,23.321012,52,,MK66,,PR,Mackenzie Mcdonald,L,,USA,25.492128,221,,2-6 7-6(2) 6-4,3,R32,123,25,6,94,58,49,15,15,1,3,6,1,89,64,48,14,15,0,1
+2020-568,St. Petersburg,Hard,32,A,20201012,,N771,,,Cameron Norrie,L,,GBR,25.138947,75,,FB98,8,,Taylor Fritz,L,,USA,22.956879,28,,6-4 4-6 6-3,3,R32,116,16,5,95,72,54,10,15,2,3,13,0,78,45,39,15,14,0,2
+2020-568,St. Petersburg,Hard,32,A,20201012,,BK92,,,Alexander Bublik,R,,KAZ,23.321012,52,,MK66,,PR,Mackenzie McDonald,L,,USA,25.492128,221,,2-6 7-6(2) 6-4,3,R32,123,25,6,94,58,49,15,15,1,3,6,1,89,64,48,14,15,0,1
 2020-568,St. Petersburg,Hard,32,A,20201012,,D864,,WC,Evgeny Donskoy,R,,RUS,30.428474,121,,GC89,,,Egor Gerasimov,L,,BLR,27.917864,85,,6-4 7-6(4),3,R32,100,2,3,74,41,31,15,11,2,4,8,5,76,43,30,15,11,5,8
 2020-568,St. Petersburg,Hard,32,A,20201012,,HH26,,,Ugo Humbert,L,,FRA,22.297056,38,,K09F,,Q,Pavel Kotov,L,,RUS,21.900068,286,,4-6 6-2 6-3,3,R32,139,2,1,91,59,46,15,14,6,8,4,2,87,52,35,15,13,10,14
 2020-568,St. Petersburg,Hard,32,A,20201012,,I305,,Q,Ilya Ivashka,R,,BLR,26.631075,141,,ME82,,,Adrian Mannarino,L,,FRA,32.287476,39,,6-3 7-6(6),3,R32,122,2,0,69,52,33,8,11,0,3,5,3,74,36,25,14,10,5,9
@@ -1159,11 +1159,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-568,St. Petersburg,Hard,32,A,20201012,,RE44,3,,Andrey Rublev,R,,RUS,22.97878,10,,CG80,7,,Borna Coric,L,,CRO,23.90965,27,,7-6(5) 6-4,3,F,99,7,1,61,37,32,17,11,0,0,8,4,76,51,41,10,11,2,3
 2020-9404,Cologne 1,Hard,32,A,20201012,,J386,,,Steve Johnson,R,,USA,30.800821,68,,KB05,5,,Filip Krajinovic,L,,SRB,28.62423,30,,3-6 6-4 6-4,3,R32,122,10,4,104,62,47,19,15,7,9,4,0,75,53,42,11,14,1,3
 2020-9404,Cologne 1,Hard,32,A,20201012,,HB71,6,,Hubert Hurkacz,R,,POL,23.665981,31,,PG94,,LL,Marc Polmans,L,,AUS,23.446955,116,,6-2 7-5,3,R32,92,1,1,63,41,29,11,10,3,5,1,6,63,39,25,8,10,5,10
-2020-9404,Cologne 1,Hard,32,A,20201012,,O449,,Q,Oscar Otte,R,,GER,27.241615,142,,PG94,7,,Jan Lennard Struff,L,,GER,30.466805,32,,6-4 6-3,3,R32,78,5,2,61,34,26,13,10,3,5,1,5,55,25,17,11,9,4,8
+2020-9404,Cologne 1,Hard,32,A,20201012,,O449,,Q,Oscar Otte,R,,GER,27.241615,142,,PG94,7,,Jan-Lennard Struff,L,,GER,30.466805,32,,6-4 6-3,3,R32,78,5,2,61,34,26,13,10,3,5,1,5,55,25,17,11,9,4,8
 2020-9404,Cologne 1,Hard,32,A,20201012,,C977,8,,Marin Cilic,R,,CRO,32.03833,40,,GC88,,LL,Marcos Giron,L,,USA,27.219713,90,,6-2 4-6 6-3,3,R32,150,9,5,102,51,39,23,14,15,18,2,1,88,46,26,22,13,4,9
-2020-9404,Cologne 1,Hard,32,A,20201012,,A829,,,Radu Albot,R,,MDA,30.918549,82,,H996,,,Pierre Hugues Herbert,L,,FRA,29.571526,81,,6-2 4-6 6-4,3,R32,121,0,1,83,55,36,15,14,3,6,4,8,74,41,30,15,14,4,9
+2020-9404,Cologne 1,Hard,32,A,20201012,,A829,,,Radu Albot,R,,MDA,30.918549,82,,H996,,,Pierre-Hugues Herbert,L,,FRA,29.571526,81,,6-2 4-6 6-4,3,R32,121,0,1,83,55,36,15,14,3,6,4,8,74,41,30,15,14,4,9
 2020-9404,Cologne 1,Hard,32,A,20201012,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.355236,71,,RH24,,Q,Emil Ruusuvuori,L,,FIN,21.530458,98,,7-5 6-4,3,R32,116,2,3,85,50,33,14,11,8,11,2,5,77,49,25,15,11,3,8
-2020-9404,Cologne 1,Hard,32,A,20201012,,HG86,,Q,Lloyd George Muirhead Harris,R,,RSA,23.63039,92,,E831,,,Kyle Edmund,L,,GBR,25.760439,47,,7-5 7-6(1),3,R32,123,8,4,87,52,40,16,12,9,11,1,1,80,44,30,17,12,2,5
+2020-9404,Cologne 1,Hard,32,A,20201012,,HG86,,Q,Lloyd Harris,R,,RSA,23.63039,92,,E831,,,Kyle Edmund,L,,GBR,25.760439,47,,7-5 7-6(1),3,R32,123,8,4,87,52,40,16,12,9,11,1,1,80,44,30,17,12,2,5
 2020-9404,Cologne 1,Hard,32,A,20201012,,L949,,Q,Henri Laaksonen,R,,SUI,28.53388,139,,AE14,,WC,Daniel Altmaier,L,,GER,22.083504,122,,3-6 6-3 7-6(5),3,R32,166,7,3,100,60,44,24,15,6,9,3,3,122,68,48,26,15,5,8
 2020-9404,Cologne 1,Hard,32,A,20201012,,DB59,,,Dennis Novak,R,,AUT,27.123888,94,,TC61,,,Jordan Thompson,L,,AUS,26.480494,59,,6-3 6-3,3,R32,76,1,0,47,28,21,14,9,3,4,4,3,60,36,22,11,9,7,11
 2020-9404,Cologne 1,Hard,32,A,20201012,,SD32,,,Gilles Simon,R,,FRA,35.791924,57,,F724,,,Marton Fucsovics,L,,HUN,28.676249,50,,6-0 6-3,3,R32,75,0,0,40,14,10,18,7,1,2,0,0,51,31,15,7,8,7,13
@@ -1171,19 +1171,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-9404,Cologne 1,Hard,32,A,20201012,,Z168,,WC,Mischa Zverev,L,,GER,33.141685,268,,MH30,,,John Millman,L,,AUS,31.329227,44,,6-1 6-4,3,R32,78,3,2,58,41,25,8,8,6,8,0,1,48,25,11,12,9,5,11
 2020-9404,Cologne 1,Hard,32,A,20201012,,Z355,1,,Alexander Zverev,R,,GER,23.479809,7,,V306,,,Fernando Verdasco,L,,ESP,36.908966,61,,6-4 6-1,3,R16,63,7,0,38,25,21,11,8,0,0,1,1,54,38,22,7,9,1,5
 2020-9404,Cologne 1,Hard,32,A,20201012,,BD06,2,,Roberto Bautista Agut,R,,ESP,32.495552,13,,SD32,,,Gilles Simon,L,,FRA,35.791924,57,,6-4 7-6(5),3,R16,139,1,2,76,51,28,14,11,3,7,7,5,86,39,24,21,11,7,12
-2020-9404,Cologne 1,Hard,32,A,20201012,,AG37,3,,Felix Auger Aliassime,R,,CAN,20.17796,22,,L949,,Q,Henri Laaksonen,L,,SUI,28.53388,139,,6-4 6-1,3,R16,77,7,4,52,30,27,10,9,0,0,0,2,57,33,22,9,8,2,5
+2020-9404,Cologne 1,Hard,32,A,20201012,,AG37,3,,Felix Auger-Aliassime,R,,CAN,20.17796,22,,L949,,Q,Henri Laaksonen,L,,SUI,28.53388,139,,6-4 6-1,3,R16,77,7,4,52,30,27,10,9,0,0,0,2,57,33,22,9,8,2,5
 2020-9404,Cologne 1,Hard,32,A,20201012,,DB59,,,Dennis Novak,R,,AUT,27.123888,94,,PD31,4,,Benoit Paire,L,,FRA,31.430527,26,,6-3 6-4,3,R16,64,1,0,50,34,25,11,10,2,4,2,4,59,27,18,13,9,4,8
 2020-9404,Cologne 1,Hard,32,A,20201012,,HB71,6,,Hubert Hurkacz,R,,POL,23.665981,31,,Z168,,WC,Mischa Zverev,L,,GER,33.141685,268,,6-4 6-3,3,R16,85,4,4,69,38,29,17,10,7,8,0,5,56,27,18,15,9,2,5
 2020-9404,Cologne 1,Hard,32,A,20201012,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.355236,71,,C977,8,,Marin Cilic,L,,CRO,32.03833,40,,3-6 7-6(3) 6-2,3,R16,142,2,1,95,64,48,18,14,3,5,12,0,100,59,41,23,15,7,10
 2020-9404,Cologne 1,Hard,32,A,20201012,,A829,,,Radu Albot,R,,MDA,30.918549,82,,O449,,Q,Oscar Otte,L,,GER,27.241615,142,,6-4 5-7 7-5,3,R16,150,2,3,108,70,43,22,17,9,13,4,6,98,54,40,18,17,4,9
-2020-9404,Cologne 1,Hard,32,A,20201012,,HG86,,Q,Lloyd George Muirhead Harris,R,,RSA,23.63039,92,,J386,,,Steve Johnson,L,,USA,30.800821,68,,7-6(5) 7-6(2),3,R16,133,12,3,82,58,43,11,12,0,1,6,2,98,62,41,16,12,1,2
-2020-9404,Cologne 1,Hard,32,A,20201012,,Z355,1,,Alexander Zverev,R,,GER,23.479809,7,,HG86,,Q,Lloyd George Muirhead Harris,L,,RSA,23.63039,92,,6-4 3-6 6-0,3,QF,105,8,3,67,48,33,12,12,2,4,5,1,88,70,41,8,13,4,9
+2020-9404,Cologne 1,Hard,32,A,20201012,,HG86,,Q,Lloyd Harris,R,,RSA,23.63039,92,,J386,,,Steve Johnson,L,,USA,30.800821,68,,7-6(5) 7-6(2),3,R16,133,12,3,82,58,43,11,12,0,1,6,2,98,62,41,16,12,1,2
+2020-9404,Cologne 1,Hard,32,A,20201012,,Z355,1,,Alexander Zverev,R,,GER,23.479809,7,,HG86,,Q,Lloyd Harris,L,,RSA,23.63039,92,,6-4 3-6 6-0,3,QF,105,8,3,67,48,33,12,12,2,4,5,1,88,70,41,8,13,4,9
 2020-9404,Cologne 1,Hard,32,A,20201012,,BD06,2,,Roberto Bautista Agut,R,,ESP,32.495552,13,,HB71,6,,Hubert Hurkacz,L,,POL,23.665981,31,,7-6(4) 5-7 6-0,3,QF,149,2,4,112,69,50,24,15,11,13,14,4,118,71,52,17,15,6,10
-2020-9404,Cologne 1,Hard,32,A,20201012,,AG37,3,,Felix Auger Aliassime,R,,CAN,20.17796,22,,A829,,,Radu Albot,L,,MDA,30.918549,82,,6-3 6-0,3,QF,71,4,3,47,28,20,12,8,0,1,1,1,38,22,10,6,7,1,6
+2020-9404,Cologne 1,Hard,32,A,20201012,,AG37,3,,Felix Auger-Aliassime,R,,CAN,20.17796,22,,A829,,,Radu Albot,L,,MDA,30.918549,82,,6-3 6-0,3,QF,71,4,3,47,28,20,12,8,0,1,1,1,38,22,10,6,7,1,6
 2020-9404,Cologne 1,Hard,32,A,20201012,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.355236,71,,DB59,,,Dennis Novak,L,,AUT,27.123888,94,,6-3 2-6 6-3,3,QF,115,0,3,79,56,32,8,13,6,13,5,3,89,52,32,11,13,8,16
 2020-9404,Cologne 1,Hard,32,A,20201012,,Z355,1,,Alexander Zverev,R,,GER,23.479809,7,,DH50,,,Alejandro Davidovich Fokina,L,,ESP,21.355236,71,,7-5 7-6(3),3,SF,116,10,3,73,47,34,16,12,1,2,0,2,76,53,36,13,12,5,7
-2020-9404,Cologne 1,Hard,32,A,20201012,,AG37,3,,Felix Auger Aliassime,R,,CAN,20.17796,22,,BD06,2,,Roberto Bautista Agut,L,,ESP,32.495552,13,,6-3 1-6 6-3,3,SF,110,7,5,77,48,35,14,13,3,6,0,1,63,42,30,14,12,3,6
-2020-9404,Cologne 1,Hard,32,A,20201012,,Z355,1,,Alexander Zverev,R,,GER,23.479809,7,,AG37,3,,Felix Auger Aliassime,L,,CAN,20.17796,22,,6-3 6-3,3,F,79,1,5,47,25,20,15,9,2,3,1,3,58,34,20,12,9,6,10
+2020-9404,Cologne 1,Hard,32,A,20201012,,AG37,3,,Felix Auger-Aliassime,R,,CAN,20.17796,22,,BD06,2,,Roberto Bautista Agut,L,,ESP,32.495552,13,,6-3 1-6 6-3,3,SF,110,7,5,77,48,35,14,13,3,6,0,1,63,42,30,14,12,3,6
+2020-9404,Cologne 1,Hard,32,A,20201012,,Z355,1,,Alexander Zverev,R,,GER,23.479809,7,,AG37,3,,Felix Auger-Aliassime,L,,CAN,20.17796,22,,6-3 6-3,3,F,79,1,5,47,25,20,15,9,2,3,1,3,58,34,20,12,9,6,10
 2020-9408,Sardinia,Clay,32,A,20201012,,SU87,5,,Lorenzo Sonego,R,,ITA,25.423683,42,,Z0A1,,WC,Giulio Zeppieri,L,,ITA,18.847364,317,,6-2 7-6(4),3,R32,99,3,0,60,34,28,17,10,2,3,1,4,77,49,35,11,10,7,10
 2020-9408,Sardinia,Clay,32,A,20201012,,A596,6,,Pablo Andujar,R,,ESP,34.718685,54,,KC04,,Q,Jozef Kovalik,L,,SVK,27.937029,125,,7-5 7-5,3,R32,123,0,4,67,40,30,12,12,2,5,3,3,80,45,27,15,12,2,7
 2020-9408,Sardinia,Clay,32,A,20201012,,PL56,7,,Tommy Paul,R,,USA,23.405886,58,,MF35,,LL,Andrej Martin,L,,SVK,31.060917,100,,5-7 6-3 7-5,3,R32,158,5,6,125,77,51,22,17,7,12,2,3,102,60,37,19,16,8,14
@@ -1198,13 +1198,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-9408,Sardinia,Clay,32,A,20201012,,V708,,,Jiri Vesely,L,,CZE,27.258043,67,,MQ75,,,Kamil Majchrzak,L,,POL,24.747433,105,,6-1 7-5,3,R32,82,7,0,48,35,27,7,9,0,1,1,3,70,38,22,15,10,4,9
 2020-9408,Sardinia,Clay,32,A,20201012,,DB63,,,Laslo Djere,R,,SRB,25.36345,74,,L987,2,,Dusan Lajovic,L,,SRB,30.286106,24,,6-4 7-5,3,R16,102,1,1,64,39,21,17,11,3,6,0,2,75,51,28,10,11,9,14
 2020-9408,Sardinia,Clay,32,A,20201012,,H997,,,Yannick Hanfmann,U,,GER,28.914442,101,,RH16,3,,Casper Ruud,L,,NOR,21.806982,25,,6-2 6-1,3,R16,64,2,0,51,36,25,10,7,8,8,0,3,46,27,13,8,8,2,7
-2020-9408,Sardinia,Clay,32,A,20201012,,R772,4,,Albert Ramos,L,,ESP,32.73648,45,,MW02,,,Corentin Moutet,L,,FRA,21.483915,73,,6-0 6-3,3,R16,79,2,1,46,31,24,6,8,0,1,0,3,50,33,16,6,7,4,9
+2020-9408,Sardinia,Clay,32,A,20201012,,R772,4,,Albert Ramos-Vinolas,L,,ESP,32.73648,45,,MW02,,,Corentin Moutet,L,,FRA,21.483915,73,,6-0 6-3,3,R16,79,2,1,46,31,24,6,8,0,1,0,3,50,33,16,6,7,4,9
 2020-9408,Sardinia,Clay,32,A,20201012,,V708,,,Jiri Vesely,L,,CZE,27.258043,67,,SU87,5,,Lorenzo Sonego,L,,ITA,25.423683,42,,6-4 3-6 6-1,3,R16,134,2,1,64,43,33,17,13,0,1,1,5,92,60,45,10,13,5,8
 2020-9408,Sardinia,Clay,32,A,20201012,,D874,,,Federico Delbonis,L,,ARG,30.020535,78,,A596,6,,Pablo Andujar,L,,ESP,34.718685,54,,5-7 7-6(5) 6-4,3,R16,165,3,7,110,71,47,16,17,8,13,1,10,104,64,40,20,17,4,9
 2020-9408,Sardinia,Clay,32,A,20201012,,CF01,,WC,Marco Cecchinato,R,,ITA,28.032854,103,,PL56,7,,Tommy Paul,L,,USA,23.405886,58,,7-6(1) 6-4,3,R16,88,4,0,60,39,35,12,11,2,3,4,1,65,41,29,14,11,0,2
 2020-9408,Sardinia,Clay,32,A,20201012,,M0EJ,,WC,Lorenzo Musetti,R,,ITA,18.61191,143,,PL56,,Q,Andrea Pellegrino,L,,ITA,23.556469,292,,6-2 6-1,3,R16,59,2,2,46,28,23,11,8,1,1,0,0,40,27,13,5,7,1,5
 2020-9408,Sardinia,Clay,32,A,20201012,,PE02,,LL,Danilo Petrovic,R,,SRB,28.717318,166,,CF59,,,Roberto Carballes Baena,L,,ESP,27.556469,96,,6-1 6-4,3,R16,87,4,5,50,28,19,9,8,4,7,1,0,69,47,20,9,9,7,14
-2020-9408,Sardinia,Clay,32,A,20201012,,CF01,,WC,Marco Cecchinato,R,,ITA,28.032854,103,,R772,4,,Albert Ramos,L,,ESP,32.73648,45,,4-6 6-1 6-1,3,QF,132,2,1,69,55,41,3,12,3,6,0,2,108,71,39,13,12,15,22
+2020-9408,Sardinia,Clay,32,A,20201012,,CF01,,WC,Marco Cecchinato,R,,ITA,28.032854,103,,R772,4,,Albert Ramos-Vinolas,L,,ESP,32.73648,45,,4-6 6-1 6-1,3,QF,132,2,1,69,55,41,3,12,3,6,0,2,108,71,39,13,12,15,22
 2020-9408,Sardinia,Clay,32,A,20201012,,DB63,,,Laslo Djere,R,,SRB,25.36345,74,,V708,,,Jiri Vesely,L,,CZE,27.258043,67,,6-4 6-4,3,QF,83,4,1,54,38,29,12,10,0,0,6,1,57,42,32,6,10,0,2
 2020-9408,Sardinia,Clay,32,A,20201012,,M0EJ,,WC,Lorenzo Musetti,R,,ITA,18.61191,143,,H997,,,Yannick Hanfmann,L,,GER,28.914442,101,,6-2 6-4,3,QF,91,2,1,78,49,33,12,9,9,11,2,1,54,33,19,8,9,1,6
 2020-9408,Sardinia,Clay,32,A,20201012,,PE02,,LL,Danilo Petrovic,R,,SRB,28.717318,166,,D874,,,Federico Delbonis,L,,ARG,30.020535,78,,7-6(3) 6-1,3,QF,93,8,4,92,63,44,15,10,11,12,3,4,55,35,25,8,9,0,3
@@ -1237,13 +1237,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-7485,Antwerp,Hard,32,A,20201019,,HH26,,,Ugo Humbert,,,FRA,22.316221,34,,HG86,Q,,Lloyd Harris,,,RSA,23.649555,83,,6-3 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,
 2020-7485,Antwerp,Hard,32,A,20201019,,DH58,Q,,Alex de Minaur,,,AUS,21.67009,25,,D875,4,,Grigor Dimitrov,,,BUL,29.4291,18,,7-6(4) 6-7(3) 6-4,3,SF,,,,,,,,,,,,,,,,,,,
 2020-7485,Antwerp,Hard,32,A,20201019,,HH26,,,Ugo Humbert,,,FRA,22.316221,34,,E687,,,Daniel Evans,,,GBR,30.40931,31,,4-6 7-6(7) 6-4,3,SF,,,,,,,,,,,,,,,,,,,
-2020-7485,Antwerp,Hard,32,A,20201019,,HH26,,,Ugo Humbert,,,FRA,22.316221,34,,DH58,8,,Alex De Minaur,,,AUS,21.67009,25,,6-1 7-6(4),3,F,,,,,,,,,,,,,,,,,,,
-2020-9406,Cologne 2,Hard,32,A,20201019,,S0AG,7,,Jan Lennard Struff,R,,GER,30.485968,32,,CF01,,SE,Marco Cecchinato,L,,ITA,28.05202,77,,6-3 6-1,3,R32,58,8,2,47,28,23,11,8,2,2,1,2,58,40,20,9,8,8,12
+2020-7485,Antwerp,Hard,32,A,20201019,,HH26,,,Ugo Humbert,,,FRA,22.316221,34,,DH58,8,,Alex de Minaur,,,AUS,21.67009,25,,6-1 7-6(4),3,F,,,,,,,,,,,,,,,,,,,
+2020-9406,Cologne 2,Hard,32,A,20201019,,S0AG,7,,Jan-Lennard Struff,R,,GER,30.485968,32,,CF01,,SE,Marco Cecchinato,L,,ITA,28.05202,77,,6-3 6-1,3,R32,58,8,2,47,28,23,11,8,2,2,1,2,58,40,20,9,8,8,12
 2020-9406,Cologne 2,Hard,32,A,20201019,,ME82,8,,Adrian Mannarino,L,,FRA,32.30664,41,,P09Z,,LL,Alexei Popyrin,L,,AUS,21.207392,109,,6-2 6-2,3,R32,61,3,1,55,38,28,8,8,4,4,3,3,46,31,19,5,8,1,5
 2020-9406,Cologne 2,Hard,32,A,20201019,,J386,,,Steve Johnson,R,,USA,30.819986,71,,C977,9,,Marin Cilic,L,,CRO,32.057495,40,,7-6(3) 6-4,3,R32,118,11,2,78,40,27,26,11,3,3,12,3,84,46,31,20,11,8,9
 2020-9406,Cologne 2,Hard,32,A,20201019,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.374401,64,,D923,,Q,Damir Dzumhur,L,,BIH,28.416153,114,,6-2 6-3,3,R32,71,3,1,64,44,31,10,9,8,9,1,2,48,31,22,4,8,1,5
 2020-9406,Cologne 2,Hard,32,A,20201019,,GC89,,Q,Egor Gerasimov,R,,BLR,27.937029,87,,AE14,,WC,Daniel Altmaier,L,,GER,22.102669,124,,6-1 6-0,3,R32,61,1,2,46,27,17,15,7,2,2,3,2,40,22,13,2,6,3,8
-2020-9406,Cologne 2,Hard,32,A,20201019,,H996,,Q,Pierre Hugues Herbert,R,,FRA,29.59069,82,,SL08,,,Tennys Sandgren,L,,USA,29.245722,48,,6-3 3-6 6-3,3,R32,136,3,5,89,46,34,21,14,5,8,10,6,96,56,39,17,13,7,11
+2020-9406,Cologne 2,Hard,32,A,20201019,,H996,,Q,Pierre-Hugues Herbert,R,,FRA,29.59069,82,,SL08,,,Tennys Sandgren,L,,USA,29.245722,48,,6-3 3-6 6-3,3,R32,136,3,5,89,46,34,21,14,5,8,10,6,96,56,39,17,13,7,11
 2020-9406,Cologne 2,Hard,32,A,20201019,,KI95,,,Miomir Kecmanovic,R,,SRB,21.136208,39,,N897,,LL,Sumit Nagal,L,,IND,23.175907,130,,4-6 7-6(4) 6-1,3,R32,135,9,0,95,60,43,17,15,5,9,1,2,93,51,33,18,14,6,11
 2020-9406,Cologne 2,Hard,32,A,20201019,,MH30,,,John Millman,R,,AUS,31.34839,44,,V306,,,Fernando Verdasco,L,,ESP,36.92813,61,,6-4 6-2,3,R32,98,0,3,65,39,31,11,9,8,9,3,8,80,48,34,5,9,10,14
 2020-9406,Cologne 2,Hard,32,A,20201019,,N732,,,Yoshihito Nishioka,L,,JPN,25.062286,56,,E831,,,Kyle Edmund,L,,GBR,25.779604,47,,6-4 6-0,3,R32,86,0,0,64,45,30,12,8,14,14,10,4,55,29,20,8,8,5,9
@@ -1251,20 +1251,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-9406,Cologne 2,Hard,32,A,20201019,,SD32,,,Gilles Simon,R,,FRA,35.81109,58,,TC61,,,Jordan Thompson,L,,AUS,26.499659,60,,6-3 7-5,3,R32,105,5,2,60,29,24,20,11,2,3,1,2,61,41,26,9,10,1,4
 2020-9406,Cologne 2,Hard,32,A,20201019,,S0AG,,WC,Jannik Sinner,U,,ITA,19.175907,46,,D994,,LL,James Duckworth,L,,AUS,28.744696,97,,6-1 6-2,3,R32,61,0,0,47,32,25,9,7,2,2,2,2,44,21,11,7,8,2,7
 2020-9406,Cologne 2,Hard,32,A,20201019,,Z355,1,,Alexander Zverev,R,,GER,23.498974,7,,MH30,,,John Millman,L,,AUS,31.34839,44,,6-0 3-6 6-3,3,R16,114,5,10,80,53,42,12,12,6,7,0,0,75,53,34,8,12,1,5
-2020-9406,Cologne 2,Hard,32,A,20201019,,SM37,2,,Diego Sebastian Schwartzman,R,,ARG,28.175222,9,,O449,,LL,Oscar Otte,L,,GER,27.26078,141,,6-3 6-2,3,R16,79,2,2,56,34,25,15,9,2,2,1,3,59,31,16,15,8,3,6
+2020-9406,Cologne 2,Hard,32,A,20201019,,SM37,2,,Diego Schwartzman,R,,ARG,28.175222,9,,O449,,LL,Oscar Otte,L,,GER,27.26078,141,,6-3 6-2,3,R16,79,2,2,56,34,25,15,9,2,2,1,3,59,31,16,15,8,3,6
 2020-9406,Cologne 2,Hard,32,A,20201019,,SD32,,,Gilles Simon,R,,FRA,35.81109,58,,SU55,3,,Denis Shapovalov,L,,CAN,21.514032,12,,6-1 4-6 6-2,3,R16,114,2,3,74,47,35,12,12,4,7,4,13,90,45,27,17,13,6,13
-2020-9406,Cologne 2,Hard,32,A,20201019,,AG37,5,,Felix Auger Aliassime,R,,CAN,20.197124,22,,GC89,,Q,Egor Gerasimov,L,,BLR,27.937029,87,,4-6 7-6(2) 7-6(4),3,R16,165,15,6,120,73,55,24,17,6,10,4,6,95,52,40,25,17,2,5
-2020-9406,Cologne 2,Hard,32,A,20201019,,N732,,,Yoshihito Nishioka,L,,JPN,25.062286,56,,GC89,7,,Jan Lennard Struff,L,,GER,30.485968,32,,2-6 6-3 7-6(3),3,R16,129,5,1,102,75,48,13,15,4,9,8,3,91,53,35,18,14,5,9
+2020-9406,Cologne 2,Hard,32,A,20201019,,AG37,5,,Felix Auger-Aliassime,R,,CAN,20.197124,22,,GC89,,Q,Egor Gerasimov,L,,BLR,27.937029,87,,4-6 7-6(2) 7-6(4),3,R16,165,15,6,120,73,55,24,17,6,10,4,6,95,52,40,25,17,2,5
+2020-9406,Cologne 2,Hard,32,A,20201019,,N732,,,Yoshihito Nishioka,L,,JPN,25.062286,56,,GC89,7,,Jan-Lennard Struff,L,,GER,30.485968,32,,2-6 6-3 7-6(3),3,R16,129,5,1,102,75,48,13,15,4,9,8,3,91,53,35,18,14,5,9
 2020-9406,Cologne 2,Hard,32,A,20201019,,ME82,8,,Adrian Mannarino,L,,FRA,32.30664,41,,KI95,,,Miomir Kecmanovic,L,,SRB,21.136208,39,,6-3 6-3,3,R16,77,5,1,50,31,28,9,9,4,5,2,1,70,44,27,11,9,9,13
 2020-9406,Cologne 2,Hard,32,A,20201019,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.374401,64,,J386,,,Steve Johnson,L,,USA,30.819986,71,,7-6(3) 6-3,3,R16,94,1,5,77,49,36,14,11,4,6,9,1,65,40,24,14,10,5,8
-2020-9406,Cologne 2,Hard,32,A,20201019,,S0AG,,WC,Jannik Sinner,U,,ITA,19.175907,46,,H996,,Q,Pierre Hugues Herbert,L,,FRA,29.59069,82,,6-3 6-1,3,R16,76,2,2,52,36,24,7,8,4,6,0,5,52,29,17,5,8,2,8
+2020-9406,Cologne 2,Hard,32,A,20201019,,S0AG,,WC,Jannik Sinner,U,,ITA,19.175907,46,,H996,,Q,Pierre-Hugues Herbert,L,,FRA,29.59069,82,,6-3 6-1,3,R16,76,2,2,52,36,24,7,8,4,6,0,5,52,29,17,5,8,2,8
 2020-9406,Cologne 2,Hard,32,A,20201019,,Z355,1,,Alexander Zverev,R,,GER,23.498974,7,,ME82,8,,Adrian Mannarino,L,,FRA,32.30664,41,,6-4 6-7(5) 6-4,3,QF,160,16,9,98,64,53,15,16,5,7,5,6,111,63,46,21,16,7,11
-2020-9406,Cologne 2,Hard,32,A,20201019,,SM37,2,,Diego Sebastian Schwartzman,R,,ARG,28.175222,9,,DH50,,,Alejandro Davidovich Fokina,L,,ESP,21.374401,64,,2-6 7-6(3) 6-1,3,QF,129,0,0,75,52,31,8,13,2,9,1,3,94,59,34,10,14,7,15
-2020-9406,Cologne 2,Hard,32,A,20201019,,AG37,5,,Felix Auger Aliassime,R,,CAN,20.197124,22,,N732,,,Yoshihito Nishioka,L,,JPN,25.062286,56,,6-3 6-4,3,QF,92,11,4,73,49,34,11,10,4,6,1,0,51,30,18,10,9,6,10
+2020-9406,Cologne 2,Hard,32,A,20201019,,SM37,2,,Diego Schwartzman,R,,ARG,28.175222,9,,DH50,,,Alejandro Davidovich Fokina,L,,ESP,21.374401,64,,2-6 7-6(3) 6-1,3,QF,129,0,0,75,52,31,8,13,2,9,1,3,94,59,34,10,14,7,15
+2020-9406,Cologne 2,Hard,32,A,20201019,,AG37,5,,Felix Auger-Aliassime,R,,CAN,20.197124,22,,N732,,,Yoshihito Nishioka,L,,JPN,25.062286,56,,6-3 6-4,3,QF,92,11,4,73,49,34,11,10,4,6,1,0,51,30,18,10,9,6,10
 2020-9406,Cologne 2,Hard,32,A,20201019,,S0AG,,WC,Jannik Sinner,U,,ITA,19.175907,46,,SD32,,,Gilles Simon,L,,FRA,35.81109,58,,6-3 0-6 6-4,3,QF,153,1,2,101,66,39,17,13,16,21,2,1,79,42,25,17,12,1,5
 2020-9406,Cologne 2,Hard,32,A,20201019,,Z355,1,,Alexander Zverev,R,,GER,23.498974,7,,S0AG,,WC,Jannik Sinner,L,,ITA,19.175907,46,,7-6(3) 6-3,3,SF,108,7,6,79,47,37,11,11,5,8,1,5,61,37,23,11,10,3,7
-2020-9406,Cologne 2,Hard,32,A,20201019,,SM37,2,,Diego Sebastian Schwartzman,R,,ARG,28.175222,9,,AG37,5,,Felix Auger Aliassime,L,,CAN,20.197124,22,,6-4 5-7 6-4,3,SF,151,0,2,98,68,46,17,16,8,11,4,8,86,53,42,15,16,1,5
-2020-9406,Cologne 2,Hard,32,A,20201019,,Z355,1,,Alexander Zverev,R,,GER,23.498974,7,,SM37,2,,Diego Sebastian Schwartzman,L,,ARG,28.175222,9,,6-2 6-1,3,F,71,9,0,45,29,24,8,7,1,1,0,5,55,33,21,5,8,3,8
+2020-9406,Cologne 2,Hard,32,A,20201019,,SM37,2,,Diego Schwartzman,R,,ARG,28.175222,9,,AG37,5,,Felix Auger-Aliassime,L,,CAN,20.197124,22,,6-4 5-7 6-4,3,SF,151,0,2,98,68,46,17,16,8,11,4,8,86,53,42,15,16,1,5
+2020-9406,Cologne 2,Hard,32,A,20201019,,Z355,1,,Alexander Zverev,R,,GER,23.498974,7,,SM37,2,,Diego Schwartzman,L,,ARG,28.175222,9,,6-2 6-1,3,F,71,9,0,45,29,24,8,7,1,1,0,5,55,33,21,5,8,3,8
 2020-337,Vienna,Hard,32,A,20201026,,RE44,5,,Andrey Rublev,R,,RUS,23.01711,8,,SU87,,LL,Lorenzo Sonego,L,,ITA,25.462013,42,,6-4 6-4,3,F,78,6,0,50,30,26,15,10,2,2,7,0,61,38,25,13,10,2,4
 2020-337,Vienna,Hard,32,A,20201026,,RE44,5,,Andrey Rublev,R,,RUS,23.01711,8,,A678,,PR,Kevin Anderson,L,,RSA,34.44216,111,,6-4 4-1 RET,3,SF,65,11,1,45,31,27,7,8,0,0,6,5,45,30,22,5,7,3,5
 2020-337,Vienna,Hard,32,A,20201026,,SU87,,LL,Lorenzo Sonego,R,,ITA,25.462013,42,,E687,,SE,Daniel Evans,L,,GBR,30.428474,33,,6-3 6-4,3,SF,80,3,1,50,30,24,15,10,1,2,0,0,48,29,16,13,9,1,4
@@ -1282,26 +1282,26 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-337,Vienna,Hard,32,A,20201026,,SU87,,LL,Lorenzo Sonego,R,,ITA,25.462013,42,,HB71,,,Hubert Hurkacz,L,,POL,23.704311,31,,7-6(6) 7-6(2),3,R16,108,5,4,73,43,37,19,12,2,3,7,3,83,48,38,16,12,3,4
 2020-337,Vienna,Hard,32,A,20201026,,D643,1,,Novak Djokovic,R,,SRB,33.431896,1,,KB05,,,Filip Krajinovic,L,,SRB,28.66256,30,,7-6(6) 6-3,3,R32,118,8,5,78,50,38,10,10,3,5,4,2,95,55,33,17,11,7,11
 2020-337,Vienna,Hard,32,A,20201026,,TB69,2,,Dominic Thiem,R,,AUT,27.14579,3,,SS25,,LL,Vitaliy Sachko,L,,UKR,23.285421,529,,6-4 7-5,3,R32,107,2,3,64,41,28,10,11,2,6,3,4,80,57,32,8,11,3,9
-2020-337,Vienna,Hard,32,A,20201026,,TE51,3,,Stefanos Tsitsipas,R,,GRE,22.206707,5,,SL28,,,Jan Lennard Struff,L,,GER,30.505133,34,,6-7(3) 6-3 6-4,3,R32,112,12,2,90,67,55,15,16,3,3,10,2,87,53,42,21,15,3,5
+2020-337,Vienna,Hard,32,A,20201026,,TE51,3,,Stefanos Tsitsipas,R,,GRE,22.206707,5,,SL28,,,Jan-Lennard Struff,L,,GER,30.505133,34,,6-7(3) 6-3 6-4,3,R32,112,12,2,90,67,55,15,16,3,3,10,2,87,53,42,21,15,3,5
 2020-337,Vienna,Hard,32,A,20201026,,MM58,4,,Daniil Medvedev,R,,RUS,24.706366,6,,J380,,LL,Jason Jung,L,,TPE,31.364819,127,,6-3 6-1,3,R32,65,4,4,51,26,20,17,8,5,5,2,1,58,41,24,4,8,6,10
 2020-337,Vienna,Hard,32,A,20201026,,RE44,5,,Andrey Rublev,R,,RUS,23.01711,8,,GB93,,Q,Norbert Gombos,L,,SVK,30.20397,104,,6-3 6-2,3,R32,60,11,0,47,32,26,11,9,0,0,5,1,50,31,20,8,8,1,4
 2020-337,Vienna,Hard,32,A,20201026,,CD85,,,Pablo Carreno Busta,R,,ESP,29.292265,15,,MC65,7,,Gael Monfils,L,,FRA,34.15195,11,,6-1 2-0 RET,3,R32,39,1,1,21,15,13,3,4,0,0,1,7,28,15,7,4,5,1,5
 2020-337,Vienna,Hard,32,A,20201026,,CD85,,WC,Jurij Rodionov,L,,AUT,21.448322,153,,SU55,8,,Denis Shapovalov,L,,CAN,21.533195,12,,6-4 7-5,3,R32,87,5,2,58,33,25,17,11,1,2,5,10,64,40,29,9,11,1,4
 2020-337,Vienna,Hard,32,A,20201026,,A678,,PR,Kevin Anderson,R,,RSA,34.44216,111,,DB59,,WC,Dennis Novak,L,,AUT,27.162218,92,,6-7(2) 6-4 7-6(6),3,R32,164,18,7,103,63,53,20,17,0,1,2,3,118,77,54,24,17,7,9
-2020-337,Vienna,Hard,32,A,20201026,,CG80,,,Borna Coric,R,,CRO,23.94798,24,,FB98,,,Taylor Harry Fritz,L,,USA,22.995209,29,,6-4 6-4,3,R32,88,8,2,62,41,30,15,10,3,3,12,0,67,40,30,13,10,1,3
+2020-337,Vienna,Hard,32,A,20201026,,CG80,,,Borna Coric,R,,CRO,23.94798,24,,FB98,,,Taylor Fritz,L,,USA,22.995209,29,,6-4 6-4,3,R32,88,8,2,62,41,30,15,10,3,3,12,0,67,40,30,13,10,1,3
 2020-337,Vienna,Hard,32,A,20201026,,D875,,,Grigor Dimitrov,R,,BUL,29.448322,20,,KE29,,,Karen Khachanov,L,,RUS,24.43258,18,,7-6(6) 6-3,3,R32,83,5,1,59,38,31,12,11,1,3,3,4,58,38,26,9,10,1,4
 2020-337,Vienna,Hard,32,A,20201026,,E687,,SE,Daniel Evans,R,,GBR,30.428474,33,,BH09,,Q,Aljaz Bedene,L,,SLO,31.27447,53,,6-3 4-5 RET,3,R32,77,4,2,54,30,25,15,9,3,3,5,3,52,26,21,15,9,0,1
-2020-337,Vienna,Hard,32,A,20201026,,GD64,,,Christian Garin,R,,CHI,24.40794,22,,W367,,,Stanislas Wawrinka,L,,SUI,35.58111,19,,6-4 6-7(9) 6-3,3,R32,133,6,1,105,66,49,25,16,5,5,9,4,95,51,43,23,15,3,5
+2020-337,Vienna,Hard,32,A,20201026,,GD64,,,Christian Garin,R,,CHI,24.40794,22,,W367,,,Stan Wawrinka,L,,SUI,35.58111,19,,6-4 6-7(9) 6-3,3,R32,133,6,1,105,66,49,25,16,5,5,9,4,95,51,43,23,15,3,5
 2020-337,Vienna,Hard,32,A,20201026,,HB71,,,Hubert Hurkacz,R,,POL,23.704311,31,,BD80,,Q,Attila Balazs,L,,HUN,32.0794,88,,6-3 7-5,3,R32,86,5,6,61,34,30,11,11,0,2,1,4,62,34,22,14,10,4,8
-2020-337,Vienna,Hard,32,A,20201026,,PD07,,Q,Vasek Pospisil,R,,CAN,30.343601,81,,AG37,,,Felix Auger Aliassime,L,,CAN,20.21629,21,,7-5 7-5,3,R32,109,8,3,69,35,29,18,12,2,3,6,3,72,53,37,8,12,5,8
+2020-337,Vienna,Hard,32,A,20201026,,PD07,,Q,Vasek Pospisil,R,,CAN,30.343601,81,,AG37,,,Felix Auger-Aliassime,L,,CAN,20.21629,21,,7-5 7-5,3,R32,109,8,3,69,35,29,18,12,2,3,6,3,72,53,37,8,12,5,8
 2020-337,Vienna,Hard,32,A,20201026,,S0AG,,WC,Jannik Sinner,U,,ITA,19.195072,43,,RH16,,,Casper Ruud,L,,NOR,21.845312,27,,7-6(2) 6-3,3,R32,104,6,5,73,41,31,20,11,1,2,4,4,75,49,32,12,10,5,7
 2020-337,Vienna,Hard,32,A,20201026,,SU87,,LL,Lorenzo Sonego,R,,ITA,25.462013,42,,L987,,,Dusan Lajovic,L,,SRB,30.324436,26,,6-4 6-3,3,R32,80,9,0,57,33,27,17,10,4,4,0,1,57,41,32,5,9,2,4
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,V708,,,Jiri Vesely,L,,CZE,27.296371,66,,SL08,5,,Tennys Sandgren,L,,USA,29.264887,48,,6-4 7-6(7),3,R32,100,9,2,72,47,34,18,11,5,5,13,4,71,43,36,13,11,3,4
-2020-9410,Nur-Sultan,Hard,32,A,20201026,,MK66,,PR,Mackenzie Mcdonald,R,,USA,25.530458,209,,BK92,6,,Alexander Bublik,L,,KAZ,23.359343,49,,6-3 6-2,3,R32,72,1,0,49,37,27,8,9,1,2,11,8,69,34,21,12,8,7,11
+2020-9410,Nur-Sultan,Hard,32,A,20201026,,MK66,,PR,Mackenzie McDonald,R,,USA,25.530458,209,,BK92,6,,Alexander Bublik,L,,KAZ,23.359343,49,,6-3 6-2,3,R32,72,1,0,49,37,27,8,9,1,2,11,8,69,34,21,12,8,7,11
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,PL56,7,,Tommy Paul,R,,USA,23.444216,59,,TA12,,,Stefano Travaglia,L,,ITA,28.856947,73,,7-6(2) 6-3,3,R32,95,5,4,64,32,26,18,10,6,8,6,4,77,40,26,16,11,4,8
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,TC61,8,,Jordan Thompson,R,,AUS,26.518824,60,,N771,,,Cameron Norrie,L,,GBR,25.177277,70,,5-7 7-6(6) 6-2,3,R32,160,4,2,104,61,40,24,16,4,7,4,5,106,62,42,22,16,6,10
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,A829,,,Radu Albot,R,,MDA,30.956879,85,,N771,,WC,Dmitry Popko,L,,KAZ,24.005476,172,,4-6 6-4 6-4,3,R32,170,3,7,115,72,49,17,15,8,12,5,3,108,61,38,23,15,8,13
-2020-9410,Nur-Sultan,Hard,32,A,20201026,,GC89,,,Egor Gerasimov,R,,BLR,27.956194,83,,HG86,,,Lloyd George Muirhead Harris,L,,RSA,23.66872,80,,6-3 3-6 7-6(3),3,R32,121,8,0,90,50,38,25,15,3,6,9,1,86,52,41,19,15,2,5
+2020-9410,Nur-Sultan,Hard,32,A,20201026,,GC89,,,Egor Gerasimov,R,,BLR,27.956194,83,,HG86,,,Lloyd Harris,L,,RSA,23.66872,80,,6-3 3-6 7-6(3),3,R32,121,8,0,90,50,38,25,15,3,6,9,1,86,52,41,19,15,2,5
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,K926,,,Mikhail Kukushkin,R,,KAZ,32.835045,91,,D874,,,Federico Delbonis,L,,ARG,30.058865,76,,6-7(5) 6-3 6-2,3,R32,152,2,2,101,55,43,24,15,1,3,7,3,92,59,39,14,14,5,10
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,RH24,,Q,Emil Ruusuvuori,R,,FIN,21.568789,98,,D874,,WC,Timofey Skatov,L,,RUS,19.761806,438,,6-2 6-0,3,R32,60,4,3,36,23,22,5,7,0,1,0,4,47,36,13,4,7,6,12
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,SA93,,WC,Andreas Seppi,R,,ITA,36.678986,103,,KC56,,Q,Aslan Karatsev,L,,RUS,27.143053,113,,6-3 1-6 6-3,3,R32,117,1,4,78,39,27,20,13,3,6,7,4,74,34,25,21,12,3,6
@@ -1315,8 +1315,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,PL56,7,,Tommy Paul,R,,USA,23.444216,59,,A829,,,Radu Albot,L,,MDA,30.956879,85,,6-4 6-0,3,R16,72,1,2,57,36,25,12,8,5,6,0,5,46,20,9,11,8,0,5
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,RH24,,Q,Emil Ruusuvuori,R,,FIN,21.568789,98,,TC61,8,,Jordan Thompson,L,,AUS,26.518824,60,,6-2 3-6 6-4,3,R16,123,6,1,74,49,38,14,13,4,6,4,3,77,50,39,11,14,1,5
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,GC89,,,Egor Gerasimov,R,,BLR,27.956194,83,,V708,,,Jiri Vesely,L,,CZE,27.296371,66,,4-6 6-3 6-4,3,R16,110,14,2,87,61,49,15,15,4,5,7,5,77,43,33,20,14,3,5
-2020-9410,Nur-Sultan,Hard,32,A,20201026,,MK66,,PR,Mackenzie Mcdonald,R,,USA,25.530458,209,,SA93,,WC,Andreas Seppi,L,,ITA,36.678986,103,,3-6 6-3 6-3,3,R16,121,7,1,87,55,36,15,13,5,9,1,3,89,45,29,19,14,6,12
-2020-9410,Nur-Sultan,Hard,32,A,20201026,,ME82,3,,Adrian Mannarino,L,,FRA,32.325806,39,,MK66,,PR,Mackenzie Mcdonald,L,,USA,25.530458,209,,6-1 6-4,3,QF,100,2,5,77,43,30,16,9,6,7,1,2,58,35,20,7,8,4,8
+2020-9410,Nur-Sultan,Hard,32,A,20201026,,MK66,,PR,Mackenzie McDonald,R,,USA,25.530458,209,,SA93,,WC,Andreas Seppi,L,,ITA,36.678986,103,,3-6 6-3 6-3,3,R16,121,7,1,87,55,36,15,13,5,9,1,3,89,45,29,19,14,6,12
+2020-9410,Nur-Sultan,Hard,32,A,20201026,,ME82,3,,Adrian Mannarino,L,,FRA,32.325806,39,,MK66,,PR,Mackenzie McDonald,L,,USA,25.530458,209,,6-1 6-4,3,QF,100,2,5,77,43,30,16,9,6,7,1,2,58,35,20,7,8,4,8
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,MH30,4,,John Millman,R,,AUS,31.367556,45,,PL56,7,,Tommy Paul,L,,USA,23.444216,59,,6-7(5) 6-4 7-6(5),3,QF,171,0,3,104,48,34,30,17,2,7,12,2,131,78,53,21,17,4,10
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,RH24,,Q,Emil Ruusuvuori,R,,FIN,21.568789,98,,K926,,,Mikhail Kukushkin,L,,KAZ,32.835045,91,,6-3 6-1,3,QF,81,6,5,47,30,26,9,8,0,0,4,1,66,43,25,8,8,4,8
 2020-9410,Nur-Sultan,Hard,32,A,20201026,,RH24,,,Francis Tiafoe,R,,USA,22.76523,64,,GC89,,,Egor Gerasimov,L,,BLR,27.956194,83,,7-6(5) 5-7 7-5,3,QF,155,6,5,119,75,59,17,18,3,6,14,6,118,68,49,28,18,2,5
