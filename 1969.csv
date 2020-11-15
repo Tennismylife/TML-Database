@@ -145,7 +145,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1969-338,Sydney,Grass,32,A,19690113,,L058,,,Rod Laver,,,AUS,30.431,,,T050,11,,Roger Taylor,,,GBR,27.25,,,5-7 8-6 6-2 6-3,5,QF,,,,,,,,,,,,,,,,,,,
 1969-338,Sydney,Grass,32,A,19690113,,R073,,,Tony Roche,,,AUS,23.661,,,R075,2,,Ken Rosewall,,,AUS,34.198,,,5-7 7-9 6-4 1-19 8-6,5,SF,,,,,,,,,,,,,,,,,,,
 1969-338,Sydney,Grass,32,A,19690113,,L058,,,Rod Laver,,,AUS,30.431,,,N044,3,,John Newcombe,,,AUS,24.643,,,6-1 6-3 7-5,5,SF,,,,,,,,,,,,,,,,,,,
-1969-338,Sydney,Grass,32,A,19690113,,R073,,,Tony Roche,,,AUS,23.661,,,L058,1,,Rod Laver,,,AUS,30.431,,,6-4 4-6 9-7 12-10,5,F,,,,,,,,,,,,,,,,,,,
+1969-338,Sydney,Grass,32,A,19690113,,R073,,,Tony Roche,,,AUS,23.661,,,L058,,,Rod Laver,,,AUS,30.431,,,6-4 4-6 9-7 12-10,5,F,,,,,,,,,,,,,,,,,,,
 1969-580,Australian Open,Grass,64,G,19690120,1,N044,5,,John Newcombe,R,183,AUS,24.663,,,F071,,,Ian Fletcher,R,,AUS,20.137,,,6-2 5-7 6-3 6-4,5,R64,,,,,,,,,,,,,,,,,,,
 1969-580,Australian Open,Grass,64,G,19690120,2,B269,,,Rod Brent,R,,AUS,,,,C083,,,Jean-Baptiste Chanfreau,R,,FRA,22.01,,,6-3 6-7 4-6 8-6 6-4,5,R64,,,,,,,,,,,,,,,,,,,
 1969-580,Australian Open,Grass,64,G,19690120,3,M118,,,Raymond Moore,R,183,RSA,22.409,,,F135,,,Trevor Fancutt,R,,RSA,34.522,,,6-4 4-6 6-3 4-6 6-1,5,R64,,,,,,,,,,,,,,,,,,,
