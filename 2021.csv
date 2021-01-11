@@ -1,0 +1,20 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced
+2021-499,Delray Beach,Hard,28,A,20210104,,Q941,,Q,Roberto Quiroz,L,,ECU,28.86516,293,,K336,,,Ivo Karlovic,U,,CRO,41.85079,148,,,3,R16,,,,,,,,,,,,,,,,,,,
+2021-499,Delray Beach,Hard,28,A,20210104,,HB05,,Q,Christian Harrison,R,,USA,26.603697,789,,GD64,1,,Cristian Garin,L,,CHI,24.599588,22,,7-6(3) 6-2,3,R16,90,4,2,63,42,29,13,10,4,6,3,3,71,44,26,11,10,7,11
+2021-499,Delray Beach,Hard,28,A,20210104,,I186,2,,John Isner,R,,USA,35.69336,25,,MJ08,,,Thiago Monteiro,L,,BRA,26.59822,84,,6-4 7-6(4),3,R16,93,22,1,66,48,41,9,11,0,0,4,2,75,51,40,13,11,3,4
+2021-499,Delray Beach,Hard,28,A,20210104,,HB71,4,,Hubert Hurkacz,R,,POL,23.895962,35,,GE33,,,Daniel Elahi Galan,U,,COL,24.54757,115,,,3,R16,,,,,,,,,,,,,,,,,,,
+2021-499,Delray Beach,Hard,28,A,20210104,,K0AH,,,Sebastian Korda,U,,USA,20.501026,119,,PL56,5,,Tommy Paul,L,,USA,23.635866,52,,4-6 6-3 6-2,3,R16,128,3,2,87,58,36,18,13,9,11,2,4,83,55,34,12,14,1,6
+2021-499,Delray Beach,Hard,28,A,20210104,,ML57,,,Gianluca Mager,R,,ITA,26.094456,101,,Q927,6,,Sam Querrey,L,,USA,33.245724,56,,7-6(8) 6-1,3,R16,82,4,8,86,54,42,14,10,7,8,10,4,65,34,26,10,9,1,4
+2021-499,Delray Beach,Hard,28,A,20210104,,TD51,8,,Frances Tiafoe,R,,USA,22.956879,62,,F811,,,Bjorn Fratangelo,U,,USA,27.46338,274,,,3,R16,,,,,,,,,,,,,,,,,,,
+2021-499,Delray Beach,Hard,28,A,20210104,,PL56,5,,Tommy Paul,R,,USA,23.635866,52,,N652,,,Ji Sung Nam,L,,KOR,27.38946,268,,6-1 6-4,3,R32,67,5,0,59,38,26,13,9,2,3,2,4,51,27,16,10,8,2,6
+2021-499,Delray Beach,Hard,28,A,20210104,,Q927,6,,Sam Querrey,R,,USA,33.245724,56,,MK66,,,Mackenzie McDonald,L,,USA,25.722109,194,,6-3 6-4,3,R32,70,13,2,66,36,30,14,10,6,7,4,2,52,32,19,12,9,3,6
+2021-499,Delray Beach,Hard,28,A,20210104,,K336,,,Ivo Karlovic,R,,CRO,41.85079,148,,A596,7,,Pablo Andujar,L,,ESP,34.948666,59,,6-3 5-7 6-4,3,R32,136,27,9,101,63,51,15,16,2,4,0,5,100,63,41,21,15,5,8
+2021-499,Delray Beach,Hard,28,A,20210104,,TD51,8,,Frances Tiafoe,R,,USA,22.956879,62,,Y124,,Q,Donald Young,L,,USA,31.45243,327,,6-3 6-4,3,R32,76,2,1,51,26,20,16,9,1,2,4,6,73,43,28,11,10,4,8
+2021-499,Delray Beach,Hard,28,A,20210104,,F811,,,Bjorn Fratangelo,R,,USA,27.46338,274,,KB14,,Q,Kevin King,L,,USA,29.850786,304,,6-2 6-2,3,R32,69,0,0,51,25,22,15,8,2,2,2,2,49,32,17,7,8,2,6
+2021-499,Delray Beach,Hard,28,A,20210104,,F811,,,Daniel Elahi Galan Riveros,U,,COL,24.54757,115,,MF35,,,Andrej Martin,L,,SVK,31.290897,100,,6-4 6-4,3,R32,81,3,2,64,39,30,13,10,5,6,2,2,64,36,24,12,10,4,7
+2021-499,Delray Beach,Hard,28,A,20210104,,HB05,,Q,Christian Harrison,R,,USA,26.603697,789,,EA24,,,Tomas Martin Etcheverry,L,,ARG,21.467487,256,,6-4 6-2,3,R32,80,10,4,51,34,29,7,9,2,3,4,3,69,44,25,10,9,9,13
+2021-499,Delray Beach,Hard,28,A,20210104,,K0AH,,,Sebastian Korda,U,,USA,20.501026,119,,KF17,,,Soonwoo Kwon,L,,KOR,23.091034,95,,6-4 6-4,3,R32,93,8,1,88,53,36,18,10,5,6,4,4,50,29,22,11,10,1,4
+2021-499,Delray Beach,Hard,28,A,20210104,,ML57,,,Gianluca Mager,R,,ITA,26.094456,101,,H940,,WC,Ryan Harrison,L,,USA,28.66256,481,,3-6 6-1 6-4,3,R32,115,9,3,93,66,51,12,13,12,13,4,4,84,44,34,17,13,3,6
+2021-499,Delray Beach,Hard,28,A,20210104,,MJ08,,,Thiago Monteiro,L,,BRA,26.59822,84,,BD20,,,Thomaz Bellucci,L,,BRA,33.015743,281,,6-3 7-5,3,R32,100,2,1,67,38,28,16,10,8,9,3,3,69,42,25,12,11,2,6
+2021-499,Delray Beach,Hard,28,A,20210104,,N771,,,Cameron Norrie,L,,GBR,25.368925,74,,BD20,,WC,JC Aragone,L,,USA,25.522245,299,,6-2 6-1,3,R32,67,3,2,48,31,26,10,8,3,3,2,2,47,28,13,7,7,4,8
+2021-499,Delray Beach,Hard,28,A,20210104,,Q941,,Q,Roberto Quiroz,L,,ECU,28.86516,293,,RC96,,WC,Noah Rubin,L,,USA,24.870636,251,,7-6(1) 6-3,3,R32,89,7,2,58,32,24,12,10,1,4,5,6,66,35,24,11,11,2,7
