@@ -1,5 +1,5 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced
-2021-0499,Delray Beach,Hard,32,A,20210104,300,128034,4,,Hubert Hurkacz,R,,POL,23.8959616701,200624,,,Sebastian Korda,U,,USA,20.501026694,6-3 6-3,3,F,71,4,0,50,38,27,7,9,0,1,1,5,55,33,20,9,9,1,5,35,1518,119,566
+2021-499,Delray Beach,Hard,32,A,20210104,300,128034,4,,Hubert Hurkacz,R,,POL,23.8959616701,200624,,,Sebastian Korda,U,,USA,20.501026694,6-3 6-3,3,F,71,4,0,50,38,27,7,9,0,1,1,5,55,33,20,9,9,1,5,35,1518,119,566
 2021-499,Delray Beach,Hard,28,A,20210104,,HB71,4,,Hubert Hurkacz,R,,POL,23.895962,35,,HB05,,Q,Christian Harrison,L,,USA,26.603697,789,,7-6(4) 6-4,3,SF,97,7,1,70,44,30,15,11,2,3,5,4,70,46,29,13,11,3,5
 2021-499,Delray Beach,Hard,28,A,20210104,,K0AH,,,Sebastian Korda,U,,USA,20.501026,119,,N771,,,Cameron Norrie,L,,GBR,25.368925,74,,6-3 7-5,3,SF,81,6,4,60,36,29,11,11,0,2,3,5,56,35,25,7,10,2,6
 2021-499,Delray Beach,Hard,28,A,20210104,,K0AH,,,Sebastian Korda,U,,USA,20.501026,119,,I186,2,,John Isner,L,,USA,35.69336,25,,6-3 4-6 6-3,3,QF,111,5,4,81,49,40,19,14,5,6,13,1,83,60,39,12,14,4,7
@@ -105,6 +105,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-9428,Murray River Open,Hard,56,A,20210201,,S483,,,Pedro Sousa,R,,POR,32.684464,108,,TC01,,WC,Li Tu,L,,AUS,24.684464,,,6-4 7-6(5),3,R64,74,3,1,77,46,32,19,11,2,3,12,1,61,41,31,12,11,2,4
 2021-9428,Murray River Open,Hard,56,A,20210201,,SE73,,,Yuichi Sugita,R,,JPN,32.37235,104,,HB64,,,Quentin Halys,L,,FRA,24.268309,206,,3-6 7-6(3) 7-5,3,R64,133,5,3,106,73,50,18,17,1,5,15,11,105,72,57,8,16,8,11
 2021-9428,Murray River Open,Hard,56,A,20210201,,V708,,,Jiri Vesely,L,,CZE,27.564682,69,,SN54,,,Frederico Ferreira Silva,L,,POR,25.878166,184,,6-4 6-4,3,R64,78,4,1,53,39,33,9,10,3,3,3,3,55,34,23,12,10,0,2
+<<<<<<< Updated upstream
 2021-8888,ATP Cup,Hard,24,A,20210202,,R975,,,Milos Raonic,R,,CAN,30.102669,15,,L987,,,Dusan Lajovic,L,,SRB,30.595482,26,,6-3 6-4,3,R16,79,11,3,48,32,29,11,10,0,0,2,1,66,53,33,6,9,6,8
 2021-8888,ATP Cup,Hard,24,A,20210202,,BD06,,,Roberto Bautista Agut,R,,ESP,32.804928,13,,DH58,,,Alex De Minaur,L,,AUS,21.9603,23,,4-6 6-4 6-4,3,R16,140,4,1,75,44,35,13,15,2,6,9,4,110,70,41,20,15,12,17
 2021-8888,ATP Cup,Hard,24,A,20210202,,CD85,,,Pablo Carreno Busta,R,,ESP,29.563313,16,,MH30,,,John Millman,L,,AUS,31.638603,38,,6-2 6-4,3,R16,77,5,0,46,28,25,10,9,1,2,4,0,57,42,24,6,9,3,7
@@ -113,3 +114,21 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-8888,ATP Cup,Hard,24,A,20210202,,RE44,,,Andrey Rublev,R,,RUS,23.288158,8,,PC11,,,Guido Pella,L,,ARG,30.715948,44,,6-1 6-2,3,R16,60,7,2,51,32,26,9,8,2,2,1,3,45,28,17,5,7,2,6
 2021-8888,ATP Cup,Hard,24,A,20210202,,D643,,,Novak Djokovic,R,,SRB,33.70294,1,,SU55,,,Denis Shapovalov,L,,CAN,21.804243,12,,7-5 7-5,3,R16,113,1,3,63,44,35,14,12,0,0,9,4,81,45,36,16,12,4,6
 2021-8888,ATP Cup,Hard,24,A,20210202,,MM58,,,Daniil Medvedev,R,,RUS,24.977413,4,,SM37,,,Diego Sebastian Schwartzman,L,,ARG,28.465435,9,,7-5 6-3,3,R16,99,8,4,64,43,29,9,11,2,5,0,1,70,40,26,9,10,5,10
+=======
+2021-8888,ATP Cup,Hard,24,A,20210202,,R975,,,Milos Raonic,R,,CAN,30.102669,15,,L987,,,Dusan Lajovic,L,,SRB,30.595482,26,,6-3 6-4,3,RR,79,11,3,48,32,29,11,10,0,0,2,1,66,53,33,6,9,6,8
+2021-8888,ATP Cup,Hard,24,A,20210202,,BD06,,,Roberto Bautista Agut,R,,ESP,32.804928,13,,DH58,,,Alex De Minaur,L,,AUS,21.9603,23,,4-6 6-4 6-4,3,RR,140,4,1,75,44,35,13,15,2,6,9,4,110,70,41,20,15,12,17
+2021-8888,ATP Cup,Hard,24,A,20210202,,CD85,,,Pablo Carreno Busta,R,,ESP,29.563313,16,,MH30,,,John Millman,L,,AUS,31.638603,38,,6-2 6-4,3,RR,77,5,0,46,28,25,10,9,1,2,4,0,57,42,24,6,9,3,7
+2021-8888,ATP Cup,Hard,24,A,20210202,,BK40,,,Matteo Berrettini,R,,ITA,24.810404,10,,TB69,,,Dominic Thiem,L,,AUT,27.416838,3,,6-2 6-4,3,RR,81,5,0,50,34,24,10,9,0,1,2,0,61,37,23,10,9,5,9
+2021-8888,ATP Cup,Hard,24,A,20210202,,DB59,,,Dennis Novak,R,,AUT,27.433266,100,,F510,,,Fabio Fognini,L,,ITA,33.697468,17,,6-3 6-2,3,RR,72,2,1,55,39,27,10,9,0,1,3,6,61,39,24,6,8,6,10
+2021-8888,ATP Cup,Hard,24,A,20210202,,RE44,,,Andrey Rublev,R,,RUS,23.288158,8,,PC11,,,Guido Pella,L,,ARG,30.715948,44,,6-1 6-2,3,RR,60,7,2,51,32,26,9,8,2,2,1,3,45,28,17,5,7,2,6
+2021-8888,ATP Cup,Hard,24,A,20210202,,D643,,,Novak Djokovic,R,,SRB,33.70294,1,,SU55,,,Denis Shapovalov,L,,CAN,21.804243,12,,7-5 7-5,3,RR,113,1,3,63,44,35,14,12,0,0,9,4,81,45,36,16,12,4,6
+2021-8888,ATP Cup,Hard,24,A,20210202,,MM58,,,Daniil Medvedev,R,,RUS,24.977413,4,,SM37,,,Diego Sebastian Schwartzman,L,,ARG,28.465435,9,,7-5 6-3,3,RR,99,8,4,64,43,29,9,11,2,5,0,1,70,40,26,9,10,5,10
+2021-8888,ATP Cup,Hard,24,A,20210202,,Sl28,,,Jan-Lennard Struff,,,GER,,,,R975,,,Milos Raonic,,,CAN,30.102669,,,7-6(4) 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,
+2021-8888,ATP Cup,Hard,24,A,20210202,,Z355,,,Alexander Zverev,,,GER,,,,SU55,,,Denis Shapovalov,L,,CAN,21.804243,12,,6-7(5) 6-3 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,
+2021-8888,ATP Cup,Hard,24,A,20210202,,MH30,,,John Millman,L,,AUS,31.638603,38,,PM13,,,Michail Pervolarakis,,,GRE,31.638603,38,,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2021-8888,ATP Cup,Hard,24,A,20210202,,TE51,,,Stefanos Tsitsipas,,,GRE,,,,DH58,,,Alex De Minaur,L,,AUS,21.9603,23,,6-3 7-5 ,3,RR,,,,,,,,,,,,,,,,,,,
+2021-8888,ATP Cup,Hard,24,A,20210202,,F510,,,Fabio Fognini,L,,ITA,33.697468,17,,PD31,,,Benoit Paire,,,FRA,,,,6-1 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,
+2021-8888,ATP Cup,Hard,24,A,20210202,,BK40,,,Matteo Berrettini,R,,ITA,24.810404,10,,MC65,,,Gael Monfils,,,FRA,34.4229979466,11,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2021-8888,ATP Cup,Hard,24,A,20210202,,RE44,,,Andrey Rublev,R,,RUS,23.288158,8,,N732,,,Yoshihito Nishioka,,,JPN,,,,6-1 6-3 ,3,RR,,,,,,,,,,,,,,,,,,,
+2021-8888,ATP Cup,Hard,24,A,20210202,,MM58,,,Daniil Medvedev,R,,RUS,24.977413,4,,N552,,,Kei Nishikori,,,JPN,,,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+>>>>>>> Stashed changes
