@@ -125,3 +125,4 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-580,Australian Open,Hard,128,G,20210208,,KC56,Q,,Aslan Karatsev,R,,RUS,27.430527,114,,D875,18,,Grigor Dimitrov,L,,BUL,29.735798,21,,2-6 6-4 6-1 6-2,5,QF,152,9,6,105,58,39,26,17,10,14,9,7,98,63,38,15,16,3,11
 2021-580,Australian Open,Hard,128,G,20210208,,D643,1,,Novak Djokovic,R,,SRB,33.71937,1,,KC56,Q,,Aslan Karatsev,L,,RUS,27.430527,114,,6-3 6-4 6-2,5,SF,113,17,2,81,55,39,16,14,3,5,6,2,66,34,22,11,13,1,7
 2021-580,Australian Open,Hard,128,G,20210208,,MM58,4,,Daniil Medvedev,R,,RUS,24.99384,4,,TE51,5,,Stefanos Tsitsipas,L,,GRE,22.494183,6,,6-4 6-2 7-5,5,SF,129,17,2,82,56,49,12,15,2,3,3,3,101,70,43,13,15,4,9
+2021-580,Australian Open,Hard,128,G,20210208,,D643,1,,Novak Djokovic,R,,SRB,33.71937,1,,MM58,4,,Daniil Medvedev,L,,RUS,24.99384,4,,7-5 6-2 6-2,5,F,113,3,2,78,52,38,15,14,2,4,6,4,77,49,34,9,14,4,11
