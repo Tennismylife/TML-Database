@@ -26,7 +26,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-8888,ATP Cup,Hard,24,A,20200103,,KC33,,,Dimitar Kuzmanov,,,BUL,26.442,423,,CJ60,,,Alexander Cozbinov,,,MDA,24.692,818,,6-1 7-5,3,RR,108,6,2,69,45,30,14,10,4,6,2,1,64,45,23,7,9,3,8
 2020-8888,ATP Cup,Hard,24,A,20200103,,D875,,,Grigor Dimitrov,,,BUL,28.643,20,,A829,,,Radu Albot,,,MDA,30.151,46,,6-2 6-3,3,RR,83,5,8,57,35,30,9,9,4,5,0,2,50,24,16,10,8,2,6
 2020-8888,ATP Cup,Hard,24,A,20200103,,D632,,,Steve Darcis,,,BEL,35.816,157,,N771,,,Cameron Norrie,,,GBR,24.372,53,,6-2 6-4,3,RR,72,5,1,46,32,27,7,9,0,1,2,1,51,36,19,9,9,4,8
-2020-8888,ATP Cup,Hard,24,A,20200103,,GB88,,,David Goffin,,,BEL,29.081,11,,E687,,,Daniel Evans,,,GBR,29.623,42,,6-4 6-4,3,RR,108,3,0,74,53,31,11,10,1,4,4,0,56,29,17,13,10,0,5
+2020-8888,Atp Cup,Hard,24,A,20200106,,E687,,,Daniel Evans,R,175,GBR,29.6235455168,42,1124,GB88,,,David Goffin,R,163,BEL,29.0814510609,11,2335,6-4 6-4,3,RR,108,3,0,74,53,31,11,10,1,4,4,0,56,29,17,13,10,0,5
 2020-8888,ATP Cup,Hard,24,A,20200103,,TA12,,,Stefano Travaglia,,,ITA,28.052,84,,DC76,,,Viktor Durasovic,,,NOR,22.8,332,,6-1 6-1,3,RR,56,5,1,36,17,15,13,7,0,0,3,1,44,21,9,9,7,3,8
 2020-8888,ATP Cup,Hard,24,A,20200103,,RH16,,,Casper Ruud,,,NOR,21.04,54,,F510,,,Fabio Fognini,,,ITA,32.621,12,,6-2 6-2,3,RR,66,2,1,46,35,28,6,8,0,0,1,3,47,22,13,10,8,5,9
 2020-8888,ATP Cup,Hard,24,A,20200103,,KE29,,,Karen Khachanov,,,RUS,23.627,17,,FB98,,,Taylor Fritz,,,USA,22.19,32,,3-6 7-5 6-1,3,RR,111,12,1,75,54,46,7,14,4,6,11,6,89,53,42,11,14,3,7
@@ -671,6 +671,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-DC-2020-QLS-M-USA-UZB-01,Davis Cup QLS R1: USA vs UZB,Hard,4,D,20200306,1,O522,,,Reilly Opelka,R,,USA,22.5106091718,38,1177,I165,,,Denis Istomin,R,188,UZB,33.4839151266,156,339,6-2 7-5,3,RR,81,10,1,55,29,27,16,10,1,1,2,2,63,44,28,9,10,4,7
 2020-M-DC-2020-QLS-M-USA-UZB-01,Davis Cup QLS R1: USA vs UZB,Hard,4,D,20200306,2,FB98,,,Taylor Fritz,R,,USA,22.3436002738,24,1510,F786,,,Sanjar Fayziev,U,,UZB,25.5934291581,498,59,6-1 6-2,3,RR,65,9,2,50,28,22,14,8,3,3,2,3,55,35,18,9,7,5,9
 2020-M-DC-2020-QLS-M-USA-UZB-01,Davis Cup QLS R1: USA vs UZB,Hard,4,D,20200306,4,PL56,,,Tommy Paul,R,,USA,22.7926078029,57,894,I165,,,Denis Istomin,R,188,UZB,33.4839151266,156,339,6-3 6-0,3,RR,55,3,3,41,20,15,10,8,1,2,0,1,54,40,18,5,7,5,11
+2020-M-DC-2020-QLS-M-PHI-GRE-01,Davis Cup G2 GRE vs PHI,Clay,4,D,20200306,,TE51,,,Stefanos Tsitsipas,,,GRE,21.56,,,L0A0,,,Alberto Lim,,,PHI,,,,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2020-M-DC-2020-QLS-M-PHI-GRE-01,Davis Cup G2 GRE vs PHI,Clay,4,D,20200306,,TE51,,,Stefanos Tsitsipas,,,GRE,21.56,,,PG17,,,Jeson Patrombon,,,PHI,,,,6-2 6-1,,,,,,,,,,,,,,,,,,,,,
+2020-M-DC-2020-QLS-M-ITA-KOR-01,Davis Cup G2 ITA vs KOR,Clay,4,D,20200306,,TA12,,,Stefano Travaglia,,,ITA,,,,CH90,,,Yunseong Chung,,,KOR,,,,6-0 6-1,,,,,,,,,,,,,,,,,,,,,
+2020-M-DC-2020-QLS-M-GEO-EST-01,Davis Cup G2 GEO vs EST,Hard,4,D,20200306,,BG23,,,Nikoloz Basilashvili,,,EST,,,,I067,,,Vladimir Ivanov,,,EST,,,,6-4 6-1,,,,,,,,,,,,,,,,,,,,,
+
+
 2020-M-DC-2020-WG1-PO-BIH-RSA-01,Davis Cup WG1 PO: BIH vs RSA,Hard,4,D,20200306,1,D923,,,Damir Dzumhur,R,172,BIH,27.7837097878,107,524,RA24,,,Ruan Roelofse,R,,RSA,30.2861054073,611,36,7-6(3) 7-5,3,RR,97,2,1,70,51,35,15,12,2,4,5,2,79,49,27,19,12,5,8
 2020-M-DC-2020-WG1-PO-BIH-RSA-01,Davis Cup WG1 PO: BIH vs RSA,Hard,4,D,20200306,2,HG86,,,Lloyd Harris,R,,RSA,23.0171115674,98,616,BE67,,,Mirza Basic,R,,BIH,28.6406570842,303,134,7-5 6-2,3,RR,78,10,2,55,34,27,12,10,1,2,4,1,68,47,29,10,10,4,8
 2020-M-DC-2020-WG1-PO-BIH-RSA-01,Davis Cup WG1 PO: BIH vs RSA,Hard,4,D,20200306,4,D923,,,Damir Dzumhur,R,172,BIH,27.7837097878,107,524,HG86,,,Lloyd Harris,R,,RSA,23.0171115674,98,616,6-1 2-1 RET,3,RR,54,2,1,26,18,17,4,5,0,0,1,2,58,41,22,6,5,5,8
