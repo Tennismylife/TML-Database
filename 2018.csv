@@ -354,7 +354,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-M-DC-2018-G2-EPA-M-EGY-NOR-01,Davis Cup G2 R1: EGY vs NOR,Hard,4,D,20180203,4,126174,,,Youssef Hossam,U,,EGY,19.658,296,165,200483,,,Peter August Anker,U,,NOR,18.658,,,6-4 6-0,3,RR,53,6,1,52,35,25,8,8,6,8,3,1,49,33,12,7,8,1,7
 2018-M-DC-2018-G2-EPA-M-EST-LTU-01,Davis Cup G2 R1: EST vs LTU,Hard,4,D,20180203,1,GA71,,,Laurynas Grigelis,R,183,LTU,26.461,279,179,Z254,,,Jurgen Zopp,R,190,EST,29.837,171,315,7-5 6-2,3,RR,58,12,1,54,36,29,13,10,0,0,6,4,54,32,24,9,10,0,3
 2018-M-DC-2018-G2-EPA-M-EST-LTU-01,Davis Cup G2 R1: EST vs LTU,Hard,4,D,20180203,2,BE90,,,Ricardas Berankis,R,175,LTU,27.608,116,498,144807,,,Kenneth Raisma,L,,EST,19.825,896,15,7-5 7-6(3),3,RR,88,4,2,76,50,41,15,12,1,1,4,2,74,54,39,13,12,5,6
-2018-M-DC-2018-G2-EPA-M-EST-LTU-01,Davis Cup G2 R1: EST vs LTU,Hard,4,D,20180203,4,Z254,,,Jurgen Zopp,R,190,EST,29.837,171,315,207973,,,Ainius Sabaliauskas,,,LTU,14.513,,,6-0 6-1,3,RR,36,0,1,29,18,15,9,7,0,0,0,4,47,27,11,5,6,6,12
+2018-M-DC-2018-G2-EPA-M-EST-LTU-01,Davis Cup G2 R1: EST vs LTU,Hard,4,D,20180203,4,Z254,,,Jurgen Zopp,R,190,EST,29.837,171,315,207973,,,Ainius Sabaliauskas,,,LTU,,,,6-0 6-1,3,RR,36,0,1,29,18,15,9,7,0,0,0,4,47,27,11,5,6,6,12
 2018-M-DC-2018-G2-EPA-M-GEO-MAR-01,Davis Cup G2 R1: GEO vs MAR,Clay,4,D,20180203,1,O207,,,Lamine Ouahab,R,185,ALG,33.103,591,49,106106,,,George Tsivadze,U,,GEO,25.073,1082,8,6-3 6-3,3,RR,74,2,4,64,36,26,12,9,7,9,3,5,81,50,28,12,9,13,18
 2018-M-DC-2018-G2-EPA-M-GEO-MAR-01,Davis Cup G2 R1: GEO vs MAR,Clay,4,D,20180203,2,AF32,,,Amine Ahouda,U,,MAR,20.383,698,30,BG23,,,Nikoloz Basilashvili,R,185,RUS,25.933,57,916,3-6 6-3 6-3,3,RR,117,3,6,94,45,34,21,14,7,10,0,4,94,63,35,18,13,9,14
 2018-M-DC-2018-G2-EPA-M-GEO-MAR-01,Davis Cup G2 R1: GEO vs MAR,Clay,4,D,20180203,4,O207,,,Lamine Ouahab,R,185,ALG,33.103,591,49,BG23,,,Nikoloz Basilashvili,R,185,RUS,25.933,57,916,6-1 6-3,3,RR,117,3,6,94,45,34,21,14,7,10,0,4,94,63,35,18,13,9,14
@@ -2439,19 +2439,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-M-DC-2018-G2-EPA-M-ROU-POL-01,Davis Cup G2 R3: ROU vs POL,Clay,4,D,20180915,2,HB71,,,Hubert Hurkacz,R,,POL,21.577,95,597,U061,,,Adrian Ungur,R,178,ROU,33.624,674,36,7-6(3) 7-5,3,RR,91,12,2,67,47,38,16,12,1,1,8,3,83,51,41,14,12,8,9
 2018-M-DC-2018-G2-EPA-M-ROU-POL-01,Davis Cup G2 R3: ROU vs POL,Clay,4,D,20180915,4,HB71,,,Hubert Hurkacz,R,,POL,21.577,95,597,CA99,,,Marius Copil,R,193,ROU,27.899,81,700,6-3 6-4,3,RR,69,7,1,67,43,33,12,10,2,2,6,2,51,33,25,7,9,1,3
 2018-M-DC-2018-G2-EPA-M-ROU-POL-01,Davis Cup G2 R3: ROU vs POL,Clay,4,D,20180915,5,MQ75,,,Kamil Majchrzak,R,,POL,22.658,187,297,U061,,,Adrian Ungur,R,178,ROU,33.624,674,36,6-3 6-2,3,RR,80,3,1,61,41,27,13,9,5,6,2,2,60,35,24,8,8,5,9
-2018-M-DC-2018-G1-AO-REL-NZL-KOR-01,Davis Cup G1 R2: KOR vs NZL,Hard,4,D,20180914,,SF89,,,Rubin Statham,,,,,518,,111805,,,Seong Chan Hong,,,,,641,,7-6(10) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-AO-REL-NZL-KOR-01,Davis Cup G1 R2: KOR vs NZL,Hard,4,D,20180914,,LE01,,,Duckhee Lee,,,,,231,,V576,,,Michael Venus,,,,,,,7-5 6-7(7) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-AO-REL-NZL-KOR-01,Davis Cup G1 R2: KOR vs NZL,Hard,4,D,20180914,,LE01,,,Duckhee Lee,,,,,231,,SF89,,,Rubin Statham,,,,,518,,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-AO-REL-NZL-KOR-01,Davis Cup G1 R2: KOR vs NZL,Hard,4,D,20180914,,105790,,,Yong Kyu Lim,,,,,877,,V576,,,Michael Venus,,,,,,,7-6(5) 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-EPA-REL-BLR-RUS-01,Davis Cup G1 R2: RUS vs BLR,Hard,4,D,20180914,,KE29,,,Karen Khachanov,,,,,25,,GC89,,,Egor Gerasimov,,,,,263,,7-6(4) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-EPA-REL-BLR-RUS-01,Davis Cup G1 R2: RUS vs BLR,Hard,4,D,20180914,,I305,,,Ilya Ivashka,,,,,99,,MM58,,,Daniil Medvedev,,,,,35,,7-6(2) 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-EPA-REL-BLR-RUS-01,Davis Cup G1 R2: RUS vs BLR,Hard,4,D,20180914,,KE29,,,Karen Khachanov,,,,,25,,I305,,,Ilya Ivashka,,,,,99,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-EPA-REL-BLR-RUS-01,Davis Cup G1 R2: RUS vs BLR,Hard,4,D,20180914,,MM58,,,Daniil Medvedev,,,,,35,,GC89,,,Egor Gerasimov,,,,,263,,7-6(4) 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-EPA-REL-POR-UKR-01,Davis Cup G1 R2: UKR vs POR,Hard,4,D,20180914,,SH90,,,Joao Sousa,,,,,49,,ME89,,,Illya Marchenko,,,,,337,,4-6 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-EPA-REL-POR-UKR-01,Davis Cup G1 R2: UKR vs POR,Hard,4,D,20180914,,SC77,,,Sergiy Stakhovsky,,,,,142,,S483,,,Pedro Sousa,,,,,144,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-EPA-REL-POR-UKR-01,Davis Cup G1 R2: UKR vs POR,Hard,4,D,20180914,,SC77,,,Sergiy Stakhovsky,,,,,142,,SH90,,,Joao Sousa,,,,,49,,6-2 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-AO-REL-NZL-KOR-01,Davis Cup G1 R2: KOR vs NZL,Hard,4,D,20180914,,SF89,,,Rubin Statham,,,,31.389459,518,,111805,,,Seong Chan Hong,,,,,641,,7-6(10) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-AO-REL-NZL-KOR-01,Davis Cup G1 R2: KOR vs NZL,Hard,4,D,20180914,,LE01,,,Duckhee Lee,,,,,231,,V576,,,Michael Venus,,,,30.913073,,,7-5 6-7(7) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-AO-REL-NZL-KOR-01,Davis Cup G1 R2: KOR vs NZL,Hard,4,D,20180914,,LE01,,,Duckhee Lee,,,,,231,,SF89,,,Rubin Statham,,,,31.389459,518,,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-AO-REL-NZL-KOR-01,Davis Cup G1 R2: KOR vs NZL,Hard,4,D,20180914,,105790,,,Yong Kyu Lim,,,,,877,,V576,,,Michael Venus,,,,30.913073,,,7-6(5) 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-EPA-REL-BLR-RUS-01,Davis Cup G1 R2: RUS vs BLR,Hard,4,D,20180914,,KE29,,,Karen Khachanov,,,,22.316222,25,,GC89,,,Egor Gerasimov,,,,25.839836,263,,7-6(4) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-EPA-REL-BLR-RUS-01,Davis Cup G1 R2: RUS vs BLR,Hard,4,D,20180914,,I305,,,Ilya Ivashka,,,,24.553046,99,,MM58,,,Daniil Medvedev,,,,22.590007,35,,7-6(2) 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-EPA-REL-BLR-RUS-01,Davis Cup G1 R2: RUS vs BLR,Hard,4,D,20180914,,KE29,,,Karen Khachanov,,,,22.316222,25,,I305,,,Ilya Ivashka,,,,24.553046,99,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-EPA-REL-BLR-RUS-01,Davis Cup G1 R2: RUS vs BLR,Hard,4,D,20180914,,MM58,,,Daniil Medvedev,,,,22.590007,35,,GC89,,,Egor Gerasimov,,,,25.839836,263,,7-6(4) 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-EPA-REL-POR-UKR-01,Davis Cup G1 R2: UKR vs POR,Hard,4,D,20180914,,SH90,,,Joao Sousa,,,,29.459274,49,,ME89,,,Illya Marchenko,,,,31.017112,337,,4-6 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-EPA-REL-POR-UKR-01,Davis Cup G1 R2: UKR vs POR,Hard,4,D,20180914,,SC77,,,Sergiy Stakhovsky,,,,32.687201,142,,S483,,,Pedro Sousa,,,,30.299795,144,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-EPA-REL-POR-UKR-01,Davis Cup G1 R2: UKR vs POR,Hard,4,D,20180914,,SC77,,,Sergiy Stakhovsky,,,,32.687201,142,,SH90,,,Joao Sousa,,,,29.459274,49,,6-2 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2018-M-DC-2018-G1-AM-REL-ECU-BAR-01,Davis Cup G1 R2: BAR vs ECU,Hard,4,D,20180914,,Q941,,,Roberto Quiroz,,,,,213,,207759,,,Matthew Foster-Estwick,,,,,,,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,
-2018-M-DC-2018-G1-AM-REL-ECU-BAR-01,Davis Cup G1 R2: BAR vs ECU,Hard,4,D,20180914,,GA36,,,Emilio Gomez,,,,,383,,KC86,,,Darian King,,,,,186,,6-3 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2018-M-DC-2018-G1-AM-REL-ECU-BAR-01,Davis Cup G1 R2: BAR vs ECU,Hard,4,D,20180914,,GA36,,,Emilio Gomez,,,,,383,,KC86,,,Darian King,,,,26.384668,186,,6-3 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2018-M-DC-2018-G1-AM-REL-ECU-BAR-01,Davis Cup G1 R2: BAR vs ECU,Hard,4,D,20180914,,106165,,,Diego Hidalgo,,,,,729,,207971,,,Xavier Lawrence,,,,,,,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2018-341,Metz,Hard,32,A,20180917,300,SD32,,,Gilles Simon,R,183,FRA,33.722,39,1115,BC65,,Q,Matthias Bachinger,R,188,GER,31.461,166,340,7-6(2) 6-1,3,F,79,10,1,56,40,34,9,10,3,4,2,0,59,37,25,7,9,3,6
 2018-341,Metz,Hard,32,A,20180917,299,BC65,,Q,Matthias Bachinger,R,188,GER,31.461,166,340,N552,1,,Kei Nishikori,R,178,JPN,28.717,12,2475,2-6 6-4 7-5,3,SF,130,13,1,112,73,53,17,15,7,9,5,1,85,60,43,16,15,2,4
@@ -2508,13 +2508,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-568,St. Petersburg,Hard,32,A,20180917,272,BK40,,,Matteo Berrettini,U,,ITA,22.431,62,864,G476,,,Guillermo Garcia-Lopez,R,188,ESP,35.288,80,708,7-6(5) 2-6 6-3,3,R32,119,16,3,88,51,45,18,15,1,3,8,6,85,47,41,19,14,0,1
 2018-568,St. Petersburg,Hard,32,A,20180917,271,K966,,,Martin Klizan,L,190,SVK,29.185,65,823,D864,,,Evgeny Donskoy,R,185,RUS,28.359,84,681,6-4 6-4,3,R32,90,5,2,60,34,24,11,10,4,7,5,1,67,41,22,13,10,7,12
 2018-9210,Laver Cup,Hard,2,A,20180921,,D875,,,Grigor Dimitrov,,,BUL,27.351,7,,TD51,,,Frances Tiafoe,,,USA,20.668,40,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,,E831,,,Kyle Edmund,,,GBR,23.701,16,,SM25,,,Jack Sock,,,USA,25.990,17,,6-4 5-7 [10-6],3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,E831,,,Kyle Edmund,,,GBR,23.701,16,,SM25,,,Jack Sock,,,USA,25.99,17,,6-4 5-7 [10-6],3,RR,,,,,,,,,,,,,,,,,,,
 2018-9210,Laver Cup,Hard,2,A,20180921,,GB88,,,David Goffin,,,BEL,27.789,11,,SM37,,,Diego Schwartzman,,,ARG,26.097,14,,6-4 4-6 [11-9],3,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,,Z355,,,Alexander Zverev,,,GER,21.420,5,,I186,,,John Isner,,,USA,33.404,10,,3-6 7-6(6) [10-7],3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,Z355,,,Alexander Zverev,,,GER,21.42,5,,I186,,,John Isner,,,USA,33.404,10,,3-6 7-6(6) [10-7],3,RR,,,,,,,,,,,,,,,,,,,
 2018-9210,Laver Cup,Hard,2,A,20180921,,F324,,,Roger Federer,,,SUI,37.119,2,,KE17,,,Nick Kyrgios,,,AUS,23.403,27,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2018-9210,Laver Cup,Hard,2,A,20180921,,A678,,,Kevin Anderson,,,RSA,32.344,9,,D643,,,Novak Djokovic,,,SRB,31.334,3,,7-6(5) 5-7 [10-6],3,RR,,,,,,,,,,,,,,,,,,,
 2018-9210,Laver Cup,Hard,2,A,20180921,,F324,,,Roger Federer,,,SUI,37.119,2,,I186,,,John Isner,,,USA,33.404,10,,6-7(5) 7-6(6) [10-7],3,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,,Z355,,,Alexander Zverev,,,GER,21.420,5,,A678,,,Kevin Anderson,,,RSA,32.344,9,,6-7(3) 7-5 [10-7],3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,,Z355,,,Alexander Zverev,,,GER,21.42,5,,A678,,,Kevin Anderson,,,RSA,32.344,9,,6-7(3) 7-5 [10-7],3,RR,,,,,,,,,,,,,,,,,,,
 2018-7581,Chengdu,Hard,32,A,20180924,,TA46,,Q,Bernard Tomic,R,,AUS,25.925,123,,F510,1,,Fabio Fognini,R,,ITA,31.337,13,,6-1 3-6 7-6(7),3,F,135,12,0,102,71,50,9,14,7,11,7,7,106,65,41,17,14,8,13
 2018-7581,Chengdu,Hard,32,A,20180924,,TA46,,Q,Bernard Tomic,R,,AUS,25.925,123,,SH90,7,,Joao Sousa,R,,POR,29.487,50,,6-4 6-4,3,SF,75,12,2,58,41,34,8,10,3,3,3,1,61,42,27,13,10,8,10
 2018-7581,Chengdu,Hard,32,A,20180924,,F510,1,,Fabio Fognini,R,,ITA,31.337,13,,FB98,,,Taylor Fritz,R,,USA,20.906,62,,6-7(5) 6-0 6-3,3,SF,109,2,5,85,45,37,22,14,3,5,8,3,82,46,28,14,13,5,11

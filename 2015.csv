@@ -1861,7 +1861,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-D041,Davis Cup G2 R2: CHI vs MEX,Clay,4,D,20150717,1,SL85,,,Juan Carlos Saez,U,,CHI,23.937,238,203,GC87,,,Lucas Gomez,U,,MEX,19.921,694,36,4-6 6-0 5-7 7-6(0) 6-1,5,RR,,2,2,69,45,29,13,10,4,6,1,6,54,24,16,11,9,2,6
 2015-D041,Davis Cup G2 R2: CHI vs MEX,Clay,4,D,20150717,2,GD64,,,Christian Garin,R,,CHI,19.118,271,179,H917,,,Tigre Hank,U,,MEX,23.784,549,59,6-4 6-4 6-2,5,RR,,2,2,69,45,29,13,10,4,6,1,6,54,24,16,11,9,2,6
 2015-D041,Davis Cup G2 R2: CHI vs MEX,Clay,4,D,20150717,3,SL85,,,Juan Carlos Saez,U,,CHI,23.937,238,203,H917,,,Tigre Hank,U,,MEX,23.784,549,59,6-4 6-2,3,RR,,2,2,69,45,29,13,10,4,6,1,6,54,24,16,11,9,2,6
-2015-D041,Davis Cup G2 R2: CHI vs MEX,Clay,4,D,20150717,4,GD64,,,Christian Garin,R,,CHI,19.118,271,179,LG87,,,Gerardo Lopez Villasenor,U,,MEX,,1892,1,6-2 6-1,3,RR,,2,2,69,45,29,13,10,4,6,1,6,54,24,16,11,9,2,6
+2015-D041,Davis Cup G2 R2: CHI vs MEX,Clay,4,D,20150717,4,GD64,,,Christian Garin,R,,CHI,19.118,271,179,LG87,,,Gerardo Lopez Villasenor,U,,MEX,20.180698,1892,1,6-2 6-1,3,RR,,2,2,69,45,29,13,10,4,6,1,6,54,24,16,11,9,2,6
 2015-D047,Davis Cup G2 R2: TPE vs PHI,Hard,4,D,20150717,1,105490,,,Jui Chen Hung,R,,TPE,25.366,667,39,106150,,,Jeson Patrombon,R,,PHI,22.294,1203,6,6-2 6-2 6-1,5,RR,,2,2,69,45,29,13,10,4,6,1,6,54,24,16,11,9,2,6
 2015-D047,Davis Cup G2 R2: TPE vs PHI,Hard,4,D,20150717,2,L575,,,Yen-Hsun Lu,R,180,TPE,31.912,61,754,104591,,,Patrick Tierro,U,,PHI,29.947,,,6-2 6-2 6-1,5,RR,,2,2,69,45,29,13,10,4,6,1,6,54,24,16,11,9,2,6
 2015-D047,Davis Cup G2 R2: TPE vs PHI,Hard,4,D,20150717,3,L575,,,Yen-Hsun Lu,R,180,TPE,31.912,61,754,G810,,,Ruben Gonzales,U,,PHI,29.834,,,6-2 6-2 6-4,5,RR,,2,2,69,45,29,13,10,4,6,1,6,54,24,16,11,9,2,6
@@ -1937,6 +1937,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-316,Bastad,Clay,28,A,20150720,,R419,2,,Tommy Robredo,R,,ESP,33.218344,21,,M850,Q,,Paul-Henri Mathieu,R,,FRA,33.516769,124,,6-3 6-3,3,QF,77,7,1,60,32,21,20,9,5,5,2,0,50,29,19,11,9,4,7
 2015-316,Bastad,Clay,28,A,20150720,,PD31,,,Benoit Paire,R,,FRA,26.198494,59,,C882,3,,Pablo Cuevas,R,,URU,29.546886,27,,6-4 6-3,3,SF,69,4,2,63,32,20,18,10,2,5,0,0,51,37,16,8,9,4,9
 2015-316,Bastad,Clay,28,A,20150720,,R419,2,,Tommy Robredo,R,,ESP,33.218344,21,,Z355,,,Alexander Zverev,R,,GER,18.247775,81,,6-3 6-4,3,SF,82,1,3,68,42,30,12,10,8,10,1,2,53,36,22,8,9,4,8
+2015-316,Bastad,Clay,28,A,20150720,,105332,,,Benoit Paire,R,196,FRA,26.1984941821,62,776,103990,2,,Tommy Robredo,R,180,ESP,33.2183436003,21,1540,7-6(7) 6-3,3,,,5,3,72,44,36,17,11,2,2,1,0,86,54,36,19,10,4,5
 2015-439,Umag,Clay,28,A,20150720,,T984,Q,,Bastian Trinker,R,,AUT,25.190965,431,,Y061,,,Mikhail Youzhny,R,,RUS,33.067762,92,,2-6 6-3 6-3,3,R32,114,6,4,80,50,38,14,13,5,8,0,3,78,48,32,15,13,2,6
 2015-439,Umag,Clay,28,A,20150720,,SH90,,,Joao Sousa,R,,POR,26.30527,53,,A837,WC,,Toni Androic,R,,CRO,23.559206,376,,6-2 6-1,3,R32,63,3,3,52,33,25,9,7,8,9,1,3,45,22,9,8,8,2,8
 2015-439,Umag,Clay,28,A,20150720,,L503,,,Paolo Lorenzi,R,,ITA,33.593429,88,,T948,Q,,Matteo Trevisan,R,,ITA,25.932923,455,,1-6 6-2 7-5,3,R32,136,4,3,78,46,30,15,13,5,9,1,4,87,55,35,14,14,2,7
@@ -2876,7 +2877,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-D072,Davis Cup G1 PO: BAR vs URU,Hard,4,D,20151030,2,KC86,,,Darian King,U,,BAR,23.499,243,209,127570,,,Rodrigo Arus,U,,URU,20.679,,,6-1 6-3 3-6 6-1,5,RR,,14,0,145,100,67,25,18,12,15,3,6,135,83,59,29,18,9,12
 2015-D072,Davis Cup G1 PO: BAR vs URU,Hard,4,D,20151030,3,KC86,,,Darian King,U,,BAR,23.499,243,209,124063,,,Santiago Maresca,U,,URU,21.114,1522,3,7-6(6) 6-2 6-0,5,RR,,14,0,145,100,67,25,18,12,15,3,6,135,83,59,29,18,9,12
 2015-D072,Davis Cup G1 PO: BAR vs URU,Hard,4,D,20151030,4,200537,,,Nicolas Xiviller,,,URU,16.956,,,118591,,,Russell Moseley,U,,BAR,30.245,,,6-1 6-4,3,RR,,14,0,145,100,67,25,18,12,15,3,6,135,83,59,29,18,9,12
-2015-D072,Davis Cup G1 PO: SLO vs LTU,Hard,4,A,20151026,5,Z189,,,Grega Zemlja,,,SLO,,,,BE90,,,Ricardas Berankis,R,175,LTU,,,,6-3 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
+2015-D072,Davis Cup G1 PO: SLO vs LTU,Hard,4,A,20151026,5,Z189,,,Grega Zemlja,,,SLO,29.073238,,,BE90,,,Ricardas Berankis,R,175,LTU,25.347023,,,6-3 7-5 6-2,,,,,,,,,,,,,,,,,,,,,
 2015-352,Paris Masters,Hard,48,M,20151102,,T840,,,Viktor Troicki,R,,SRB,29.724846,25,,SM25,,,Jack Sock,R,,USA,23.104723,29,,6-2 6-3,3,R64,67,4,1,54,41,28,8,9,1,2,2,1,49,24,15,9,8,1,5
 2015-352,Paris Masters,Hard,48,M,20151102,,TA46,,,Bernard Tomic,R,,AUS,23.030801,18,,F510,,,Fabio Fognini,R,,ITA,28.443532,22,,6-3 6-2,3,R64,57,6,1,48,33,25,9,9,1,2,3,6,64,29,19,14,8,6,10
 2015-352,Paris Masters,Hard,48,M,20151102,,TB69,,,Dominic Thiem,R,,AUT,22.162902,19,,ME82,,,Adrian Mannarino,L,,FRA,27.342916,40,,6-2 5-7 6-2,3,R64,112,4,1,87,49,40,22,14,5,6,1,1,80,47,31,20,14,4,8
