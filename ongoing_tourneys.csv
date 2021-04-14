@@ -1,1 +1,41 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced
+2021-410,Monte Carlo,Clay,56,M,20210410,,D643,1,,Novak Djokovic,R,,SRB,1.9870522E7,1,,S0AG,,,Jannik Sinner,L,,ITA,19.649555,22,,6-4 6-2,3,R32,94,0,2,57,37,22,13,9,2,4,1,3,73,46,22,14,9,5,10
+2021-410,Monte Carlo,Clay,56,M,20210410,,N409,3,,Rafael Nadal,L,,ESP,1.9860604E7,3,,D874,,Q,Federico Delbonis,L,,ARG,30.513348,87,,6-1 6-2,3,R32,80,2,2,52,33,24,11,8,4,5,0,4,49,31,17,4,7,6,11
+2021-410,Monte Carlo,Clay,56,M,20210410,,TE51,4,,Stefanos Tsitsipas,R,,GRE,1.9980812E7,5,,KC56,,,Aslan Karatsev,L,,RUS,27.597536,29,,6-3 6-4,3,R32,84,4,2,62,35,26,17,10,4,4,2,2,52,25,19,13,9,3,5
+2021-410,Monte Carlo,Clay,56,M,20210410,,Z355,5,,Alexander Zverev,R,,GER,1.997042E7,6,,SU87,,,Lorenzo Sonego,L,,ITA,25.916496,28,,6-3 6-3,3,R32,98,,,,,,,,,,,,,,,,,,
+2021-410,Monte Carlo,Clay,56,M,20210410,,RE44,6,,Andrey Rublev,R,,RUS,1.997102E7,8,,CE25,,Q,Salvatore Caruso,L,,ITA,28.31759,89,,6-3 6-2,3,R32,68,4,1,57,36,27,13,9,4,4,3,4,50,33,20,7,8,2,5
+2021-410,Monte Carlo,Clay,56,M,20210410,,RH16,,,Casper Ruud,R,,NOR,1.9981222E7,27,,SM37,7,,Diego Schwartzman,L,,ARG,28.64887,9,,6-3 6-3,3,R32,65,3,3,48,29,24,13,9,1,1,2,3,42,29,21,5,9,1,4
+2021-410,Monte Carlo,Clay,56,M,20210410,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,1.9990604E7,58,,BK40,8,,Matteo Berrettini,L,,ITA,24.99384,10,,7-5 6-3,3,R32,90,1,1,59,46,36,7,11,2,3,3,3,72,39,22,18,10,3,6
+2021-410,Monte Carlo,Clay,56,M,20210410,,BD06,9,,Roberto Bautista Agut,R,,ESP,1.9880414E7,11,,PL56,,,Tommy Paul,L,,USA,23.898699,54,,6-3 6-4,3,R32,90,0,2,64,40,25,15,10,3,5,2,4,54,28,14,15,9,2,6
+2021-410,Monte Carlo,Clay,56,M,20210410,,GB88,11,,David Goffin,R,,BEL,1.9901208E7,15,,CF01,,Q,Marco Cecchinato,L,,ITA,28.525667,92,,6-4 6-0,3,R32,63,5,0,44,21,20,15,8,2,2,2,2,54,37,22,7,8,5,9
+2021-410,Monte Carlo,Clay,56,M,20210410,,CD85,12,,Pablo Carreno Busta,R,,ESP,1.9910712E7,12,,KE29,,,Karen Khachanov,L,,RUS,24.887064,23,,6-2 6-3,3,R32,71,2,0,45,28,23,11,8,2,2,3,0,58,39,25,6,9,5,9
+2021-410,Monte Carlo,Clay,56,M,20210410,,E687,,,Daniel Evans,R,,GBR,1.9900524E7,33,,HB71,13,,Hubert Hurkacz,L,,POL,24.158794,16,,6-4 6-1,3,R32,64,2,1,39,31,28,4,8,0,0,4,3,62,38,21,11,9,6,10
+2021-410,Monte Carlo,Clay,56,M,20210410,,D875,14,,Grigor Dimitrov,R,,BUL,1.9910516E7,17,,CA12,,,Jeremy Chardy,L,,FRA,34.157425,53,,7-6(3) 6-4,3,R32,102,3,0,74,49,36,15,11,6,7,1,3,75,41,31,16,11,4,6
+2021-410,Monte Carlo,Clay,56,M,20210410,,F510,15,,Fabio Fognini,R,,ITA,1.9870524E7,18,,TC61,,,Jordan Thompson,L,,AUS,26.973307,63,,6-3 6-3,3,R32,81,0,3,54,38,27,9,9,2,3,2,0,50,30,17,10,9,4,8
+2021-410,Monte Carlo,Clay,56,M,20210410,,GD64,16,,Christian Garin,R,,CHI,1.996053E7,24,,MH30,,,John Millman,L,,AUS,31.82204,44,,6-1 6-4,3,R32,99,0,0,53,28,18,17,9,3,4,0,2,68,41,25,9,8,12,16
+2021-410,Monte Carlo,Clay,56,M,20210410,,KB05,,,Filip Krajinovic,R,,SRB,1.9920228E7,37,,LB84,,LL,Juan Ignacio Londero,L,,ARG,27.652292,94,,6-0 6-3,3,R32,53,2,0,46,27,20,11,8,1,2,0,1,34,28,11,2,7,1,6
+2021-410,Monte Carlo,Clay,56,M,20210410,,PF39,,WC,Lucas Pouille,R,,FRA,1.9940224E7,86,,P09Z,,Q,Alexei Popyrin,L,,AUS,21.68104,83,,7-5 2-6 6-3,3,R32,121,7,6,109,55,41,23,15,8,12,5,5,83,43,30,19,14,2,6
+2021-410,Monte Carlo,Clay,56,M,20210410,,BD06,9,,Roberto Bautista Agut,R,,ESP,1.9880414E7,11,,FB98,,,Taylor Fritz,L,,USA,23.449692,30,,6-2 7-5,3,R64,75,3,1,51,29,25,16,10,2,2,6,1,59,33,22,15,10,3,6
+2021-410,Monte Carlo,Clay,56,M,20210410,,GB88,11,,David Goffin,R,,BEL,1.9901208E7,15,,C977,,,Marin Cilic,L,,CRO,32.531143,43,,6-4 3-6 6-0,3,R64,131,6,3,73,34,22,22,12,3,6,10,10,108,55,38,18,13,12,18
+2021-410,Monte Carlo,Clay,56,M,20210410,,CD85,12,,Pablo Carreno Busta,R,,ESP,1.9910712E7,12,,TA12,,Q,Stefano Travaglia,L,,ITA,29.31143,67,,7-5 7-6(4),3,R64,123,3,0,82,57,39,18,12,7,8,8,1,96,54,39,20,12,7,9
+2021-410,Monte Carlo,Clay,56,M,20210410,,HB71,13,,Hubert Hurkacz,R,,POL,1.9970212E7,16,,F586,,Q,Thomas Fabbiano,L,,ITA,31.87406,171,,6-3 3-6 6-3,3,R64,115,5,4,82,46,36,19,14,7,9,1,1,81,53,32,17,13,7,10
+2021-410,Monte Carlo,Clay,56,M,20210410,,D875,14,,Grigor Dimitrov,R,,BUL,1.9910516E7,17,,SL28,,,Jan-Lennard Struff,L,,GER,30.959618,41,,6-3 6-4,3,R64,77,3,3,70,47,35,10,10,5,6,2,1,48,23,13,13,9,0,3
+2021-410,Monte Carlo,Clay,56,M,20210410,,F510,15,,Fabio Fognini,R,,ITA,1.9870524E7,18,,KI95,,,Miomir Kecmanovic,L,,SRB,21.609856,47,,6-2 7-5,3,R64,85,1,5,56,37,22,9,10,2,6,1,2,64,35,19,10,10,6,13
+2021-410,Monte Carlo,Clay,56,M,20210410,,GD64,16,,Christian Garin,R,,CHI,1.996053E7,24,,AG37,,,Felix Auger-Aliassime,L,,CAN,20.670773,21,,7-6(3) 6-1,3,R64,126,2,5,70,42,32,17,10,5,6,1,5,73,44,28,13,9,5,8
+2021-410,Monte Carlo,Clay,56,M,20210410,,CE25,,Q,Salvatore Caruso,R,,ITA,1.9921216E7,89,,,,WC,Lucas Catarina,L,,MON,24.621492,388,,6-7(3) 7-6(5) 6-3,3,R64,188,0,3,108,73,49,20,16,5,8,4,7,122,65,44,28,17,10,15
+2021-410,Monte Carlo,Clay,56,M,20210410,,CF01,,Q,Marco Cecchinato,R,,ITA,1.992093E7,92,,KE73,,Q,Dominik Koepfer,L,,GER,26.948666,56,,6-4 6-3,3,R64,88,2,1,67,46,29,10,10,4,7,3,2,56,35,19,10,9,4,9
+2021-410,Monte Carlo,Clay,56,M,20210410,,CA12,,,Jeremy Chardy,R,,FRA,1.9870212E7,53,,BK92,,,Alexander Bublik,L,,KAZ,23.813826,42,,6-4 0-6 7-5,3,R64,101,2,4,83,52,35,13,14,5,10,6,7,74,32,24,21,14,1,5
+2021-410,Monte Carlo,Clay,56,M,20210410,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,1.9990604E7,58,,DH58,,,Alex de Minaur,L,,AUS,22.143738,25,,6-4 7-6(3),3,R64,127,0,3,80,45,31,19,11,6,8,0,1,67,36,22,15,11,3,6
+2021-410,Monte Carlo,Clay,56,M,20210410,,D874,,Q,Federico Delbonis,L,,ARG,1.9901004E7,87,,ME82,,,Adrian Mannarino,L,,FRA,32.78029,34,,7-5 6-1,3,R64,87,5,1,56,28,21,22,10,6,6,3,4,67,34,21,16,9,9,12
+2021-410,Monte Carlo,Clay,56,M,20210410,,E687,,,Daniel Evans,R,,GBR,1.9900524E7,33,,L987,,,Dusan Lajovic,L,,SRB,30.77892,31,,6-3 6-7(11) 6-2,3,R64,1266,3,3,126,72,47,30,14,9,10,1,2,108,82,51,13,15,2,7
+2021-410,Monte Carlo,Clay,56,M,20210410,,KC56,,,Aslan Karatsev,R,,RUS,1.9930904E7,29,,M0EJ,,WC,Lorenzo Musetti,L,,ITA,19.104723,84,,6-3 6-4,3,R64,88,2,5,63,40,31,12,9,4,4,2,5,69,35,22,16,10,9,12
+2021-410,Monte Carlo,Clay,56,M,20210410,,KE29,,,Karen Khachanov,R,,RUS,1.996052E7,23,,DB63,,,Laslo Djere,L,,SRB,25.856262,49,,6-4 6-1,3,R64,77,2,1,54,37,27,9,9,1,2,1,2,60,34,18,11,8,5,9
+2021-410,Monte Carlo,Clay,56,M,20210410,,KB05,,,Filip Krajinovic,R,,SRB,1.9920228E7,37,,BG23,,,Nikoloz Basilashvili,L,,GEO,29.127995,36,,6-1 2-0 RET,3,R64,35,2,0,23,14,13,7,5,0,0,0,6,33,16,8,5,4,0,3
+2021-410,Monte Carlo,Clay,56,M,20210410,,MH30,,,John Millman,R,,AUS,1.9890614E7,44,,HH26,,,Ugo Humbert,L,,FRA,22.78987,32,,6-3 6-3,3,R64,88,1,1,52,33,25,12,9,2,3,0,1,51,26,17,11,9,3,7
+2021-410,Monte Carlo,Clay,56,M,20210410,,PL56,,,Tommy Paul,R,,USA,1.9970516E7,54,,,,LL,Pedro Martinez,L,,ESP,23.956194,100,,4-1 RET,3,R64,28,0,0,16,12,10,2,3,0,0,0,0,24,20,9,3,2,2,3
+2021-410,Monte Carlo,Clay,56,M,20210410,,P09Z,,Q,Alexei Popyrin,R,,AUS,1.9990804E7,83,,A596,,,Pablo Andujar,L,,ESP,35.2115,80,,0-6 6-2 7-6(3),3,R64,117,7,5,87,41,29,24,13,7,11,0,9,91,59,39,14,13,5,8
+2021-410,Monte Carlo,Clay,56,M,20210410,,PF39,,WC,Lucas Pouille,R,,FRA,1.9940224E7,86,,PC11,,,Guido Pella,L,,ARG,30.899384,48,,6-3 6-4,3,R64,84,6,6,74,40,32,10,10,5,8,2,1,59,40,21,7,9,7,12
+2021-410,Monte Carlo,Clay,56,M,20210410,,RH16,,,Casper Ruud,R,,NOR,1.9981222E7,27,,,,WC,Holger Vitus Nodskov Rune,L,,DEN,17.94935,322,,6-2 6-1,3,R64,63,0,0,44,20,15,16,8,0,1,0,4,45,27,12,7,7,1,6
+2021-410,Monte Carlo,Clay,56,M,20210410,,S0AG,,,Jannik Sinner,R,,ITA,2.0010816E7,22,,R772,,,Albert Ramos-Vinolas,L,,ESP,33.229294,46,,6-3 6-4,3,R64,83,4,1,56,33,26,12,10,2,3,0,1,57,35,20,12,9,3,6
+2021-410,Monte Carlo,Clay,56,M,20210410,,SU87,,,Lorenzo Sonego,R,,ITA,1.9950512E7,28,,F724,,,Marton Fucsovics,L,,HUN,29.169062,40,,6-3 6-4,3,R64,102,1,0,58,35,27,14,10,3,4,0,3,76,48,29,13,9,10,13
+2021-410,Monte Carlo,Clay,56,M,20210410,,TC61,,,Jordan Thompson,R,,AUS,1.994042E7,63,,PD31,,,Benoit Paire,L,,FRA,31.92334,35,,6-4 6-7(3) 7-6(5),3,R64,183,3,4,139,77,45,27,17,9,17,8,18,129,60,42,25,17,11,20
