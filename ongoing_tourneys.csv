@@ -1,1 +1,29 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced
+2021-425,Barcelona,Clay,56,A,20210417,,N409,1,,Rafael Nadal,L,,ESP,1.9860604E7,3,,I305,,Q,Ilya Ivashka,U,,BLR,27.143053,111,,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,
+2021-425,Barcelona,Clay,56,A,20210417,,TE51,2,,Stefanos Tsitsipas,R,,GRE,1.9980812E7,5,,MU94,,WC,Jaume Munar,L,,ESP,23.950718,86,,6-0 6-2,3,R32,78,,,,,,,,,,,,,,,,,,
+2021-425,Barcelona,Clay,56,A,20210417,,RE44,3,,Andrey Rublev,R,,RUS,1.997102E7,7,,GB53,,LL,Federico Gaio,L,,ITA,29.117043,138,,6-4 6-3,3,R32,84,,,,,,,,,,,,,,,,,,
+2021-425,Barcelona,Clay,56,A,20210417,,BD06,5,,Roberto Bautista Agut,R,,ESP,1.9880414E7,11,,A596,,,Pablo Andujar,L,,ESP,35.230663,80,,6-4 6-0,3,R32,94,0,2,65,33,21,19,8,5,6,1,4,55,29,16,7,8,5,10
+2021-425,Barcelona,Clay,56,A,20210417,,CD85,6,,Pablo Carreno Busta,R,,ESP,1.9910712E7,13,,TC61,,,Jordan Thompson,L,,AUS,26.992472,59,,6-4 6-0,3,R32,63,,,,,,,,,,,,,,,,,,
+2021-425,Barcelona,Clay,56,A,20210417,,SU55,7,,Denis Shapovalov,L,,CAN,1.9990416E7,14,,CA12,,,Jeremy Chardy,L,,FRA,34.17659,51,,6-3 7-5,3,R32,97,9,6,63,37,25,14,10,3,5,1,2,76,50,28,12,11,6,11
+2021-425,Barcelona,Clay,56,A,20210417,,GB88,8,,David Goffin,R,,BEL,1.9901208E7,12,,H996,,,Pierre-Hugues Herbert,L,,FRA,30.083504,78,,6-2 6-4,3,R32,70,5,1,47,26,23,13,9,0,0,1,3,56,32,17,13,9,1,4
+2021-425,Barcelona,Clay,56,A,20210417,,Z419,,Q,Bernabe Zapata Miralles,R,,ESP,1.9970112E7,147,,F510,9,,Fabio Fognini,U,,ITA,33.90007,27,,,3,R32,,,,,,,,,,,,,,,,,,,
+2021-425,Barcelona,Clay,56,A,20210417,,AG37,10,,Felix Auger Aliassime,R,,CAN,2.0000808E7,20,,M0EJ,,WC,Lorenzo Musetti,L,,ITA,19.123888,87,,4-6 6-3 6-0,3,R32,125,,,,,,,,,,,,,,,,,,
+2021-425,Barcelona,Clay,56,A,20210417,,S0AG,11,,Jannik Sinner,R,,ITA,2.0010816E7,19,,GC89,,,Egor Gerasimov,L,,BLR,28.429842,77,,6-3 6-2,3,R32,68,5,0,49,32,26,9,8,3,3,1,7,53,25,16,13,9,2,6
+2021-425,Barcelona,Clay,56,A,20210417,,N771,,,Cameron Norrie,L,,GBR,1.9950824E7,58,,KE29,12,,Karen Khachanov,L,,RUS,24.906229,23,,6-4 3-6 6-3,3,R32,114,6,4,84,53,39,16,14,2,4,5,0,78,50,32,18,14,2,5
+2021-425,Barcelona,Clay,56,A,20210417,,DH58,14,,Alex de Minaur,R,,AUS,1.9990216E7,25,,BK92,,,Alexander Bublik,L,,KAZ,23.83299,42,,7-6(3) 6-2,3,R32,85,,,,,,,,,,,,,,,,,,
+2021-425,Barcelona,Clay,56,A,20210417,,MW02,,,Corentin Moutet,L,,FRA,1.999042E7,75,,E687,16,,Daniel Evans,L,,GBR,30.902122,26,,6-4 5-7 6-3,3,R32,190,,,,,,,,,,,,,,,,,,
+2021-425,Barcelona,Clay,56,A,20210417,,R772,,,Albert Ramos,L,,ESP,1.9880116E7,46,,,17,,Adrian Mannarino ,L,,FRA,32.799454,34,,6-4 6-4,3,R32,82,,,,,,,,,,,,,,,,,,
+2021-5053,Belgrade,Clay,56,A,20210418,,D643,1,,Novak Djokovic,R,,SRB,1.9870522E7,1,,KF17,,,Soonwoo Kwon,L,,KOR,23.37577,85,,6-1 6-3,3,R16,68,2,2,39,27,22,7,8,0,1,3,3,56,28,15,10,8,3,8
+2021-5053,Belgrade,Clay,56,A,20210418,,KI95,8,,Miomir Kecmanovic,R,,SRB,1.9990832E7,47,,RC91,,Q,Arthur Rinderknech,L,,FRA,25.738535,129,,6-3 3-6 6-3,3,R16,101,1,3,75,49,31,18,14,2,6,10,0,70,48,29,9,13,2,7
+2021-5053,Belgrade,Clay,56,A,20210418,,KB05,5,,Filip Krajinovic,R,,SRB,1.9920228E7,33,,TA12,,,Stefano Travaglia,L,,ITA,29.333334,63,,7-5 5-7 6-3,3,R32,148,6,3,113,69,47,22,17,4,7,6,6,104,58,42,22,16,9,13
+2021-5053,Belgrade,Clay,56,A,20210418,,MH30,7,,John Millman,R,,AUS,1.9890614E7,43,,PE02,,WC,Danilo Petrovic,L,,SRB,29.232033,157,,7-5 6-4,3,R32,111,1,3,70,35,26,19,11,4,6,4,1,89,48,31,17,11,13,17
+2021-5053,Belgrade,Clay,56,A,20210418,,KI95,8,,Miomir Kecmanovic,R,,SRB,1.9990832E7,47,,BF23,,Q,Facundo Bagnis,L,,ARG,31.137577,102,,7-6(5) 7-6(4),3,R32,126,2,0,76,54,35,14,12,7,10,5,3,92,60,38,13,12,6,9
+2021-5053,Belgrade,Clay,56,A,20210418,,ML57,,Q,Gianluca Mager,R,,ITA,1.99412E7,98,,DB63,9,,Laslo Djere,L,,SRB,25.878166,49,,6-4 6-3,3,R32,92,4,1,73,44,32,14,10,5,6,2,2,62,39,23,12,9,6,9
+2021-5053,Belgrade,Clay,56,A,20210418,,BH09,,,Aljaz Bedene,R,,SLO,1.9890718E7,56,,K0AH,,,Sebastian Korda,L,,USA,20.785763,66,,7-5 1-6 7-6(5),3,R32,159,2,3,109,55,40,25,15,8,12,1,4,120,79,54,20,16,8,11
+2021-5053,Belgrade,Clay,56,A,20210418,,CF01,,,Marco Cecchinato,R,,ITA,1.992093E7,94,,T840,,WC,Viktor Troicki,L,,SRB,35.18412,196,,6-1 6-4,3,R32,66,0,2,48,30,25,14,9,1,1,2,2,45,28,18,8,8,1,4
+2021-5053,Belgrade,Clay,56,A,20210418,,DA81,,LL,Taro Daniel,R,,JPN,1.9930128E7,126,,SH90,,LL,Joao Sousa,L,,POR,32.05202,105,,7-5 6-3,3,R32,116,3,3,76,43,33,14,11,5,7,4,2,72,51,30,10,10,7,11
+2021-5053,Belgrade,Clay,56,A,20210418,,D874,,,Federico Delbonis,L,,ARG,1.9901004E7,84,,BE90,,,Ricardas Berankis,L,,LTU,30.825462,89,,6-4 3-6 6-1,3,R32,131,7,1,85,58,41,15,13,5,7,1,0,85,52,33,16,13,7,11
+2021-5053,Belgrade,Clay,56,A,20210418,,,,,Soon Woo Kwon,R,,KOR,1.9971202E7,85,,CF59,,LL,Roberto Carballes Baena,L,,ESP,28.071184,91,,6-3 7-5,3,R32,97,5,1,64,36,26,18,11,4,6,3,2,68,49,31,5,10,3,7
+2021-5053,Belgrade,Clay,56,A,20210418,,MM66,,WC,Nikola Milojevic,U,,SRB,1.995062E7,134,,CE77,,,Federico Coria,L,,ARG,29.10883,90,,6-4 6-0,3,R32,80,5,4,59,31,21,16,8,3,4,3,3,53,37,18,7,8,5,10
+2021-5053,Belgrade,Clay,56,A,20210418,,P09Z,,,Alexei Popyrin,R,,AUS,1.9990804E7,79,,C0AU,,Q,Francisco Cerundolo,L,,ARG,22.680355,115,,4-6 7-6(5) 7-6(6),3,R32,154,6,0,130,88,59,19,17,8,12,3,2,118,88,57,17,17,8,11
+2021-5053,Belgrade,Clay,56,A,20210418,,RC91,,Q,Arthur Rinderknech,R,,FRA,1.9950724E7,129,,,,,Juan Ignacio Londero ,L,,ARG,27.674196,97,,6-1 7-5,3,R32,76,6,0,60,45,32,8,10,5,6,0,1,49,34,19,6,9,2,6
