@@ -43,8 +43,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-425,Barcelona,Clay,48,A,20210419,,S0AG,11,,Jannik Sinner,R,,ITA,19.674196,22,,RE44,3 WC,,Andrey Rublev,R,,RUS,23.496235,8,,6-2 7-6(6),3,QF,95,4,2,69,41,26,17,10,2,3,1,1,64,32,21,14,10,4,7
 2021-425,Barcelona,Clay,48,A,20210419,,TE51,2,,Stefanos Tsitsipas,R,,GRE,22.685832,5,,AG37,10,,Felix Auger-Aliassime,R,,CAN,20.695414,21,QF,6-3 6-3,3,,82,1,1,55,37,29,11,9,3,3,1,3,46,26,17,11,9,2,5
 2021-425,Barcelona,Clay,48,A,20210419,,N409,1,,Rafael Nadal,L,,ESP,34.877481,3,,N771,,,Cameron Norrie,L,,GBR,25.6564,52,,6-1 6-4,3,QF,94,4,2,57,34,24,13,9,2,3,0,5,55,28,16,11,8,4,8
-2021-425,Barcelona,Clay,48,A,20210419,,TE51,2,,Stefanos Tsitsipas,R,,GRE,22.685832,5,,S0AG,11,,Jannik Sinner,R,,ITA,19.674196,22,SF,6-3 6-3,3,,83,2,1,61,46,33,9,9,4,4,1,2,54,28,16,15,9,7,10
-2021-425,Barcelona,Clay,48,A,20210419,,N409,1,,Rafael Nadal,L,,ESP,34.877481,3,,CD85,6,,Pablo Carreno Busta,R,,ESP,29.771389,12,SF,6-3 6-2,3,,89,3,3,56,35,27,11,9,3,4,4,1,53,44,24,3,8,6,10
+2021-425,Barcelona,Clay,48,A,20210419,,TE51,2,,Stefanos Tsitsipas,R,,GRE,22.685832,5,,S0AG,11,,Jannik Sinner,R,,ITA,19.674196,22,,6-3 6-3,3,SF,83,2,1,61,46,33,9,9,4,4,1,2,54,28,16,15,9,7,10
+2021-425,Barcelona,Clay,48,A,20210419,,N409,1,,Rafael Nadal,L,,ESP,34.877481,3,,CD85,6,,Pablo Carreno Busta,R,,ESP,29.771389,12,,6-3 6-2,3,SF,89,3,3,56,35,27,11,9,3,4,4,1,53,44,24,3,8,6,10
+2021-425,Barcelona,Clay,48,A,20210419,,N409,1,,Rafael Nadal,L,,ESP,34.877481,3,,TE51,2,,Stefanos Tsitsipas,R,,GRE,22.685832,5,,6-4 6-7(6) 7-5,3,F,218,2,5,122,78,54,24,17,11,13,5,3,120,74,55,20,17,8,12
 2021-5053,Serbia,Clay,28,A,20210419,,RC91,Q,,Arthur Rinderknech,R,,FRA,25.741273,129,,LB84,,,Juan Ignacio Londero,R,,ARG,27.676934,94,,6-1 7-5,3,R32,76,6,0,60,45,32,8,10,5,6,0,1,49,34,19,6,9,2,6
 2021-5053,Serbia,Clay,28,A,20210419,,P09Z,,,Alexei Popyrin,R,,AUS,21.705681,83,,C0AU,Q,,Francisco Cerundolo,R,,ARG,22.683094,115,,4-6 7-6(5) 7-6(6),3,R32,154,6,0,130,88,59,19,17,8,12,3,2,118,88,57,17,17,8,11
 2021-5053,Serbia,Clay,28,A,20210419,,MM66,WC,,Nikola Milojevic,R,,SRB,25.83436,133,,CE77,,,Federico Coria,R,,ARG,29.111567,90,,6-4 6-0,3,R32,80,5,4,59,31,21,16,8,3,4,3,3,53,37,18,7,8,5,10
@@ -71,3 +72,4 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-5053,Serbia,Clay,28,A,20210419,,D643,1,,Novak Djokovic,R,,SRB,33.91102,1,,KI95,8,,Miomir Kecmanovic,R,,SRB,21.634497,47,,6-1 6-3,3,QF,75,3,1,55,32,24,13,8,4,5,1,2,51,30,11,12,8,5,10
 2021-5053,Serbia,Clay,28,A,20210419,,KC56,3,,Aslan Karatsev,R,,RUS,27.622177,29,,D643,1,,Novak Djokovic,R,,SRB,33.91102,1,,7-5 4-6 6-4,3,SF,205,6,4,135,85,54,22,16,23,28,2,6,116,72,44,21,16,10,16
 2021-5053,Serbia,Clay,28,A,20210419,,BK40,2,,Matteo Berrettini,R,,ITA,25.01848,10,,DA81,L,,Taro Daniel,R,,JPN,28.224504,121,,6-1 6-7(5) 6-0,3,SF,127,10,2,77,52,41,15,13,1,2,1,4,93,57,34,13,12,7,13
+2021-5053,Serbia,Clay,28,A,20210419,,BK40,2,,Matteo Berrettini,R,,ITA,25.01848,10,,KC56,3,,Aslan Karatsev,R,,RUS,27.622177,29,,6-1 3-6 7-6(0),3,F,147,9,3,78,47,38,17,14,1,3,1,3,104,65,39,19,14,4,7
