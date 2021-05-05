@@ -866,7 +866,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-425,Barcelona,Clay,48,A,20210419,,N409,1,,Rafael Nadal,L,,ESP,34.877481,3,,N552,,,Kei Nishikori,R,,JPN,31.304586,39,,6-0 2-6 6-2,3,R16,139,2,3,82,49,32,17,11,11,13,2,1,79,49,27,14,11,6,11
 2021-425,Barcelona,Clay,48,A,20210419,,CD85,6,,Pablo Carreno Busta,R,,ESP,29.771389,12,,SM37,4,,Diego Schwartzman,R,,ARG,28.673511,9,,6-4 3-6 7-5,3,QF,153,5,1,91,64,40,18,16,3,8,0,4,102,70,44,13,15,5,10
 2021-425,Barcelona,Clay,48,A,20210419,,S0AG,11,,Jannik Sinner,R,,ITA,19.674196,22,,RE44,3 WC,,Andrey Rublev,R,,RUS,23.496235,8,,6-2 7-6(6),3,QF,95,4,2,69,41,26,17,10,2,3,1,1,64,32,21,14,10,4,7
-2021-425,Barcelona,Clay,48,A,20210419,,TE51,2,,Stefanos Tsitsipas,R,,GRE,22.685832,5,,AG37,10,,Felix Auger-Aliassime,R,,CAN,20.695414,21,QF,6-3 6-3,3,,82,1,1,55,37,29,11,9,3,3,1,3,46,26,17,11,9,2,5
+2021-425,Barcelona,Clay,48,A,20210419,,TE51,2,,Stefanos Tsitsipas,R,,GRE,22.685832,5,,AG37,10,,Felix Auger-Aliassime,R,,CAN,20.695414,21,,6-3 6-3,3,QF,82,1,1,55,37,29,11,9,3,3,1,3,46,26,17,11,9,2,5
 2021-425,Barcelona,Clay,48,A,20210419,,N409,1,,Rafael Nadal,L,,ESP,34.877481,3,,N771,,,Cameron Norrie,L,,GBR,25.6564,52,,6-1 6-4,3,QF,94,4,2,57,34,24,13,9,2,3,0,5,55,28,16,11,8,4,8
 2021-425,Barcelona,Clay,48,A,20210419,,TE51,2,,Stefanos Tsitsipas,R,,GRE,22.685832,5,,S0AG,11,,Jannik Sinner,R,,ITA,19.674196,22,,6-3 6-3,3,SF,83,2,1,61,46,33,9,9,4,4,1,2,54,28,16,15,9,7,10
 2021-425,Barcelona,Clay,48,A,20210419,,N409,1,,Rafael Nadal,L,,ESP,34.877481,3,,CD85,6,,Pablo Carreno Busta,R,,ESP,29.771389,12,,6-3 6-2,3,SF,89,3,3,56,35,27,11,9,3,4,4,1,53,44,24,3,8,6,10
