@@ -1,55 +1,21 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced
-2021-9510,Parma,Clay,28,A,20210522,,K0AH,,,Sebastian Korda,R,,USA,20.87885,63,,CF01,,WC,Marco Cecchinato,L,,ITA,28.640657,104,,6-2 6-4,3,F,75,6,4,57,38,31,8,9,1,1,3,1,50,32,21,11,9,3,6
-2021-9510,Parma,Clay,28,A,20210522,,K0AH,,,Sebastian Korda,R,,USA,20.87885,63,,PL56,6,,Tommy Paul,L,,USA,24.013689,55,,6-3 6-3,3,SF,82,3,1,64,46,35,7,9,8,9,2,2,50,25,13,13,9,1,5
-2021-9510,Parma,Clay,28,A,20210522,,CF01,,WC,Marco Cecchinato,R,,ITA,28.640657,104,,MU94,,,Jaume Munar,L,,ESP,24.046543,80,,7-6(2) 1-6 6-1,3,SF,160,1,5,99,62,41,16,13,5,9,2,6,95,70,43,10,13,8,12
-2021-9510,Parma,Clay,28,A,20210522,,PL56,6,,Tommy Paul,R,,USA,24.013689,55,,SL28,4,,Jan-Lennard Struff,L,,GER,31.074606,42,,6-2 6-4,3,QF,74,1,1,47,30,26,10,9,0,0,5,3,59,36,25,9,9,3,6
-2021-9510,Parma,Clay,28,A,20210522,,MU94,,,Jaume Munar,R,,ESP,24.046543,80,,G628,5,,Richard Gasquet,L,,FRA,34.92676,51,,6-1 6-1,3,QF,47,1,1,30,23,22,6,7,0,0,0,3,41,24,12,5,7,2,7
-2021-9510,Parma,Clay,28,A,20210522,,K0AH,,,Sebastian Korda,R,,USA,20.87885,63,,N732,8,,Yoshihito Nishioka,L,,JPN,25.650925,60,,6-3 6-3,3,QF,80,4,2,50,34,25,11,9,3,4,0,1,63,37,22,11,9,5,9
-2021-9510,Parma,Clay,28,A,20210522,,CF01,,WC,Marco Cecchinato,R,,ITA,28.640657,104,,GB93,,LL,Norbert Gombos,L,,SVK,30.773443,87,,6-3 6-1,3,QF,62,7,0,46,35,28,6,8,1,1,2,2,46,19,13,12,8,3,7
-2021-9510,Parma,Clay,28,A,20210522,,K0AH,,,Sebastian Korda,R,,USA,20.87885,63,,SU87,1,,Lorenzo Sonego,L,,ITA,26.031485,28,,6-1 7-5,3,R16,89,2,3,67,48,36,11,10,6,6,1,1,52,39,26,5,9,1,4
-2021-9510,Parma,Clay,28,A,20210522,,MU94,,,Jaume Munar,R,,ESP,24.046543,80,,PD31,2,,Benoit Paire,L,,FRA,32.03833,40,,7-5 3-1 RET,3,R16,86,0,0,45,37,23,4,8,0,3,2,5,85,50,27,13,8,11,16
-2021-9510,Parma,Clay,28,A,20210522,,GB93,,LL,Norbert Gombos,R,,SVK,30.773443,87,,R772,3,,Albert Ramos-Vinolas,L,,ESP,33.344284,38,,6-3 6-7(4) 6-2,3,R16,157,8,5,115,62,43,23,15,10,13,3,2,93,56,38,14,14,6,12
-2021-9510,Parma,Clay,28,A,20210522,,SL28,4,,Jan-Lennard Struff,R,,GER,31.074606,42,,C0E9,,WC,Flavio Cobolli,L,,ITA,19.04449,429,,6-4 4-6 7-6(2),3,R16,140,7,6,89,46,35,24,16,0,4,3,5,118,75,50,20,16,5,9
-2021-9510,Parma,Clay,28,A,20210522,,G628,5,,Richard Gasquet,R,,FRA,34.92676,51,,,,Q,Pedro Martinez,L,,ESP,24.071184,102,,6-3 3-6 6-3,3,R16,142,6,4,99,55,37,23,14,5,8,4,1,83,53,35,14,13,6,10
-2021-9510,Parma,Clay,28,A,20210522,,PL56,6,,Tommy Paul,R,,USA,24.013689,55,,V708,,,Jiri Vesely,L,,CZE,27.865845,71,,6-7(3) 7-6(5) 6-3,3,R16,166,7,4,115,63,47,32,17,5,6,14,5,101,71,56,15,16,5,7
-2021-9510,Parma,Clay,28,A,20210522,,CF01,,WC,Marco Cecchinato,R,,ITA,28.640657,104,,BH09,7,,Aljaz Bedene,L,,SLO,31.843943,54,,7-5 6-2,3,R16,97,8,0,59,44,32,8,10,2,3,2,0,71,34,22,16,10,3,7
-2021-9510,Parma,Clay,28,A,20210522,,N732,8,,Yoshihito Nishioka,L,,JPN,25.650925,60,,M0EJ,,,Lorenzo Musetti,L,,ITA,19.219713,76,,6-3 6-2,3,R16,80,0,0,67,50,32,7,9,6,8,0,2,47,35,18,3,8,4,9
-2021-9510,Parma,Clay,28,A,20210522,,G628,5,,Richard Gasquet,R,,FRA,34.92676,51,,AE14,,Q,Daniel Altmaier,L,,GER,22.691307,145,,6-3 6-3,3,R32,80,4,2,50,27,22,12,9,1,2,5,4,60,31,20,11,9,7,11
-2021-9510,Parma,Clay,28,A,20210522,,PL56,6,,Tommy Paul,R,,USA,24.013689,55,,TA12,,,Stefano Travaglia,L,,ITA,29.42642,77,,7-5 6-4,3,R32,85,3,0,56,34,27,18,11,0,0,4,2,58,28,21,18,11,0,2
-2021-9510,Parma,Clay,28,A,20210522,,BH09,7,,Aljaz Bedene,R,,SLO,31.843943,54,,CE25,,,Salvatore Caruso,L,,ITA,28.43258,81,,6-4 7-6(8),3,R32,111,12,1,79,44,34,22,11,7,8,2,0,70,45,34,14,11,1,3
-2021-9510,Parma,Clay,28,A,20210522,,N732,8,,Yoshihito Nishioka,L,,JPN,25.650925,60,,Q927,,,Sam Querrey,L,,USA,33.623547,67,,3-6 6-3 7-6(3),3,R32,117,2,1,84,64,52,11,15,0,1,18,7,113,69,54,20,15,4,5
-2021-9510,Parma,Clay,28,A,20210522,,CF01,,WC,Marco Cecchinato,R,,ITA,28.640657,104,,BV24,,Q,Raul Brancaccio,L,,ITA,24.049282,336,,6-3 7-6(5),3,R32,99,0,1,71,56,40,9,11,4,6,1,6,67,38,24,17,10,3,6
-2021-9510,Parma,Clay,28,A,20210522,,C0E9,,WC,Flavio Cobolli,U,,ITA,19.04449,429,,GC88,,,Marcos Giron,L,,USA,27.827515,82,,3-6 7-6(6) 7-6(4),3,R32,154,4,5,128,71,45,27,17,9,15,4,1,115,75,45,23,16,8,12
-2021-9510,Parma,Clay,28,A,20210522,,GB93,,LL,Norbert Gombos,R,,SVK,30.773443,87,,RH24,,,Emil Ruusuvuori,L,,FIN,22.138262,74,,7-6(4) 5-7 6-3,3,R32,173,4,3,142,87,58,24,17,20,25,0,6,109,74,51,13,16,6,11
-2021-9510,Parma,Clay,28,A,20210522,,K0AH,,,Sebastian Korda,R,,USA,20.87885,63,,SA93,,WC,Andreas Seppi,L,,ITA,37.24846,95,,6-3 6-4,3,R32,82,2,1,60,36,25,13,10,0,2,3,1,46,22,16,11,9,3,7
-2021-9510,Parma,Clay,28,A,20210522,,MO44,,Q,Pedro Martinez Portero,R,,ESP,24.071184,102,,SD32,,,Gilles Simon,L,,FRA,36.399727,69,,6-0 6-4,3,R32,73,1,1,42,32,24,5,8,0,1,1,6,49,29,14,8,8,1,6
-2021-9510,Parma,Clay,28,A,20210522,,MU94,,,Jaume Munar,R,,ESP,24.046543,80,,Y268,,Q,Mikael Ymer,L,,SWE,22.69952,103,,6-3 7-6(5),3,R32,135,3,6,84,51,34,14,10,14,17,0,1,81,60,37,6,11,2,7
-2021-9510,Parma,Clay,28,A,20210522,,M0EJ,,,Lorenzo Musetti,R,,ITA,19.219713,76,,ML57,,,Gianluca Mager,L,,ITA,26.472279,85,,4-6 6-1 6-2,3,R32,104,2,0,71,56,45,6,13,1,2,3,4,74,41,26,14,12,4,8
-2021-9510,Parma,Clay,28,A,20210522,,V708,,,Jiri Vesely,L,,CZE,27.865845,71,,J386,,,Steve Johnson,L,,USA,31.408625,86,,7-6(7) 6-2,3,R32,104,10,4,69,41,32,18,10,6,6,2,2,72,39,27,19,10,7,9
-2021-9512,Belgrade,Clay,28,A,20210520,,D643,1,,Novak Djokovic,R,,SRB,33.99589,1,,MV14,,Q,Alex Molcan,L,,SVK,23.46612,255,,6-4 6-3,3,F,88,2,3,49,27,19,10,10,1,5,1,0,62,36,19,9,9,2,8
-2021-9512,Belgrade,Clay,28,A,20210520,,D643,1,,Novak Djokovic,R,,SRB,33.99589,1,,MF35,,Q,Andrej Martin,L,,SVK,31.663244,119,,6-1 4-6 6-0,3,SF,115,1,1,73,47,28,18,12,7,10,0,3,72,45,22,10,11,4,11
-2021-9512,Belgrade,Clay,28,A,20210520,,MV14,,Q,Alex Molcan,L,,SVK,23.46612,255,,D874,8,,Federico Delbonis,L,,ARG,30.622862,52,,4-6 6-4 6-4,3,SF,161,1,2,114,73,45,17,15,13,19,0,3,101,71,40,10,15,8,15
-2021-9512,Belgrade,Clay,28,A,20210520,,D643,1,,Novak Djokovic,R,,SRB,33.99589,1,,CE77,,Alt,Federico Coria,L,,ARG,29.196442,96,,6-1 6-0,3,QF,55,3,1,32,19,13,11,7,0,1,0,3,43,21,9,5,6,3,9
-2021-9512,Belgrade,Clay,28,A,20210520,,MF35,,Q,Andrej Martin,R,,SVK,31.663244,119,,L987,5,,Dusan Lajovic,L,,SRB,30.888433,39,,3-6 6-3 6-4,3,QF,144,1,3,99,54,32,25,14,8,13,0,4,83,52,33,12,14,4,10
-2021-9512,Belgrade,Clay,28,A,20210520,,D874,8,,Federico Delbonis,L,,ARG,30.622862,52,,CF59,,Q,Roberto Carballes Baena,L,,ESP,28.158794,98,,W/O,3,QF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2021-9512,Belgrade,Clay,28,A,20210520,,MV14,,Q,Alex Molcan,L,,SVK,23.46612,255,,V306,,,Fernando Verdasco,L,,ESP,37.511295,107,,6-2 6-0,3,QF,62,3,2,42,30,23,7,7,2,2,1,1,52,40,17,5,7,7,12
-2021-9512,Belgrade,Clay,28,A,20210520,,D643,1,,Novak Djokovic,R,,SRB,33.99589,1,,MJ71,,LL,Mats Moraing,L,,GER,28.914442,253,,6-2 7-6(4),3,R16,100,6,3,70,41,29,16,10,3,5,3,1,72,36,22,14,10,6,10
-2021-9512,Belgrade,Clay,28,A,20210520,,CF59,,Q,Roberto Carballes Baena,R,,ESP,28.158794,98,,MC65,2,,Gael Monfils,L,,FRA,34.715946,15,,6-1 3-6 7-6(4),3,R16,155,0,1,106,72,43,18,14,9,12,6,8,91,64,44,9,14,7,11
-2021-9512,Belgrade,Clay,28,A,20210520,,MF35,,Q,Andrej Martin,R,,SVK,31.663244,119,,BG23,3,,Nikoloz Basilashvili,L,,GEO,29.237509,31,,6-1 4-6 7-6(4),3,R16,149,3,2,115,72,43,14,15,10,18,0,12,93,38,21,20,14,4,13
-2021-9512,Belgrade,Clay,28,A,20210520,,V306,,,Fernando Verdasco,L,,ESP,37.511295,107,,ME82,4,,Adrian Mannarino,L,,FRA,32.8898,36,,7-6(4) 6-0,3,R16,90,4,0,57,44,31,7,9,1,2,0,5,68,38,20,14,9,2,6
-2021-9512,Belgrade,Clay,28,A,20210520,,L987,5,,Dusan Lajovic,R,,SRB,30.888433,39,,CA12,,,Jeremy Chardy,L,,FRA,34.26694,58,,6-3 6-4,3,R16,97,3,2,62,39,28,12,10,3,5,0,4,84,56,31,12,9,14,18
-2021-9512,Belgrade,Clay,28,A,20210520,,D874,8,,Federico Delbonis,L,,ARG,30.622862,52,,MJ08,,,Thiago Monteiro,L,,BRA,26.970568,79,,7-6(6) 3-6 6-4,3,R16,187,4,4,110,70,42,20,15,10,14,7,3,105,70,44,19,16,10,14
-2021-9512,Belgrade,Clay,28,A,20210520,,CE77,,Alt,Federico Coria,R,,ARG,29.196442,96,,C882,,,Pablo Cuevas,L,,URU,35.381245,91,,6-3 6-2,3,R16,74,1,2,40,23,19,11,8,0,1,0,2,62,40,23,7,9,6,11
-2021-9512,Belgrade,Clay,28,A,20210520,,MV14,,Q,Alex Molcan,L,,SVK,23.46612,255,,KD70,,WC,Pedja Krstin,L,,SRB,26.710472,285,,6-0 6-0,3,R16,68,3,3,43,25,17,11,6,3,3,0,3,53,24,11,8,6,6,12
-2021-9512,Belgrade,Clay,28,A,20210520,,L987,5,,Dusan Lajovic,R,,SRB,30.888433,39,,BE90,,,Ricardas Berankis,L,,LTU,30.913073,92,,6-3 6-3,3,R32,80,2,1,66,43,27,15,9,5,6,1,0,48,31,20,6,9,0,4
-2021-9512,Belgrade,Clay,28,A,20210520,,C882,,,Pablo Cuevas,R,,URU,35.381245,91,,KI95,7,,Miomir Kecmanovic,L,,SRB,21.71937,48,,6-3 6-2,3,R32,78,6,4,54,32,28,11,9,5,5,1,0,57,42,25,7,8,3,6
-2021-9512,Belgrade,Clay,28,A,20210520,,D874,8,,Federico Delbonis,L,,ARG,30.622862,52,,KI63,,LL,Lukas Klein,L,,SVK,23.162218,254,,3-6 6-3 6-4,3,R32,140,4,6,113,70,48,24,14,18,19,2,4,98,66,44,17,14,4,6
-2021-9512,Belgrade,Clay,28,A,20210520,,CF59,,Q,Roberto Carballes Baena,R,,ESP,28.158794,98,,RC91,,SE,Arthur Rinderknech,L,,FRA,25.826147,117,,6-0 6-4,3,R32,79,2,1,42,30,21,9,8,1,2,1,5,59,29,16,10,8,6,11
-2021-9512,Belgrade,Clay,28,A,20210520,,CA12,,,Jeremy Chardy,R,,FRA,34.26694,58,,SL08,,,Tennys Sandgren,L,,USA,29.828884,66,,6-4 6-2,3,R32,69,3,4,47,27,22,8,9,0,2,5,2,59,38,23,6,9,5,10
-2021-9512,Belgrade,Clay,28,A,20210520,,CE77,,Alt,Federico Coria,R,,ARG,29.196442,96,,T0FI,,WC,Marko Topo,L,,SRB,17.683779,1512,,4-6 6-2 6-0,3,R32,126,0,2,82,50,32,20,12,5,7,2,7,78,37,21,17,12,7,13
-2021-9512,Belgrade,Clay,28,A,20210520,,KD70,,WC,Pedja Krstin,R,,SRB,26.710472,285,,KF17,,,Soonwoo Kwon,L,,KOR,23.46338,90,,6-2 3-6 6-1,3,R32,94,4,5,69,35,29,18,12,5,7,4,2,61,43,25,6,12,2,7
-2021-9512,Belgrade,Clay,28,A,20210520,,MF35,,Q,Andrej Martin,R,,SVK,31.663244,119,,O483,,Q,Christopher O'Connell,L,,AUS,26.962355,129,,3-6 7-6(7) 7-5,3,R32,162,2,10,109,62,37,27,16,7,12,2,0,109,75,44,20,17,7,12
-2021-9512,Belgrade,Clay,28,A,20210520,,MV14,,Q,Alex Molcan,L,,SVK,23.46612,255,,M0JF,,WC,Hamad Medjedovic,L,,SRB,17.839836,672,,6-4 6-3,3,R32,86,5,1,48,37,29,7,9,0,0,4,2,69,46,28,11,10,5,8
-2021-9512,Belgrade,Clay,28,A,20210520,,MJ08,,,Thiago Monteiro,L,,BRA,26.970568,79,,A829,,,Radu Albot,L,,MDA,31.520876,88,,6-2 6-2,3,R32,74,2,0,46,31,25,9,8,3,3,0,2,51,32,21,5,8,4,8
-2021-9512,Belgrade,Clay,28,A,20210520,,MJ71,,LL,Mats Moraing,L,,GER,28.914442,253,,GC89,,,Egor Gerasimov,L,,BLR,28.520191,78,,4-6 7-6(7) 7-5,3,R32,179,10,3,128,75,46,21,17,7,15,15,7,147,89,53,21,17,18,26
-2021-9512,Belgrade,Clay,28,A,20210520,,V306,,,Fernando Verdasco,L,,ESP,37.511295,107,,PF39,,,Lucas Pouille,L,,FRA,27.23614,84,,7-5 6-2,3,R32,93,1,2,62,48,31,8,10,3,5,3,6,77,44,27,12,10,8,13
+2021-520,Roland Garros,Clay,128,G,20210531,,A596,,,Pablo Andujar,R,,ESP,35.351128,68,,TB69,4,,Dominic Thiem,L,,AUT,27.739904,4,,4-6 5-7 6-3 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,TE51,5,,Stefanos Tsitsipas,R,,GRE,22.800821,5,,CA12,,,Jeremy Chardy,L,,FRA,34.29706,58,,7-6(6) 6-3 6-1,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,Z355,6,,Alexander Zverev,R,,GER,24.112251,6,,O449,,Q,Oscar Otte,L,,GER,27.87406,152,,3-6 3-6 6-2 6-2 6-0,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,BD06,11,,Roberto Bautista Agut,R,,ESP,33.127995,11,,V824,,Q,Mario Vilella Martinez,L,,ESP,25.91102,182,,6-4 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,CD85,12,,Pablo Carreno Busta,R,,ESP,29.88638,12,,GB93,,,Norbert Gombos,L,,SVK,30.798084,87,,6-3 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,GC88,,,Marcos Giron,R,,USA,27.852156,82,,D875,16,,Grigor Dimitrov,L,,BUL,30.042437,17,,2-6 4-6 7-5 3-0,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,V812,,Q,Botic Van De Zandschulp,R,,NED,25.656399,154,,HB71,19,,Hubert Hurkacz,U,,POL,24.298426,20,,,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,GD64,22,,Christian Garin,R,,CHI,25.002054,23,,LB84,,,Juan Ignacio Londero,L,,ARG,27.791924,100,,3-6 6-4 7-6(6) 6-2,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,KE29,23,,Karen Khachanov,R,,RUS,25.026693,25,,V708,,,Jiri Vesely,L,,CZE,27.890486,71,,6-1 6-2 6-3,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,KI95,,,Miomir Kecmanovic,R,,SRB,21.749487,48,,E687,25,,Daniel Evans,L,,GBR,31.022587,27,,1-6 6-3 6-3 6-4,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,F510,27,,Fabio Fognini,R,,ITA,34.020535,29,,BK24,,WC,Gregoire Barrere,L,,FRA,27.285421,122,,6-4 6-1 6-4,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,CG94,,WC,Enzo Couacaud,R,,FRA,26.250513,177,,GC89,,,Egor Gerasimov,L,,BLR,28.550308,78,,7-6(3) 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.98768,46,,K926,,,Mikhail Kukushkin,L,,KAZ,33.429157,105,,6-4 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,DB63,,,Laslo Djere,R,,SRB,25.995893,53,,MW02,,,Corentin Moutet,L,,FRA,22.116358,72,,6-3 6-7(10) 7-6(2) 7-5,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,F724,,,Marton Fucsovics,R,,HUN,29.308693,44,,SD32,,,Gilles Simon,L,,FRA,36.424366,69,,6-4 6-1 7-6(5),5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,L949,,Q,Henri Laaksonen,R,,SUI,29.166325,150,,H997,,,Yannick Hanfmann,L,,GER,29.546886,93,,6-1 6-3 4-6 6-2,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,MK66,,Q,Mackenzie Mcdonald,R,,USA,26.124573,118,,RH24,,,Emil Ruusuvuori,L,,FIN,22.162903,74,,4-6 6-3 7-6(4) 6-3,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,N552,,,Kei Nishikori,R,,JPN,31.419575,49,,,,Q,Alessandro Giannessi,L,,ITA,31.003422,159,,6-4 6-7(4) 6-3 4-6 6-4,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,PC11,,,Guido Pella,L,,ARG,31.039015,59,,GE33,,Q,Daniel Elahi Galan,L,,COL,24.950035,106,,6-3 7-6(4) 7-5,5,R128,,,,,,,,,,,,,,,,,,,
+2021-520,Roland Garros,Clay,128,G,20210531,,SX50,,Q,Roman Safiullin,R,,RUS,23.813826,181,,TE16,,Q,Carlos Taberner,L,,ESP,23.811089,137,,7-6(4) 1-6 6-0 6-2,5,R128,,,,,,,,,,,,,,,,,,,
