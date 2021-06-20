@@ -2892,9 +2892,6 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-7696,Next Gen Finals,Hard,8,A,20181105,,TE51,,,Stefanos Tsitsipas,,,GRE,20.2327173169062,15,,MU94,,,Jaume Munar,,,ESP,21.5030800821355,76,,4-3(5) 4-3(3) 3-4(4) 4-2,5,RR,,,,,,,,,,,,,,,,,,,
 2018-7696,Next Gen Finals,Hard,8,A,20181105,,TE51,,,Stefanos Tsitsipas,,,GRE,20.2327173169062,15,,HB71,,,Hubert Hurkacz,,,POL,21.7303216974675,85,,4-1 4-3(2) 4-1,5,RR,,,,,,,,,,,,,,,,,,,
 2018-7696,Next Gen Finals,Hard,8,A,20181105,,TE51,,,Stefanos Tsitsipas,,,GRE,20.2327173169062,15,,TD51,,,Frances Tiafoe,,,USA,20.7912388774812,40,,4-3(3) 4-3(5) 4-2,5,RR,,,,,,,,,,,,,,,,,,,
-2018-605,Tour Finals,Hard,8,F,20181112,,Z355,3,,Alexander Zverev,R,,GER,21.563,5,,F324,2,,Roger Federer,R,,SUI,37.262,3,,7-5 7-6(5),3,SF,95,7,1,65,43,38,14,12,2,3,3,0,65,37,29,17,12,0,2
-2018-605,Tour Finals,Hard,8,F,20181112,,D643,1,,Novak Djokovic,R,,SRB,31.477,1,,A678,4,,Kevin Anderson,R,,RSA,32.487,6,,6-2 6-2,3,SF,75,6,1,39,27,23,9,8,0,0,4,3,60,33,23,7,8,5,9
-2018-605,Tour Finals,Hard,8,F,20181112,,Z355,3,,Alexander Zverev,R,,GER,21.563,5,,D643,1,,Novak Djokovic,R,,SRB,31.477,1,,6-4 6-3,3,F,80,10,3,46,33,26,7,9,0,1,1,1,57,34,25,8,10,2,6
 2018-605,Tour Finals,Hard,8,F,20181112,,TB69,6,,Dominic Thiem,R,,AUT,25.191,8,,N552,7,,Kei Nishikori,R,,JPN,28.871,9,,6-1 6-4,3,RR,84,3,2,66,47,31,12,9,4,4,0,6,63,37,26,9,8,6,9
 2018-605,Tour Finals,Hard,8,F,20181112,,A678,4,,Kevin Anderson,R,,RSA,32.487,6,,N552,7,,Kei Nishikori,R,,JPN,28.871,9,,6-0 6-1,3,RR,64,10,0,36,28,23,5,7,0,0,2,2,49,22,11,10,6,7,12
 2018-605,Tour Finals,Hard,8,F,20181112,,A678,4,,Kevin Anderson,R,,RSA,32.487,6,,TB69,6,,Dominic Thiem,R,,AUT,25.191,8,,6-3 7-6(10),3,RR,108,13,4,72,44,40,16,11,0,0,5,3,71,41,33,18,10,6,7
@@ -2907,6 +2904,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-605,Tour Finals,Hard,8,F,20181112,,D643,1,,Novak Djokovic,R,,SRB,31.477,1,,I186,8,,John Isner,R,,USA,33.547,10,,6-4 6-3,3,RR,73,6,1,43,30,26,11,9,0,0,13,2,65,45,30,8,10,6,9
 2018-605,Tour Finals,Hard,8,F,20181112,,D643,1,,Novak Djokovic,R,,SRB,31.477,1,,C977,5,,Marin Cilic,R,,CRO,30.122,7,,7-6(7) 6-2,3,RR,95,3,0,53,31,28,20,10,0,0,8,2,77,44,35,15,10,6,8
 2018-605,Tour Finals,Hard,8,F,20181112,,D643,1,,Novak Djokovic,R,,SRB,31.477,1,,Z355,3,,Alexander Zverev,R,,GER,21.563,5,,6-4 6-1,3,RR,76,1,3,52,32,24,14,9,2,2,9,2,50,30,20,7,8,2,5
+2018-605,Tour Finals,Hard,8,F,20181112,,Z355,3,,Alexander Zverev,R,,GER,21.563,5,,F324,2,,Roger Federer,R,,SUI,37.262,3,,7-5 7-6(5),3,SF,95,7,1,65,43,38,14,12,2,3,3,0,65,37,29,17,12,0,2
+2018-605,Tour Finals,Hard,8,F,20181112,,D643,1,,Novak Djokovic,R,,SRB,31.477,1,,A678,4,,Kevin Anderson,R,,RSA,32.487,6,,6-2 6-2,3,SF,75,6,1,39,27,23,9,8,0,0,4,3,60,33,23,7,8,5,9
+2018-605,Tour Finals,Hard,8,F,20181112,,Z355,3,,Alexander Zverev,R,,GER,21.563,5,,D643,1,,Novak Djokovic,R,,SRB,31.477,1,,6-4 6-3,3,F,80,10,3,46,33,26,7,9,0,1,1,1,57,34,25,8,10,2,6
 2018-D004,Davis Cup WG F: FRA vs CRO,Clay,,D,20181123,1,CG80,,,Borna Coric,R,,CRO,22.02,12,,CA12,,,Jeremy Chardy,R,188,FRA,31.78,40,,6-2 7-5 6-4,5,RR,139,5,0,78,59,47,15,15,2,2,14,5,103,64,43,18,15,9,13
 2018-D004,Davis Cup WG F: FRA vs CRO,Clay,,D,20181123,2,C977,,,Marin Cilic,R,198,CRO,30.15,7,,T786,,,Jo-Wilfried Tsonga,R,188,FRA,33.6,259,,6-3 7-5 6-4,5,RR,142,12,1,86,53,48,20,16,5,5,8,3,91,57,39,18,15,1,4
 2018-D004,Davis Cup WG F: FRA vs CRO,Clay,,D,20181123,4,C977,,,Marin Cilic,R,198,CRO,30.15,7,,PF39,,,Lucas Pouille,R,185,FRA,24.75,32,,7-6(3) 6-3 6-3,5,RR,139,7,4,83,44,39,26,15,0,0,10,2,102,58,43,21,15,9,12
