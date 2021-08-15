@@ -26,7 +26,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-499,Delray Beach,Hard,28,A,20210104,,HB71,4,,Hubert Hurkacz,R,,POL,23.895962,35,,HB05,,Q,Christian Harrison,L,,USA,26.603697,789,,7-6(4) 6-4,3,SF,97,7,1,70,44,30,15,11,2,3,5,4,70,46,29,13,11,3,5
 2021-499,Delray Beach,Hard,28,A,20210104,,K0AH,,,Sebastian Korda,U,,USA,20.501026,119,,N771,,,Cameron Norrie,L,,GBR,25.368925,74,,6-3 7-5,3,SF,81,6,4,60,36,29,11,11,0,2,3,5,56,35,25,7,10,2,6
 2021-499,Delray Beach,Hard,32,A,20210104,,HB71,4,,Hubert Hurkacz,R,,POL,23.895962,,,K0AH,,,Sebastian Korda,U,,USA,20.501026694,119,,6-3 6-3,3,F,71,4,0,50,38,27,7,9,0,1,1,5,55,33,20,9,9,1,5
-2021-9426,Antalya,Hard,32,A,20210105,,BK40,1,,Matteo Berrettini,R,,ITA,24.733744,10,,KI48,,WC,Ergi Kirkin,L,,TUR,21.941135,446,,6-0 6-4,3,R32,56,8,2,39,26,24,8,8,0,0,0,4,49,23,11,13,8,1,5
+2021-9426,Antalya,Hard,32,A,20210105,,BK40,1,,Matteo Berrettini,R,196,ITA,24.733744,10,,KI48,,WC,Ergi Kirkin,L,,TUR,21.941135,446,,6-0 6-4,3,R32,56,8,2,39,26,24,8,8,0,0,0,4,49,23,11,13,8,1,5
 2021-9426,Antalya,Hard,32,A,20210105,,GB88,2,,David Goffin,R,,BEL,30.080767,16,,H996,,,Pierre-Hugues Herbert,L,,FRA,29.804243,83,,3-6 7-5 6-0,3,R32,122,3,1,86,48,33,15,13,2,7,7,4,99,64,37,13,14,11,19
 2021-9426,Antalya,Hard,32,A,20210105,,F510,3,,Fabio Fognini,R,,ITA,33.620808,17,,V0B2,,Q,Michael Vrbensky,L,,CZE,21.029432,311,,6-4 7-6(4),3,R32,99,0,4,68,42,33,11,11,0,2,6,0,79,45,30,14,11,7,10
 2021-9426,Antalya,Hard,32,A,20210105,,DH58,4,,Alex de Minaur,R,,AUS,21.883642,23,,J267,,,Malek Jaziri,L,,TUN,36.960987,249,,6-2 6-1,3,R32,61,2,1,36,17,14,15,7,0,0,3,4,56,25,12,11,8,5,10
@@ -42,7 +42,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-9426,Antalya,Hard,32,A,20210105,,KC33,,Q,Dimitar Kuzmanov,R,,BUL,27.441479,298,,DB63,,,Laslo Djere,L,,SRB,25.596167,55,,6-1 3-2 RET,3,R32,65,1,0,33,23,19,6,6,0,0,0,1,51,41,19,6,6,5,8
 2021-9426,Antalya,Hard,32,A,20210105,,LC11,,,Tristan Lamasine,R,,FRA,27.838467,271,,GC89,,,Egor Gerasimov,L,,BLR,28.150581,78,,7-6(6) 6-2,3,R32,91,0,1,69,46,30,13,10,2,4,4,3,73,44,30,10,10,0,4
 2021-9426,Antalya,Hard,32,A,20210105,,RH24,,,Emil Ruusuvuori,R,,FIN,21.763176,87,,V708,,,Jiri Vesely,L,,CZE,27.490759,67,,6-3 7-6(4),3,R32,81,1,0,60,47,40,8,11,0,0,9,0,55,36,29,10,10,1,2
-2021-9426,Antalya,Hard,32,A,20210105,,BK40,1,,Matteo Berrettini,R,,ITA,24.733744,10,,KC33,,Q,Dimitar Kuzmanov,L,,BUL,27.441479,298,,6-2 6-3,3,R16,67,4,1,42,28,26,4,8,1,2,1,4,57,28,19,8,9,3,8
+2021-9426,Antalya,Hard,32,A,20210105,,BK40,1,,Matteo Berrettini,R,196,ITA,24.733744,10,,KC33,,Q,Dimitar Kuzmanov,L,,BUL,27.441479,298,,6-2 6-3,3,R16,67,4,1,42,28,26,4,8,1,2,1,4,57,28,19,8,9,3,8
 2021-9426,Antalya,Hard,32,A,20210105,,GB88,2,,David Goffin,R,,BEL,30.080767,16,,KI74,,,Nicola Kuhn,L,,ESP,20.796715,253,,6-0 6-2,3,R16,56,4,1,39,23,21,8,7,0,0,0,1,39,31,14,3,7,0,5
 2021-9426,Antalya,Hard,32,A,20210105,,CA12,,,Jeremy Chardy,R,,FRA,33.89733,72,,F510,3,,Fabio Fognini,L,,ITA,33.620808,17,,7-6(4) 6-7(1) 7-6(5),3,R16,173,12,3,124,77,52,23,18,4,9,3,7,125,68,48,27,18,6,11
 2021-9426,Antalya,Hard,32,A,20210105,,DH58,4,,Alex de Minaur,R,,AUS,21.883642,23,,A0AB,,Q,Adrian Andreev,L,,BUL,19.652292,564,,6-3 6-1,3,R16,70,2,0,55,36,26,8,8,5,7,1,2,52,35,14,8,8,6,12
@@ -50,7 +50,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-9426,Antalya,Hard,32,A,20210105,,BG23,6,,Nikoloz Basilashvili,R,,GEO,28.867899,40,,CH05,,WC,Altug Celikbilek,L,,TUR,24.328543,309,,7-6(1) 6-4,3,R16,91,3,5,70,35,25,15,11,4,8,4,3,67,37,19,15,11,5,10
 2021-9426,Antalya,Hard,32,A,20210105,,BK92,8,,Alexander Bublik,R,,KAZ,23.55373,49,,LC11,,,Tristan Lamasine,L,,FRA,27.838467,271,,6-2 6-4,3,R16,97,6,7,82,44,32,17,9,7,8,0,2,70,41,22,14,9,9,13
 2021-9426,Antalya,Hard,32,A,20210105,,TA12,,,Stefano Travaglia,U,,ITA,29.051334,75,,RH24,,,Emil Ruusuvuori,L,,FIN,21.763176,87,,7-6(5) 6-3,3,R16,105,2,4,77,42,32,21,11,2,3,2,4,69,47,33,10,10,3,5
-2021-9426,Antalya,Hard,32,A,20210105,,BK92,8,,Alexander Bublik,R,,KAZ,23.55373,49,,BK40,1,,Matteo Berrettini,L,,ITA,24.733744,10,,7-6(6) 6-4,3,QF,90,12,3,72,43,33,16,11,5,6,7,3,70,41,32,13,11,4,6
+2021-9426,Antalya,Hard,32,A,20210105,,BK92,8,,Alexander Bublik,R,,KAZ,23.55373,49,,BK40,1,,Matteo Berrettini,L,196,ITA,24.733744,10,,7-6(6) 6-4,3,QF,90,12,3,72,43,33,16,11,5,6,7,3,70,41,32,13,11,4,6
 2021-9426,Antalya,Hard,32,A,20210105,,GB88,2,,David Goffin,R,,BEL,30.080767,16,,TA12,,,Stefano Travaglia,L,,ITA,29.051334,75,,6-3 6-2,3,QF,62,3,2,48,33,27,8,9,0,1,3,3,52,27,17,8,8,7,11
 2021-9426,Antalya,Hard,32,A,20210105,,DH58,4,,Alex de Minaur,R,,AUS,21.883642,23,,BG23,6,,Nikoloz Basilashvili,L,,GEO,28.867899,40,,6-2 6-4,3,QF,74,1,3,56,35,25,12,9,3,4,2,3,60,36,19,12,9,3,7
 2021-9426,Antalya,Hard,32,A,20210105,,CA12,,,Jeremy Chardy,R,,FRA,33.89733,72,,SL28,5,,Jan-Lennard Struff,L,,GER,30.69952,37,,4-6 6-2 7-6(8),3,QF,156,6,5,130,88,57,20,15,18,22,10,6,113,69,49,18,15,4,9
@@ -170,7 +170,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-8888,ATP Cup,Hard,24,A,20210202,,R975,,,Milos Raonic,R,,CAN,30.102669,15,,L987,,,Dusan Lajovic,L,,SRB,30.595482,26,,6-3 6-4,3,RR,79,11,3,48,32,29,11,10,0,0,2,1,66,53,33,6,9,6,8
 2021-8888,ATP Cup,Hard,24,A,20210202,,BD06,,,Roberto Bautista Agut,R,,ESP,32.804928,13,,DH58,,,Alex de Minaur,L,,AUS,21.9603,23,,4-6 6-4 6-4,3,RR,140,4,1,75,44,35,13,15,2,6,9,4,110,70,41,20,15,12,17
 2021-8888,ATP Cup,Hard,24,A,20210202,,CD85,,,Pablo Carreno Busta,R,,ESP,29.563313,16,,MH30,,,John Millman,L,,AUS,31.638603,38,,6-2 6-4,3,RR,77,5,0,46,28,25,10,9,1,2,4,0,57,42,24,6,9,3,7
-2021-8888,ATP Cup,Hard,24,A,20210202,,BK40,,,Matteo Berrettini,R,,ITA,24.810404,10,,TB69,,,Dominic Thiem,L,,AUT,27.416838,3,,6-2 6-4,3,RR,81,5,0,50,34,24,10,9,0,1,2,0,61,37,23,10,9,5,9
+2021-8888,ATP Cup,Hard,24,A,20210202,,BK40,,,Matteo Berrettini,R,196,ITA,24.810404,10,,TB69,,,Dominic Thiem,L,,AUT,27.416838,3,,6-2 6-4,3,RR,81,5,0,50,34,24,10,9,0,1,2,0,61,37,23,10,9,5,9
 2021-8888,ATP Cup,Hard,24,A,20210202,,DB59,,,Dennis Novak,R,,AUT,27.433266,100,,F510,,,Fabio Fognini,L,,ITA,33.697468,17,,6-3 6-2,3,RR,72,2,1,55,39,27,10,9,0,1,3,6,61,39,24,6,8,6,10
 2021-8888,ATP Cup,Hard,24,A,20210202,,RE44,,,Andrey Rublev,R,,RUS,23.288158,8,,PC11,,,Guido Pella,L,,ARG,30.715948,44,,6-1 6-2,3,RR,60,7,2,51,32,26,9,8,2,2,1,3,45,28,17,5,7,2,6
 2021-8888,ATP Cup,Hard,24,A,20210202,,D643,,,Novak Djokovic,R,,SRB,33.70294,1,,SU55,,,Denis Shapovalov,L,,CAN,21.804243,12,,7-5 7-5,3,RR,113,1,3,63,44,35,14,12,0,0,9,4,81,45,36,16,12,4,6
@@ -180,7 +180,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-8888,ATP Cup,Hard,24,A,20210202,,MH30,,,John Millman,L,,AUS,31.638603,38,,PM13,,,Michail Pervolarakis,,,GRE,31.638603,462,,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2021-8888,ATP Cup,Hard,24,A,20210202,,TE51,,,Stefanos Tsitsipas,,,GRE,22.4777549624,6,,DH58,,,Alex de Minaur,L,,AUS,21.9603,23,,6-3 7-5 ,3,RR,,,,,,,,,,,,,,,,,,,
 2021-8888,ATP Cup,Hard,24,A,20210202,,F510,,,Fabio Fognini,L,,ITA,33.697468,17,,PD31,,,Benoit Paire,,,FRA,31.7399041752,28,,6-1 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,
-2021-8888,ATP Cup,Hard,24,A,20210202,,BK40,,,Matteo Berrettini,R,,ITA,24.810404,10,,MC65,,,Gael Monfils,,,FRA,34.4229979466,11,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2021-8888,ATP Cup,Hard,24,A,20210202,,BK40,,,Matteo Berrettini,R,196,ITA,24.810404,10,,MC65,,,Gael Monfils,,,FRA,34.4229979466,11,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2021-8888,ATP Cup,Hard,24,A,20210202,,RE44,,,Andrey Rublev,R,,RUS,23.288158,8,,N732,,,Yoshihito Nishioka,,,JPN,25.3524982888,57,,6-1 6-3 ,3,RR,,,,,,,,,,,,,,,,,,,
 2021-8888,ATP Cup,Hard,24,A,20210202,,MM58,,,Daniil Medvedev,R,,RUS,24.977413,4,,N552,,,Kei Nishikori,,,JPN,31.0965092402,41,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2021-8888,ATP Cup,Hard,24,A,20210202,,Sl28,,,Jan-Lennard Struff,,,GER,30.7761806982,37,,L987,,,Dusan Lajovic,L,,SRB,30.595482,26,,3-6 6-3 6-4 ,3,RR,,,,,,,,,,,,,,,,,,,
@@ -194,9 +194,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-8888,ATP Cup,Hard,24,A,20210202,,PC11,,,Guido Pella,L,,ARG,30.715948,44,,N732,,,Yoshihito Nishioka,,,JPN,25.3524982888,57,,6-3 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,
 2021-8888,ATP Cup,Hard,24,A,20210202,,SM37,,,Diego Schwartzman,L,,ARG,28.465435,9,,N552,,,Kei Nishikori,,,JPN,31.0965092402,41,,6-1 6-7(4) 6-0 ,3,RR,,,,,,,,,,,,,,,,,,,
 2021-8888,ATP Cup,Hard,24,A,20210202,,F510,,,Fabio Fognini,L,,ITA,33.697468,17,,CD85,,,Pablo Carreno Busta,R,,ESP,29.563313,16,,6-2 1-6 6-4 ,3,RR,,,,,,,,,,,,,,,,,,,
-2021-8888,ATP Cup,Hard,24,A,20210202,,BK40,,,Matteo Berrettini,R,,ITA,24.810404,10,,BD06,,,Roberto Bautista Agut,R,,ESP,32.804928,13,,6-3 7-5 ,3,RR,,,,,,,,,,,,,,,,,,,
+2021-8888,ATP Cup,Hard,24,A,20210202,,BK40,,,Matteo Berrettini,R,196,ITA,24.810404,10,,BD06,,,Roberto Bautista Agut,R,,ESP,32.804928,13,,6-3 7-5 ,3,RR,,,,,,,,,,,,,,,,,,,
 2021-8888,ATP Cup,Hard,24,A,20210202,,RE44,,,Andrey Rublev,R,,RUS,23.288158,8,,F510,,,Fabio Fognini,L,,ITA,33.697468,17,,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2021-8888,ATP Cup,Hard,24,A,20210202,,MM58,,,Daniil Medvedev,R,,RUS,24.977413,4,,BK40,,,Matteo Berrettini,R,,ITA,24.810404,10,,6-4 6-2 ,3,RR,,,,,,,,,,,,,,,,,,,
+2021-8888,ATP Cup,Hard,24,A,20210202,,MM58,,,Daniil Medvedev,R,,RUS,24.977413,4,,BK40,,,Matteo Berrettini,R,196,ITA,24.810404,10,,6-4 6-2 ,3,RR,,,,,,,,,,,,,,,,,,,
 2021-580,Australian Open,Hard,128,G,20210208,,D643,1,,Novak Djokovic,R,,SRB,33.71937,1,,CA12,,,Jeremy Chardy,L,,FRA,33.990417,61,,6-3 6-1 6-2,5,R128,91,9,1,57,43,37,11,12,0,0,3,3,86,51,30,13,12,7,13
 2021-580,Australian Open,Hard,128,G,20210208,,N409,2,,Rafael Nadal,L,,ESP,34.685833,2,,DB63,,,Laslo Djere,L,,SRB,25.689255,56,,6-3 6-4 6-1,5,R128,112,5,1,72,48,40,11,13,4,5,4,5,75,41,26,13,13,5,11
 2021-580,Australian Open,Hard,128,G,20210208,,TB69,3,,Dominic Thiem,R,,AUT,27.433266,3,,K926,,,Mikhail Kukushkin,L,,KAZ,33.12252,90,,7-6(2) 6-2 6-3,5,R128,160,1,2,75,47,35,17,15,1,4,4,4,127,75,41,21,14,13,20
@@ -205,7 +205,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-580,Australian Open,Hard,128,G,20210208,,Z355,6,,Alexander Zverev,R,,GER,23.805613,7,,GC88,,,Marcos Giron,L,,USA,27.545517,75,,6-7(8) 7-6(5) 6-3 6-2,5,R128,162,16,4,111,77,67,20,21,2,4,6,8,138,81,63,22,20,9,15
 2021-580,Australian Open,Hard,128,G,20210208,,RE44,7,,Andrey Rublev,R,,RUS,23.304586,8,,H997,,,Yannick Hanfmann,L,,GER,29.240246,102,,6-3 6-3 6-4,5,R128,102,17,3,77,52,41,12,14,3,4,7,5,107,76,44,16,14,8,13
 2021-580,Australian Open,Hard,128,G,20210208,,SM37,8,,Diego Schwartzman,R,,ARG,28.481861,9,,Y218,Q,,Elias Ymer,L,,SWE,24.832306,205,,7-6(3) 6-4 2-6 6-2,5,R128,187,1,4,129,88,52,22,19,11,18,5,6,115,67,41,21,19,5,13
-2021-580,Australian Open,Hard,128,G,20210208,,BK40,9,,Matteo Berrettini,R,,ITA,24.826832,10,,A678,,,Kevin Anderson,L,,RSA,34.729637,81,,7-6(9) 7-5 6-3,5,R128,143,14,1,95,72,64,15,17,3,3,18,2,112,85,61,16,16,5,7
+2021-580,Australian Open,Hard,128,G,20210208,,BK40,9,,Matteo Berrettini,R,196,ITA,24.826832,10,,A678,,,Kevin Anderson,L,,RSA,34.729637,81,,7-6(9) 7-5 6-3,5,R128,143,14,1,95,72,64,15,17,3,3,18,2,112,85,61,16,16,5,7
 2021-580,Australian Open,Hard,128,G,20210208,,RH24,,,Emil Ruusuvuori,R,,FIN,21.856262,86,,MC65,10,,Gael Monfils,L,,FRA,34.439426,11,,3-6 6-4 7-5 3-6 6-3,5,R128,226,4,11,195,136,92,25,25,17,23,13,5,162,102,65,29,24,7,13
 2021-580,Australian Open,Hard,128,G,20210208,,SU55,11,,Denis Shapovalov,L,,CAN,21.820671,12,,S0AG,,,Jannik Sinner,L,,ITA,19.482546,32,,3-6 6-3 6-2 4-6 6-4,5,R128,235,12,9,157,99,74,28,23,17,20,4,4,145,102,68,24,23,5,10
 2021-580,Australian Open,Hard,128,G,20210208,,A829,,,Radu Albot,R,,MDA,31.244352,85,,BD06,12,,Roberto Bautista Agut,L,,ESP,32.821354,13,,6-7(1) 6-0 6-4 7-6(5),5,R128,195,11,4,129,78,59,24,20,4,8,7,7,136,90,53,20,20,6,14
@@ -269,7 +269,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-580,Australian Open,Hard,128,G,20210208,,Z355,6,,Alexander Zverev,R,,GER,23.805613,7,,C0BC,Q,,Maxime Cressy,L,,FRA,23.75633,172,,7-5 6-4 6-3,5,R64,124,15,3,87,62,51,15,16,4,4,10,9,104,64,41,24,15,6,10
 2021-580,Australian Open,Hard,128,G,20210208,,RE44,7,,Andrey Rublev,R,,RUS,23.304586,8,,MJ08,,,Thiago Monteiro,L,,BRA,26.694046,74,,6-4 6-4 7-6(8),5,R64,128,16,0,93,59,49,25,16,4,4,10,2,110,74,53,22,16,7,9
 2021-580,Australian Open,Hard,128,G,20210208,,SM37,8,,Diego Schwartzman,R,,ARG,28.481861,9,,MP20,LL,,Alexandre Muller,L,,FRA,24.019165,210,,6-2 6-0 6-3,5,R64,92,0,1,60,41,28,11,12,2,4,5,5,73,47,19,9,11,6,15
-2021-580,Australian Open,Hard,128,G,20210208,,BK40,9,,Matteo Berrettini,R,,ITA,24.826832,10,,M0FH,Q,,Tomas Machac,L,,CZE,20.323067,199,,6-3 6-2 4-6 6-3,5,R64,159,19,2,117,78,61,19,18,12,13,9,2,122,78,45,25,18,4,9
+2021-580,Australian Open,Hard,128,G,20210208,,BK40,9,,Matteo Berrettini,R,196,ITA,24.826832,10,,M0FH,Q,,Tomas Machac,L,,CZE,20.323067,199,,6-3 6-2 4-6 6-3,5,R64,159,19,2,117,78,61,19,18,12,13,9,2,122,78,45,25,18,4,9
 2021-580,Australian Open,Hard,128,G,20210208,,SU55,11,,Denis Shapovalov,L,,CAN,21.820671,12,,TA46,Q,,Bernard Tomic,L,,AUS,28.301163,233,,6-1 6-3 6-2,5,R64,107,16,7,83,50,42,18,12,7,7,6,5,95,51,29,18,12,5,11
 2021-580,Australian Open,Hard,128,G,20210208,,R975,14,,Milos Raonic,R,,CAN,30.119097,14,,MW02,,,Corentin Moutet,L,,FRA,21.80972,71,,6-7(1) 6-1 6-1 6-4,5,R64,145,26,6,87,56,52,20,18,0,0,3,3,113,68,42,24,18,10,16
 2021-580,Australian Open,Hard,128,G,20210208,,CD85,15,,Pablo Carreno Busta,R,,ESP,29.57974,16,,V708,,,Jiri Vesely,L,,CZE,27.583847,68,,6-3 7-6(3) 2-6 6-4,5,R64,153,3,4,125,77,62,27,20,6,8,36,4,107,75,60,15,19,1,3
@@ -301,7 +301,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-580,Australian Open,Hard,128,G,20210208,,Z355,6,,Alexander Zverev,R,,GER,23.805613,7,,ME82,32,,Adrian Mannarino,L,,FRA,32.613277,36,,6-3 6-3 6-1,5,R32,103,19,6,75,51,45,12,13,3,3,4,3,80,41,25,19,12,7,12
 2021-580,Australian Open,Hard,128,G,20210208,,RE44,7,,Andrey Rublev,R,,RUS,23.304586,8,,L397,,,Feliciano Lopez,L,,ESP,39.386723,65,,7-5 6-2 6-3,5,R32,92,12,3,81,42,39,24,15,3,3,11,7,78,44,32,17,14,5,9
 2021-580,Australian Open,Hard,128,G,20210208,,KC56,Q,,Aslan Karatsev,R,,RUS,27.430527,114,,SM37,8,,Diego Schwartzman,L,,ARG,28.481861,9,,6-3 6-3 6-3,5,R32,112,9,1,90,64,46,16,14,10,11,0,1,64,48,27,8,13,1,6
-2021-580,Australian Open,Hard,128,G,20210208,,BK40,9,,Matteo Berrettini,R,,ITA,24.826832,10,,KE29,19,,Karen Khachanov,L,,RUS,24.720055,20,,7-6(1) 7-6(5) 7-6(5),5,R32,179,18,1,122,76,64,23,18,2,4,12,3,122,77,56,24,18,4,6
+2021-580,Australian Open,Hard,128,G,20210208,,BK40,9,,Matteo Berrettini,R,196,ITA,24.826832,10,,KE29,19,,Karen Khachanov,L,,RUS,24.720055,20,,7-6(1) 7-6(5) 7-6(5),5,R32,179,18,1,122,76,64,23,18,2,4,12,3,122,77,56,24,18,4,6
 2021-580,Australian Open,Hard,128,G,20210208,,AG37,20,,Felix Auger-Aliassime,R,,CAN,20.503765,19,,SU55,11,,Denis Shapovalov,L,,CAN,21.820671,12,,7-5 7-5 6-3,5,R32,148,8,2,95,61,47,20,17,3,5,4,5,98,56,34,21,16,6,11
 2021-580,Australian Open,Hard,128,G,20210208,,R975,14,,Milos Raonic,R,,CAN,30.119097,14,,F724,,,Marton Fucsovics,L,,HUN,29.002054,55,,7-6(2) 5-7 6-2 6-2,5,R32,193,13,5,109,61,51,30,20,1,3,2,7,146,72,49,36,20,7,12
 2021-580,Australian Open,Hard,128,G,20210208,,D875,18,,Grigor Dimitrov,R,,BUL,29.735798,21,,CD85,15,,Pablo Carreno Busta,L,,ESP,29.57974,16,,6-0 1-0 RET,5,R32,38,3,0,18,10,9,4,4,1,1,1,0,30,24,9,2,3,4,8
@@ -313,7 +313,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-580,Australian Open,Hard,128,G,20210208,,N409,2,,Rafael Nadal,L,,ESP,34.685833,2,,F510,16,,Fabio Fognini,L,,ITA,33.713894,17,,6-3 6-4 6-2,5,R16,136,6,3,72,43,33,20,14,4,6,7,3,100,56,36,18,13,13,19
 2021-580,Australian Open,Hard,128,G,20210208,,D875,18,,Grigor Dimitrov,R,,BUL,29.735798,21,,TB69,3,,Dominic Thiem,L,,AUT,27.433266,3,,6-4 6-4 6-0,5,R16,121,10,1,76,52,37,14,13,5,7,2,2,103,75,41,9,13,8,15
 2021-580,Australian Open,Hard,128,G,20210208,,MM58,4,,Daniil Medvedev,R,,RUS,24.99384,4,,MK66,,,Mackenzie McDonald,L,,USA,25.817932,192,,6-4 6-2 6-3,5,R16,89,7,2,71,46,36,15,14,0,1,1,2,70,42,28,12,13,1,7
-2021-580,Australian Open,Hard,128,G,20210208,,TE51,5,,Stefanos Tsitsipas,R,,GRE,22.494183,6,,BK40,9,,Matteo Berrettini,L,,ITA,24.826832,10,,W/O,5,R16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-580,Australian Open,Hard,128,G,20210208,,TE51,5,,Stefanos Tsitsipas,R,,GRE,22.494183,6,,BK40,9,,Matteo Berrettini,L,196,ITA,24.826832,10,,W/O,5,R16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2021-580,Australian Open,Hard,128,G,20210208,,Z355,6,,Alexander Zverev,R,,GER,23.805613,7,,L987,23,,Dusan Lajovic,L,,SRB,30.61191,27,,6-4 7-6(5) 6-3,5,R16,141,15,3,97,70,53,14,16,1,3,1,2,114,80,49,18,15,10,14
 2021-580,Australian Open,Hard,128,G,20210208,,RE44,7,,Andrey Rublev,R,,RUS,23.304586,8,,RH16,24,,Casper Ruud,L,,NOR,22.132786,28,,6-2 7-6(3) 0-0 RET,5,R16,77,4,0,58,35,27,13,10,1,3,5,2,59,41,25,8,10,6,10
 2021-580,Australian Open,Hard,128,G,20210208,,KC56,Q,,Aslan Karatsev,R,,RUS,27.430527,114,,AG37,20,,Felix Auger-Aliassime,L,,CAN,20.503765,19,,3-6 1-6 6-3 6-3 6-4,5,R16,205,9,6,123,77,59,22,22,1,6,11,3,125,72,53,27,22,9,14
@@ -800,7 +800,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-410,Monte Carlo Masters,Clay,64,M,20210412,281,TE51,4,,Stefanos Tsitsipas,R,,GRE,22.6666666667,5,7040,KC56,,,Aslan Karatsev,R,,RUS,27.6030116359,29,1918,6-3 6-4,3,R32,84,4,2,62,35,26,17,10,4,4,2,2,52,25,19,13,9,3,5
 2021-410,Monte Carlo Masters,Clay,64,M,20210412,280,GD64,16,,Cristian Garin,R,,CHI,24.8678986995,24,2260,MH30,,,John Millman,R,183,AUS,31.8275154004,44,1436,6-1 6-4,3,R32,99,0,0,53,28,18,17,9,3,4,0,2,68,41,25,9,8,12,16
 2021-410,Monte Carlo Masters,Clay,64,M,20210412,279,PF39,,WC,Lucas Pouille,R,185,FRA,27.1321013005,86,894,P09Z,,Q,Alexei Popyrin,R,,AUS,21.6865160849,83,906,7-5 2-6 6-3,3,R32,121,7,6,109,55,41,23,15,8,12,5,5,83,43,30,19,14,2,6
-2021-410,Monte Carlo Masters,Clay,64,M,20210412,278,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.8535249829,58,1135,BK40,8,,Matteo Berrettini,R,,ITA,24.9993155373,10,3453,7-5 6-3,3,R32,90,1,1,59,46,36,7,11,2,3,3,3,72,39,22,18,10,3,6
+2021-410,Monte Carlo Masters,Clay,64,M,20210412,278,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.8535249829,58,1135,BK40,8,,Matteo Berrettini,R,196,ITA,24.9993155373,10,3453,7-5 6-3,3,R32,90,1,1,59,46,36,7,11,2,3,3,3,72,39,22,18,10,3,6
 2021-410,Monte Carlo Masters,Clay,64,M,20210412,277,RE44,6,,Andrey Rublev,R,,RUS,23.4770704997,8,5400,CE25,,Q,Salvatore Caruso,R,,ITA,28.3230663929,89,876,6-3 6-2,3,R32,68,4,1,57,36,27,13,9,4,4,3,4,50,33,20,7,8,2,5
 2021-410,Monte Carlo Masters,Clay,64,M,20210412,276,BD06,9,,Roberto Bautista Agut,R,183,ESP,32.9938398357,11,3090,PL56,,,Tommy Paul,R,,USA,23.9041752225,54,1155,6-3 6-4,3,R32,90,0,2,64,40,25,15,10,3,5,2,4,54,28,14,15,9,2,6
 2021-410,Monte Carlo Masters,Clay,64,M,20210412,275,D875,14,,Grigor Dimitrov,R,188,BUL,29.9082819986,17,2598,CA12,,,Jeremy Chardy,R,188,FRA,34.1629021218,53,1168,7-6(3) 6-4,3,R32,102,3,0,74,49,36,15,11,6,7,1,3,75,41,31,16,11,4,6
@@ -889,15 +889,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-5053,Serbia,Clay,28,A,20210419,,KB05,5,,Filip Krajinovic,R,,SRB,29.141684,37,,MM66,WC,,Nikola Milojevic,R,,SRB,25.83436,133,,6-1 6-1,3,R16,69,1,4,43,25,17,13,7,2,2,1,1,45,27,15,4,7,3,8
 2021-5053,Serbia,Clay,28,A,20210419,,D874,,,Federico Delbonis,L,,ARG,30.537988,87,,L987,4,,Dusan Lajovic,R,,SRB,30.803559,31,,6-3 2-6 6-4,3,R16,141,2,3,102,68,40,13,14,5,11,0,3,87,64,35,11,13,4,10
 2021-5053,Serbia,Clay,28,A,20210419,,KC56,3,,Aslan Karatsev,R,,RUS,27.622177,29,,BH09,,,Aljaz Bedene,R,,SLO,31.753593,55,,6-3 4-6 7-6(5),3,R16,152,9,2,101,59,38,25,16,3,7,6,3,94,56,43,15,15,5,9
-2021-5053,Serbia,Clay,28,A,20210419,,BK40,2,,Matteo Berrettini,R,,ITA,25.01848,10,,CF01,,,Marco Cecchinato,R,,ITA,28.550308,92,,6-4 6-3,3,R16,81,5,1,57,39,31,10,9,3,3,2,1,62,38,25,12,10,8,11
+2021-5053,Serbia,Clay,28,A,20210419,,BK40,2,,Matteo Berrettini,R,196,ITA,25.01848,10,,CF01,,,Marco Cecchinato,R,,ITA,28.550308,92,,6-4 6-3,3,R16,81,5,1,57,39,31,10,9,3,3,2,1,62,38,25,12,10,8,11
 2021-5053,Serbia,Clay,28,A,20210419,,D643,1,,Novak Djokovic,R,,SRB,33.91102,1,,KF17,,,Soonwoo Kwon,R,,KOR,23.378508,82,,6-1 6-3,3,R16,68,2,2,39,27,22,7,8,0,1,3,3,56,28,15,10,8,3,8
 2021-5053,Serbia,Clay,28,A,20210419,,DA81,LL,,Taro Daniel,R,,JPN,28.224504,121,,D874,,,Federico Delbonis,L,,ARG,30.537988,87,,4-6 6-1 7-5,3,QF,138,6,0,86,56,36,20,15,5,8,1,5,90,51,32,16,14,4,9
 2021-5053,Serbia,Clay,28,A,20210419,,KC56,3,,Aslan Karatsev,R,,RUS,27.622177,29,,ML57,Q,,Gianluca Mager,R,,ITA,26.38193,97,,6-3 6-4,3,QF,84,0,2,62,35,26,14,10,0,1,1,2,57,34,18,13,9,4,7
-2021-5053,Serbia,Clay,28,A,20210419,,BK40,2,,Matteo Berrettini,R,,ITA,25.01848,10,,KB05,5,,Filip Krajinovic,R,,SRB,29.141684,37,,6-4 6-4,3,QF,87,9,0,62,42,34,11,10,6,6,1,4,57,30,18,17,10,4,6
+2021-5053,Serbia,Clay,28,A,20210419,,BK40,2,,Matteo Berrettini,R,196,ITA,25.01848,10,,KB05,5,,Filip Krajinovic,R,,SRB,29.141684,37,,6-4 6-4,3,QF,87,9,0,62,42,34,11,10,6,6,1,4,57,30,18,17,10,4,6
 2021-5053,Serbia,Clay,28,A,20210419,,D643,1,,Novak Djokovic,R,,SRB,33.91102,1,,KI95,8,,Miomir Kecmanovic,R,,SRB,21.634497,47,,6-1 6-3,3,QF,75,3,1,55,32,24,13,8,4,5,1,2,51,30,11,12,8,5,10
 2021-5053,Serbia,Clay,28,A,20210419,,KC56,3,,Aslan Karatsev,R,,RUS,27.622177,29,,D643,1,,Novak Djokovic,R,,SRB,33.91102,1,,7-5 4-6 6-4,3,SF,205,6,4,135,85,54,22,16,23,28,2,6,116,72,44,21,16,10,16
-2021-5053,Serbia,Clay,28,A,20210419,,BK40,2,,Matteo Berrettini,R,,ITA,25.01848,10,,DA81,L,,Taro Daniel,R,,JPN,28.224504,121,,6-1 6-7(5) 6-0,3,SF,127,10,2,77,52,41,15,13,1,2,1,4,93,57,34,13,12,7,13
-2021-5053,Serbia,Clay,28,A,20210419,,BK40,2,,Matteo Berrettini,R,,ITA,25.01848,10,,KC56,3,,Aslan Karatsev,R,,RUS,27.622177,29,,6-1 3-6 7-6(0),3,F,147,9,3,78,47,38,17,14,1,3,1,3,104,65,39,19,14,4,7
+2021-5053,Serbia,Clay,28,A,20210419,,BK40,2,,Matteo Berrettini,R,196,ITA,25.01848,10,,DA81,L,,Taro Daniel,R,,JPN,28.224504,121,,6-1 6-7(5) 6-0,3,SF,127,10,2,77,52,41,15,13,1,2,1,4,93,57,34,13,12,7,13
+2021-5053,Serbia,Clay,28,A,20210419,,BK40,2,,Matteo Berrettini,R,196,ITA,25.01848,10,,KC56,3,,Aslan Karatsev,R,,RUS,27.622177,29,,6-1 3-6 7-6(0),3,F,147,9,3,78,47,38,17,14,1,3,1,3,104,65,39,19,14,4,7
 2021-308,Munich,Clay,28,A,20210426,,BG23,5,,Nikoloz Basilashvili,R,,GEO,29.1718,35,,MJ08,,,Thiago Monteiro,L,,BRA,26.90486,78,,6-2 6-3,3,R32,79,2,4,51,29,21,11,9,0,2,2,2,53,37,19,6,8,2,7
 2021-308,Munich,Clay,28,A,20210426,,MK66,,Q,Mackenzie Mcdonald,R,,USA,26.028748,127,,L987,6,,Dusan Lajovic,L,,SRB,30.822723,37,,6-4 6-4,3,R32,86,3,1,59,39,31,13,10,2,2,1,3,71,47,30,13,10,3,5
 2021-308,Munich,Clay,28,A,20210426,,SL28,7,,Jan-Lennard Struff,R,,GER,31.003422,44,,MF35,,LL,Andrej Martin,L,,SVK,31.597536,110,,6-4 6-3,3,R32,76,6,6,55,26,21,16,10,1,2,4,3,54,32,22,10,9,1,4
@@ -983,7 +983,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-1536,Madrid Masters,Clay,56,M,20210501,,Z355,5,,Alexander Zverev,R,,GER,24.030117,6,,N552,,,Kei Nishikori,L,,JPN,31.33744,43,,6-3 6-2,3,R32,74,5,0,49,32,24,11,9,2,3,0,0,54,38,22,6,8,6,10
 2021-1536,Madrid Masters,Clay,56,M,20210501,,RE44,6,,Andrey Rublev,R,,RUS,23.529089,7,,PL56,,,Tommy Paul,L,,USA,23.956194,58,,6-7(5) 6-3 6-4,3,R32,139,3,4,107,66,46,20,16,5,8,7,2,104,71,42,17,15,5,10
 2021-1536,Madrid Masters,Clay,56,M,20210501,,KC56,,,Aslan Karatsev,R,,RUS,27.655031,27,,SM37,7,,Diego Schwartzman,L,,ARG,28.706366,9,,2-6 6-4 6-1,3,R32,108,7,6,71,44,34,13,13,4,7,1,3,76,46,28,14,12,7,11
-2021-1536,Madrid Masters,Clay,56,M,20210501,,BK40,8,,Matteo Berrettini,R,,ITA,25.051334,10,,F510,,,Fabio Fognini,L,,ITA,33.938396,28,,6-3 6-4,3,R32,81,5,1,53,39,33,9,10,0,0,1,2,66,47,33,7,9,5,7
+2021-1536,Madrid Masters,Clay,56,M,20210501,,BK40,8,,Matteo Berrettini,R,196,ITA,25.051334,10,,F510,,,Fabio Fognini,L,,ITA,33.938396,28,,6-3 6-4,3,R32,81,5,1,53,39,33,9,10,0,0,1,2,66,47,33,7,9,5,7
 2021-1536,Madrid Masters,Clay,56,M,20210501,,I186,,,John Isner,R,,USA,36.01369,39,,BD06,9,,Roberto Bautista Agut,L,,ESP,33.04586,11,,6-4 6-7(4) 7-6(6),3,R32,142,32,0,100,75,61,15,17,0,0,2,1,124,93,67,18,17,9,10
 2021-1536,Madrid Masters,Clay,56,M,20210501,,BK92,,,Alexander Bublik,R,,KAZ,23.87132,44,,SU55,11,,Denis Shapovalov,L,,CAN,22.045174,14,,6-4 5-7 6-4,3,R32,139,10,7,101,62,46,21,16,4,6,6,14,115,59,42,28,16,11,14
 2021-1536,Madrid Masters,Clay,56,M,20210501,,P09Z,,Q,Alexei Popyrin,R,,AUS,21.738535,76,,S0AG,14,,Jannik Sinner,L,,ITA,19.70705,18,,7-6(5) 6-2,3,R32,94,8,1,74,44,33,12,10,3,5,0,2,67,38,24,12,10,2,6
@@ -998,16 +998,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-1536,Madrid Masters,Clay,56,M,20210501,,RH16,,,Casper Ruud,R,,NOR,22.35729,22,,TE51,4,,Stefanos Tsitsipas,L,,GRE,22.718685,5,,7-6(4) 6-4,3,R16,93,4,1,68,51,41,9,11,0,0,5,3,62,39,32,15,11,0,1
 2021-1536,Madrid Masters,Clay,56,M,20210501,,Z355,5,,Alexander Zverev,R,,GER,24.030117,6,,E687,,,Daniel Evans,L,,GBR,30.940453,26,,6-3 7-6(3),3,R16,97,7,6,67,40,32,15,11,1,2,0,1,65,44,29,12,10,2,4
 2021-1536,Madrid Masters,Clay,56,M,20210501,,I186,,,John Isner,R,,USA,36.01369,39,,RE44,6,,Andrey Rublev,L,,RUS,23.529089,7,,7-6(4) 3-6 7-6(4),3,R16,125,29,3,116,78,63,16,17,1,3,0,4,87,56,49,22,16,0,0
-2021-1536,Madrid Masters,Clay,56,M,20210501,,BK40,8,,Matteo Berrettini,R,,ITA,25.051334,10,,D874,,Q,Federico Delbonis,L,,ARG,30.570843,77,,7-6(4) 6-4,3,R16,96,7,0,65,42,35,14,11,2,3,4,3,69,48,32,13,11,2,4
+2021-1536,Madrid Masters,Clay,56,M,20210501,,BK40,8,,Matteo Berrettini,R,196,ITA,25.051334,10,,D874,,Q,Federico Delbonis,L,,ARG,30.570843,77,,7-6(4) 6-4,3,R16,96,7,0,65,42,35,14,11,2,3,4,3,69,48,32,13,11,2,4
 2021-1536,Madrid Masters,Clay,56,M,20210501,,BK92,,,Alexander Bublik,R,,KAZ,23.87132,44,,KC56,,,Aslan Karatsev,L,,RUS,27.655031,27,,6-4 6-3,3,R16,74,14,9,72,47,37,9,10,7,8,1,5,49,26,19,10,9,4,7
 2021-1536,Madrid Masters,Clay,56,M,20210501,,Z355,5,,Alexander Zverev,R,,GER,24.030117,6,,N409,1,,Rafael Nadal,L,,ESP,34.910336,2,,6-4 6-4,3,QF,104,4,5,55,34,28,9,10,1,2,0,3,66,42,26,12,10,3,6
 2021-1536,Madrid Masters,Clay,56,M,20210501,,TB69,3,,Dominic Thiem,R,,AUT,27.657768,4,,I186,,,John Isner,L,,USA,36.01369,39,,3-6 6-3 6-4,3,QF,115,2,2,88,61,48,15,14,6,7,18,0,76,47,36,16,14,2,4
-2021-1536,Madrid Masters,Clay,56,M,20210501,,BK40,8,,Matteo Berrettini,R,,ITA,25.051334,10,,GD64,16,,Cristian Garin,L,,CHI,24.919918,25,,5-7 6-3 6-0,3,QF,126,14,2,80,54,43,11,14,3,6,5,5,92,51,33,18,13,8,14
+2021-1536,Madrid Masters,Clay,56,M,20210501,,BK40,8,,Matteo Berrettini,R,196,ITA,25.051334,10,,GD64,16,,Cristian Garin,L,,CHI,24.919918,25,,5-7 6-3 6-0,3,QF,126,14,2,80,54,43,11,14,3,6,5,5,92,51,33,18,13,8,14
 2021-1536,Madrid Masters,Clay,56,M,20210501,,RH16,,,Casper Ruud,R,,NOR,22.35729,22,,BK92,,,Alexander Bublik,L,,KAZ,23.87132,44,,7-5 6-1,3,QF,68,5,1,54,38,29,12,10,1,1,9,2,61,40,28,6,9,6,9
 2021-1536,Madrid Masters,Clay,56,M,20210501,,Z355,5,,Alexander Zverev,R,,GER,24.030117,6,,TB69,3,,Dominic Thiem,L,,AUT,27.657768,4,,6-3 6-4,3,SF,97,6,2,56,37,29,10,10,1,2,1,3,70,37,23,18,9,8,11
-2021-1536,Madrid Masters,Clay,56,M,20210501,,BK40,8,,Matteo Berrettini,R,,ITA,25.051334,10,,RH16,,,Casper Ruud,L,,NOR,22.35729,22,,6-4 6-4,3,SF,81,5,1,49,34,31,10,10,0,0,1,2,62,34,24,14,10,1,3
-2021-1536,Madrid Masters,Clay,56,M,20210501,,Z355,5,,Alexander Zverev,R,,GER,24.030117,6,,BK40,8,,Matteo Berrettini,U,,ITA,25.051334,10,,6-7(8) 6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,
-2021-416,Rome Masters,Clay,56,M,20210508,,BK40,9,,Matteo Berrettini,R,,ITA,25.0705,9,,BG23,,,Nikoloz Basilashvili,L,,GEO,29.204655,30,,4-6 6-2 6-4,3,R64,122,12,2,96,60,41,19,14,5,7,4,2,80,44,32,19,14,1,5
+2021-1536,Madrid Masters,Clay,56,M,20210501,,BK40,8,,Matteo Berrettini,R,196,ITA,25.051334,10,,RH16,,,Casper Ruud,L,,NOR,22.35729,22,,6-4 6-4,3,SF,81,5,1,49,34,31,10,10,0,0,1,2,62,34,24,14,10,1,3
+2021-1536,Madrid Masters,Clay,56,M,20210501,,Z355,5,,Alexander Zverev,R,,GER,24.030117,6,,BK40,8,,Matteo Berrettini,U,196,ITA,25.051334,10,,6-7(8) 6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,
+2021-416,Rome Masters,Clay,56,M,20210508,,BK40,9,,Matteo Berrettini,R,196,ITA,25.0705,9,,BG23,,,Nikoloz Basilashvili,L,,GEO,29.204655,30,,4-6 6-2 6-4,3,R64,122,12,2,96,60,41,19,14,5,7,4,2,80,44,32,19,14,1,5
 2021-416,Rome Masters,Clay,56,M,20210508,,BD06,10,,Roberto Bautista Agut,R,,ESP,33.065025,11,,PL56,,Q,Tommy Paul,L,,USA,23.975359,55,,6-3 6-4,3,R64,91,3,1,62,42,30,11,10,5,6,6,3,51,27,15,14,9,1,4
 2021-416,Rome Masters,Clay,56,M,20210508,,CD85,11,,Pablo Carreno Busta,R,,ESP,29.823408,12,,DB63,,,Laslo Djere,L,,SRB,25.932922,52,,4-6 6-3 6-1,3,R64,132,2,1,75,48,41,12,13,3,4,4,2,88,51,36,16,13,6,10
 2021-416,Rome Masters,Clay,56,M,20210508,,GB88,12,,David Goffin,R,,BEL,30.417522,13,,CE25,,WC,Salvatore Caruso,L,,ITA,28.39425,81,,6-4 6-1,3,R64,82,2,2,47,27,15,12,8,3,6,0,1,63,36,16,10,9,7,14
@@ -1041,7 +1041,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-416,Rome Masters,Clay,56,M,20210508,,Z355,6,,Alexander Zverev,R,,GER,24.049282,6,,DA31,,Q,Hugo Dellien,L,,BOL,27.893225,128,,6-2 6-2,3,R32,80,4,2,56,37,28,11,8,6,6,2,2,56,43,25,4,8,3,7
 2021-416,Rome Masters,Clay,56,M,20210508,,RE44,7,,Andrey Rublev,R,,RUS,23.548254,7,,SL28,,,Jan-Lennard Struff,L,,GER,31.036276,41,,6-7(7) 6-1 6-4,3,R32,137,12,2,110,67,52,25,15,7,7,11,3,100,57,37,25,14,3,6
 2021-416,Rome Masters,Clay,56,M,20210508,,AG37,,,Felix Auger Aliassime,R,,CAN,20.747433,21,,SM37,8,,Diego Schwartzman,L,,ARG,28.72553,10,,6-1 6-3,3,R32,63,5,4,40,25,19,10,8,0,1,1,6,40,25,12,4,8,1,6
-2021-416,Rome Masters,Clay,56,M,20210508,,BK40,9,,Matteo Berrettini,R,,ITA,25.0705,9,,MH30,,,John Millman,L,,AUS,31.898699,42,,6-4 6-2,3,R32,79,2,0,50,33,26,11,9,0,0,0,2,59,39,24,10,9,6,9
+2021-416,Rome Masters,Clay,56,M,20210508,,BK40,9,,Matteo Berrettini,R,196,ITA,25.0705,9,,MH30,,,John Millman,L,,AUS,31.898699,42,,6-4 6-2,3,R32,79,2,0,50,33,26,11,9,0,0,0,2,59,39,24,10,9,6,9
 2021-416,Rome Masters,Clay,56,M,20210508,,BD06,10,,Roberto Bautista Agut,R,,ESP,33.065025,11,,GD64,,,Cristian Garin,L,,CHI,24.939083,22,,7-6(5) 6-3,3,R32,121,0,0,67,43,26,17,10,4,6,4,3,89,53,31,16,11,6,10
 2021-416,Rome Masters,Clay,56,M,20210508,,N552,,,Kei Nishikori,R,,JPN,31.356606,45,,CD85,11,,Pablo Carreno Busta,L,,ESP,29.823408,12,,W/O,3,R32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2021-416,Rome Masters,Clay,56,M,20210508,,D874,,Q,Federico Delbonis,L,,ARG,30.590008,64,,GB88,12,,David Goffin,L,,BEL,30.417522,13,,6-2 6-1,3,R32,67,0,0,44,22,18,15,8,0,0,0,4,43,22,13,7,7,5,9
@@ -1052,7 +1052,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-416,Rome Masters,Clay,56,M,20210508,,D643,1,,Novak Djokovic,R,,SRB,33.96304,1,,DH50,,Q,Alejandro Davidovich Fokina,L,,ESP,21.92471,48,,6-2 6-1,3,R16,70,4,1,50,33,23,11,8,3,4,0,3,54,37,17,7,7,5,10
 2021-416,Rome Masters,Clay,56,M,20210508,,N409,2,,Rafael Nadal,L,,ESP,34.9295,3,,SU55,13,,Denis Shapovalov,L,,CAN,22.064339,14,,3-6 6-4 7-6(3),3,R16,207,2,2,119,82,53,17,16,5,10,12,5,114,66,45,20,15,10,14
 2021-416,Rome Masters,Clay,56,M,20210508,,SU87,,,Lorenzo Sonego,R,,ITA,25.993155,33,,TB69,4,,Dominic Thiem,L,,AUT,27.676933,4,,6-4 6-7(5) 7-6(5),3,R16,204,9,0,120,85,58,21,17,7,9,8,3,132,86,60,22,17,11,14
-2021-416,Rome Masters,Clay,56,M,20210508,,TE51,5,,Stefanos Tsitsipas,R,,GRE,22.73785,5,,BK40,9,,Matteo Berrettini,L,,ITA,25.0705,9,,7-6(3) 6-2,3,R16,96,3,0,59,31,26,20,10,2,2,6,0,64,27,23,20,10,5,7
+2021-416,Rome Masters,Clay,56,M,20210508,,TE51,5,,Stefanos Tsitsipas,R,,GRE,22.73785,5,,BK40,9,,Matteo Berrettini,L,196,ITA,25.0705,9,,7-6(3) 6-2,3,R16,96,3,0,59,31,26,20,10,2,2,6,0,64,27,23,20,10,5,7
 2021-416,Rome Masters,Clay,56,M,20210508,,Z355,6,,Alexander Zverev,R,,GER,24.049282,6,,N552,,,Kei Nishikori,L,,JPN,31.356606,45,,4-6 6-3 6-4,3,R16,172,7,8,117,69,48,19,15,5,9,2,0,104,67,39,17,14,8,13
 2021-416,Rome Masters,Clay,56,M,20210508,,RE44,7,,Andrey Rublev,R,,RUS,23.548254,7,,BD06,10,,Roberto Bautista Agut,L,,ESP,33.065025,11,,6-4 6-4,3,R16,90,5,0,58,34,25,12,10,2,4,0,1,64,44,28,8,10,6,10
 2021-416,Rome Masters,Clay,56,M,20210508,,D874,,Q,Federico Delbonis,L,,ARG,30.590008,64,,AG37,,,Felix Auger-Aliassime,L,,CAN,20.747433,21,,7-6(3) 6-1,3,R16,111,0,2,69,42,32,15,10,3,4,2,6,66,42,30,8,9,4,7
@@ -1180,7 +1180,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-520,Roland Garros,Clay,128,G,20210531,,Z355,6,,Alexander Zverev,R,,GER,24.112251,6,,O449,,Q,Oscar Otte,L,,GER,27.87406,152,,3-6 3-6 6-2 6-2 6-0,5,R128,169,9,8,108,62,46,27,20,2,6,2,5,136,90,57,16,20,8,16
 2021-520,Roland Garros,Clay,128,G,20210531,,SL28,,,Jan-Lennard Struff,R,,GER,31.099247,42,,RE44,7,,Andrey Rublev,L,,RUS,23.611225,7,,6-3 7-6(6) 4-6 3-6 6-4,5,R128,226,25,11,181,91,72,44,25,9,13,13,8,159,74,57,48,25,12,15
 2021-520,Roland Garros,Clay,128,G,20210531,,F324,8,,Roger Federer,R,,SUI,39.81109,8,,I165,,Q,Denis Istomin,L,,UZB,34.729637,204,,6-2 6-4 6-3,5,R128,93,8,0,65,46,37,15,14,0,0,3,4,87,61,36,13,13,8,13
-2021-520,Roland Garros,Clay,128,G,20210531,,BK40,9,,Matteo Berrettini,R,,ITA,25.13347,9,,DA81,,Q,Taro Daniel,L,,JPN,28.339493,113,,6-0 6-4 4-6 6-4,5,R128,142,14,4,85,59,53,16,18,0,1,4,8,121,81,51,21,18,6,11
+2021-520,Roland Garros,Clay,128,G,20210531,,BK40,9,,Matteo Berrettini,R,196,ITA,25.13347,9,,DA81,,Q,Taro Daniel,L,,JPN,28.339493,113,,6-0 6-4 4-6 6-4,5,R128,142,14,4,85,59,53,16,18,0,1,4,8,121,81,51,21,18,6,11
 2021-520,Roland Garros,Clay,128,G,20210531,,SM37,10,,Diego Schwartzman,R,,ARG,28.788502,10,,L575,,,Yen-Hsun Lu,L,,TPE,37.796032,680,,6-2 6-2 6-3,5,R128,103,3,2,71,41,32,17,13,3,5,1,4,75,40,22,11,12,4,12
 2021-520,Roland Garros,Clay,128,G,20210531,,BD06,11,,Roberto Bautista Agut,R,,ESP,33.127995,11,,V824,,Q,Mario Vilella Martinez,L,,ESP,25.91102,183,,6-4 6-4 6-2,5,R128,118,2,2,68,43,35,19,14,3,4,7,9,97,50,36,19,14,5,10
 2021-520,Roland Garros,Clay,128,G,20210531,,CD85,12,,Pablo Carreno Busta,R,,ESP,29.88638,12,,GB93,,,Norbert Gombos,L,,SVK,30.798084,81,,6-3 6-4 6-3,5,R128,103,7,1,76,45,37,20,14,1,1,10,5,84,55,40,10,14,4,8
@@ -1242,7 +1242,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-520,Roland Garros,Clay,128,G,20210531,,TE51,5,,Stefanos Tsitsipas,R,,GRE,22.800821,5,,MO44,,,Pedro Martinez Portero,L,,ESP,24.095825,103,,6-3 6-4 6-3,5,R64,147,8,3,87,61,39,14,14,11,15,0,7,115,68,38,18,14,10,18
 2021-520,Roland Garros,Clay,128,G,20210531,,Z355,6,,Alexander Zverev,R,,GER,24.112251,6,,SX50,,Q,Roman Safiullin,L,,RUS,23.813826,182,,7-6(4) 6-3 7-6(1),5,R64,147,15,10,100,66,53,18,17,1,4,6,3,112,83,56,12,16,5,9
 2021-520,Roland Garros,Clay,128,G,20210531,,F324,8,,Roger Federer,R,,SUI,39.81109,8,,C977,,,Marin Cilic,L,,CRO,32.670773,47,,6-2 2-6 7-6(4) 6-2,5,R64,155,16,1,117,80,60,21,18,5,8,12,6,120,77,58,17,18,11,16
-2021-520,Roland Garros,Clay,128,G,20210531,,BK40,9,,Matteo Berrettini,R,,ITA,25.13347,9,,CE77,,,Federico Coria,L,,ARG,29.226557,94,,6-3 6-3 6-2,5,R64,118,5,2,75,51,42,12,13,2,3,2,3,95,61,35,15,13,6,12
+2021-520,Roland Garros,Clay,128,G,20210531,,BK40,9,,Matteo Berrettini,R,196,ITA,25.13347,9,,CE77,,,Federico Coria,L,,ARG,29.226557,94,,6-3 6-3 6-2,5,R64,118,5,2,75,51,42,12,13,2,3,2,3,95,61,35,15,13,6,12
 2021-520,Roland Garros,Clay,128,G,20210531,,SM37,10,,Diego Schwartzman,R,,ARG,28.788502,10,,BH09,,,Aljaz Bedene,L,,SLO,31.868584,56,,6-4 6-2 6-4,5,R64,141,0,2,96,65,45,21,14,8,9,9,9,95,49,30,20,14,5,10
 2021-520,Roland Garros,Clay,128,G,20210531,,L949,,Q,Henri Laaksonen,R,,SUI,29.166325,150,,BD06,11,,Roberto Bautista Agut,L,,ESP,33.127995,11,,6-3 2-6 6-3 6-2,5,R64,141,9,4,101,47,35,31,17,6,9,4,5,108,77,47,16,17,9,15
 2021-520,Roland Garros,Clay,128,G,20210531,,CD85,12,,Pablo Carreno Busta,R,,ESP,29.88638,12,,CG94,,WC,Enzo Couacaud,L,,FRA,26.250513,177,,2-6 6-3 6-4 6-4,5,R64,148,3,3,110,77,59,17,19,8,10,10,4,116,63,46,28,18,5,8
@@ -1274,7 +1274,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-520,Roland Garros,Clay,128,G,20210531,,TE51,5,,Stefanos Tsitsipas,R,,GRE,22.800821,5,,I186,31,,John Isner,L,,USA,36.095825,34,,5-7 6-3 7-6(3) 6-1,5,R32,158,8,5,119,71,61,29,20,3,4,19,1,111,74,57,19,20,4,7
 2021-520,Roland Garros,Clay,128,G,20210531,,Z355,6,,Alexander Zverev,R,,GER,24.112251,6,,DB63,,,Laslo Djere,L,,SRB,25.995893,55,,6-2 7-5 6-2,5,R32,128,4,4,82,58,42,15,14,3,5,3,6,106,60,37,17,14,3,10
 2021-520,Roland Garros,Clay,128,G,20210531,,F324,8,,Roger Federer,R,,SUI,39.81109,8,,KE73,,,Dominik Koepfer,L,,GER,27.088295,59,,7-6(5) 6-7(3) 7-6(4) 7-5,5,R32,215,6,1,158,101,69,33,24,2,6,11,4,161,95,62,41,24,9,14
-2021-520,Roland Garros,Clay,128,G,20210531,,BK40,9,,Matteo Berrettini,R,,ITA,25.13347,9,,KF17,,,Soonwoo Kwon,L,,KOR,23.493498,91,,7-6(6) 6-3 6-4,5,R32,131,23,2,89,62,52,16,16,0,0,1,3,105,61,44,21,15,8,10
+2021-520,Roland Garros,Clay,128,G,20210531,,BK40,9,,Matteo Berrettini,R,196,ITA,25.13347,9,,KF17,,,Soonwoo Kwon,L,,KOR,23.493498,91,,7-6(6) 6-3 6-4,5,R32,131,23,2,89,62,52,16,16,0,0,1,3,105,61,44,21,15,8,10
 2021-520,Roland Garros,Clay,128,G,20210531,,SM37,10,,Diego Schwartzman,R,,ARG,28.788502,10,,K435,,,Philipp Kohlschreiber,L,,GER,37.623547,132,,6-4 6-2 6-1,5,R32,122,0,0,64,43,33,13,13,1,2,2,0,91,58,28,14,12,6,13
 2021-520,Roland Garros,Clay,128,G,20210531,,CD85,12,,Pablo Carreno Busta,R,,ESP,29.88638,12,,J386,,,Steve Johnson,L,,USA,31.433266,88,,6-4 6-4 6-2,5,R32,122,5,2,93,66,46,16,14,5,6,8,5,91,52,36,15,14,4,9
 2021-520,Roland Garros,Clay,128,G,20210531,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.98768,46,,RH16,15,,Casper Ruud,L,,NOR,22.439425,16,,7-6(3) 2-6 7-6(6) 0-6 7-5,5,R32,275,2,4,196,133,85,24,25,12,20,6,6,165,106,67,34,25,10,14
@@ -1289,10 +1289,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-520,Roland Garros,Clay,128,G,20210531,,N409,3,,Rafael Nadal,L,,ESP,34.99247,3,,S0AG,18,,Jannik Sinner,L,,ITA,19.789185,19,,7-5 6-3 6-0,5,R16,137,4,7,83,48,39,15,14,3,7,0,4,76,50,21,10,13,5,14
 2021-520,Roland Garros,Clay,128,G,20210531,,TE51,5,,Stefanos Tsitsipas,R,,GRE,22.800821,5,,CD85,12,,Pablo Carreno Busta,L,,ESP,29.88638,12,,6-3 6-2 7-5,5,R16,127,6,0,95,63,47,19,15,5,6,1,1,86,63,39,10,14,7,12
 2021-520,Roland Garros,Clay,128,G,20210531,,Z355,6,,Alexander Zverev,R,,GER,24.112251,6,,N552,,,Kei Nishikori,L,,JPN,31.419575,49,,6-4 6-1 6-1,5,R16,114,5,2,66,47,32,13,12,2,4,0,0,88,53,21,17,12,3,11
-2021-520,Roland Garros,Clay,128,G,20210531,,BK40,9,,Matteo Berrettini,R,,ITA,25.13347,9,,F324,8,,Roger Federer,L,,SUI,39.81109,8,,W/O,5,R16,,,,,,,,0,,,,,,,,,0,,
+2021-520,Roland Garros,Clay,128,G,20210531,,BK40,9,,Matteo Berrettini,R,196,ITA,25.13347,9,,F324,8,,Roger Federer,L,,SUI,39.81109,8,,W/O,5,R16,,,,,,,,0,,,,,,,,,0,,
 2021-520,Roland Garros,Clay,128,G,20210531,,SM37,10,,Diego Schwartzman,R,,ARG,28.788502,10,,SL28,,,Jan-Lennard Struff,L,,GER,31.099247,42,,7-6(9) 6-4 7-5,5,R16,182,0,4,130,95,57,17,17,8,14,13,5,135,72,46,25,17,7,15
 2021-520,Roland Garros,Clay,128,G,20210531,,DH50,,,Alejandro Davidovich Fokina,R,,ESP,21.98768,46,,D874,,,Federico Delbonis,L,,ARG,30.652977,51,,6-4 6-4 4-6 6-4,5,R16,176,2,3,113,74,52,19,20,7,12,1,5,129,79,51,23,20,9,16
-2021-520,Roland Garros,Clay,128,G,20210531,,D643,1,,Novak Djokovic,R,,SRB,34.02601,1,,BK40,9,,Matteo Berrettini,L,,ITA,25.13347,9,,6-3 6-2 6-7(5) 7-5,5,QF,208,10,1,132,92,71,26,21,3,3,11,3,144,94,67,21,20,5,9
+2021-520,Roland Garros,Clay,128,G,20210531,,D643,1,,Novak Djokovic,R,,SRB,34.02601,1,,BK40,9,,Matteo Berrettini,L,196,ITA,25.13347,9,,6-3 6-2 6-7(5) 7-5,5,QF,208,10,1,132,92,71,26,21,3,3,11,3,144,94,67,21,20,5,9
 2021-520,Roland Garros,Clay,128,G,20210531,,TE51,5,,Stefanos Tsitsipas,R,,GRE,22.800821,5,,MM58,2,,Daniil Medvedev,L,,RUS,25.30048,2,,6-3 7-6(3) 7-5,5,QF,139,3,1,102,66,48,27,17,6,8,5,0,107,72,43,21,16,3,7
 2021-520,Roland Garros,Clay,128,G,20210531,,N409,3,,Rafael Nadal,L,,ESP,34.99247,3,,SM37,10,,Diego Schwartzman,L,,ARG,28.788502,10,,6-3 4-6 6-4 6-0,5,QF,165,6,3,91,60,44,21,18,1,4,3,3,94,59,35,16,17,7,14
 2021-520,Roland Garros,Clay,128,G,20210531,,Z355,6,,Alexander Zverev,R,,GER,24.112251,6,,DH50,,,Alejandro Davidovich Fokina,L,,ESP,21.98768,46,,6-4 6-1 6-1,5,QF,96,3,3,62,34,26,16,12,3,6,0,3,73,44,21,9,12,6,15
@@ -1327,7 +1327,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-321,Stuttgart,Grass,28,A,20210607,,AG37,3,,Felix Auger Aliassime,R,,CAN,20.829569,21,,Q927,,,Sam Querrey,L,,USA,33.66735,67,,6-4 7-5,3,SF,78,13,4,55,35,30,14,11,0,0,13,2,58,40,33,8,11,0,2
 2021-321,Stuttgart,Grass,28,A,20210607,,C977,,,Marin Cilic,R,,CRO,32.689938,47,,R09X,,WC,Jurij Rodionov,L,,AUT,22.061602,142,,6-3 1-0 RET,3,SF,39,7,3,24,13,13,7,5,0,0,3,1,36,22,14,6,5,2,4
 2021-321,Stuttgart,Grass,28,A,20210607,,C977,,,Marin Cilic,R,,CRO,32.689938,47,,AG37,3,,Felix Auger-Aliassime,L,,CAN,20.829569,21,,7-6(2) 6-3,3,F,108,7,2,71,43,33,18,11,4,5,4,6,72,42,28,14,10,8,10
-2021-311,London,Grass,32,A,20210612,,BK40,1,,Matteo Berrettini,R,,ITA,25.166325,9,,TA12,,,Stefano Travaglia,L,,ITA,29.483915,88,,7-6(5) 7-6(4),3,R32,114,14,0,74,54,44,11,12,4,6,3,2,93,53,38,19,12,5,7
+2021-311,London,Grass,32,A,20210612,,BK40,1,,Matteo Berrettini,R,196,ITA,25.166325,9,,TA12,,,Stefano Travaglia,L,,ITA,29.483915,88,,7-6(5) 7-6(4),3,R32,114,14,0,74,54,44,11,12,4,6,3,2,93,53,38,19,12,5,7
 2021-311,London,Grass,32,A,20210612,,SU55,2,,Denis Shapovalov,L,,CAN,22.160164,14,,V832,,Q,Aleksandar Vukic,L,,AUS,25.18275,207,,7-6(6) 7-6(6),3,R32,98,20,1,70,40,36,22,12,0,0,7,2,84,52,44,18,12,2,2
 2021-311,London,Grass,32,A,20210612,,D0CO,,WC,Jack Draper,L,,GBR,19.471594,309,,S0AG,3,,Jannik Sinner,L,,ITA,19.82204,23,,7-6(6) 7-6(2),3,R32,118,11,1,79,53,39,14,12,1,4,8,4,94,60,42,14,12,3,6
 2021-311,London,Grass,32,A,20210612,,DH58,4,,Alex de Minaur,R,,AUS,22.316221,22,,DB63,,,Laslo Djere,L,,SRB,26.028748,55,,3-6 6-3 6-4,3,R32,124,1,3,90,51,34,20,14,5,9,10,3,91,54,35,18,14,8,13
@@ -1343,7 +1343,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-311,London,Grass,32,A,20210612,,N771,,,Cameron Norrie,L,,GBR,25.804243,41,,R772,,,Albert Ramos-Vinolas,L,,ESP,33.40178,38,,4-6 6-3 6-4,3,R32,128,14,1,90,64,48,15,15,4,5,4,4,97,55,38,24,14,7,9
 2021-311,London,Grass,32,A,20210612,,TD51,,,Frances Tiafoe,R,,USA,23.392197,65,,BH09,,,Aljaz Bedene,L,,SLO,31.901438,60,,4-6 6-3 6-4,3,R32,116,11,1,93,56,41,23,15,5,6,21,3,85,47,37,19,14,5,7
 2021-311,London,Grass,32,A,20210612,,KC56,5,,Aslan Karatsev,R,,RUS,27.770021,24,,TE30,,LL,Alejandro Tabilo,L,,CHI,24.027378,171,,3-6 6-4 6-2,3,R32,97,5,2,72,44,31,21,14,1,3,5,3,71,43,33,12,13,3,6
-2021-311,London,Grass,32,A,20210612,,BK40,1,,Matteo Berrettini,R,,ITA,25.166325,9,,MC10,,WC,Andy Murray,L,,GBR,34.07803,124,,6-3 6-3,3,R16,85,14,2,54,35,29,10,9,3,3,4,2,61,40,25,10,9,5,8
+2021-311,London,Grass,32,A,20210612,,BK40,1,,Matteo Berrettini,R,196,ITA,25.166325,9,,MC10,,WC,Andy Murray,L,,GBR,34.07803,124,,6-3 6-3,3,R16,85,14,2,54,35,29,10,9,3,3,4,2,61,40,25,10,9,5,8
 2021-311,London,Grass,32,A,20210612,,SU55,2,,Denis Shapovalov,L,,CAN,22.160164,14,,L397,,,Feliciano Lopez,L,,ESP,39.726215,64,,6-2 6-3,3,R16,69,8,3,48,25,21,17,9,0,0,5,6,52,23,20,10,8,3,6
 2021-311,London,Grass,32,A,20210612,,DH58,4,,Alex de Minaur,R,,AUS,22.316221,22,,MH30,,,John Millman,L,,AUS,31.994524,43,,6-1 6-3,3,R16,63,4,1,47,28,21,11,8,1,2,3,0,49,29,13,10,8,2,7
 2021-311,London,Grass,32,A,20210612,,N771,,,Cameron Norrie,L,,GBR,25.804243,41,,KC56,5,,Aslan Karatsev,L,,RUS,27.770021,24,,7-5 6-2,3,R16,87,3,2,61,45,34,8,10,5,6,1,6,64,42,26,8,10,1,5
@@ -1351,13 +1351,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-311,London,Grass,32,A,20210612,,C977,,,Marin Cilic,R,,CRO,32.70363,37,,F510,8,,Fabio Fognini,L,,ITA,34.053387,29,,6-3 7-6(4),3,R16,89,17,3,67,45,37,11,11,2,3,7,4,63,32,23,16,10,0,2
 2021-311,London,Grass,32,A,20210612,,D0CO,,WC,Jack Draper,L,,GBR,19.471594,309,,BK92,,,Alexander Bublik,L,,KAZ,23.986311,39,,7-6(5) 7-6(0),3,R16,93,8,1,73,47,39,19,12,2,3,21,4,75,53,41,10,12,0,1
 2021-311,London,Grass,32,A,20210612,,TD51,,,Frances Tiafoe,R,,USA,23.392197,65,,T840,,Q,Viktor Troicki,L,,SRB,35.3347,230,,6-3 7-6(3),3,R16,76,4,2,68,47,40,12,11,3,3,11,0,63,38,28,15,10,1,2
-2021-311,London,Grass,32,A,20210612,,BK40,1,,Matteo Berrettini,R,,ITA,25.166325,9,,E687,6,,Daniel Evans,L,,GBR,31.05544,25,,7-6(5) 6-3,3,QF,99,13,2,70,47,38,14,11,2,2,3,3,65,37,25,18,10,8,9
+2021-311,London,Grass,32,A,20210612,,BK40,1,,Matteo Berrettini,R,196,ITA,25.166325,9,,E687,6,,Daniel Evans,L,,GBR,31.05544,25,,7-6(5) 6-3,3,QF,99,13,2,70,47,38,14,11,2,2,3,3,65,37,25,18,10,8,9
 2021-311,London,Grass,32,A,20210612,,SU55,2,,Denis Shapovalov,L,,CAN,22.160164,14,,TD51,,,Frances Tiafoe,L,,USA,23.392197,65,,6-3 6-4,3,QF,85,11,10,67,38,30,15,10,5,5,0,1,58,37,25,11,9,7,9
 2021-311,London,Grass,32,A,20210612,,DH58,4,,Alex de Minaur,R,,AUS,22.316221,22,,C977,,,Marin Cilic,L,,CRO,32.70363,37,,3-6 6-3 6-4,3,QF,124,2,2,88,58,38,23,14,6,7,14,5,102,60,46,16,14,11,13
 2021-311,London,Grass,32,A,20210612,,N771,,,Cameron Norrie,L,,GBR,25.804243,41,,D0CO,,WC,Jack Draper,L,,GBR,19.471594,309,,6-3 6-3,3,QF,86,3,1,64,43,29,14,9,5,5,4,3,59,30,19,15,9,3,6
-2021-311,London,Grass,32,A,20210612,,BK40,1,,Matteo Berrettini,R,,ITA,25.166325,9,,DH58,4,,Alex de Minaur,L,,AUS,22.316221,22,,6-4 6-4,3,SF,82,8,0,54,36,32,10,10,1,1,2,0,69,47,30,14,10,8,10
+2021-311,London,Grass,32,A,20210612,,BK40,1,,Matteo Berrettini,R,196,ITA,25.166325,9,,DH58,4,,Alex de Minaur,L,,AUS,22.316221,22,,6-4 6-4,3,SF,82,8,0,54,36,32,10,10,1,1,2,0,69,47,30,14,10,8,10
 2021-311,London,Grass,32,A,20210612,,N771,,,Cameron Norrie,L,,GBR,25.804243,41,,SU55,2,,Denis Shapovalov,L,,CAN,22.160164,14,,7-5 6-3,3,SF,93,1,5,65,42,32,13,11,1,2,2,5,66,39,28,10,10,3,6
-2021-311,London,Grass,32,A,20210612,,BK40,1,,Matteo Berrettini,R,,ITA,25.166325,9,,N771,,,Cameron Norrie,L,,GBR,25.804243,41,,6-4 6-7(5) 6-3,3,F,117,19,1,84,64,58,11,16,0,0,4,5,88,68,54,11,15,4,6
+2021-311,London,Grass,32,A,20210612,,BK40,1,,Matteo Berrettini,R,196,ITA,25.166325,9,,N771,,,Cameron Norrie,L,,GBR,25.804243,41,,6-4 6-7(5) 6-3,3,F,117,19,1,84,64,58,11,16,0,0,4,5,88,68,54,11,15,4,6
 2021-500,Halle,Grass,32,A,20210612,,SL28,,,Jan-Lennard Struff,R,,GER,31.132101,45,,MM58,1,,Daniil Medvedev,L,,RUS,25.333334,2,,7-6(6) 6-3,3,R32,93,9,4,87,52,39,14,11,4,6,7,5,64,40,30,10,10,1,4
 2021-500,Halle,Grass,32,A,20210612,,Z355,3,,Alexander Zverev,R,,GER,24.145105,6,,KE73,,,Dominik Koepfer,L,,GER,27.12115,53,,6-4 3-6 6-3,3,R32,104,8,4,67,46,41,10,14,0,2,4,5,96,58,39,20,14,5,8
 2021-500,Halle,Grass,32,A,20210612,,RE44,4,,Andrey Rublev,R,,RUS,23.64408,7,,KE29,,,Karen Khachanov,L,,RUS,25.059547,27,,6-3 7-6(5),3,R32,78,8,2,62,40,33,14,11,0,0,8,2,67,51,36,6,10,2,3
@@ -1449,7 +1449,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-540,Wimbledon,Grass,128,G,20210628,,Z355,4,,Alexander Zverev,R,,GER,24.188911,6,,GJ37,,Q,Tallon Griekspoor,L,,NED,24.988363,124,,6-3 6-4 6-1,5,R128,89,20,4,71,48,37,11,13,2,4,3,4,84,56,33,11,13,9,16
 2021-540,Wimbledon,Grass,128,G,20210628,,RE44,5,,Andrey Rublev,R,,RUS,23.687885,7,,D874,,,Federico Delbonis,L,,ARG,30.729637,47,,4-6 6-4 6-1 6-2,5,R128,135,11,2,104,65,51,21,18,3,5,7,7,114,67,43,21,17,7,13
 2021-540,Wimbledon,Grass,128,G,20210628,,F324,6,,Roger Federer,R,,SUI,39.88775,8,,ME82,,,Adrian Mannarino,L,,FRA,32.99658,41,,6-4 6-7(3) 3-6 6-2 RET,5,R128,164,16,3,112,68,50,27,19,6,8,5,6,130,83,63,20,21,9,13
-2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,,ITA,25.21013,9,,PC11,,,Guido Pella,L,,ARG,31.115675,59,,6-4 3-6 6-4 6-0,5,R128,136,20,3,88,54,45,21,17,0,1,4,4,112,75,48,18,18,3,8
+2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,196,ITA,25.21013,9,,PC11,,,Guido Pella,L,,ARG,31.115675,59,,6-4 3-6 6-4 6-0,5,R128,136,20,3,88,54,45,21,17,0,1,4,4,112,75,48,18,18,3,8
 2021-540,Wimbledon,Grass,128,G,20210628,,BD06,8,,Roberto Bautista Agut,R,,ESP,33.204655,10,,MH30,,,John Millman,L,,AUS,32.03833,43,,6-2 3-6 6-3 7-6(4),5,R128,183,3,1,112,68,47,26,20,2,5,9,1,116,73,50,19,19,2,7
 2021-540,Wimbledon,Grass,128,G,20210628,,SM37,9,,Diego Schwartzman,R,,ARG,28.86516,11,,PD31,,,Benoit Paire,L,,FRA,32.13963,46,,6-3 6-4 6-0,5,R128,91,0,0,68,43,34,17,13,1,2,7,9,93,48,29,18,12,9,15
 2021-540,Wimbledon,Grass,128,G,20210628,,SU55,10,,Denis Shapovalov,L,,CAN,22.20397,12,,K435,,,Philipp Kohlschreiber,L,,GER,37.700207,115,,6-4 4-6 6-3 5-7 6-4,5,R128,215,14,16,164,91,70,37,26,10,13,3,3,147,88,69,29,25,8,12
@@ -1512,7 +1512,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-540,Wimbledon,Grass,128,G,20210628,,Z355,4,,Alexander Zverev,R,,GER,24.188911,6,,SL08,,,Tennys Sandgren,L,,USA,29.935661,68,,7-5 6-2 6-3,5,R64,105,13,2,69,50,42,15,14,1,1,8,6,91,53,37,15,15,5,10
 2021-540,Wimbledon,Grass,128,G,20210628,,RE44,5,,Andrey Rublev,R,,RUS,23.687885,7,,HG86,,,Lloyd Harris,L,,RSA,24.339493,51,,6-1 6-2 7-5,5,R64,82,6,2,73,47,39,16,14,0,1,16,2,72,49,31,9,13,2,8
 2021-540,Wimbledon,Grass,128,G,20210628,,F324,6,,Roger Federer,R,,SUI,39.88775,8,,G628,,,Richard Gasquet,L,,FRA,35.028065,56,,7-6(1) 6-1 6-4,5,R64,111,10,0,95,62,52,19,15,5,5,3,2,96,55,36,21,15,3,6
-2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,,ITA,25.21013,9,,V812,,LL,Botic Van de Zandschulp,L,,NED,25.733059,139,,6-3 6-4 7-6(4),5,R64,135,20,2,104,53,44,32,17,9,9,7,4,99,53,40,26,15,5,7
+2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,196,ITA,25.21013,9,,V812,,LL,Botic Van de Zandschulp,L,,NED,25.733059,139,,6-3 6-4 7-6(4),5,R64,135,20,2,104,53,44,32,17,9,9,7,4,99,53,40,26,15,5,7
 2021-540,Wimbledon,Grass,128,G,20210628,,BD06,8,,Roberto Bautista Agut,R,,ESP,33.204655,10,,KI95,,,Miomir Kecmanovic,L,,SRB,21.826147,49,,6-3 6-3 6-7(3) 3-6 6-3,5,R64,213,9,5,159,102,70,32,24,7,11,10,6,159,95,68,30,25,6,13
 2021-540,Wimbledon,Grass,128,G,20210628,,SM37,9,,Diego Schwartzman,R,,ARG,28.86516,11,,BI23,,WC,Liam Broady,L,,GBR,27.479809,143,,4-6 6-2 6-1 6-4,5,R64,194,1,5,132,80,54,27,17,15,18,1,0,118,79,45,19,18,8,16
 2021-540,Wimbledon,Grass,128,G,20210628,,SU55,10,,Denis Shapovalov,L,,CAN,22.20397,12,,A596,,,Pablo Andujar,L,,ESP,35.427788,70,,W/O,5,R64,,,,,,,,,,,,,,,,,,,
@@ -1544,7 +1544,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-540,Wimbledon,Grass,128,G,20210628,,Z355,4,,Alexander Zverev,R,,GER,24.188911,6,,FB98,31,,Taylor Fritz,L,,USA,23.665981,40,,6-7(3) 6-4 6-3 7-6(4),5,R32,158,19,9,117,81,74,20,24,1,2,13,8,144,94,67,27,21,6,9
 2021-540,Wimbledon,Grass,128,G,20210628,,RE44,5,,Andrey Rublev,R,,RUS,23.687885,7,,F510,26,,Fabio Fognini,L,,ITA,34.097195,31,,6-3 5-7 6-4 6-2,5,R32,179,13,5,141,77,56,34,20,7,9,8,6,136,85,56,21,19,8,13
 2021-540,Wimbledon,Grass,128,G,20210628,,F324,6,,Roger Federer,R,,SUI,39.88775,8,,N771,29,,Cameron Norrie,L,,GBR,25.84805,34,,6-4 6-4 5-7 6-4,5,R32,155,7,0,114,76,56,25,21,2,4,12,7,132,87,59,22,21,7,11
-2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,,ITA,25.21013,9,,BH09,,,Aljaz Bedene,L,,SLO,31.945244,64,,6-4 6-4 6-4,5,R32,102,20,0,76,49,40,22,15,2,2,8,3,89,57,38,20,15,6,9
+2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,196,ITA,25.21013,9,,BH09,,,Aljaz Bedene,L,,SLO,31.945244,64,,6-4 6-4 6-4,5,R32,102,20,0,76,49,40,22,15,2,2,8,3,89,57,38,20,15,6,9
 2021-540,Wimbledon,Grass,128,G,20210628,,BD06,8,,Roberto Bautista Agut,R,,ESP,33.204655,10,,KE73,,,Dominik Koepfer,L,,GER,27.164955,62,,7-5 6-1 7-6(4),5,R32,140,3,4,97,67,47,10,17,3,8,7,8,102,56,37,13,15,8,16
 2021-540,Wimbledon,Grass,128,G,20210628,,F724,,,Marton Fucsovics,R,,HUN,29.385353,48,,SM37,9,,Diego Schwartzman,L,,ARG,28.86516,11,,6-3 6-3 6-7(6) 6-4,5,R32,199,3,4,124,77,56,23,20,3,7,1,3,125,78,53,19,21,6,14
 2021-540,Wimbledon,Grass,128,G,20210628,,SU55,10,,Denis Shapovalov,L,,CAN,22.20397,12,,MC10,,WC,Andy Murray,L,,GBR,34.121834,118,,6-4 6-2 6-2,5,R32,137,13,3,91,49,35,24,13,8,9,1,2,80,47,24,17,13,5,11
@@ -1560,16 +1560,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-540,Wimbledon,Grass,128,G,20210628,,AG37,16,,Felix Auger Aliassime,R,,CAN,20.887064,19,,Z355,4,,Alexander Zverev,L,,GER,24.188911,6,,6-4 7-6(6) 3-6 3-6 6-4,5,R16,242,17,6,153,86,61,40,25,6,12,9,20,168,110,87,20,26,8,13
 2021-540,Wimbledon,Grass,128,G,20210628,,F724,,,Marton Fucsovics,R,,HUN,29.385353,48,,RE44,5,,Andrey Rublev,L,,RUS,23.687885,7,,6-3 4-6 4-6 6-0 6-3,5,R16,161,9,10,119,68,60,23,22,5,8,4,1,117,79,51,19,22,6,13
 2021-540,Wimbledon,Grass,128,G,20210628,,F324,6,,Roger Federer,R,,SUI,39.88775,8,,SU87,23,,Lorenzo Sonego,L,,ITA,26.132786,27,,7-5 6-4 6-2,5,R16,131,4,1,78,47,37,20,15,2,3,4,2,108,67,44,18,15,10,15
-2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,,ITA,25.21013,9,,I305,,,Ilya Ivashka,L,,BLR,27.340178,79,,6-4 6-3 6-1,5,R16,107,7,3,72,38,32,20,13,0,1,8,4,86,49,30,15,13,6,12
+2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,196,ITA,25.21013,9,,I305,,,Ilya Ivashka,L,,BLR,27.340178,79,,6-4 6-3 6-1,5,R16,107,7,3,72,38,32,20,13,0,1,8,4,86,49,30,15,13,6,12
 2021-540,Wimbledon,Grass,128,G,20210628,,SU55,10,,Denis Shapovalov,L,,CAN,22.20397,12,,BD06,8,,Roberto Bautista Agut,L,,ESP,33.204655,10,,6-1 6-3 7-5,5,R16,127,15,8,99,58,45,18,14,10,12,1,2,84,55,27,13,14,6,13
 2021-540,Wimbledon,Grass,128,G,20210628,,KE29,25,,Karen Khachanov,R,,RUS,25.103354,29,,K0AH,,,Sebastian Korda,L,,USA,20.98015,50,,3-6 6-4 6-3 5-7 10-8,5,R16,229,19,5,172,112,77,28,29,8,17,6,2,158,108,70,24,29,5,15
 2021-540,Wimbledon,Grass,128,G,20210628,,D643,1,,Novak Djokovic,R,,SRB,34.10267,1,,F724,,,Marton Fucsovics,L,,HUN,29.385353,48,,6-3 6-4 6-4,5,QF,137,4,3,93,61,50,14,15,5,6,5,5,101,65,38,19,14,10,14
 2021-540,Wimbledon,Grass,128,G,20210628,,HB71,14,,Hubert Hurkacz,R,,POL,24.375086,18,,F324,6,,Roger Federer,L,,SUI,39.88775,8,,6-3 7-6(4) 6-0,5,QF,109,10,3,88,52,41,20,15,3,4,5,3,93,60,40,11,13,10,15
-2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,,ITA,25.21013,9,,AG37,16,,Felix Auger-Aliassime,L,,CAN,20.887064,19,,6-3 5-7 7-5 6-3,5,QF,184,12,3,136,90,68,23,21,9,12,13,6,110,65,47,23,21,8,14
+2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,196,ITA,25.21013,9,,AG37,16,,Felix Auger-Aliassime,L,,CAN,20.887064,19,,6-3 5-7 7-5 6-3,5,QF,184,12,3,136,90,68,23,21,9,12,13,6,110,65,47,23,21,8,14
 2021-540,Wimbledon,Grass,128,G,20210628,,SU55,10,,Denis Shapovalov,L,,CAN,22.20397,12,,KE29,25,,Karen Khachanov,L,,RUS,25.103354,29,,6-4 3-6 5-7 6-1 6-4,5,QF,206,18,10,131,83,71,24,24,5,8,3,7,162,99,66,32,24,14,19
 2021-540,Wimbledon,Grass,128,G,20210628,,D643,1,,Novak Djokovic,R,,SRB,34.10267,1,,SU55,10,,Denis Shapovalov,L,,CAN,22.20397,12,,7-6(3) 7-5 7-5,5,SF,164,8,5,112,68,55,25,18,10,11,5,6,108,72,57,15,19,7,10
-2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,,ITA,25.21013,9,,HB71,14,,Hubert Hurkacz,L,,POL,24.375086,18,,6-3 6-0 6-7(3) 6-4,5,SF,157,22,1,103,65,56,23,18,2,2,5,1,121,69,47,26,20,4,10
-2021-540,Wimbledon,Grass,128,G,20210628,,D643,1,,Novak Djokovic,R,,SRB,34.10267,1,,BK40,7,,Matteo Berrettini,L,,ITA,25.21013,9,,6-7(4) 6-4 6-4 6-3,5,F,204,5,4,122,75,59,25,20,5,7,16,3,154,91,69,24,22,9,15
+2021-540,Wimbledon,Grass,128,G,20210628,,BK40,7,,Matteo Berrettini,R,196,ITA,25.21013,9,,HB71,14,,Hubert Hurkacz,L,,POL,24.375086,18,,6-3 6-0 6-7(3) 6-4,5,SF,157,22,1,103,65,56,23,18,2,2,5,1,121,69,47,26,20,4,10
+2021-540,Wimbledon,Grass,128,G,20210628,,D643,1,,Novak Djokovic,R,,SRB,34.10267,1,,BK40,7,,Matteo Berrettini,L,196,ITA,25.21013,9,,6-7(4) 6-4 6-4 6-3,5,F,204,5,4,122,75,59,25,20,5,7,16,3,154,91,69,24,22,9,15
 2021-315,Newport,Grass,32,A,20210712,284,K336,,WC,Ivo Karlovic,R,208,CRO,42.3682409309,210,332,Z419,,,Bernabe Zapata Miralles,R,,ESP,24.4955509925,120,670,6-7(5) 6-1 6-4,3,R32,110,24,7,93,54,47,22,15,6,6,3,3,86,47,29,26,14,6,9
 2021-315,Newport,Grass,32,A,20210712,283,J380,,,Jason Jung,R,,TPE,32.0739219713,163,441,SP24,,Q,Brayden Schnur,R,,CAN,26.0232717317,248,263,7-5 6-7(1) 7-6(4),3,R32,200,10,8,127,75,56,24,18,8,12,9,9,146,86,60,29,18,12,17
 2021-315,Newport,Grass,32,A,20210712,282,SL08,5,,Tennys Sandgren,R,188,USA,29.9739904175,78,929,SH90,,,Joao Sousa,R,185,POR,32.2847364819,133,592,6-4 7-6(3),3,R32,89,10,2,65,38,29,14,11,0,2,4,2,63,33,20,18,11,2,5
