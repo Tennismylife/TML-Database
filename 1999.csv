@@ -394,10 +394,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D042,Davis Cup G1 QF: ECU vs VEN,Clay,4,D,19990212,2,L290,,,Nicolas Lapentti,R,188,ECU,22.489,40,974,103065,,,Kepler Orellana,R,,VEN,21.336,312,111,6-7(4) 6-4 6-3 6-4,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D042,Davis Cup G1 QF: ECU vs VEN,Clay,4,D,19990212,3,L290,,,Nicolas Lapentti,R,188,ECU,22.489,40,974,S585,,,Jimy Szymanski,R,175,VEN,23.4,307,114,6-2 7-6(5) 6-1,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D042,Davis Cup G1 QF: ECU vs VEN,Clay,4,D,19990212,4,R361,,,Yohny Romero,R,,VEN,20.192,613,27,108807,,,Juan Francisco Barragan,U,,ECU,16.118,,,6-0 6-3,3,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
-1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,1,S537,,,Suwandi Suwandi,R,178,INA,22.467,,,A244,,,Nasser-Ghanim Al-Khulaifi,R,,QAT,25.24,,,6-4 6-3 6-3,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
+1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,1,S537,,,Suwandi Suwandi,R,178,INA,22.467,,,A244,,,Nasser-Ghanim Al-Khulaifi,R,0,QAT,25.24,,,6-4 6-3 6-3,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,2,103504,,,Febi Widhiyanto,R,,INA,18.998,,,K346,,,Sultan Khalfan,R,,QAT,21.9,,,6-4 6-0 6-3,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,3,S537,,,Suwandi Suwandi,R,178,INA,22.467,,,108841,,,Mubarak Al Tobaishi,U,,QAT,16.405,,,6-1 6-4,3,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
-1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,4,103504,,,Febi Widhiyanto,R,,INA,18.998,,,A244,,,Nasser-Ghanim Al-Khulaifi,R,,QAT,25.24,,,6-4 6-1,3,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
+1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,4,103504,,,Febi Widhiyanto,R,,INA,18.998,,,A244,,,Nasser-Ghanim Al-Khulaifi,R,0,QAT,25.24,,,6-4 6-1,3,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19990212,1,108621,,,Seyed Akbar Taheri Rahaghi,U,,IRI,25.262,,,W407,,,Jayendra Wijeyesekera,U,,SRI,29.073,,,6-3 4-6 6-1 5-7 6-0,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19990212,2,108595,,,Mohammed Reza Tavakoli,U,,IRI,27.159,,,108849,,,Rohan De Silva,U,,SRI,26.99,,,6-1 7-6(5) 6-0,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19990212,3,108850,,,Renouk Wijemanne,U,,SRI,17.309,,,108851,,,Iman Nilipour,U,,IRI,19.138,,,7-5 6-1,3,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
@@ -861,15 +861,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D068,Davis Cup G1 PO: LIB vs PAK,Hard,4,D,19990402,1,102812,,,Jicham Zaatini,R,,LIB,22.779,586,32,103499,,,Aqeel Khan,R,,PAK,19.159,,,6-2 6-2 6-2,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D068,Davis Cup G1 PO: LIB vs PAK,Hard,4,D,19990402,2,102448,,,Ali Hamadeh,R,,LIB,24.561,938,8,102826,,,Muhammad Khaliq Siddiq,U,,KUW,22.732,,,6-3 6-4 5-7 6-4,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D068,Davis Cup G1 PO: LIB vs PAK,Hard,4,D,19990402,3,102812,,,Jicham Zaatini,R,,LIB,22.779,586,32,108846,,,Syed Nasir Sherazi,U,,PAK,19.091,1303,1,6-0 6-2,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
-1999-D068,Davis Cup G1 PO: LIB vs PAK,Hard,4,D,19990402,4,108588,,,Asim Shafik,U,,PAK,23.269,,,A494,,,Karim Alayli,U,,LIB,16.014,,,7-5 6-2,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
+1999-D068,Davis Cup G1 PO: LIB vs PAK,Hard,4,D,19990402,4,108588,,,Asim Shafik,U,,PAK,23.269,,,A494,,,Karim Alayli,U,0,LIB,16.014,,,7-5 6-2,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D072,Davis Cup G2 QF: MEX vs PAR,Hard,4,D,19990402,1,H346,,,Alejandro Hernandez,R,180,MEX,21.489,162,291,102830,,,Paulo Carvallo,R,,PAR,22.716,470,56,6-4 6-4 6-0,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D072,Davis Cup G2 QF: MEX vs PAR,Hard,4,D,19990402,2,O109,,,Marco Osorio,R,,MEX,26.99,409,74,D316,,,Ramon Delgado,R,185,PAR,22.368,57,802,2-6 7-5 7-6(5) 6-2,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D072,Davis Cup G2 QF: MEX vs PAR,Hard,4,D,19990402,3,H346,,,Alejandro Hernandez,R,180,MEX,21.489,162,291,D316,,,Ramon Delgado,R,185,PAR,22.368,57,802,6-7(2) 4-6 6-3 6-4 6-1,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D072,Davis Cup G2 QF: MEX vs PAR,Hard,4,D,19990402,4,102830,,,Paulo Carvallo,R,,PAR,22.716,470,56,O109,,,Marco Osorio,R,,MEX,26.99,409,74,2-6 6-3 6-3,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D079,Davis Cup G2 PO: TPE vs QAT,Clay,4,D,19990402,1,103659,,,Wei Jen Cheng,R,,TPE,18.319,955,8,K346,,,Sultan Khalfan,R,,QAT,22.034,,,6-3 6-0 6-4,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
-1999-D079,Davis Cup G2 PO: TPE vs QAT,Clay,4,D,19990402,2,W134,,,Bing Chao Lin,R,180,TPE,25.415,714,18,A244,,,Nasser-Ghanim Al-Khulaifi,R,,QAT,25.374,,,6-0 6-0 6-0,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
+1999-D079,Davis Cup G2 PO: TPE vs QAT,Clay,4,D,19990402,2,W134,,,Bing Chao Lin,R,180,TPE,25.415,714,18,A244,,,Nasser-Ghanim Al-Khulaifi,R,0,QAT,25.374,,,6-0 6-0 6-0,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D079,Davis Cup G2 PO: TPE vs QAT,Clay,4,D,19990402,3,W134,,,Bing Chao Lin,R,180,TPE,25.415,714,18,K346,,,Sultan Khalfan,R,,QAT,22.034,,,6-0 6-0,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
-1999-D079,Davis Cup G2 PO: TPE vs QAT,Clay,4,D,19990402,4,102543,,,Chia Yen Tsai,R,,TPE,24.082,1233,2,A244,,,Nasser-Ghanim Al-Khulaifi,R,,QAT,25.374,,,6-2 6-2,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
+1999-D079,Davis Cup G2 PO: TPE vs QAT,Clay,4,D,19990402,4,102543,,,Chia Yen Tsai,R,,TPE,24.082,1233,2,A244,,,Nasser-Ghanim Al-Khulaifi,R,0,QAT,25.374,,,6-2 6-2,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D082,Davis Cup WG R1: SWE vs SVK,Carpet,4,D,19990402,1,K237,,,Karol Kucera,R,188,SVK,25.068,10,2253,J129,,,Thomas Johansson,R,180,SWE,24.014,17,1614,6-1 7-6(7) 2-6 6-3,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D082,Davis Cup WG R1: SWE vs SVK,Carpet,4,D,19990402,2,H377,,,Dominik Hrbaty,R,183,SVK,21.229,31,1141,E113,,,Thomas Enqvist,R,190,SWE,25.043,15,1898,7-5 4-6 2-6 6-2 6-4,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D082,Davis Cup WG R1: SWE vs SVK,Carpet,4,D,19990402,3,K237,,,Karol Kucera,R,188,SVK,25.068,10,2253,E113,,,Thomas Enqvist,R,190,SWE,25.043,15,1898,1-6 6-3 6-2 6-4,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
@@ -1441,32 +1441,32 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-416,Rome Masters,Clay,64,M,19990510,61,K293,16,,Gustavo Kuerten,R,190,BRA,22.661,14,2033,C344,3,,Alex Corretja,R,180,ESP,25.079,7,2683,6-4 6-2,3,SF,87,8,1,57,34,26,11,9,2,4,4,0,64,33,17,14,9,6,11
 1999-416,Rome Masters,Clay,64,M,19990510,62,R255,4,,Patrick Rafter,R,185,AUS,26.363,4,2978,M535,15,,Felix Mantilla,R,180,ESP,24.627,15,1888,6-3 7-5,3,SF,83,4,1,63,45,34,10,11,0,1,3,0,60,41,28,9,10,3,6
 1999-416,Rome Masters,Clay,64,M,19990510,63,K293,16,,Gustavo Kuerten,R,190,BRA,22.661,14,2033,R255,4,,Patrick Rafter,R,185,AUS,26.363,4,2978,6-4 7-5 7-6(6),5,F,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,S402,,,Pete Sampras,R,,USA,27.759,2,,P226,,,Cedric Pioline,R,,FRA,29.916,29,,7-5 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,R237,,,Greg Rusedski,L,,GBR,25.689,11,,K316,,,Nicolas Kiefer,R,,GER,21.862,23,,6-1 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,H355,,,Tommy Haas,R,,GER,21.117,18,,H336,,,Tim Henman,R,,GBR,24.69,8,,6-7(4) 7-6(7) 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,E140,,,Nicolas Escude,R,,FRA,23.116,117,,A092,,,Andre Agassi,R,,USA,29.046,13,,4-3 RET,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,P338,,,Mark Philippoussis,R,,AUS,22.519,9,,H377,,,Dominik Hrbaty,R,,SVK,21.361,25,,4-6 7-6(6) 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,K237,,,Karol Kucera,R,,SVK,25.199,12,,R255,,,Patrick Rafter,R,,AUS,26.379,4,,6-3 7-6(5),3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,E113,,,Thomas Enqvist,R,,SWE,25.175,17,,M605,,,Carlos Moya,R,,ESP,22.716,3,,3-6 6-1 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,C344,,,Alex Corretja,R,,ESP,25.095,7,,J129,,,Thomas Johansson,R,,SWE,24.145,19,,7-6(4) 6-1,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,M605,,,Carlos Moya,R,,ESP,22.716,3,,H336,,,Tim Henman,R,,GBR,24.69,8,,7-5 3-6 7-6(2),3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,K316,,,Nicolas Kiefer,R,,GER,21.862,23,,J129,,,Thomas Johansson,R,,SWE,24.145,19,,6-2 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,E113,,,Thomas Enqvist,R,,SWE,25.175,17,,H355,,,Tommy Haas,R,,GER,21.117,18,,6-4 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,C344,,,Alex Corretja,R,,ESP,25.095,7,,R237,,,Greg Rusedski,L,,GBR,25.689,11,,7-5 3-6 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,S402,,,Pete Sampras,R,,USA,27.759,2,,K237,,,Karol Kucera,R,,SVK,25.199,12,,7-6(5) 4-6 6-2,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,R016,,,Richey Reneberg,R,,USA,33.61,292,,H377,,,Dominik Hrbaty,R,,SVK,21.361,25,,6-3 3-6 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,R255,,,Patrick Rafter,R,,AUS,26.379,4,,P226,,,Cedric Pioline,R,,FRA,29.916,29,,7-6(10) 6-1,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,P338,,,Mark Philippoussis,R,,AUS,22.519,9,,E140,,,Nicolas Escude,R,,FRA,23.116,117,,6-1 7-6(5),3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,M605,,,Carlos Moya,R,,ESP,22.716,3,,H355,,,Tommy Haas,R,,GER,21.117,18,,7-6(3) 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,E113,,,Thomas Enqvist,R,,SWE,25.175,17,,H336,,,Tim Henman,R,,GBR,24.69,8,,7-6(4) 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,C344,,,Alex Corretja,R,,ESP,25.095,7,,K316,,,Nicolas Kiefer,R,,GER,21.862,23,,6-3 4-6 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,B446,,,Jonas Bjorkman,R,,SWE,27.146,28,,R237,,,Greg Rusedski,L,,GBR,25.689,11,,6-2 6-2,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,R255,,,Patrick Rafter,R,,AUS,26.379,4,,S402,,,Pete Sampras,R,,USA,27.759,2,,6-3 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,P338,,,Mark Philippoussis,R,,AUS,22.519,9,,R016,,,Richey Reneberg,R,,USA,33.61,292,,6-4 6-7(3) 7-5,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,K237,,,Karol Kucera,R,,SVK,25.199,12,,R186,,,Guillaume Raoux,R,,FRA,29.248,71,,6-2 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,H377,,,Dominik Hrbaty,R,,SVK,21.361,25,,E140,,,Nicolas Escude,R,,FRA,23.116,117,,6-4 3-6 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,R255,,,Patrick Rafter,R,,AUS,26.379,4,,E113,,,Thomas Enqvist,R,,SWE,25.175,17,,5-7 6-3 6-3,3,F,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
-1999-615,World Team Cup,Clay,64,A,19990516,,B446,,,Jonas Bjorkman,R,,SWE,27.146,28,,P338,,,Mark Philippoussis,R,,AUS,22.519,9,,6-4 7-6(3),3,F,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,S402,,,Pete Sampras,R,185,USA,27.759,2,,P226,,,Cedric Pioline,R,188,FRA,29.916,29,,7-5 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,R237,,,Greg Rusedski,L,193,GBR,25.689,11,,K316,,,Nicolas Kiefer,R,183,GER,21.862,23,,6-1 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,H355,,,Tommy Haas,R,188,GER,21.117,18,,H336,,,Tim Henman,R,185,GBR,24.69,8,,6-7(4) 7-6(7) 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,E140,,,Nicolas Escude,R,185,FRA,23.116,117,,A092,,,Andre Agassi,R,180,USA,29.046,13,,4-3 RET,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,P338,,,Mark Philippoussis,R,196,AUS,22.519,9,,H377,,,Dominik Hrbaty,R,183,SVK,21.361,25,,4-6 7-6(6) 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,K237,,,Karol Kucera,R,185,SVK,25.199,12,,R255,,,Patrick Rafter,R,185,AUS,26.379,4,,6-3 7-6(5),3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,E113,,,Thomas Enqvist,R,191,SWE,25.175,17,,M605,,,Carlos Moya,R,,ESP,22.716,3,,3-6 6-1 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,C344,,,Alex Corretja,R,180,ESP,25.095,7,,J129,,,Thomas Johansson,R,180,SWE,24.145,19,,7-6(4) 6-1,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,M605,,,Carlos Moya,R,,ESP,22.716,3,,H336,,,Tim Henman,R,185,GBR,24.69,8,,7-5 3-6 7-6(2),3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,K316,,,Nicolas Kiefer,R,183,GER,21.862,23,,J129,,,Thomas Johansson,R,180,SWE,24.145,19,,6-2 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,E113,,,Thomas Enqvist,R,191,SWE,25.175,17,,H355,,,Tommy Haas,R,188,GER,21.117,18,,6-4 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,C344,,,Alex Corretja,R,180,ESP,25.095,7,,R237,,,Greg Rusedski,L,193,GBR,25.689,11,,7-5 3-6 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,S402,,,Pete Sampras,R,185,USA,27.759,2,,K237,,,Karol Kucera,R,185,SVK,25.199,12,,7-6(5) 4-6 6-2,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,R016,,,Richey Reneberg,R,180,USA,33.61,292,,H377,,,Dominik Hrbaty,R,183,SVK,21.361,25,,6-3 3-6 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,R255,,,Patrick Rafter,R,185,AUS,26.379,4,,P226,,,Cedric Pioline,R,188,FRA,29.916,29,,7-6(10) 6-1,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,P338,,,Mark Philippoussis,R,196,AUS,22.519,9,,E140,,,Nicolas Escude,R,185,FRA,23.116,117,,6-1 7-6(5),3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,M605,,,Carlos Moya,R,,ESP,22.716,3,,H355,,,Tommy Haas,R,188,GER,21.117,18,,7-6(3) 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,E113,,,Thomas Enqvist,R,191,SWE,25.175,17,,H336,,,Tim Henman,R,185,GBR,24.69,8,,7-6(4) 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,C344,,,Alex Corretja,R,180,ESP,25.095,7,,K316,,,Nicolas Kiefer,R,183,GER,21.862,23,,6-3 4-6 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,B446,,,Jonas Bjorkman,R,183,SWE,27.146,28,,R237,,,Greg Rusedski,L,193,GBR,25.689,11,,6-2 6-2,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,R255,,,Patrick Rafter,R,185,AUS,26.379,4,,S402,,,Pete Sampras,R,185,USA,27.759,2,,6-3 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,P338,,,Mark Philippoussis,R,196,AUS,22.519,9,,R016,,,Richey Reneberg,R,180,USA,33.61,292,,6-4 6-7(3) 7-5,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,K237,,,Karol Kucera,R,185,SVK,25.199,12,,R186,,,Guillaume Raoux,R,,FRA,29.248,71,,6-2 6-3,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,H377,,,Dominik Hrbaty,R,183,SVK,21.361,25,,E140,,,Nicolas Escude,R,185,FRA,23.116,117,,6-4 3-6 6-4,3,RR,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,R255,,,Patrick Rafter,R,185,AUS,26.379,4,,E113,,,Thomas Enqvist,R,191,SWE,25.175,17,,5-7 6-3 6-3,3,F,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
+1999-615,World Team Cup,Clay,64,A,19990516,,B446,,,Jonas Bjorkman,R,183,SWE,27.146,28,,P338,,,Mark Philippoussis,R,196,AUS,22.519,9,,6-4 7-6(3),3,F,158,8,0,105,61,48,29,17,2,4,4,3,134,91,59,23,17,12,16
 1999-306,St. Poelten,Clay,32,A,19990517,1,K267,1,,Yevgeny Kafelnikov,R,190,RUS,25.24,1,3371,S585,,Q,Jimy Szymanski,R,175,VEN,23.669,242,165,7-6(4) 6-2,3,R32,81,1,5,66,43,35,11,10,2,3,8,3,54,26,21,15,10,2,5
 1999-306,St. Poelten,Clay,32,A,19990517,2,S568,,,Franco Squillari,L,183,ARG,23.734,39,1052,N210,,,Daniel Nestor,L,190,CAN,26.697,85,597,6-3 6-3,3,R32,62,1,1,50,33,22,11,9,2,4,6,8,64,41,25,8,9,4,9
 1999-306,St. Poelten,Clay,32,A,19990517,3,H364,,WC,Markus Hipfl,R,178,AUT,21.057,92,572,M578,,,Juan Antonio Marin,R,175,CRC,24.208,88,583,6-1 6-1,3,R32,50,3,0,42,28,25,6,7,2,2,1,3,45,25,11,8,7,7,12
@@ -3314,21 +3314,21 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-438,Moscow,Carpet,32,A,19991108,29,K267,1,,Yevgeny Kafelnikov,R,190,RUS,25.719,2,3392,E140,,,Nicolas Escude,R,185,FRA,23.598,53,863,6-7(4) 7-6(2) 6-3,3,SF,138,13,5,118,60,48,34,17,4,5,19,2,128,78,61,19,16,7,9
 1999-438,Moscow,Carpet,32,A,19991108,30,B397,,,Byron Black,R,175,ZIM,30.089,80,576,T136,,,Jeff Tarango,L,180,USA,30.965,73,653,6-3 6-2,3,SF,59,11,2,43,23,21,12,9,1,2,4,8,50,25,17,6,8,4,8
 1999-438,Moscow,Carpet,32,A,19991108,31,K267,1,,Yevgeny Kafelnikov,R,190,RUS,25.719,2,3392,B397,,,Byron Black,R,175,ZIM,30.089,80,576,7-6(2) 6-4,3,F,91,7,2,74,38,27,23,11,2,3,11,4,81,46,32,17,11,7,9
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,S402,5,,Pete Sampras,R,,USA,28.279261,5,,K293,3,,Gustavo Kuerten,R,,BRA,23.19781,3,,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,K267,2,,Yevgeny Kafelnikov,R,,RUS,25.7577,2,,M442,7,,Todd Martin,R,,USA,29.374401,7,,6-4 1-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,A092,1,,Andre Agassi,R,,USA,29.566051,1,,L290,8,,Nicolas Lapentti,R,,ECU,23.27447,8,,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,E113,4,,Thomas Enqvist,R,,SWE,25.69473,4,,K316,6,,Nicolas Kiefer,R,,GER,22.38193,6,,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,K293,3,,Gustavo Kuerten,R,,BRA,23.19781,3,,L290,8,,Nicolas Lapentti,R,,ECU,23.27447,8,,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,A092,1,,Andre Agassi,R,,USA,29.566051,1,,S402,5,,Pete Sampras,R,,USA,28.279261,5,,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,K316,6,,Nicolas Kiefer,R,,GER,22.38193,6,,M442,7,,Todd Martin,R,,USA,29.374401,7,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,K267,2,,Yevgeny Kafelnikov,R,,RUS,25.7577,2,,E113,4,,Thomas Enqvist,R,,SWE,25.69473,4,,7-5 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,A092,1,,Andre Agassi,R,,USA,29.566051,1,,K293,3,,Gustavo Kuerten,R,,BRA,23.19781,3,,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,S402,5,,Pete Sampras,R,,USA,28.279261,5,,L290,8,,Nicolas Lapentti,R,,ECU,23.27447,8,,7-6(2) 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,M442,7,,Todd Martin,R,,USA,29.374401,7,,E113,4,,Thomas Enqvist,R,,SWE,25.69473,4,,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,K316,6,,Nicolas Kiefer,R,,GER,22.38193,6,,K267,2,,Yevgeny Kafelnikov,R,,RUS,25.7577,2,,6-1 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,S402,5,,Pete Sampras,R,,USA,28.279261,5,,K316,6,,Nicolas Kiefer,R,,GER,22.38193,6,,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,A092,1,,Andre Agassi,R,,USA,29.566051,1,,K267,2,,Yevgeny Kafelnikov,R,,RUS,25.7577,2,,6-4 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,
-1999-605,ATP Tour World Championship,Hard,8,F,19991122,,S402,5,,Pete Sampras,R,,USA,28.279261,5,,A092,1,,Andre Agassi,R,,USA,29.566051,1,,6-1 7-5 6-4,3,F,105,15,10,85,50,44,15,15,3,4,4,7,91,43,28,24,14,4,9
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,S402,5,,Pete Sampras,R,185,USA,28.279261,5,,K293,3,,Gustavo Kuerten,R,191,BRA,23.19781,3,,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,K267,2,,Yevgeny Kafelnikov,R,191,RUS,25.7577,2,,M442,7,,Todd Martin,R,198,USA,29.374401,7,,6-4 1-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,A092,1,,Andre Agassi,R,180,USA,29.566051,1,,L290,8,,Nicolas Lapentti,R,,ECU,23.27447,8,,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,E113,4,,Thomas Enqvist,R,191,SWE,25.69473,4,,K316,6,,Nicolas Kiefer,R,183,GER,22.38193,6,,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,K293,3,,Gustavo Kuerten,R,191,BRA,23.19781,3,,L290,8,,Nicolas Lapentti,R,,ECU,23.27447,8,,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,A092,1,,Andre Agassi,R,180,USA,29.566051,1,,S402,5,,Pete Sampras,R,185,USA,28.279261,5,,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,K316,6,,Nicolas Kiefer,R,183,GER,22.38193,6,,M442,7,,Todd Martin,R,198,USA,29.374401,7,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,K267,2,,Yevgeny Kafelnikov,R,191,RUS,25.7577,2,,E113,4,,Thomas Enqvist,R,191,SWE,25.69473,4,,7-5 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,A092,1,,Andre Agassi,R,180,USA,29.566051,1,,K293,3,,Gustavo Kuerten,R,191,BRA,23.19781,3,,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,S402,5,,Pete Sampras,R,185,USA,28.279261,5,,L290,8,,Nicolas Lapentti,R,,ECU,23.27447,8,,7-6(2) 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,M442,7,,Todd Martin,R,198,USA,29.374401,7,,E113,4,,Thomas Enqvist,R,191,SWE,25.69473,4,,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,K316,6,,Nicolas Kiefer,R,183,GER,22.38193,6,,K267,2,,Yevgeny Kafelnikov,R,191,RUS,25.7577,2,,6-1 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,S402,5,,Pete Sampras,R,185,USA,28.279261,5,,K316,6,,Nicolas Kiefer,R,183,GER,22.38193,6,,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,A092,1,,Andre Agassi,R,180,USA,29.566051,1,,K267,2,,Yevgeny Kafelnikov,R,191,RUS,25.7577,2,,6-4 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,
+1999-605,ATP Tour World Championship,Hard,8,F,19991122,,S402,5,,Pete Sampras,R,185,USA,28.279261,5,,A092,1,,Andre Agassi,R,180,USA,29.566051,1,,6-1 7-5 6-4,3,F,105,15,10,85,50,44,15,15,3,4,4,7,91,43,28,24,14,4,9
 1999-D005,Davis Cup WG F: FRA vs AUS,Clay,4,D,19991203,1,P338,,,Mark Philippoussis,R,196,AUS,23.058,19,1570,G379,,,Sebastien Grosjean,R,175,FRA,21.503,27,1298,6-4 6-2 6-4,5,RR,,105,15,10,85,50,44,15,15,4,4,4,7,91,43,28,24,14,4
 1999-D005,Davis Cup WG F: FRA vs AUS,Clay,4,D,19991203,2,P226,,,Cedric Pioline,R,188,FRA,30.456,13,1814,H432,,,Lleyton Hewitt,R,180,AUS,18.76,22,1458,7-6(7) 7-6(6) 7-5,5,RR,,105,15,10,85,50,44,15,15,4,4,4,7,91,43,28,24,14,4
 1999-D005,Davis Cup WG F: FRA vs AUS,Clay,4,D,19991203,3,P338,,,Mark Philippoussis,R,196,AUS,23.058,19,1570,P226,,,Cedric Pioline,R,188,FRA,30.456,13,1814,6-3 5-7 6-1 6-2,5,RR,,105,15,10,85,50,44,15,15,4,4,4,7,91,43,28,24,14,4

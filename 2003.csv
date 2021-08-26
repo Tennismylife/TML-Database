@@ -624,7 +624,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-481,Copenhagen,Hard,32,A,20030224,30,K237,3,,Karol Kucera,R,188,SVK,28.977,53,683,A202,2,,Wayne Arthurs,L,190,AUS,31.94,45,750,6-2 6-4,3,SF,60,4,0,39,21,20,16,9,0,0,2,1,52,30,26,5,9,1,4
 2003-481,Copenhagen,Hard,32,A,20030224,31,K237,3,,Karol Kucera,R,188,SVK,28.977,53,683,R397,,,Olivier Rochus,R,168,BEL,22.1,84,500,7-6(4) 6-4,3,F,100,8,5,67,33,27,19,11,3,5,1,4,82,42,22,25,11,7,10
 2003-495,Dubai,Hard,32,A,20030224,1,F324,1,,Roger Federer,R,185,SUI,21.547,5,2580,L439,,,Irakli Labadze,L,188,GEO,21.711,103,379,6-3 6-3,3,R32,63,2,2,50,31,25,10,9,3,4,4,8,66,31,19,17,9,7,11
-2003-495,Dubai,Hard,32,A,20030224,2,A391,,Q,Maximilian Abel,R,,GER,20.988,217,147,H380,,,Ivo Heuberger,R,188,SUI,27.014,145,257,0-1 RET,3,R32,3,0,0,3,1,1,1,0,0,0,0,0,4,3,3,1,1,0,0
+2003-495,Dubai,Hard,32,A,20030224,2,A391,,Q,Maximilian Abel,R,0,GER,20.988,217,147,H380,,,Ivo Heuberger,R,188,SUI,27.014,145,257,0-1 RET,3,R32,3,0,0,3,1,1,1,0,0,0,0,0,4,3,3,1,1,0,0
 2003-495,Dubai,Hard,32,A,20030224,3,A226,,WC,Hicham Arazi,L,175,MAR,29.35,113,348,V220,,,Jan Vacek,R,198,CZE,26.793,118,324,6-2 6-1,3,R32,126,2,0,50,28,17,16,8,4,5,2,2,44,26,12,5,7,6,11
 2003-495,Dubai,Hard,32,A,20030224,4,K267,8,,Yevgeny Kafelnikov,R,190,RUS,29.016,23,1235,V201,,,John van Lottum,R,185,NED,26.875,108,363,6-2 4-6 6-3,3,R32,92,6,3,79,46,36,16,14,5,8,10,7,76,38,27,16,13,5,10
 2003-495,Dubai,Hard,32,A,20030224,5,S608,,,Attila Savolt,R,183,HUN,27.053,102,384,H336,4,,Tim Henman,R,185,GBR,28.468,12,1745,5-7 7-6(3) 6-4,3,R32,163,4,4,99,53,41,27,17,6,10,5,8,103,61,48,15,17,2,6
@@ -639,7 +639,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-495,Dubai,Hard,32,A,20030224,14,L397,,,Feliciano Lopez,L,188,ESP,21.429,64,613,K308,,Q,Vadim Kutsenko,R,180,RUS,25.944,164,234,7-6(5) 6-2,3,R32,60,12,4,59,36,34,11,10,1,1,2,8,65,35,23,16,10,4,6
 2003-495,Dubai,Hard,32,A,20030224,15,R419,,,Tommy Robredo,R,180,ESP,20.819,34,1020,B446,,,Jonas Bjorkman,R,183,SWE,30.924,71,595,6-2 6-3,3,R32,80,4,4,57,28,20,17,8,2,3,1,2,56,31,20,7,9,7,12
 2003-495,Dubai,Hard,32,A,20030224,16,S741,2,,Marat Safin,R,193,RUS,23.077,7,2235,W300,,,Alexander Waske,R,188,GER,27.904,100,397,6-4 6-2,3,R32,71,8,1,50,29,23,17,9,3,3,5,4,62,33,21,12,9,2,5
-2003-495,Dubai,Hard,32,A,20030224,17,F324,1,,Roger Federer,R,185,SUI,21.547,5,2580,A391,,Q,Maximilian Abel,R,,GER,20.988,217,147,6-4 7-5,3,R16,79,3,2,56,37,32,10,11,0,1,2,5,81,55,35,12,11,11,14
+2003-495,Dubai,Hard,32,A,20030224,17,F324,1,,Roger Federer,R,185,SUI,21.547,5,2580,A391,,Q,Maximilian Abel,R,0,GER,20.988,217,147,6-4 7-5,3,R16,79,3,2,56,37,32,10,11,0,1,2,5,81,55,35,12,11,11,14
 2003-495,Dubai,Hard,32,A,20030224,18,A226,,WC,Hicham Arazi,L,175,MAR,29.35,113,348,K267,8,,Yevgeny Kafelnikov,R,190,RUS,29.016,23,1235,6-4 4-6 6-3,3,R16,92,6,4,81,47,37,20,14,4,6,4,1,85,63,40,12,15,3,7
 2003-495,Dubai,Hard,32,A,20030224,19,L360,,,Ivan Ljubicic,R,193,CRO,23.937,60,630,S608,,,Attila Savolt,R,183,HUN,27.053,102,384,6-4 6-4,3,R16,78,18,4,61,33,27,16,10,0,0,2,3,58,30,23,15,10,3,5
 2003-495,Dubai,Hard,32,A,20030224,20,S636,5,,Rainer Schuettler,R,180,GER,26.834,16,1570,M595,,,Max Mirnyi,R,196,BLR,25.637,36,965,7-6(6) 4-6 7-6(8),3,R16,159,2,2,110,53,36,36,17,3,8,10,15,143,83,61,26,17,9,13
@@ -1451,32 +1451,32 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-306,St. Poelten,Clay,32,A,20030519,29,R485,1,,Andy Roddick,R,188,USA,20.717,6,2075,S677,8,,David Sanchez,R,183,ESP,25.079,57,733,6-2 2-0 RET,3,SF,49,1,0,35,19,16,9,5,0,0,3,3,38,25,14,4,5,3,6
 2003-306,St. Poelten,Clay,32,A,20030519,30,D402,6,,Nikolay Davydenko,R,178,RUS,21.96,36,900,V232,,,Martin Verkerk,R,196,NED,24.548,56,733,7-5 6-1,3,SF,93,2,3,64,46,31,12,9,4,4,4,5,70,38,26,11,10,3,7
 2003-306,St. Poelten,Clay,32,A,20030519,31,R485,1,,Andy Roddick,R,188,USA,20.717,6,2075,D402,6,,Nikolay Davydenko,R,178,RUS,21.96,36,900,6-3 6-2,3,F,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,S694,,,Radek Stepanek,R,,CZE,24.474,47,,A202,,,Wayne Arthurs,L,,AUS,32.17,58,,7-6(1) 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,M605,,,Carlos Moya,R,,ESP,26.724,4,,B676,,,James Blake,R,,USA,23.389,27,,7-6(2) 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,M442,,,Todd Martin,R,,USA,32.862,94,,C344,,,Alex Corretja,R,,ESP,29.103,17,,6-3 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,H432,,,Lleyton Hewitt,R,,AUS,22.229,1,,N254,,,Jiri Novak,R,,CZE,28.159,14,,6-3 6-2,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,N301,,,David Nalbandian,R,,ARG,21.377,8,,B446,,,Jonas Bjorkman,R,,SWE,31.154,69,,6-2 6-2,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,G415,,,Fernando Gonzalez,R,,CHI,22.804,20,,B484,,,Lars Burgsmuller,R,,GER,27.45,93,,6-4 7-6(6),3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,G374,,,Gaston Gaudio,R,,ARG,24.441,22,,E113,,,Thomas Enqvist,R,,SWE,29.183,99,,4-6 6-4 7-6(4),3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,B545,,,Tomas Behrend,R,,GER,28.433,102,,R286,,,Marcelo Rios,L,,CHI,27.395,42,,3-6 7-5 7-6(2),3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,N254,,,Jiri Novak,R,,CZE,28.159,14,,M605,,,Carlos Moya,R,,ESP,26.724,4,,4-6 7-6(5) 6-2,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,H432,,,Lleyton Hewitt,R,,AUS,22.229,1,,B676,,,James Blake,R,,USA,23.389,27,,6-3 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,C344,,,Alex Corretja,R,,ESP,29.103,17,,S694,,,Radek Stepanek,R,,CZE,24.474,47,,6-4 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,A202,,,Wayne Arthurs,L,,AUS,32.17,58,,M442,,,Todd Martin,R,,USA,32.862,94,,7-6(4) 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,N301,,,David Nalbandian,R,,ARG,21.377,8,,S636,,,Rainer Schuettler,R,,GER,27.064,11,,6-4 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,M655,,,Nicolas Massu,R,,CHI,23.606,84,,E113,,,Thomas Enqvist,R,,SWE,29.183,99,,6-2 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,G415,,,Fernando Gonzalez,R,,CHI,22.804,20,,N250,,,Magnus Norman,R,,SWE,26.968,81,,6-2 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,G374,,,Gaston Gaudio,R,,ARG,24.441,22,,B545,,,Tomas Behrend,R,,GER,28.433,102,,6-2 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,S694,,,Radek Stepanek,R,,CZE,24.474,47,,M442,,,Todd Martin,R,,USA,32.862,94,,6-2 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,H432,,,Lleyton Hewitt,R,,AUS,22.229,1,,M605,,,Carlos Moya,R,,ESP,26.724,4,,6-2 3-6 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,C344,,,Alex Corretja,R,,ESP,29.103,17,,A202,,,Wayne Arthurs,L,,AUS,32.17,58,,3-6 7-5 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,B676,,,James Blake,R,,USA,23.389,27,,N254,,,Jiri Novak,R,,CZE,28.159,14,,7-5 4-6 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,S636,,,Rainer Schuettler,R,,GER,27.064,11,,N250,,,Magnus Norman,R,,SWE,26.968,81,,6-1 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,R286,,,Marcelo Rios,L,,CHI,27.395,42,,G374,,,Gaston Gaudio,R,,ARG,24.441,22,,6-3 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,G415,,,Fernando Gonzalez,R,,CHI,22.804,20,,N301,,,David Nalbandian,R,,ARG,21.377,8,,6-4 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,B484,,,Lars Burgsmuller,R,,GER,27.45,93,,E113,,,Thomas Enqvist,R,,SWE,29.183,99,,5-7 6-4 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,S694,,,Radek Stepanek,R,,CZE,24.474,47,,R286,,,Marcelo Rios,L,,CHI,27.395,42,,6-3 7-6(5),3,F,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,G415,,,Fernando Gonzalez,R,,CHI,22.804,20,,N254,,,Jiri Novak,R,,CZE,28.159,14,,7-6(4) 7-6(5),3,F,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,S694,,,Radek Stepanek,R,185,CZE,24.474,47,,A202,,,Wayne Arthurs,L,185,AUS,32.17,58,,7-6(1) 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,M605,,,Carlos Moya,R,,ESP,26.724,4,,B676,,,James Blake,R,185,USA,23.389,27,,7-6(2) 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,M442,,,Todd Martin,R,198,USA,32.862,94,,C344,,,Alex Corretja,R,180,ESP,29.103,17,,6-3 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,H432,,,Lleyton Hewitt,R,178,AUS,22.229,1,,N254,,,Jiri Novak,R,191,CZE,28.159,14,,6-3 6-2,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,N301,,,David Nalbandian,R,180,ARG,21.377,8,,B446,,,Jonas Bjorkman,R,183,SWE,31.154,69,,6-2 6-2,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,G415,,,Fernando Gonzalez,R,183,CHI,22.804,20,,B484,,,Lars Burgsmuller,R,183,GER,27.45,93,,6-4 7-6(6),3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,G374,,,Gaston Gaudio,R,175,ARG,24.441,22,,E113,,,Thomas Enqvist,R,191,SWE,29.183,99,,4-6 6-4 7-6(4),3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,B545,,,Tomas Behrend,R,193,GER,28.433,102,,R286,,,Marcelo Rios,L,175,CHI,27.395,42,,3-6 7-5 7-6(2),3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,N254,,,Jiri Novak,R,191,CZE,28.159,14,,M605,,,Carlos Moya,R,,ESP,26.724,4,,4-6 7-6(5) 6-2,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,H432,,,Lleyton Hewitt,R,178,AUS,22.229,1,,B676,,,James Blake,R,185,USA,23.389,27,,6-3 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,C344,,,Alex Corretja,R,180,ESP,29.103,17,,S694,,,Radek Stepanek,R,185,CZE,24.474,47,,6-4 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,A202,,,Wayne Arthurs,L,185,AUS,32.17,58,,M442,,,Todd Martin,R,198,USA,32.862,94,,7-6(4) 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,N301,,,David Nalbandian,R,180,ARG,21.377,8,,S636,,,Rainer Schuettler,R,180,GER,27.064,11,,6-4 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,M655,,,Nicolas Massu,R,183,CHI,23.606,84,,E113,,,Thomas Enqvist,R,191,SWE,29.183,99,,6-2 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,G415,,,Fernando Gonzalez,R,183,CHI,22.804,20,,N250,,,Magnus Norman,R,188,SWE,26.968,81,,6-2 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,G374,,,Gaston Gaudio,R,175,ARG,24.441,22,,B545,,,Tomas Behrend,R,193,GER,28.433,102,,6-2 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,S694,,,Radek Stepanek,R,185,CZE,24.474,47,,M442,,,Todd Martin,R,198,USA,32.862,94,,6-2 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,H432,,,Lleyton Hewitt,R,178,AUS,22.229,1,,M605,,,Carlos Moya,R,,ESP,26.724,4,,6-2 3-6 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,C344,,,Alex Corretja,R,180,ESP,29.103,17,,A202,,,Wayne Arthurs,L,185,AUS,32.17,58,,3-6 7-5 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,B676,,,James Blake,R,185,USA,23.389,27,,N254,,,Jiri Novak,R,191,CZE,28.159,14,,7-5 4-6 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,S636,,,Rainer Schuettler,R,180,GER,27.064,11,,N250,,,Magnus Norman,R,188,SWE,26.968,81,,6-1 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,R286,,,Marcelo Rios,L,175,CHI,27.395,42,,G374,,,Gaston Gaudio,R,175,ARG,24.441,22,,6-3 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,G415,,,Fernando Gonzalez,R,183,CHI,22.804,20,,N301,,,David Nalbandian,R,180,ARG,21.377,8,,6-4 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,B484,,,Lars Burgsmuller,R,183,GER,27.45,93,,E113,,,Thomas Enqvist,R,191,SWE,29.183,99,,5-7 6-4 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,S694,,,Radek Stepanek,R,185,CZE,24.474,47,,R286,,,Marcelo Rios,L,175,CHI,27.395,42,,6-3 7-6(5),3,F,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,G415,,,Fernando Gonzalez,R,183,CHI,22.804,20,,N254,,,Jiri Novak,R,191,CZE,28.159,14,,7-6(4) 7-6(5),3,F,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-520,Roland Garros,Clay,128,G,20030526,1,H432,1,,Lleyton Hewitt,R,180,AUS,22.248,1,4210,V303,,,Brian Vahaly,R,183,USA,23.852,76,564,6-4 6-1 6-7(6) 6-3,5,R128,193,2,12,115,54,43,30,18,3,7,1,6,164,105,53,29,20,10,20
 2003-520,Roland Garros,Clay,128,G,20030526,2,D402,,,Nikolay Davydenko,R,178,RUS,21.979,33,1001,R237,,,Greg Rusedski,L,193,GBR,29.717,70,595,6-3 7-5 6-2,5,R128,116,1,1,95,60,43,21,15,4,5,5,3,86,48,31,17,14,7,12
 2003-520,Roland Garros,Clay,128,G,20030526,3,B446,,,Jonas Bjorkman,R,183,SWE,31.173,69,600,M595,,,Max Mirnyi,R,196,BLR,25.886,41,860,6-1 6-2 6-4,5,R128,102,2,1,80,41,30,28,13,1,1,15,4,81,44,34,9,12,4,9
@@ -1665,7 +1665,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-500,Halle,Grass,32,A,20030609,4,E121,5,,Younes El Aynaoui,R,193,MAR,31.74,24,1215,K696,,WC,Christopher Koderisch,U,180,GER,18.535,1355,1,6-1 6-2,3,R32,49,3,0,42,27,21,11,8,0,0,2,3,53,30,15,10,7,4,8
 2003-500,Halle,Grass,32,A,20030609,5,N254,3,,Jiri Novak,R,190,CZE,28.216,10,1775,D249,,WC,Hendrik Dreekmann,R,188,GER,28.359,856,9,6-2 6-4,3,R32,63,5,0,45,35,30,7,9,0,0,4,3,67,42,26,11,9,6,9
 2003-500,Halle,Grass,32,A,20030609,6,K310,,,Stefan Koubek,L,175,AUT,26.431,70,605,A293,,Q,Yves Allegro,R,183,SUI,24.791,222,150,6-4 6-3,3,R32,73,3,2,65,33,24,17,10,4,6,3,9,58,29,22,8,9,5,9
-2003-500,Halle,Grass,32,A,20030609,7,B446,,,Jonas Bjorkman,R,183,SWE,31.211,68,630,A391,,WC,Maximilian Abel,R,,GER,21.276,192,187,6-3 6-4,3,R32,77,9,5,65,41,35,9,10,6,7,2,4,61,35,24,11,9,4,7
+2003-500,Halle,Grass,32,A,20030609,7,B446,,,Jonas Bjorkman,R,183,SWE,31.211,68,630,A391,,WC,Maximilian Abel,R,0,GER,21.276,192,187,6-3 6-4,3,R32,77,9,5,65,41,35,9,10,6,7,2,4,61,35,24,11,9,4,7
 2003-500,Halle,Grass,32,A,20030609,8,Y061,6,,Mikhail Youzhny,R,183,RUS,20.956,29,1130,M850,,,Paul-Henri Mathieu,R,185,FRA,21.405,56,691,1-6 6-1 5-2 RET,3,R32,91,8,2,55,34,24,14,10,3,5,4,5,80,43,31,14,11,2,6
 2003-500,Halle,Grass,32,A,20030609,9,C487,8,,Arnaud Clement,R,173,FRA,25.476,34,1015,N291,,Q,Frederic Niemeyer,R,190,CAN,27.124,346,78,6-3 6-0,3,R32,50,0,0,37,20,17,12,7,1,1,9,6,42,24,17,3,8,2,7
 2003-500,Halle,Grass,32,A,20030609,10,L360,,,Ivan Ljubicic,R,193,CRO,24.225,38,915,P273,,Q,David Prinosil,R,185,GER,30.251,219,156,7-6(5) 6-2,3,R32,82,10,5,65,44,35,10,10,3,3,4,6,63,34,24,14,10,0,2
@@ -1734,7 +1734,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-741,Nottingham,Grass,32,A,20030616,11,S604,,,Andre Sa,R,185,BRA,26.111,84,491,D289,,WC,Jamie Delgado,R,178,GBR,26.237,456,49,6-7(4) 7-6(2) 7-6(4),3,R32,168,12,8,133,80,59,22,18,3,9,6,6,116,60,37,30,18,2,8
 2003-741,Nottingham,Grass,32,A,20030616,12,P395,,,Alexander Popp,R,201,GER,26.612,231,136,S544,4,,Vincent Spadea,R,183,USA,28.909,33,1025,7-5 6-4,3,R32,86,3,1,61,37,28,18,11,1,1,7,8,85,43,29,22,11,10,12
 2003-741,Nottingham,Grass,32,A,20030616,13,D362,7,,Taylor Dent,R,188,USA,22.144,40,895,V303,,,Brian Vahaly,R,183,USA,23.91,81,519,6-3 6-4,3,R32,72,1,7,72,43,29,15,10,7,9,2,2,58,41,26,5,9,6,10
-2003-741,Nottingham,Grass,32,A,20030616,14,Z072,,Q,Nenad Zimonjic,R,190,SRB,27.031,610,26,M983,,Q,Jonathan Marray,R,,GBR,22.267,632,24,6-2 6-4,3,R32,67,4,3,54,38,29,10,9,1,1,7,9,65,35,23,14,9,3,6
+2003-741,Nottingham,Grass,32,A,20030616,14,Z072,,Q,Nenad Zimonjic,R,190,SRB,27.031,610,26,M983,,Q,Jonathan Marray,R,183,GBR,22.267,632,24,6-2 6-4,3,R32,67,4,3,54,38,29,10,9,1,1,7,9,65,35,23,14,9,3,6
 2003-741,Nottingham,Grass,32,A,20030616,15,P398,,WC,Arvind Parmar,R,193,GBR,25.235,180,195,M850,,,Paul-Henri Mathieu,R,185,FRA,21.424,54,691,6-4 7-6(4),3,R32,100,11,4,75,49,38,15,11,7,8,4,2,94,45,29,26,11,4,6
 2003-741,Nottingham,Grass,32,A,20030616,16,B446,,,Jonas Bjorkman,R,183,SWE,31.231,63,645,Y061,2,,Mikhail Youzhny,R,183,RUS,20.975,25,1175,6-2 6-0,3,R32,57,3,2,44,27,22,10,7,7,7,1,4,43,30,15,2,7,3,8
 2003-741,Nottingham,Grass,32,A,20030616,17,A202,,,Wayne Arthurs,L,190,AUS,32.246,64,640,E121,1,,Younes El Aynaoui,R,193,MAR,31.759,22,1230,6-4 7-6(6),3,R16,64,11,1,56,38,35,14,11,0,0,6,2,67,52,41,6,11,2,3
@@ -1753,7 +1753,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-741,Nottingham,Grass,32,A,20030616,30,F339,8,,Mardy Fish,R,188,USA,21.517,49,742,B446,,,Jonas Bjorkman,R,183,SWE,31.231,63,645,6-7(5) 6-3 6-4,3,SF,136,15,7,113,64,57,17,16,10,12,3,5,101,53,37,29,15,7,11
 2003-741,Nottingham,Grass,32,A,20030616,31,R237,,,Greg Rusedski,L,193,GBR,29.774,68,627,F339,8,,Mardy Fish,R,188,USA,21.517,49,742,6-3 6-2,3,F,57,7,2,44,32,29,7,9,0,0,3,2,48,25,20,6,8,2,5
 2003-D051,Davis Cup G2 R2: LIB vs HKG,Hard,4,D,20030620,1,108644,,,Patrick Chucri,U,,LIB,21.632,,,104299,,,Hiu Tung Yu,U,,HKG,19.359,,,6-2 1-6 6-4 3-0 RET,5,RR,57,7,2,44,32,29,7,9,0,0,3,2,48,25,20,6,8,2,5
-2003-D051,Davis Cup G2 R2: LIB vs HKG,Hard,4,D,20030620,2,W270,,,Wayne Wong,U,,HKG,22.237,,,A494,,,Karim Alayli,U,,LIB,20.23,,,6-1 1-6 7-5 6-3,5,RR,57,7,2,44,32,29,7,9,0,0,3,2,48,25,20,6,8,2,5
+2003-D051,Davis Cup G2 R2: LIB vs HKG,Hard,4,D,20030620,2,W270,,,Wayne Wong,U,,HKG,22.237,,,A494,,,Karim Alayli,U,0,LIB,20.23,,,6-1 1-6 7-5 6-3,5,RR,57,7,2,44,32,29,7,9,0,0,3,2,48,25,20,6,8,2,5
 2003-D051,Davis Cup G2 R2: LIB vs HKG,Hard,4,D,20030620,3,W270,,,Wayne Wong,U,,HKG,22.237,,,108644,,,Patrick Chucri,U,,LIB,21.632,,,5-7 3-6 7-5 6-4 6-3,5,RR,57,7,2,44,32,29,7,9,0,0,3,2,48,25,20,6,8,2,5
 2003-540,Wimbledon,Grass,128,G,20030623,1,K336,,Q,Ivo Karlovic,R,208,CRO,24.315,203,174,H432,1,,Lleyton Hewitt,R,180,AUS,22.324,2,3940,1-6 7-6(5) 6-3 6-4,5,R128,144,19,8,129,83,66,23,20,10,13,10,8,113,60,47,30,18,1,3
 2003-540,Wimbledon,Grass,128,G,20030623,2,B681,,Q,Paul Baccanello,R,183,AUS,24.03,204,173,H380,,Q,Ivo Heuberger,R,188,SUI,27.34,137,278,7-6(8) 6-3 3-6 7-6(2),5,R128,161,18,5,119,81,68,27,21,0,1,16,5,141,82,60,39,21,5,6
@@ -2061,7 +2061,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-321,Stuttgart,Clay,48,A,20030714,9,L397,,,Feliciano Lopez,L,188,ESP,21.812,50,730,M708,,,Ricardo Mello,L,175,BRA,22.56,111,341,6-1 6-4,3,R64,58,8,0,48,31,26,12,9,2,2,2,2,57,34,18,12,8,3,6
 2003-321,Stuttgart,Clay,48,A,20030714,10,E138,,Q,Gaston Etlis,R,185,ARG,28.69,216,158,P395,,WC,Alexander Popp,R,201,GER,26.689,99,385,6-3 6-2,3,R64,68,2,3,53,23,16,18,9,3,4,0,4,55,36,19,8,8,3,7
 2003-321,Stuttgart,Clay,48,A,20030714,11,R397,,,Olivier Rochus,R,168,BEL,22.483,52,713,K319,,,Michel Kratochvil,R,185,SUI,24.268,149,255,3-6 6-2 6-3,3,R64,102,2,5,76,41,30,20,13,4,6,4,5,84,45,25,24,13,5,9
-2003-321,Stuttgart,Clay,48,A,20030714,12,A391,,WC,Maximilian Abel,R,,GER,21.372,191,191,D272,,,Antony Dupuis,R,185,FRA,30.382,71,605,2-6 6-3 7-6(5),3,R64,120,4,6,98,51,39,25,15,10,12,6,6,96,51,38,27,14,2,3
+2003-321,Stuttgart,Clay,48,A,20030714,12,A391,,WC,Maximilian Abel,R,0,GER,21.372,191,191,D272,,,Antony Dupuis,R,185,FRA,30.382,71,605,2-6 6-3 7-6(5),3,R64,120,4,6,98,51,39,25,15,10,12,6,6,96,51,38,27,14,2,3
 2003-321,Stuttgart,Clay,48,A,20030714,13,S545,,,Sargis Sargsian,R,180,ARM,30.111,54,688,S876,,,Flavio Saretta,R,183,BRA,23.042,58,658,6-4 6-2,3,R64,87,3,1,59,40,32,10,9,3,3,2,3,69,41,29,9,9,7,10
 2003-321,Stuttgart,Clay,48,A,20030714,14,L290,,,Nicolas Lapentti,R,188,ECU,26.916,64,635,K310,,,Stefan Koubek,L,175,AUT,26.527,66,625,6-4 6-2,3,R64,69,2,1,51,28,26,12,9,3,3,0,1,56,34,20,13,9,2,5
 2003-321,Stuttgart,Clay,48,A,20030714,15,F401,,,David Ferrer,R,175,ESP,21.281,63,637,Z073,,,Mariano Zabaleta,R,183,ARG,25.372,32,1013,7-6(3) 6-4,3,R64,91,2,2,66,43,32,15,11,6,8,2,2,78,58,36,9,11,5,8
@@ -2077,7 +2077,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-321,Stuttgart,Clay,48,A,20030714,25,L397,,,Feliciano Lopez,L,188,ESP,21.812,50,730,M535,7,,Felix Mantilla,R,180,ESP,28.805,15,1410,1-6 6-3 7-6(7),3,R32,117,13,2,94,62,43,16,14,5,9,4,1,87,54,36,19,14,5,8
 2003-321,Stuttgart,Clay,48,A,20030714,26,E121,10,,Younes El Aynaoui,R,193,MAR,31.836,23,1220,E138,,Q,Gaston Etlis,R,185,ARG,28.69,216,158,7-6(4) 6-4,3,R32,91,16,2,61,37,34,16,11,0,0,4,5,84,50,34,20,11,6,7
 2003-321,Stuttgart,Clay,48,A,20030714,27,C344,15,,Alex Corretja,R,180,ESP,29.257,47,760,R397,,,Olivier Rochus,R,168,BEL,22.483,52,713,4-6 6-1 7-5,3,R32,155,12,4,100,51,36,24,15,6,10,1,1,121,80,48,15,14,14,20
-2003-321,Stuttgart,Clay,48,A,20030714,28,S636,3,,Rainer Schuettler,R,180,GER,27.217,8,2000,A391,,WC,Maximilian Abel,R,,GER,21.372,191,191,6-2 6-4,3,R32,69,2,1,51,29,21,15,9,1,2,0,2,63,40,23,11,9,3,7
+2003-321,Stuttgart,Clay,48,A,20030714,28,S636,3,,Rainer Schuettler,R,180,GER,27.217,8,2000,A391,,WC,Maximilian Abel,R,0,GER,21.372,191,191,6-2 6-4,3,R32,69,2,1,51,29,21,15,9,1,2,0,2,63,40,23,11,9,3,7
 2003-321,Stuttgart,Clay,48,A,20030714,29,N254,5,,Jiri Novak,R,190,CZE,28.312,9,1980,S545,,,Sargis Sargsian,R,180,ARM,30.111,54,688,6-4 6-4,3,R32,65,1,0,56,42,29,11,10,2,3,6,1,57,42,24,10,10,2,5
 2003-321,Stuttgart,Clay,48,A,20030714,30,Y061,12,,Mikhail Youzhny,R,183,RUS,21.051,27,1085,L290,,,Nicolas Lapentti,R,188,ECU,26.916,64,635,6-3 2-6 6-3,3,R32,128,3,4,89,53,34,16,13,7,12,5,3,82,47,29,14,13,6,12
 2003-321,Stuttgart,Clay,48,A,20030714,31,F401,,,David Ferrer,R,175,ESP,21.281,63,637,L360,16,,Ivan Ljubicic,R,193,CRO,24.32,43,850,7-6(3) 6-1,3,R32,93,7,4,108,78,52,14,10,17,18,5,1,56,26,18,13,9,2,5
@@ -2502,7 +2502,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-560,US Open,Hard,128,G,20030825,12,F339,24,,Mardy Fish,R,188,USA,21.708,26,1145,J194,,Q,Joachim Johansson,R,198,SWE,21.15,194,194,6-3 6-2 6-4,5,R128,101,12,2,80,44,36,25,14,3,3,4,8,86,48,36,13,13,4,8
 2003-560,US Open,Hard,128,G,20030825,13,C487,31,,Arnaud Clement,R,173,FRA,25.687,32,1035,V303,,,Brian Vahaly,R,183,USA,24.101,78,474,6-7(6) 7-6(6) 6-3 6-4,5,R128,205,11,7,163,92,69,32,22,8,13,11,3,130,84,55,24,21,9,16
 2003-560,US Open,Hard,128,G,20030825,14,C400,,,Gregory Carraz,R,190,FRA,28.378,100,376,R237,,,Greg Rusedski,L,193,GBR,29.966,90,417,6-4 4-6 6-2 5-7 6-4,5,R128,168,23,13,149,80,66,38,25,4,7,19,15,154,96,71,30,25,8,13
-2003-560,US Open,Hard,128,G,20030825,15,U032,,,Bohdan Ulihrach,R,188,CZE,28.501,188,206,A391,,Q,Maximilian Abel,R,,GER,21.487,251,135,4-6 6-4 6-3 6-1,5,R128,117,5,3,100,69,52,18,18,4,6,6,7,124,72,47,23,18,8,14
+2003-560,US Open,Hard,128,G,20030825,15,U032,,,Bohdan Ulihrach,R,188,CZE,28.501,188,206,A391,,Q,Maximilian Abel,R,0,GER,21.487,251,135,4-6 6-4 6-3 6-1,5,R128,117,5,3,100,69,52,18,18,4,6,6,7,124,72,47,23,18,8,14
 2003-560,US Open,Hard,128,G,20030825,16,C524,5,,Guillermo Coria,R,175,ARG,21.613,5,2930,P372,,,Mariano Puerta,L,180,ARG,24.931,91,417,6-4 6-3 6-1,5,R128,104,6,1,77,48,37,21,13,3,3,1,2,78,39,27,17,13,7,12
 2003-560,US Open,Hard,128,G,20030825,17,F316,3,,Juan Carlos Ferrero,R,183,ESP,23.532,3,3625,V220,,Q,Jan Vacek,R,198,CZE,27.291,154,242,6-2 4-6 6-3 6-2,5,R128,133,5,7,104,59,48,26,18,3,5,4,3,112,66,43,21,17,8,14
 2003-560,US Open,Hard,128,G,20030825,18,M762,,,Jurgen Melzer,L,183,AUT,22.259,81,457,BA23,,WC,Brian Baker,R,190,USA,18.319,472,49,6-3 6-3 5-7 6-3,5,R128,151,21,4,137,76,56,30,20,11,14,7,10,116,61,42,26,19,2,8
@@ -3202,7 +3202,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-605,Masters Cup,Hard,8,F,20031110,1,F324,,,Roger Federer,R,185,SUI,22.256,3,3625,A092,,,Andre Agassi,R,180,USA,33.533,5,3025,6-7(3) 6-3 7-6(7),3,RR,146,20,6,124,66,49,24,16,6,9,4,4,117,70,45,24,17,5,10
 2003-605,Masters Cup,Hard,8,F,20031110,2,F324,,,Roger Federer,R,185,SUI,22.256,3,3625,N301,,,David Nalbandian,R,180,ARG,21.856,8,1960,6-3 6-0,3,RR,71,2,3,51,25,21,13,8,3,4,1,6,55,27,14,11,7,6,11
 2003-605,Masters Cup,Hard,8,F,20031110,3,F324,,,Roger Federer,R,185,SUI,22.256,3,3625,F316,,,Juan Carlos Ferrero,R,183,ESP,23.743,2,4205,6-3 6-1,3,RR,54,6,1,49,28,22,14,8,3,3,5,7,53,27,16,10,8,3,7
-2003-605,Masters Cup,Hard,8,F,20031110,,M605,7,,Carlos Moya,R,,ESP,27.203,7,,S636,6,,Rainer Schuettler,R,,GER,27.543,6,,7-5 6-4,3,RR,54,6,1,49,28,22,14,8,3,3,5,7,53,27,16,10,8,3,7
+2003-605,Masters Cup,Hard,8,F,20031110,,M605,7,,Carlos Moya,R,,ESP,27.203,7,,S636,6,,Rainer Schuettler,R,180,GER,27.543,6,,7-5 6-4,3,RR,54,6,1,49,28,22,14,8,3,3,5,7,53,27,16,10,8,3,7
 2003-605,Masters Cup,Hard,8,F,20031110,6,A092,,,Andre Agassi,R,180,USA,33.533,5,3025,F316,,,Juan Carlos Ferrero,R,183,ESP,23.743,2,4205,2-6 6-3 6-4,3,RR,92,7,3,77,54,39,12,14,0,2,7,1,67,39,30,19,13,2,4
 2003-605,Masters Cup,Hard,8,F,20031110,7,A092,,,Andre Agassi,R,180,USA,33.533,5,3025,N301,,,David Nalbandian,R,180,ARG,21.856,8,1960,7-6(10) 3-6 6-4,3,RR,152,4,1,104,66,46,20,15,8,12,9,9,121,72,50,25,16,6,10
 2003-605,Masters Cup,Hard,8,F,20031110,8,A092,,,Andre Agassi,R,180,USA,33.533,5,3025,S636,,,Rainer Schuettler,R,180,GER,27.543,6,3005,5-7 6-0 6-4,3,SF,128,1,3,92,54,38,21,14,4,6,4,3,82,42,27,19,14,1,6

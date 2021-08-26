@@ -8,7 +8,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-7308,Adelaide,Hard,32,A,20000103,7,S626,,,James Sekulov,R,180,AUS,23.203,144,,P045,,,Gianluca Pozzi,L,180,ITA,34.527,94,,6-4 2-6 6-2,3,R32,89,2,3,74,50,32,14,13,3,6,8,5,64,26,22,17,13,2,6
 2000-7308,Adelaide,Hard,32,A,20000103,8,M590,,,Alberto Martin,R,175,ESP,21.352,57,,S544,5,,Vincent Spadea,R,183,USA,25.44,20,,6-2 6-2,3,R32,53,0,2,42,24,20,10,8,0,1,0,1,44,24,14,5,8,2,7
 2000-7308,Adelaide,Hard,32,A,20000103,9,H432,6,,Lleyton Hewitt,R,180,AUS,18.836,25,,W035,,,Mark Woodforde,L,188,AUS,34.259,130,,6-3 2-6 6-1,3,R32,108,0,4,71,39,27,18,12,5,8,2,2,82,48,31,13,12,11,16
-2000-7308,Adelaide,Hard,32,A,20000103,10,P387,,WC,Dejan Petrovic,R,,SRB,21.733,205,,H284,,,Stephane Huet,L,180,FRA,28.674,127,,3-6 6-3 6-3,3,R32,98,4,1,88,38,27,25,14,5,9,2,6,73,26,17,25,13,5,10
+2000-7308,Adelaide,Hard,32,A,20000103,10,P387,,WC,Dejan Petrovic,R,0,SRB,21.733,205,,H284,,,Stephane Huet,L,180,FRA,28.674,127,,3-6 6-3 6-3,3,R32,98,4,1,88,38,27,25,14,5,9,2,6,73,26,17,25,13,5,10
 2000-7308,Adelaide,Hard,32,A,20000103,11,V175,,Q,Christian Vinck,L,183,GER,24.315,230,,G333,,,Paul Goldstein,R,178,USA,23.395,89,,3-6 6-3 6-4,3,R32,115,7,2,96,55,35,22,14,8,11,2,6,85,54,39,12,14,5,9
 2000-7308,Adelaide,Hard,32,A,20000103,12,S331,,,Jason Stoltenberg,R,185,AUS,29.73,80,,H377,4,,Dominik Hrbaty,R,183,SVK,21.977,21,,6-3 6-1,3,R32,59,4,1,47,31,25,10,8,3,3,4,5,67,43,24,9,8,3,7
 2000-7308,Adelaide,Hard,32,A,20000103,13,E140,8,,Nicolas Escude,R,185,FRA,23.732,37,,B681,,Q,Paul Baccanello,R,183,AUS,20.542,654,,6-7(5) 7-5 6-3,3,R32,129,4,2,102,65,49,20,17,1,3,9,13,108,53,37,27,16,3,7
@@ -19,7 +19,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-7308,Adelaide,Hard,32,A,20000103,18,G379,7,,Sebastien Grosjean,R,175,FRA,21.58,27,,G352,,,Jan-Michael Gambill,R,190,USA,22.565,58,,3-6 7-6(4) 6-2,3,R16,115,12,4,100,49,39,29,14,2,3,8,4,84,45,35,25,15,2,4
 2000-7308,Adelaide,Hard,32,A,20000103,19,N250,3,,Magnus Norman,R,188,SWE,23.576,15,,F164,,,Richard Fromberg,R,196,AUS,29.665,78,,7-5 6-4,3,R16,86,3,6,78,47,34,18,11,5,6,11,2,56,40,28,9,11,1,4
 2000-7308,Adelaide,Hard,32,A,20000103,20,M590,,,Alberto Martin,R,175,ESP,21.352,57,,S626,,,James Sekulov,R,180,AUS,23.203,144,,7-6(2) 7-6(5),3,R16,103,1,4,86,62,43,11,12,2,5,2,5,78,46,34,13,12,2,5
-2000-7308,Adelaide,Hard,32,A,20000103,21,H432,6,,Lleyton Hewitt,R,180,AUS,18.836,25,,P387,,WC,Dejan Petrovic,R,,SRB,21.733,205,,6-0 6-2,3,R16,66,2,0,55,26,18,18,7,5,5,1,5,41,26,13,4,7,1,6
+2000-7308,Adelaide,Hard,32,A,20000103,21,H432,6,,Lleyton Hewitt,R,180,AUS,18.836,25,,P387,,WC,Dejan Petrovic,R,0,SRB,21.733,205,,6-0 6-2,3,R16,66,2,0,55,26,18,18,7,5,5,1,5,41,26,13,4,7,1,6
 2000-7308,Adelaide,Hard,32,A,20000103,22,S331,,,Jason Stoltenberg,R,185,AUS,29.73,80,,V175,,Q,Christian Vinck,L,183,GER,24.315,230,,3-6 6-4 6-4,3,R16,109,7,5,94,53,35,24,15,6,10,2,5,81,44,25,23,14,2,6
 2000-7308,Adelaide,Hard,32,A,20000103,23,E140,8,,Nicolas Escude,R,185,FRA,23.732,37,,D198,,,Slava Dosedel,R,183,CZE,29.369,63,,7-6(5) 6-4,3,R16,101,6,2,81,41,31,20,11,7,9,1,2,74,49,33,12,11,6,9
 2000-7308,Adelaide,Hard,32,A,20000103,24,H336,2,,Tim Henman,R,185,GBR,25.306,12,,L386,,,Jean-Rene Lisnard,R,173,MON,20.255,,,3-6 6-4 6-2,3,R16,114,5,5,83,43,36,21,13,7,8,1,4,99,50,29,30,14,10,13
@@ -164,7 +164,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-580,Australian Open,Hard,128,G,20000117,8,P338,16,,Mark Philippoussis,R,196,AUS,23.192,19,1258,O133,,Q,Noam Okun,R,185,ISR,21.755,189,184,6-4 6-2 2-6 3-6 6-2,5,R128,163,10,9,135,71,50,30,21,10,15,8,8,145,90,63,23,22,14,21
 2000-580,Australian Open,Hard,128,G,20000117,9,K214,9,,Richard Krajicek,R,196,NED,28.115,10,1717,S424,,,Fabrice Santoro,R,178,FRA,27.105,25,1157,6-1 6-2 7-5,5,R128,96,21,1,81,43,39,24,14,1,1,2,2,71,39,22,18,13,1,6
 2000-580,Australian Open,Hard,128,G,20000117,10,E140,,,Nicolas Escude,R,185,FRA,23.789,34,877,C243,,,Jim Courier,R,185,USA,29.418,36,860,6-7(4) 6-3 7-5 6-1,5,R128,154,17,7,112,54,45,35,20,1,3,8,4,132,85,56,22,20,10,17
-2000-580,Australian Open,Hard,128,G,20000117,11,P269,,Q,Leander Paes,R,178,IND,26.585,137,277,P387,,WC,Dejan Petrovic,R,,SRB,21.791,201,173,6-2 3-6 7-6(5) 6-4,5,R128,154,6,4,109,61,45,33,19,5,7,9,5,119,60,48,28,20,3,7
+2000-580,Australian Open,Hard,128,G,20000117,11,P269,,Q,Leander Paes,R,178,IND,26.585,137,277,P387,,WC,Dejan Petrovic,R,0,SRB,21.791,201,173,6-2 3-6 7-6(5) 6-4,5,R128,154,6,4,109,61,45,33,19,5,7,9,5,119,60,48,28,20,3,7
 2000-580,Australian Open,Hard,128,G,20000117,12,V250,,,Andreas Vinciguerra,L,180,SWE,18.908,99,405,G247,,,Hernan Gumy,R,188,ARG,27.869,63,606,7-6(2) 6-1 6-1,5,R128,105,7,4,84,51,41,19,13,3,4,4,5,92,52,32,16,13,5,11
 2000-580,Australian Open,Hard,128,G,20000117,13,J148,,Q,Fredrik Jonsson,R,193,SWE,22.806,123,313,D291,,,Jacobo Diaz,R,173,ESP,23.518,84,453,4-6 4-6 6-2 7-5 6-3,5,R128,189,14,3,158,100,72,33,24,6,9,7,13,160,105,70,26,25,11,16
 2000-580,Australian Open,Hard,128,G,20000117,14,A226,,,Hicham Arazi,L,175,MAR,26.245,41,800,A272,,,Julian Alonso,R,185,ESP,22.459,111,354,6-3 7-6(6) 6-2,5,R128,116,4,3,86,44,35,24,14,3,5,12,4,113,66,45,16,15,9,15
@@ -1471,32 +1471,32 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-414,Hamburg Masters,Clay,64,M,20000515,61,K293,5,,Gustavo Kuerten,R,190,BRA,23.677,7,1887,P280,,Q,Andrei Pavel,R,183,ROU,26.297,70,578,6-3 6-3,3,SF,67,4,0,53,34,21,8,9,3,7,1,2,60,47,19,5,9,3,10
 2000-414,Hamburg Masters,Clay,64,M,20000515,62,S741,12,,Marat Safin,R,193,RUS,20.298,14,1387,R286,,,Marcelo Rios,L,175,CHI,24.386,20,1213,7-6(8) 6-2,3,SF,91,6,3,70,33,30,19,10,3,4,4,2,86,55,33,16,10,4,7
 2000-414,Hamburg Masters,Clay,64,M,20000515,63,K293,5,,Gustavo Kuerten,R,190,BRA,23.677,7,1887,S741,12,,Marat Safin,R,193,RUS,20.298,14,1387,6-4 5-7 6-4 5-7 7-6(3),5,F,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,T166,,,Mikael Tillstrom,R,,SWE,28.211,61,,S636,,,Rainer Schuettler,R,,GER,24.071,78,,6-4 7-6(2),3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,K237,,,Karol Kucera,R,,SVK,26.215,37,,S544,,,Vincent Spadea,R,,USA,25.84,49,,6-3 6-3,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,H377,,,Dominik Hrbaty,R,,SVK,22.376,13,,S402,,,Pete Sampras,R,,USA,28.775,2,,0-6 6-4 6-4,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,H355,,,Tommy Haas,R,,GER,22.133,19,,E113,,,Thomas Enqvist,R,,SWE,26.19,8,,5-7 6-2 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,S741,,,Marat Safin,R,,RUS,20.315,14,,M655,,,Nicolas Massu,R,,CHI,20.613,69,,7-6(7) 6-4,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,M535,,,Felix Mantilla,R,,ESP,25.659,64,,R255,,,Patrick Rafter,R,,AUS,27.395,22,,6-2 6-4,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,K267,,,Yevgeny Kafelnikov,R,,RUS,26.253,3,,R286,,,Marcelo Rios,L,,CHI,24.402,20,,6-3 7-5,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,H432,,,Lleyton Hewitt,R,,AUS,19.236,10,,C378,,,Albert Costa,R,,ESP,24.906,18,,4-1 RET,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,S636,,,Rainer Schuettler,R,,GER,24.071,78,,S544,,,Vincent Spadea,R,,USA,25.84,,,7-5 3-6 6-1,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,N250,,,Magnus Norman,R,,SWE,23.975,4,,H377,,,Dominik Hrbaty,R,,SVK,22.376,13,,3-6 7-6(5) 6-3,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,K237,,,Karol Kucera,R,,SVK,26.215,37,,T166,,,Mikael Tillstrom,R,,SWE,28.211,61,,6-0 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,H355,,,Tommy Haas,R,,GER,22.133,19,,S402,,,Pete Sampras,R,,USA,28.775,2,,7-5 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,S741,,,Marat Safin,R,,RUS,20.315,14,,M590,,,Alberto Martin,R,,ESP,21.752,,,7-6(2) 6-1,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,R255,,,Patrick Rafter,R,,AUS,27.395,22,,M655,,,Nicolas Massu,R,,CHI,20.613,69,,4-6 7-6(4) 6-1,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,M535,,,Felix Mantilla,R,,ESP,25.659,64,,K267,,,Yevgeny Kafelnikov,R,,RUS,26.253,3,,6-3 6-3,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,H432,,,Lleyton Hewitt,R,,AUS,19.236,10,,R286,,,Marcelo Rios,L,,CHI,24.402,20,,5-0 RET,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,T166,,,Mikael Tillstrom,R,,SWE,28.211,61,,S544,,,Vincent Spadea,R,,USA,25.84,49,,6-3 6-3,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,S402,,,Pete Sampras,R,,USA,28.775,2,,N250,,,Magnus Norman,R,,SWE,23.975,4,,6-3 6-4,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,K237,,,Karol Kucera,R,,SVK,26.215,37,,S636,,,Rainer Schuettler,R,,GER,24.071,78,,6-2 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,H377,,,Dominik Hrbaty,R,,SVK,22.376,13,,H355,,,Tommy Haas,R,,GER,22.133,19,,6-2 4-6 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,S741,,,Marat Safin,R,,RUS,20.315,14,,F164,,,Richard Fromberg,R,,AUS,30.064,63,,6-2 6-4,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,M590,,,Alberto Martin,R,,ESP,21.752,,,M655,,,Nicolas Massu,R,,CHI,20.613,69,,5-0 RET,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,M535,,,Felix Mantilla,R,,ESP,25.659,64,,R286,,,Marcelo Rios,L,,CHI,24.402,20,,6-4 6-1,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,K267,,,Yevgeny Kafelnikov,R,,RUS,26.253,3,,H432,,,Lleyton Hewitt,R,,AUS,19.236,10,,6-1 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,K237,,,Karol Kucera,R,,SVK,26.215,37,,S741,,,Marat Safin,R,,RUS,20.315,14,,6-3 6-2,3,F,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
-2000-615,World Team Cup,Clay,64,A,20000521,,H377,,,Dominik Hrbaty,R,,SVK,22.376,13,,K267,,,Yevgeny Kafelnikov,R,,RUS,26.253,3,,6-4 7-6(1),3,F,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,T166,,,Mikael Tillstrom,R,185,SWE,28.211,61,,S636,,,Rainer Schuettler,R,180,GER,24.071,78,,6-4 7-6(2),3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,K237,,,Karol Kucera,R,185,SVK,26.215,37,,S544,,,Vincent Spadea,R,183,USA,25.84,49,,6-3 6-3,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,H377,,,Dominik Hrbaty,R,183,SVK,22.376,13,,S402,,,Pete Sampras,R,185,USA,28.775,2,,0-6 6-4 6-4,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,H355,,,Tommy Haas,R,188,GER,22.133,19,,E113,,,Thomas Enqvist,R,191,SWE,26.19,8,,5-7 6-2 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,S741,,,Marat Safin,R,193,RUS,20.315,14,,M655,,,Nicolas Massu,R,183,CHI,20.613,69,,7-6(7) 6-4,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,M535,,,Felix Mantilla,R,180,ESP,25.659,64,,R255,,,Patrick Rafter,R,185,AUS,27.395,22,,6-2 6-4,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,K267,,,Yevgeny Kafelnikov,R,191,RUS,26.253,3,,R286,,,Marcelo Rios,L,175,CHI,24.402,20,,6-3 7-5,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,H432,,,Lleyton Hewitt,R,178,AUS,19.236,10,,C378,,,Albert Costa,R,180,ESP,24.906,18,,4-1 RET,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,S636,,,Rainer Schuettler,R,180,GER,24.071,78,,S544,,,Vincent Spadea,R,183,USA,25.84,,,7-5 3-6 6-1,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,N250,,,Magnus Norman,R,188,SWE,23.975,4,,H377,,,Dominik Hrbaty,R,183,SVK,22.376,13,,3-6 7-6(5) 6-3,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,K237,,,Karol Kucera,R,185,SVK,26.215,37,,T166,,,Mikael Tillstrom,R,185,SWE,28.211,61,,6-0 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,H355,,,Tommy Haas,R,188,GER,22.133,19,,S402,,,Pete Sampras,R,185,USA,28.775,2,,7-5 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,S741,,,Marat Safin,R,193,RUS,20.315,14,,M590,,,Alberto Martin,R,175,ESP,21.752,,,7-6(2) 6-1,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,R255,,,Patrick Rafter,R,185,AUS,27.395,22,,M655,,,Nicolas Massu,R,183,CHI,20.613,69,,4-6 7-6(4) 6-1,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,M535,,,Felix Mantilla,R,180,ESP,25.659,64,,K267,,,Yevgeny Kafelnikov,R,191,RUS,26.253,3,,6-3 6-3,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,H432,,,Lleyton Hewitt,R,178,AUS,19.236,10,,R286,,,Marcelo Rios,L,175,CHI,24.402,20,,5-0 RET,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,T166,,,Mikael Tillstrom,R,185,SWE,28.211,61,,S544,,,Vincent Spadea,R,183,USA,25.84,49,,6-3 6-3,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,S402,,,Pete Sampras,R,185,USA,28.775,2,,N250,,,Magnus Norman,R,188,SWE,23.975,4,,6-3 6-4,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,K237,,,Karol Kucera,R,185,SVK,26.215,37,,S636,,,Rainer Schuettler,R,180,GER,24.071,78,,6-2 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,H377,,,Dominik Hrbaty,R,183,SVK,22.376,13,,H355,,,Tommy Haas,R,188,GER,22.133,19,,6-2 4-6 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,S741,,,Marat Safin,R,193,RUS,20.315,14,,F164,,,Richard Fromberg,R,,AUS,30.064,63,,6-2 6-4,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,M590,,,Alberto Martin,R,175,ESP,21.752,,,M655,,,Nicolas Massu,R,183,CHI,20.613,69,,5-0 RET,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,M535,,,Felix Mantilla,R,180,ESP,25.659,64,,R286,,,Marcelo Rios,L,175,CHI,24.402,20,,6-4 6-1,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,K267,,,Yevgeny Kafelnikov,R,191,RUS,26.253,3,,H432,,,Lleyton Hewitt,R,178,AUS,19.236,10,,6-1 6-2,3,RR,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,K237,,,Karol Kucera,R,185,SVK,26.215,37,,S741,,,Marat Safin,R,193,RUS,20.315,14,,6-3 6-2,3,F,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
+2000-615,World Team Cup,Clay,64,A,20000521,,H377,,,Dominik Hrbaty,R,183,SVK,22.376,13,,K267,,,Yevgeny Kafelnikov,R,191,RUS,26.253,3,,6-4 7-6(1),3,F,,7,1,165,86,64,41,28,4,11,13,2,177,94,66,38,28,4,11
 2000-306,St. Poelten,Clay,32,A,20000522,1,G254,,,Andrea Gaudenzi,R,183,ITA,26.812,74,575,K316,1,,Nicolas Kiefer,R,183,GER,22.88,8,1874,6-7(4) 3-0 RET,3,R32,76,1,3,50,35,19,8,8,4,8,0,4,53,24,11,12,8,5,10
 2000-306,St. Poelten,Clay,32,A,20000522,2,P305,,,Albert Portas,R,188,ESP,26.516,71,589,G400,,Q,Juan Giner,R,178,ESP,21.818,399,63,4-6 6-1 6-2,3,R32,87,4,6,74,35,26,22,13,2,5,0,2,71,46,22,13,12,3,9
 2000-306,St. Poelten,Clay,32,A,20000522,3,B518,,,Galo Blanco,R,173,ESP,23.619,70,593,S604,,,Andre Sa,R,185,BRA,23.044,86,481,6-1 1-0 RET,3,R32,36,1,0,21,12,7,7,5,0,1,0,3,25,11,4,4,4,0,4
@@ -1860,7 +1860,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-540,Wimbledon,Grass,128,G,20000626,55,D357,,,Arnaud Di Pasquale,R,185,FRA,21.372,49,764,H364,,,Markus Hipfl,R,178,AUT,22.168,97,408,4-6 6-4 6-4 6-7(5) 6-1,5,R128,178,6,8,169,102,65,36,25,9,14,7,4,133,87,58,24,24,2,10
 2000-540,Wimbledon,Grass,128,G,20000626,56,P338,10,,Mark Philippoussis,R,196,AUS,23.633,18,1281,M762,,Q,Jurgen Melzer,L,183,AUT,19.097,387,68,6-4 7-6(3) 5-7 6-4,5,R128,133,26,6,119,89,73,16,22,4,6,16,3,126,84,64,22,22,2,5
 2000-540,Wimbledon,Grass,128,G,20000626,57,S741,15,,Marat Safin,R,193,RUS,20.413,9,1933,B518,,,Galo Blanco,R,173,ESP,23.715,74,568,7-6(2) 6-3 6-4,5,R128,94,7,8,101,56,44,25,16,3,5,9,7,99,53,37,23,15,5,9
-2000-540,Wimbledon,Grass,128,G,20000626,58,D214,,,Martin Damm,R,188,CZE,27.901,86,476,P387,,Q,Dejan Petrovic,R,,SRB,22.231,185,201,6-1 6-4 6-1,5,R128,82,1,0,64,43,34,14,12,2,3,4,5,70,36,19,15,12,3,10
+2000-540,Wimbledon,Grass,128,G,20000626,58,D214,,,Martin Damm,R,188,CZE,27.901,86,476,P387,,Q,Dejan Petrovic,R,0,SRB,22.231,185,201,6-1 6-4 6-1,5,R128,82,1,0,64,43,34,14,12,2,3,4,5,70,36,19,15,12,3,10
 2000-540,Wimbledon,Grass,128,G,20000626,59,P273,,Q,David Prinosil,R,185,GER,27.299,84,486,S545,,,Sargis Sargsian,R,180,ARM,27.064,79,525,2-6 6-1 6-2 6-4,5,R128,148,12,9,115,61,47,29,17,7,9,5,7,111,69,47,18,16,10,15
 2000-540,Wimbledon,Grass,128,G,20000626,60,H284,,Q,Stephane Huet,L,180,FRA,29.172,108,371,B471,,WC,Mahesh Bhupathi,R,185,IND,26.053,1049,4,6-7(5) 6-3 7-6(4) 6-1,5,R128,130,17,1,128,72,55,37,21,0,1,12,11,122,72,54,24,19,4,8
 2000-540,Wimbledon,Grass,128,G,20000626,61,G319,,,Jerome Golmard,L,188,FRA,26.795,70,593,S681,,LL,Cyril Saulnier,R,190,FRA,24.862,124,324,7-5 6-4 6-4,5,R128,105,20,1,93,65,49,19,16,5,5,8,3,84,51,40,18,16,2,5
@@ -1970,7 +1970,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-315,Newport,Grass,32,A,20000710,7,W254,,,Peter Wessels,R,196,NED,22.177,133,281,N210,,,Daniel Nestor,L,190,CAN,27.847,203,168,6-7(2) 7-5 RET,3,R32,89,14,5,81,52,39,16,13,5,6,2,2,84,55,38,16,12,5,7
 2000-315,Newport,Grass,32,A,20000710,8,P273,6,,David Prinosil,R,185,GER,27.337,67,614,L336,,,Harel Levy,R,185,ISR,21.93,121,317,7-6(5) 3-6 6-3,3,R32,125,10,17,103,44,40,32,15,5,6,6,8,124,50,41,38,15,10,11
 2000-315,Newport,Grass,32,A,20000710,9,S331,5,,Jason Stoltenberg,R,185,AUS,30.267,81,512,G288,,Q,Neville Godwin,R,173,RSA,25.44,140,261,4-6 6-3 7-6(6),3,R32,129,7,3,89,41,35,23,16,1,5,1,12,107,51,36,25,15,9,13
-2000-315,Newport,Grass,32,A,20000710,10,P387,,,Dejan Petrovic,R,,SRB,22.27,169,219,S688,,,Andrei Stoliarov,R,178,RUS,23.499,123,311,6-3 6-3,3,R32,66,8,0,49,30,22,13,9,4,5,5,7,67,26,18,16,9,4,8
+2000-315,Newport,Grass,32,A,20000710,10,P387,,,Dejan Petrovic,R,0,SRB,22.27,169,219,S688,,,Andrei Stoliarov,R,178,RUS,23.499,123,311,6-3 6-3,3,R32,66,8,0,49,30,22,13,9,4,5,5,7,67,26,18,16,9,4,8
 2000-315,Newport,Grass,32,A,20000710,11,K297,,,Tuomas Ketola,R,185,FIN,25.383,166,226,G354,,,Justin Gimelstob,R,196,USA,23.452,87,473,7-6(4) 2-6 6-3,3,R32,107,7,4,101,64,48,17,15,4,7,6,1,79,51,38,17,14,0,2
 2000-315,Newport,Grass,32,A,20000710,12,G333,3,,Paul Goldstein,R,178,USA,23.932,78,539,M531,,,Gouichi Motomura,R,173,JPN,26.541,151,245,6-4 6-3,3,R32,69,0,3,50,29,24,11,9,1,2,0,6,64,24,16,18,10,3,7
 2000-315,Newport,Grass,32,A,20000710,13,T168,8,,Laurence Tieleman,R,180,ITA,27.652,112,357,M551,,,Lorenzo Manta,R,190,SUI,25.815,174,216,6-4 6-3,3,R32,70,10,10,71,41,35,13,10,6,6,7,7,63,33,25,13,9,6,8
@@ -1981,7 +1981,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-315,Newport,Grass,32,A,20000710,18,A202,7,,Wayne Arthurs,L,190,AUS,29.314,154,241,B588,,WC,Bob Bryan,L,193,USA,22.198,158,236,6-3 6-4,3,R16,50,13,2,47,24,23,17,10,0,0,2,0,52,37,22,12,9,3,5
 2000-315,Newport,Grass,32,A,20000710,19,B446,4,,Jonas Bjorkman,R,183,SWE,28.298,60,674,V175,,,Christian Vinck,L,183,GER,24.851,126,306,7-6(6) 6-0,3,R16,69,6,5,56,41,33,8,9,0,1,4,7,64,30,23,12,9,7,11
 2000-315,Newport,Grass,32,A,20000710,20,W254,,,Peter Wessels,R,196,NED,22.177,133,281,P273,6,,David Prinosil,R,185,GER,27.337,67,614,6-4 7-5,3,R16,69,6,5,56,41,33,8,9,0,1,4,7,64,30,23,12,9,7,11
-2000-315,Newport,Grass,32,A,20000710,21,S331,5,,Jason Stoltenberg,R,185,AUS,30.267,81,512,P387,,,Dejan Petrovic,R,,SRB,22.27,169,219,6-3 6-2,3,R16,75,4,2,59,32,26,16,9,2,2,3,3,64,36,23,12,8,4,7
+2000-315,Newport,Grass,32,A,20000710,21,S331,5,,Jason Stoltenberg,R,185,AUS,30.267,81,512,P387,,,Dejan Petrovic,R,0,SRB,22.27,169,219,6-3 6-2,3,R16,75,4,2,59,32,26,16,9,2,2,3,3,64,36,23,12,8,4,7
 2000-315,Newport,Grass,32,A,20000710,22,G333,3,,Paul Goldstein,R,178,USA,23.932,78,539,K297,,,Tuomas Ketola,R,185,FIN,25.383,166,226,6-3 6-1,3,R16,59,4,1,47,28,19,11,8,5,7,2,3,49,21,12,9,8,3,9
 2000-315,Newport,Grass,32,A,20000710,23,K260,,,Jens Knippschild,R,190,GER,25.399,150,246,T168,8,,Laurence Tieleman,R,180,ITA,27.652,112,357,7-6(4) 6-3,3,R16,63,9,3,68,43,34,16,11,2,2,8,7,58,27,24,15,10,0,1
 2000-315,Newport,Grass,32,A,20000710,24,D270,,Q,Scott Draper,L,178,AUS,26.097,380,65,P045,2,,Gianluca Pozzi,L,180,ITA,35.064,45,774,6-4 6-4,3,R16,65,4,2,50,28,25,11,10,2,4,0,2,56,26,15,15,10,2,6
@@ -3359,21 +3359,21 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2000-620,Brighton,Hard,32,A,20001120,29,H336,1,,Tim Henman,R,185,GBR,26.207,10,1955,L311,,,Hyung-Taik Lee,R,180,KOR,24.882,99,410,6-2 6-1,3,SF,66,7,1,49,27,23,11,7,6,6,0,1,62,41,20,10,8,6,11
 2000-620,Brighton,Hard,32,A,20001120,30,H377,2,,Dominik Hrbaty,R,183,SVK,22.877,19,1300,V211,5,,Vladimir Voltchkov,R,180,BLR,22.623,52,755,6-1 6-0,3,SF,50,5,0,36,22,20,10,7,1,1,1,4,52,24,12,9,6,7,12
 2000-620,Brighton,Hard,32,A,20001120,31,H336,1,,Tim Henman,R,185,GBR,26.207,10,1955,H377,2,,Dominik Hrbaty,R,183,SVK,22.877,19,1300,6-2 6-2,3,F,84,5,1,59,35,26,13,8,4,4,1,3,57,32,16,13,8,7,11
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,H432,6,,Lleyton Hewitt,R,,AUS,19.756331,7,,S402,3,,Pete Sampras,R,,USA,29.295003,2,,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,A092,8,,Andre Agassi,R,,USA,30.581793,6,,K293,2,,Gustavo Kuerten,R,,BRA,24.213552,3,,4-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,S741,1,,Marat Safin,R,,RUS,20.835044,1,,C344,7,,Alex Corretja,R,,ESP,26.631075,8,,6-7(6) 7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,K267,5,,Yevgeny Kafelnikov,R,,RUS,26.773443,5,,N250,4,,Magnus Norman,R,,SWE,24.495551,4,,4-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,S402,3,,Pete Sampras,R,,USA,29.295003,2,,C344,7,,Alex Corretja,R,,ESP,26.631075,8,,7-6(2) 7-5,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,S741,1,,Marat Safin,R,,RUS,20.835044,1,,H432,6,,Lleyton Hewitt,R,,AUS,19.756331,7,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,C344,7,,Alex Corretja,R,,ESP,26.631075,8,,H432,6,,Lleyton Hewitt,R,,AUS,19.756331,7,,3-6 7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,A092,8,,Andre Agassi,R,,USA,30.581793,6,,K267,5,,Yevgeny Kafelnikov,R,,RUS,26.773443,5,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,K293,2,,Gustavo Kuerten,R,,BRA,24.213552,3,,N250,4,,Magnus Norman,R,,SWE,24.495551,4,,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,A092,8,,Andre Agassi,R,,USA,30.581793,6,,N250,4,,Magnus Norman,R,,SWE,24.495551,4,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,K293,2,,Gustavo Kuerten,R,,BRA,24.213552,3,,K267,5,,Yevgeny Kafelnikov,R,,RUS,26.773443,5,,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,S402,3,,Pete Sampras,R,,USA,29.295003,2,,S741,1,,Marat Safin,R,,RUS,20.835044,1,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,K293,2,,Gustavo Kuerten,R,,BRA,24.213552,3,,S402,3,,Pete Sampras,R,,USA,29.295003,2,,6-7(5) 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,A092,8,,Andre Agassi,R,,USA,30.581793,6,,S741,1,,Marat Safin,R,,RUS,20.835044,1,,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,
-2000-605,Tennis Masters Cup,Hard,8,A,20001127,,K293,2,,Gustavo Kuerten,R,,BRA,24.213552,3,,A092,8,,Andre Agassi,R,,USA,30.581793,6,,6-4 6-4 6-4,3,F,126,19,1,98,56,46,22,15,7,7,7,1,88,60,41,15,15,6,9
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,H432,6,,Lleyton Hewitt,R,178,AUS,19.756331,7,,S402,3,,Pete Sampras,R,185,USA,29.295003,2,,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,A092,8,,Andre Agassi,R,180,USA,30.581793,6,,K293,2,,Gustavo Kuerten,R,191,BRA,24.213552,3,,4-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,S741,1,,Marat Safin,R,193,RUS,20.835044,1,,C344,7,,Alex Corretja,R,180,ESP,26.631075,8,,6-7(6) 7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,K267,5,,Yevgeny Kafelnikov,R,191,RUS,26.773443,5,,N250,4,,Magnus Norman,R,188,SWE,24.495551,4,,4-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,S402,3,,Pete Sampras,R,185,USA,29.295003,2,,C344,7,,Alex Corretja,R,180,ESP,26.631075,8,,7-6(2) 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,S741,1,,Marat Safin,R,193,RUS,20.835044,1,,H432,6,,Lleyton Hewitt,R,178,AUS,19.756331,7,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,C344,7,,Alex Corretja,R,180,ESP,26.631075,8,,H432,6,,Lleyton Hewitt,R,178,AUS,19.756331,7,,3-6 7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,A092,8,,Andre Agassi,R,180,USA,30.581793,6,,K267,5,,Yevgeny Kafelnikov,R,191,RUS,26.773443,5,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,K293,2,,Gustavo Kuerten,R,191,BRA,24.213552,3,,N250,4,,Magnus Norman,R,188,SWE,24.495551,4,,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,A092,8,,Andre Agassi,R,180,USA,30.581793,6,,N250,4,,Magnus Norman,R,188,SWE,24.495551,4,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,K293,2,,Gustavo Kuerten,R,191,BRA,24.213552,3,,K267,5,,Yevgeny Kafelnikov,R,191,RUS,26.773443,5,,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,S402,3,,Pete Sampras,R,185,USA,29.295003,2,,S741,1,,Marat Safin,R,193,RUS,20.835044,1,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,K293,2,,Gustavo Kuerten,R,191,BRA,24.213552,3,,S402,3,,Pete Sampras,R,185,USA,29.295003,2,,6-7(5) 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,A092,8,,Andre Agassi,R,180,USA,30.581793,6,,S741,1,,Marat Safin,R,193,RUS,20.835044,1,,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,
+2000-605,Tennis Masters Cup,Hard,8,A,20001127,,K293,2,,Gustavo Kuerten,R,191,BRA,24.213552,3,,A092,8,,Andre Agassi,R,180,USA,30.581793,6,,6-4 6-4 6-4,3,F,126,19,1,98,56,46,22,15,7,7,7,1,88,60,41,15,15,6,9
 2000-D049,Davis Cup WG F: ESP vs AUS,Clay,4,D,20001208,1,H432,,,Lleyton Hewitt,R,180,AUS,19.775,7,2625,C378,,,Albert Costa,R,180,ESP,25.446,26,1115,3-6 6-1 2-6 6-4 6-4,5,RR,,126,19,1,98,56,46,22,15,7,7,7,1,88,60,41,15,15,6
 2000-D049,Davis Cup WG F: ESP vs AUS,Clay,4,D,20001208,2,F316,,,Juan Carlos Ferrero,R,183,ESP,20.81,12,1840,R255,,,Patrick Rafter,R,185,AUS,27.934,15,1535,6-7(4) 7-6(2) 6-2 3-1 RET,5,RR,,126,19,1,98,56,46,22,15,7,7,7,1,88,60,41,15,15,6
 2000-D049,Davis Cup WG F: ESP vs AUS,Clay,4,D,20001208,3,F316,,,Juan Carlos Ferrero,R,183,ESP,20.81,12,1840,H432,,,Lleyton Hewitt,R,180,AUS,19.775,7,2625,6-2 7-6(5) 4-6 6-4,5,RR,,126,19,1,98,56,46,22,15,7,7,7,1,88,60,41,15,15,6
