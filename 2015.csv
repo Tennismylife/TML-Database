@@ -631,7 +631,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-D005,Davis Cup WG R1: ARG vs BRA,Clay,4,D,20150306,5,105643,,,Federico Delbonis,L,190,ARG,24.4052019165,83,611,105064,,,Thomaz Bellucci,L,188,BRA,27.1704312115,87,591,6-3 3-6 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,
 2015-D006,Davis Cup WG R1: SRB vs CRO,Hard,4,D,20150306,1,104925,,,Novak Djokovic,R,188,SRB,27.7782340862,1,13165,106243,,,Mate Delic,R,196,CRO,21.4209445585,158,322,6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
 2015-D006,Davis Cup WG R1: SRB vs CRO,Hard,4,D,20150306,2,104678,,,Viktor Troicki,R,193,SRB,29.054072553,41,1065,106432,,,Borna Coric,R,188,CRO,18.2943189596,61,786,4-6 1-6 6-3 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
-2015-D006,Davis Cup WG R1: SRB vs CRO,Hard,4,D,20150306,4,105936,,,Filip Krajinovic,R,185,SRB,23.0088980151,100,551,105015,,,Franko Skugor,R,193,CRO,27.446954141,560,55,,3,RR,,,,,,,,,,,,,,,,,,,
+2015-D006,Davis Cup WG R1: SRB vs CRO,Hard,4,D,20150306,4,KB05,,,Filip Krajinovic,R,185,SRB,23.0088980151,100,551,105015,,,Franko Skugor,R,193,CRO,27.446954141,560,55,,3,RR,,,,,,,,,,,,,,,,,,,
 2015-D007,Davis Cup WG R1: CAN vs JPN,Hard,4,D,20150306,1,105683,,,Milos Raonic,R,196,CAN,24.1779603012,6,4980,105147,,,Tatsuma Ito,R,180,JPN,26.7871321013,85,593,6-2 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,
 2015-D007,Davis Cup WG R1: CAN vs JPN,Hard,4,D,20150306,2,105453,,,Kei Nishikori,R,178,JPN,25.1718001369,4,5415,105577,,,Vasek Pospisil,R,193,CAN,24.6899383984,62,785,6-4 7-6(5) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
 2015-D007,Davis Cup WG R1: CAN vs JPN,Hard,4,D,20150306,4,105453,,,Kei Nishikori,R,178,JPN,25.1718001369,4,5415,105683,,,Milos Raonic,R,196,CAN,24.1779603012,6,4980,3-6 6-3 6-4 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,
