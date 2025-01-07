@@ -1,4 +1,11 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced
+1980-D043,Davis Cup WG SF: MEX vs VEN,Clay,4,D,19791207,1,L057,,,Marcelo Lara,R,,MEX,32.172,260,31,H064,,,Humphrey Hose,R,,VEN,32.594,,,6-3 3-6 6-3 8-6,5,RR,,,,,,,,,,,,,,,,,,,
+1980-D043,Davis Cup WG SF: MEX vs VEN,Clay,4,D,19791207,2,R065,,,Raul Ramirez,R,183,MEX,26.464,39,305,A061,,,Jorge Andrew,R,511,VEN,28.096,306,39,6-2 8-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1980-D043,Davis Cup WG SF: MEX vs VEN,Clay,4,D,19791207,3,L057,,,Marcelo Lara,R,,MEX,32.172,260,31,A061,,,Jorge Andrew,R,511,VEN,28.096,306,39,6-4 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1980-D043,Davis Cup WG SF: MEX vs VEN,Clay,4,D,19791207,4,H064,,,Humphrey Hose,R,,VEN,32.594,,,O052,,,Javier Ordaz,R,,MEX,,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1980-D011,Davis Cup SAM SF: BRA vs CHI,,4,D,19791214,1,K036,,,Thomaz Koch,L,,BRA,34.593,,,F024,,,Jaime Fillol Sr.,U,180,CHI,33.530459,121,167,7-5 6-3 1-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1980-D011,Davis Cup SAM SF: BRA vs CHI,,4,D,19791214,2,G015,,,Hans Gildemeister,R,183,CHI,23.844,14,406,K009,,,Carlos Kirmayr,R,173,BRA,29.224,56,272,6-4 6-2 2-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1980-D011,Davis Cup SAM SF: BRA vs CHI,,4,D,19791214,3,K009,,,Carlos Kirmayr,R,173,BRA,29.224,56,272,A002,,,Ricardo Acuna,R,175,CHI,21.916,310,19,6-3 6-1 5-7 7-5,5,RR,,,,,,,,,,,,,,,,,,,
 1980-713,Hobart,Hard,32,A,19791231,1,P026,1,,Henry Pfister,R,193,USA,26.226,30,461,F028,,Q,John Fitzgerald,R,183,AUS,19.006,305,20,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,
 1980-713,Hobart,Hard,32,A,19791231,2,R072,,,Terry Rocavert,R,180,AUS,24.194,146,90,P076,,,Glenn Petrovic,R,,USA,22.828,202,49,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,
 1980-713,Hobart,Hard,32,A,19791231,3,C164,,,Jeremy Cohen,R,,USA,,294,22,L062,,,Cliff Letcher,R,,AUS,27.89,254,39,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,
