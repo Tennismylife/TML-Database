@@ -264,8 +264,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,7-6(5) RET,5,SF,81,8,1,38,29,24,7,6,3,3,5,0,54,29,21,15,6,5,5
 2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,6-3 7-6(4) 6-3,5,F,162,6,2,95,57,48,24,15,0,0,12,2,95,65,45,15,15,8,10
 2025-375,Montpellier,Hard,28,A,20250127,,K0AZ,,Q,Aleksandar Kovacevic,R,193,USA,26.415,102,577,GB88,6,,David Goffin,R,180,BEL,34.14,56,994,6-2 3-6 6-4,3,R32,114,9,5,83,46,38,16,14,4,6,8,1,75,45,34,16,13,3,6
-2025-375,Montpellier,Hard,28,A,20250127,,BG23,,Q,Nikoloz Basilashvili,R,185,GEO,32.926,178,323,K926,,,Mikhail Kukushkin,R,183,KAZ,37.09,112,541,6-3 3-6 5-0,3,R32,104,8,1,71,38,30,17,12,2,4,8,0,69,38,22,16,11,4,8
-2025-375,Montpellier,Hard,28,A,20250127,,D0C1,,,Jesper de Jong,R,180,NLD,22.979,131,466,HB64,,WC,Quentin Halys,R,183,FRA,28.255,74,756,7-6(7) 2-0,3,R32,72,6,3,46,25,21,15,7,0,0,11,4,51,30,25,8,7,1,2
+2025-375,Montpellier,Hard,28,A,20250127,,BG23,,Q,Nikoloz Basilashvili,R,185,GEO,32.926,178,323,K926,,,Mikhail Kukushkin,R,183,KAZ,37.09,112,541,6-3 3-6 5-0 RET,3,R32,104,8,1,71,38,30,17,12,2,4,8,0,69,38,22,16,11,4,8
+2025-375,Montpellier,Hard,28,A,20250127,,D0C1,,,Jesper de Jong,R,180,NLD,22.979,131,466,HB64,,WC,Quentin Halys,R,183,FRA,28.255,74,756,7-6(7) 2-0 RET,3,R32,72,6,3,46,25,21,15,7,0,0,11,4,51,30,25,8,7,1,2
 2025-375,Montpellier,Hard,28,A,20250127,,GJ37,5,,Tallon Griekspoor,R,191,NLD,28.573,46,1190,V812,,,Botic van de Zandschulp,R,196,NLD,28.203,84,672,7-5 6-3,3,R32,95,8,2,77,47,34,13,11,5,7,4,10,57,28,21,10,10,0,4
 2025-375,Montpellier,Hard,28,A,20250127,,RC91,7,,Arthur Rinderknech,R,188,FRA,29.515,61,924,M0G4,,,Harold Mayot,R,180,FRA,22.979,130,472,7-6(2) 2-6 6-1,3,R32,130,16,7,106,61,48,21,14,14,16,5,1,75,51,41,11,13,1,3
 2025-375,Montpellier,Hard,28,A,20250127,,B0GG,,,Mattia Bellucci,R,175,ITA,23.658,98,605,PF39,,,Lucas Pouille,L,185,FRA,30.926,104,575,6-4 6-4,3,R32,100,8,1,70,40,34,14,10,10,10,6,5,69,34,31,11,10,7,9
@@ -283,7 +283,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-375,Montpellier,Hard,28,A,20250127,,AG37,2,,Felix Auger-Aliassime,R,193,CAN,32.888,23,1855,C0H0,,,Arthur Cazaux,R,183,FRA,22.43,101,582,6-4 7-6(5),3,R16,107,11,2,55,43,36,7,11,0,1,5,3,72,47,31,13,11,4,6
 2025-375,Montpellier,Hard,28,A,20250127,,BK92,4,,Alexander Bublik,R,193,KAZ,27.614,39,1330,KE73,,,Dominik Koepfer,L,185,GER,30.748,118,515,6-4 6-2,3,R16,70,10,5,59,41,31,9,9,3,4,1,2,53,31,22,8,9,2,6
 2025-375,Montpellier,Hard,28,A,20250127,,Y09V,8,,Yunchaokete Bu,R,185,CHN,29.334,71,787,LB66,,Q,Constant Lestienne,R,183,FRA,32.682,177,323,6-2 6-1,3,R16,63,9,0,39,22,19,11,7,1,1,4,4,61,32,22,7,8,9,14
-2025-375,Montpellier,Hard,28,A,20250127,,RE44,1/WC,,Andrey Rublev,R,188,RUS,27.271,10,3130,BG23,,Q,Nikoloz Basilashvili,R,185,GEO,32.926,178,323,5-2,3,QF,26,7,0,18,10,9,6,3,0,0,4,1,21,8,6,6,4,0,2
+2025-375,Montpellier,Hard,28,A,20250127,,RE44,1/WC,,Andrey Rublev,R,188,RUS,27.271,10,3130,BG23,,Q,Nikoloz Basilashvili,R,185,GEO,32.926,178,323,5-2 RET,3,QF,26,7,0,18,10,9,6,3,0,0,4,1,21,8,6,6,4,0,2
 2025-375,Montpellier,Hard,28,A,20250127,,AG37,2,,Felix Auger-Aliassime,R,193,CAN,32.888,23,1855,Y09V,8,,Yunchaokete Bu,R,185,CHN,29.334,71,787,6-3 6-4,3,QF,83,11,0,51,35,30,11,10,0,0,3,0,53,27,22,13,9,3,5
 2025-375,Montpellier,Hard,28,A,20250127,,K0AZ,,Q,Aleksandar Kovacevic,R,193,USA,26.415,102,577,BK92,4,,Alexander Bublik,R,193,KAZ,27.614,39,1330,6-3 6-2,3,QF,76,4,0,59,37,31,11,9,8,8,12,7,65,37,28,9,8,6,9
 2025-375,Montpellier,Hard,28,A,20250127,,D0C1,,,Jesper de Jong,R,180,NLD,22.979,131,466,GJ37,5,,Tallon Griekspoor,R,191,NLD,28.573,46,1190,7-6(5) 6-4,3,QF,106,8,1,80,55,44,14,11,6,6,12,3,68,43,35,14,11,2,3
