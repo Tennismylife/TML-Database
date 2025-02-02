@@ -1,266 +1,292 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced
-2024-9900,United Cup,Hard,18,A,20241229,,CD85,,,Pablo Carreno Busta,R,183,ESP,33.5,196,292,S0H2,,,Alexander Shevchenko,R,188,UKR,24.1,78,715,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,Z371,,,Zhizhen Zhang,R,193,CHN,28.2,45,1155,MJ08,,,Thiago Monteiro,L,180,BRA,30.6,109,566,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,TE51,,,Stefanos Tsitsipas,R,193,GRC,26.4,11,3165,CD85,,,Pablo Carreno Busta,R,183,ESP,33.5,196,292,6-4 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,CG80,,,Borna Coric,R,185,CRO,28.1,90,639,AG37,,,Felix Auger-Aliassime,R,193,CAN,28.1,29,1635,0-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,HH26,,,Ugo Humbert,L,188,FRA,26.5,14,2765,S0LA,,,Dominic Stricker,L,188,CHE,22.4,300,173,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,DH58,,,Alex de Minaur,L,180,AUS,28.7,9,3745,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.5,39,1315,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,AG37,,,Felix Auger-Aliassime,R,193,CAN,28.1,29,1635,FB98,,,Taylor Fritz,R,196,USA,27.2,4,5100,4-6 7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,C0E9,,,Flavio Cobolli,R,183,ITA,22.7,32,1472 ,S0LA,,,Dominic Stricker,L,188,CHE,22.4,300,173,6-3 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,RH16,,,Casper Ruud,R,180,NOR,26,6,4255,M0FH,,,Tomas Machac,R,185,CZE,24.2,25,1758,7-6(6) 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,Z355,,,Alexander Zverev,L,198,DEU,27.7,2,7915,MJ08,,,Thiago Monteiro,L,180,BRA,30.6,109,566,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,RH16,,,Casper Ruud,R,180,NOR,26,6,4255,HB71,,,Hubert Hurkacz,R,196,POL,27.9,16,2640,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,S0H2,,,Alexander Shevchenko,R,188,UKR,24.1,78,715,TE51,,,Stefanos Tsitsipas,R,193,GRC,26.4,11,3165,6-4 7-6(0),3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,Z355,,,Alexander Zverev,L,198,DEU,27.7,2,7915,Z371,,,Zhizhen Zhang,R,193,CHN,28.2,45,1155,2-6 6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.5,39,1315,HD68,,,Billy Harris,R,193,GBR,29.9,125,474,3-6 6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,FB98,,,Taylor Fritz,R,196,USA,27.2,4,5100,CG80,,,Borna Coric,R,185,CRO,28.1,90,639,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,C0E9,,,Flavio Cobolli,R,183,ITA,22.7,32,1472 ,HH26,,,Ugo Humbert,L,188,FRA,26.5,14,2765,3-6 7-6(8) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,FB98,,,Taylor Fritz,R,196,USA,27.2,4,5100,Z371,,,Zhizhen Zhang,R,193,CHN,28.2,45,1155,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,S0H2,,,Alexander Shevchenko,R,188,UKR,24.1,78,715,MN20,,,Daniel Masur,R,183,GER,30.1,254,217,6-7(5) 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,M0FH,,,Tomas Machac,R,185,CZE,24.2,25,1758,HB71,,,Hubert Hurkacz,R,196,POL,27.9,16,2640,7-5 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,DH58,,,Alex de Minaur,L,180,AUS,28.7,9,3745,HD68,,,Billy Harris,R,193,GBR,29.9,125,474,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,HB71,,,Hubert Hurkacz,R,196,POL,27.9,16,2640,HD68,,,Billy Harris,R,193,GBR,29.9,125,474,7-6(3) 7-5,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,M0FH,,,Tomas Machac,R,185,CZE,24.2,25,1758,C0E9,,,Flavio Cobolli,R,183,ITA,22.7,32,1472 ,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,FB98,,,Taylor Fritz,R,196,USA,27.2,4,5100,M0FH,,,Tomas Machac,R,185,CZE,24.2,25,1758,6-7(4) 6-5 RET,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,HB71,,,Hubert Hurkacz,R,196,POL,27.9,16,2640,S0H2,,,Alexander Shevchenko,R,188,UKR,24.1,78,715,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
-2024-9900,United Cup,Hard,18,A,20241229,,FB98,,,Taylor Fritz,R,196,USA,27.2,4,5100,HB71,,,Hubert Hurkacz,R,196,POL,27.9,16,2640,6-4 5-7 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,V832,,,Aleksandar Vukic,R,196,AUS,28.7,68,778,GB88,,,David Goffin,R,180,BEL,34.1,52,1037,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,M0QL,,,Alex Michelsen,R,188,DEN,20.3,41,1245,O483,,,Christopher O'Connell,R,183,AUS,26,64,795,6-4 4-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,BM95,,,Benjamin Bonzi,R,180,FRA,28.6,75,730,TE30,,,Alejandro Tabilo,L,185,CHI,27.6,23,1943,6-7 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,N732,,,Yoshihito Nishioka,L,175,JPN,29.3,69,776,RC91,,,Arthur Rinderknech,R,188,FRA,29.4,59,927,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,TC61,,,Jordan Thompson,R,193,AUS,30.7,26,1745,BK40,,,Matteo Berrettini,R,196,ITA,28.7,34,1380,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,J551,,,Nicolas Jarry,R,201,CHI,29.2,35,1370,N0BS,,,Mariano Navone,R,180,ITA,23.8,47,1148,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,D875,,,Grigor Dimitrov,R,191,BUL,33.6,10,3350,H997,,,Yannick Hanfmann,R,193,GER,33.1,96,627,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,L0BV,,,Jiri Lehecka,R,185,CZE,23.1,28,1660,R0DG,,,Holger Rune,R,188,DNK,21.7,13,3025,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,O522,,,Reilly Opelka,R,211,USA,27.3,293,176,GJ16,,,Federico Agustin Gomez,R,191,ARG,28.1,137,442,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,A0FC,,,Matteo Arnaldi,R,185,ITA,23.8,37,1345,P09Z,,,Alexei Popyrin,R,196,AUS,25.4,24,1865,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,TD51,,,Frances Tiafoe,R,185,USA,26.9,18,2585,W09E,,,Adam Walton,R,185,USA,25.7,93,636,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,M0NI,,,Jakub Mensik,R,193,CZE,19.3,48,1136,K926,,,Mikhail Kukushkin,R,183,KAZ,37,113,542,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,L987,,,Dusan Lajovic,R,188,SRB,34.5,81,710,C0H0,,,Arthur Cazaux,R,183,FRA,22.4,63,807,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.5,31,1561,KE17,,,Nick Kyrgios,R,193,AUS,29.7,,,7-6 6-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,MC65,,,Gael Monfils,L,193,FRA,38.3,55,1005,B0NN,,,Nishesh Basavareddy,R,180,USA,19.7,138,440,6-4 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,D643,,,Novak Djokovic,R,188,SRB,37.6,7,3910,H0BH,,,Rinky Hijikata,R,178,AUS,23.8,73,746,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,L0BV,,,Jiri Lehecka,R,185,CZE,23.1,28,1660,N732,,,Yoshihito Nishioka,L,175,JPN,29.3,69,776,6-2 6-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,J551,,,Nicolas Jarry,R,201,CHI,29.2,35,1370,BM95,,,Benjamin Bonzi,R,180,FRA,28.6,75,730,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,D875,,,Grigor Dimitrov,R,191,BUL,33.6,10,3350,V832,,,Aleksandar Vukic,R,196,AUS,28.7,68,778,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,TC61,,,Jordan Thompson,R,193,AUS,30.7,26,1745,M0QL,,,Alex Michelsen,R,188,DEN,20.3,41,1245,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,M0NI,,,Jakub Mensik,R,193,CZE,19.3,48,1136,L987,,,Dusan Lajovic,R,188,SRB,34.5,81,710,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,O522,,,Reilly Opelka,R,211,USA,27.3,293,176,A0FC,,,Matteo Arnaldi,R,185,ITA,23.8,37,1345,7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.5,31,1561,TD51,,,Frances Tiafoe,R,185,USA,26.9,18,2585,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,D643,,,Novak Djokovic,R,188,SRB,37.6,7,3910,MC65,,,Gael Monfils,L,193,FRA,38.3,55,1005,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,L0BV,,,Jiri Lehecka,R,185,CZE,23.1,28,1660,J551,,,Nicolas Jarry,R,201,CHI,29.2,35,1370,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,D875,,,Grigor Dimitrov,R,191,BUL,33.6,10,3350,TC61,,,Jordan Thompson,R,193,AUS,30.7,26,1745,6-1 2-1 RET,3,QF,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.5,31,1561,M0NI,,,Jakub Mensik,R,193,CZE,19.3,48,1136,7-5 7-6,3,QF,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,O522,,,Reilly Opelka,R,211,USA,27.3,293,176,D643,,,Novak Djokovic,R,188,SRB,37.6,7,3910,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,L0BV,,,Jiri Lehecka,R,185,CZE,23.1,28,1660,D875,,,Grigor Dimitrov,R,191,BUL,33.6,10,3350,6-4 4-4 RET,3,SF,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,O522,,,Reilly Opelka,R,211,USA,27.3,293,176,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.5,31,1561,6-3 7-6,3,SF,,,,,,,,,,,,,,,,,,,
-2025-339,Brisbane,Hard,32,A,20241229,,L0BV,,,Jiri Lehecka,R,185,CZE,23.1,28,1660,O522,,,Reilly Opelka,R,211,USA,27.3,293,176,4-1 RET,3,F,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.3,54,1021,D0FJ,,,Luciano Darderi,R,183,ITA,22.9,44,1198,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,M0CI,,,Fabian Marozsan,R,185,HUN,25.2,58,935,SX50,,,Roman Safiullin,R,188,RUS,27.4,60,923,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,SU87,,,Lorenzo Sonego,R,183,ITA,29.6,53,1026,N0AE,,,Brandon Nakashima,R,185,USA,23.4,38,1335,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,N771,,,Cameron Norrie,L,188,GBR,29.4,49,1119,T0HA,,,Learn Tien,R,180,USA,35,122,493,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,BU13,,,Zizou Bergs,R,185,BEL,25.6,71,768,M0HT,,,Alejandro Moro Canas,L,187,ESP,24.1,169,345,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,HH06,,,Marc-Andrea Huesler,L,188,CHE,22.9,159,376,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,BT72,,,Nuno Borges,R,185,POR,27.9,36,1355,Y09V,,,Yunchaokete Bu,R,185,CHN,29.3,65,784,3-6 6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,MU94,,,Jaume Munar,R,180,ESP,27.7,62,832,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.6,61,845,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,MO44,,,Pedro Martinez,R,185,ESP,27.7,43,1205,P0CT,,,Francesco Passaro,R,180,ITA,24,108,570,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,N552,,,Kei Nishikori,R,175,JPN,35,106,578,SU55,,,Denis Shapovalov,L,191,CAN,25.7,56,981,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,D0F6,,,Gabriel Diallo,R,203,CAN,23.3,87,643,CF59,,,Roberto Carballes Bae,R,180,ESP,23.8,57,981,4-6 7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,W0BH,,,Coleman Wong,R,191,HKG,20.6,170,340,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,KI95,,,Miomir Kecmanovic,R,188,SRB,25.3,54,1021,5-7 7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,N771,,,Cameron Norrie,L,188,GBR,29.4,49,1119,SU87,,,Lorenzo Sonego,R,183,ITA,29.6,53,1026,6-2 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,F0F1,,,Arthur Fils,R,188,FRA,20.5,20,2355,BU13,,,Zizou Bergs,R,185,BEL,25.6,71,768,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,N552,,,Kei Nishikori,R,175,JPN,35,106,578,KE29,,,Karen Khachanov,R,190,RUS,28.6,19,2410,4-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,MU94,,,Jaume Munar,R,180,ESP,27.7,62,832,BT72,,,Nuno Borges,R,185,POR,27.9,36,1355,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,M0EJ,,,Lorenzo Musetti,L,185,ITA,22.8,17,2600,D0F6,,,Gabriel Diallo,R,203,CAN,23.3,87,643,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,MO44,,,Pedro Martinez,R,185,ESP,27.7,43,1205,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,M0CI,,,Fabian Marozsan,R,185,HUN,25.2,58,935,RE44,,,Andrey Rublev,R,188,RUS,27.2,8,3760,7-5 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,F0F1,,,Arthur Fils,R,188,FRA,20.5,20,2355,3-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,MU94,,,Jaume Munar,R,180,ESP,27.7,62,832,M0EJ,,,Lorenzo Musetti,L,185,ITA,22.8,17,2600,2-6 7-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,M0CI,,,Fabian Marozsan,R,185,HUN,25.2,58,935,1-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,N552,,,Kei Nishikori,R,175,JPN,35,106,578,N771,,,Cameron Norrie,L,188,GBR,29.4,49,1119,6-3 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,MU94,,,Jaume Munar,R,180,ESP,27.7,62,832,7-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,N552,,,Kei Nishikori,R,175,JPN,35,106,578,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,4-3 RET,3,SF,,,,,,,,,,,,,,,,,,,
-2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,N552,,,Kei Nishikori,R,175,JPN,35,106,578,2-6 6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,SU55,,,Denis Shapovalov,L,191,CAN,25.73,58,981,Z371,,,Zhizhen Zhang,R,193,CHN,28.225,47,1140,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.591,68,775,BD06,,,Roberto Bautista Agut,R,180,ESP,36.731,51,1067,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,O483,,,Christopher O'Connell,R,183,AUS,29.374,64,795,RC91,,,Arthur Rinderknech,R,188,FRA,29.459,60,927,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.742,77,716,N732,,,Yoshihito Nishioka,L,175,JPN,29.279,63,807,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,TC01,,,Li Tu,R,183,AUS,28.613,179,323,D994,,,James Duckworth,R,188,AUS,32.961,94,624,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,GH33,,,Manuel Guinard,L,198,FRA,29.144,261,209,SX50,,,Roman Safiullin,R,188,RUS,27.417,62,823,7-6 6-1 6-6,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,GC88,,,Marcos Giron,R,180,USA,31.455,45,1150,V832,,,Aleksandar Vukic,R,196,AUS,28.753,67,778,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.352,55,1021,BK92,,,Alexander Bublik,R,193,KAZ,27.556,33,1420,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,C0H0,,,Arthur Cazaux,R,183,FRA,22.374,80,707,W09E,,,Adam Walton,R,185,USA,25.725,91,636,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,N0AE,,,Brandon Nakashima,R,185,USA,23.428,37,1335,H997,,,Yannick Hanfmann,R,193,GER,33.15,98,615,6-1 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,H0BH,,,Rinky Hijikata,R,178,AUS,23.869,79,712,GB88,,,David Goffin,R,180,BEL,34.084,53,1029,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.473,39,1315,S0N0,,,Tristan Schoolkate,R,183,AUS,23.86,173,336,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,AG37,,,Felix Auger-Aliassime,R,193,CAN,24.06,29,1680,C0H0,,,Arthur Cazaux,R,183,FRA,22.374,80,707,1-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,GC88,,,Marcos Giron,R,180,USA,31.455,45,1150,SU55,,,Denis Shapovalov,L,191,CAN,25.73,58,981,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.352,55,1021,O483,,,Christopher O'Connell,R,183,AUS,29.374,64,795,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,H0BH,,,Rinky Hijikata,R,178,AUS,23.869,79,712,N0AE,,,Brandon Nakashima,R,185,USA,23.428,37,1335,6-2 3-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,BM95,,,Benjamin Bonzi,R,180,FRA,28.578,70,762,TC01,,,Li Tu,R,183,AUS,28.613,179,323,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,K0AH,,,Sebastian Korda,R,196,USA,24.507,22,1985,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.591,68,775,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,PL56,,,Tommy Paul,R,188,USA,27.641,12,3145,GH33,,,Manuel Guinard,L,198,FRA,29.144,261,209,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.742,77,716,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.473,39,1315,7-5 4-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,PL56,,,Tommy Paul,R,188,USA,27.641,12,3145,H0BH,,,Rinky Hijikata,R,178,AUS,23.869,79,712,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,AG37,,,Felix Auger-Aliassime,R,193,CAN,24.06,29,1680,GC88,,,Marcos Giron,R,180,USA,31.455,45,1150,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.352,55,1021,BM95,,,Benjamin Bonzi,R,180,FRA,28.578,70,762,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,K0AH,,,Sebastian Korda,R,196,USA,24.507,22,1985,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.742,77,716,W/O,3,QF,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,AG37,,,Felix Auger-Aliassime,R,193,CAN,24.06,29,1680,PL56,,,Tommy Paul,R,188,USA,27.641,12,3145,7-6 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,K0AH,,,Sebastian Korda,R,196,USA,24.507,22,1985,KI95,,,Miomir Kecmanovic,R,188,SRB,25.352,55,1021,6-3 7-6,3,SF,,,,,,,,,,,,,,,,,,,
-2025-8998,Adelaide,Hard,28,A,20250106,,AG37,,,Felix Auger-Aliassime,R,193,CAN,24.06,29,1680,K0AH,,,Sebastian Korda,R,196,USA,24.507,22,1985,6-3 3-6 6-1,3,F,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,BT72,,,Nuno Borges,R,185,POR,27.88,36,1370,D0FJ,,,Luciano Darderi,R,183,ITA,22.894,44,1198,5-7 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,CF59,,,Roberto Carballes Bae,R,180,ESP,36.731,59,981,AE14,,,Daniel Altmaier,R,188,GER,26.319,93,625,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,B0HY,,,Isaac Becroft.,R,180,NZL,38.349,980,15,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,M0QL,,,Alex Michelsen,R,188,DEN,20.367,41,1245,N897,,,Sumit Nagal,R,183,IND,27.392,96,622,6-7 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,N0BS,,,Mariano Navone,R,180,ITA,23.858,46,1148,ME82,,,Adrian Mannarino,L,180,FRA,36.523,73,744,7-6 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,N0BG,,,Luca Nardi,R,185,ITA,21.421,90,637,C0E9,,,Flavio Cobolli,R,183,ITA,22.672,32,1512,6-2 1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,SU87,,,Lorenzo Sonego,R,183,ITA,29.659,54,1026,D0F6,,,Gabriel Diallo,R,203,CAN,23.285,87,646,7-6 2-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.06,78,714,N771,,,Cameron Norrie,L,188,GBR,29.374,48,1124,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,L,193,FRA,38.349,52,1030,MO44,,,Pedro Martinez,R,185,ESP,27.699,43,1220,1-6 7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,SL28,,,Jan-Lennard Struff,R,196,GER,32.961,42,1225,Y09V,,,Yunchaokete Bu,R,185,CHN,29.279,65,784,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,B0NN,,,Nishesh Basavareddy,R,180,USA,19.682,133,453,C0DF,,,Francisco Comesana,L,180,ARG,24.252,85,661,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,M0NI,,,Jakub Mensik,R,193,CZE,19.348,49,1122,CD85,,,Pablo Carreno Busta,R,183,ESP,33.489,184,317,6-0 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,B0NN,,,Nishesh Basavareddy,R,180,USA,19.682,133,453,TE30,,,Alejandro Tabilo,L,185,CHI,27.598,23,1943,6-4 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,N0BG,,,Luca Nardi,R,185,ITA,21.421,90,637,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,M0QL,,,Alex Michelsen,R,188,DEN,20.367,41,1245,SU87,,,Lorenzo Sonego,R,183,ITA,29.659,54,1026,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.06,78,714,B0BI,,,Sebastian Baez,R,178,ARG,24.025,28,1690,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,CF59,,,Roberto Carballes Bae,R,180,ESP,36.731,59,981,C0AU,,,Francisco Cerundolo,L,180,ARG,26.401,31,1620,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,L,193,FRA,38.349,52,1030,SL28,,,Jan-Lennard Struff,R,196,GER,32.961,42,1225,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,BT72,,,Nuno Borges,R,185,POR,27.88,36,1370,N0BS,,,Mariano Navone,R,180,ITA,23.858,46,1148,4-6 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,M0NI,,,Jakub Mensik,R,193,CZE,19.348,49,1122,S0S1,,,Ben Shelton,R,198,USA,22.245,21,2330,7-6 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,B0NN,,,Nishesh Basavareddy,R,180,USA,19.682,133,453,M0QL,,,Alex Michelsen,R,188,DEN,20.367,41,1245,2-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,L,193,FRA,38.349,52,1030,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.06,78,714,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,CF59,,,Roberto Carballes Bae,R,180,ESP,36.731,59,981,1-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,BT72,,,Nuno Borges,R,185,POR,27.88,36,1370,M0NI,,,Jakub Mensik,R,193,CZE,19.348,49,1122,6-7 6-2 7-6,3,QF,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,L,193,FRA,38.349,52,1030,B0NN,,,Nishesh Basavareddy,R,180,USA,19.682,133,453,7-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,BT72,,,Nuno Borges,R,185,POR,27.88,36,1370,6-2 3-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,
-2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,L,193,FRA,38.349,52,1030,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,FB98,4,,Taylor Fritz,R,196,USA,27.211,4,5350,B0CD,,,Jenson Brooksby,R,193,USA,24.216,,,6-2 6-0 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,MM58,5,,Daniil Medvedev,R,193,RUS,28.921,5,5030,S0HR,,WC,Kasidit Samrej,R,191,THA,23.981,418,109,6-2 4-6 3-6 6-1 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,DH58,8,,Alex de Minaur,L,180,AUS,28.773,8,3535,V812,,,Botic van de Zandschulp,R,196,NLD,28.164,84,672,6-1 7-5 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,F0FV,,Q,Joao Fonseca,R,185,BRA,18.397,112,520,RE44,9,,Andrey Rublev,R,188,RUS,27.233,9,3520,7-6(1) 6-3 7-6(5),5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,R0DG,13,,Holger Rune,R,188,DNK,21.71,13,2910,Z371,,,Zhizhen Zhang,R,193,CHN,28.244,49,1140,4-6 6-3 6-4 3-6 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0EJ,16,,Lorenzo Musetti,L,185,ITA,22.866,15,2600,A0FC,,,Matteo Arnaldi,R,185,ITA,23.891,39,1305,7-6(4) 4-6 7-6(5) 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,HB71,18,,Hubert Hurkacz,R,196,POL,27.921,17,2555,GJ37,,,Tallon Griekspoor,R,191,NLD,28.534,40,1280,7-5 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,KE29,19,,Karen Khachanov,R,190,RUS,28.649,19,2410,ME82,,,Adrian Mannarino,L,180,FRA,36.542,75,751,7-6(5) 6-3 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,N0AE,,,Brandon Nakashima,R,185,USA,23.447,35,1355,7-6(3) 7-5 7-5,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,MW02,,,Corentin Moutet,L,180,FRA,25.737,69,772,P09Z,25,,Alexei Popyrin,R,196,AUS,25.441,24,1840,4-6 6-3 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,MC65,,,Gael Monfils,L,193,FRA,38.367,41,1280,M0GZ,30,,Giovanni Mpetshi Perricard,R,203,BEL,21.518,30,1651,7-6(7) 6-3 6-7(6) 6-7(5) 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,C0AU,31,,Francisco Cerundolo,L,180,ARG,26.419,31,1620,BK92,,,Alexander Bublik,R,193,KAZ,27.575,37,1330,7-6(1) 6-3 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.49,38,1315,C0E9,32,,Flavio Cobolli,R,183,ITA,22.69,32,1512,6-7(8) 6-3 7-5 6-1,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,AE14,,,Daniel Altmaier,R,188,GER,26.337,101,582,C0DF,,,Francisco Comesana,L,180,ARG,24.271,85,662,6-2 3-6 7-6(4) 4-6 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,BK40,,,Matteo Berrettini,R,196,ITA,28.756,34,1380,N771,,,Cameron Norrie,L,188,GBR,29.392,52,1082,6-7(4) 6-4 6-1 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,B0EJ,,Q,Tristan Boyer,R,188, USA,23.732,136,448,CE77,,,Federico Coria,R,180,ARG,32.849,96,617,6-3 6-7(3) 4-6 7-5 6-1,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,CD85,,,Pablo Carreno Busta,R,183,ESP,33.507,182,317,MQ75,,Q,Kamil Majchrzak,R,180,POL,29,122,491,6-4 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D0F6,,,Gabriel Diallo,R,203,CAN,23.304,86,646,N0BG,,,Luca Nardi,R,185,ITA,21.438,83,675,6-7(1) 7-6(3) 5-7 6-1 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.079,73,758,BU13,,,Zizou Bergs,R,185,BEL,25.614,60,948,6-7(5) 6-4 1-6 6-3 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,GD64,,Q,Cristian Garin,R,180,CHI,28.625,150,382,CG80,,,Borna Coric,R,185,CRO,28.164,87,639,7-5 6-1 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,GC88,,,Marcos Giron,R,180,USA,31.474,46,1175,H997,,,Yannick Hanfmann,R,193,GER,33.167,95,618,2-6 7-5 6-1 7-5,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.37,51,1096,L987,,,Dusan Lajovic,R,188,SRB,34.54,80,717,7-5 3-6 6-3 3-6 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,KC12,,Q,Mitchell Krueger,R,188,USA,31.003,146,396,H0BH,,,Rinky Hijikata,R,178,AUS,23.888,72,759,6-4 6-4 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,SU55,,,Denis Shapovalov,L,191,CAN,25.748,56,1006,BD06,,,Roberto Bautista Agut,R,180,ESP,36.751,53,1067,3-6 6-4 6-4 7-6(8),5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,SU87,,,Lorenzo Sonego,R,183,ITA,29.677,55,1026,W367,,WC,Stan Wawrinka,R,183,CHE,39.797,156,371,6-4 5-7 7-5 7-5,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,T0HA,,Q,Learner Tien,L,180,USA,19.115,121,493,U182,,,Camilo Ugo Carabelli,R,185,ARG,25.575,94,624,4-6 7-6(3) 6-3 5-7 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,J551,,,Nicolas Jarry,R,201,CHI,29.258,36,1340,7-6(2) 7-6(5) 6-1,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,A0E2,3,,Carlos Alcaraz,R,185,ESP,21.693,3,7010,S0H2,,,Alexander Shevchenko,R,188,UKR,24.123,77,743,6-1 7-5 6-1,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,B0NN,,WC,Nishesh Basavareddy,R,180,USA,19.701,107,566,4-6 6-3 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,P0CT,,LL,Francesco Passaro,R,180,ITA,24.016,104,571,D875,10,,Grigor Dimitrov,R,191,BUL,33.663,10,3200,7-5 2-1 RET,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0QL,,,Alex Michelsen,R,188,DEN,20.386,42,1270,TE51,11,,Stefanos Tsitsipas,R,193,GRC,26.422,12,3195,7-5 6-3 2-6 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,O483,,,Christopher O'Connell,R,183,AUS,26.06,70,770,6-2 3-6 6-1 6-7(5) 7-5,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D0CO,15,,Jack Draper,L,193,GBR,23.06,18,2530,N0BS,,,Mariano Navone,R,180,ITA,23.877,47,1173,4-6 6-3 3-6 6-3 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,TD51,17,,Frances Tiafoe,R,185,USA,26.981,16,2560,RC91,,,Arthur Rinderknech,R,188,FRA,29.477,61,927,7-6(2) 6-3 4-6 6-7(4) 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,K0AH,22,,Sebastian Korda,R,196,USA,24.526,22,2065,KI63,,Q,Lukas Klein,R,193,CZE,26.814,144,405,6-3 0-6 6-3 7-6(6),5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,CF59,,,Roberto Carballes Baena,R,183,ESP,31.811,57,981,TE30,23,,Alejandro Tabilo,L,185,CHI,27.616,26,1705,1-6 6-2 6-3 7-6(1),5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,TC61,27,,Jordan Thompson,R,193,AUS,30.734,27,1695,KE73,,Q,Dominik Koepfer,L,185,GER,30.71,124,485,7-6(3) 6-4 4-6 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,C0H0,,,Arthur Cazaux,R,183,FRA,22.392,78,732,B0BI,28,,Sebastian Baez,R,178,ARG,24.044,28,1690,6-3 5-7 3-6 6-0 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,AG37,29,,Felix Auger-Aliassime,R,193,CAN,32.849,23,1905,SL28,,,Jan-Lennard Struff,R,196,GER,32.978,43,1240,6-3 6-0 4-6 6-1,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,BM95,,,Benjamin Bonzi,R,180,FRA,28.597,64,819,GB88,,,David Goffin,R,180,BEL,34.101,54,1029,6-1 6-2 7-6(7),5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,BT72,,,Nuno Borges,R,185,POR,27.899,33,1445,MP20,,,Alexandre Muller,R,183,FRA,27.948,58,965,6-7(2) 6-3 6-2 7-5,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.608,66,790,S0RE,,,Juncheng Shang,R,180,CHN,19.945,50,1115,7-6(1) 5-2,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D994,,,James Duckworth,R,188,AUS,32.978,89,637,S0LA,,,Dominic Stricker,L,188,CHE,22.411,304,173,6-2 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,F0F2,,Q,Jaime Faria,R,188,POR,21.438,125,481,K09F,,,Pavel Kotov,R,185,RUS,26.153,97,612,6-1 6-1 7-5,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,F0BY,,,Jacob Fearnley,R,183,GBR,23.499,92,632,KE17,,,Nick Kyrgios,R,193,AUS,29.715,,,7-6(3) 6-3 7-6(2),5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.762,71,766,SX50,,,Roman Safiullin,R,188,RUS,27.436,63,823,3-6 6-3 6-3 7-6(5),5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0CI,,,Fabian Marozsan,R,185,HUN,25.266,59,960,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.847,79,732,6-3 6-7(5) 7-5 5-7 7-5,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0OQ,,WC,James McCabe,R,188,AUS,32.978,258,216,L0IL,,Q,Martin Landaluce,R,193,ESP,19.014,142,414,6-4 6-3 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0NI,,,Jakub Mensik,R,193,CZE,19.367,48,1162,BG23,,Q,Nikoloz Basilashvili,R,185,GEO,32.888,206,273,6-1 6-7(3) 6-3 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,N732,,,Yoshihito Nishioka,L,175,JPN,29.296,65,807,DF88,,Q,Aziz Dougaz,L,188,TUN,27.803,231,254,3-6 6-4 7-6(3) 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0N0,,WC,Tristan Schoolkate,R,183,AUS,23.88,173,336,DA81,,,Taro Daniel,R,191,JPN,31.962,113,519,6-7(6) 7-6(4) 6-1 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,V832,,,Aleksandar Vukic,R,196,AUS,28.773,68,778,D923,,,Damir Dzumhur,R,183,BIH,32.652,82,679,6-7(3) 6-0 3-6 6-3 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,PF39,,WC,Lucas Pouille,L,185,FRA,30.888,103,575,6-4 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,RH16,6,,Casper Ruud,R,180,NOR,26.06,6,4210,MU94,,,Jaume Munar,R,180,ESP,27.693,62,922,6-3 1-6 7-5 2-6 6-1,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,G0GD,,Q,Matteo Gigante,L,180,ITA,23.025,145,403,7-6(5) 7-5 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,F0F1,20,,Arthur Fils,R,188,FRA,20.589,21,2280,V0AM,,,Otto Virtanen,R,193,FIN,23.564,93,627,3-6 7-6(4) 6-4 6-4,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,TC01,,WC,Li Tu,R,183,AUS,28.633,168,342,6-1 3-6 6-3 7-6(1),5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0FH,26,,Tomas Machac,R,185,CZE,24.252,25,1805,N897,,,Sumit Nagal,R,183,IND,27.411,91,635,6-3 6-1 7-5,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,G09O,,,Hugo Gaston,L,178,FRA,24.299,81,703,J553,,WC,Omar Jasika,L,183,AUS,27.658,179,323,6-2 3-6 6-2 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,HF80,,Q,Hady Habib,R,188,LBN,26.397,219,264,Y09V,,,Yunchaokete Bu,R,185,CHN,29.296,67,784,7-6(4) 6-4 7-6(6),5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,HB64,,,Quentin Halys,R,183,FRA,28.216,74,756,W09E,,,Adam Walton,R,185,USA,25.742,90,636,4-6 4-6 6-4 7-6(4) 7-5,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,MO44,,,Pedro Martinez,R,185,ESP,27.718,44,1220,D0FJ,,,Luciano Darderi,R,183,ITA,22.913,45,1198,6-3 4-1 RET,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,N552,,,Kei Nishikori,R,175,JPN,35.041,76,743,MJ08,,Q,Thiago Monteiro,L,180,BRA,30.622,105,566,4-6 6-7(4) 7-5 6-2 6-3,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,O522,,,Reilly Opelka,R,211,USA,27.378,170,341,O0A2,,Q,Gauthier Onclin,R,180,BEL,23.88,239,242,3-6 7-6(4) 6-3 6-2,5,R128,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,S0N0,,WC,Tristan Schoolkate,R,183,AUS,23.88,173,336,4-6 6-4 6-1 6-3,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,FB98,4,,Taylor Fritz,R,196,USA,27.211,4,5350,GD64,,Q,Cristian Garin,R,180,CHI,28.625,150,382,6-2 6-1 6-0,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,T0HA,,Q,Learner Tien,L,180,USA,19.115,121,493,MM58,5,,Daniil Medvedev,R,193,RUS,28.921,5,5030,6-3 7-6(4) 6-7(8) 1-6 7-6(7),5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,DH58,8,,Alex de Minaur,L,180,AUS,28.773,8,3535,B0EJ,,Q,Tristan Boyer,R,188, USA,23.732,136,448,6-2 6-4 6-3,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,R0DG,13,,Holger Rune,R,188,DNK,21.71,13,2910,BK40,,,Matteo Berrettini,R,196,ITA,28.756,34,1380,7-6(3) 2-6 6-3 7-6(6),5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0EJ,16,,Lorenzo Musetti,L,185,ITA,22.866,15,2600,SU55,,,Denis Shapovalov,L,191,CAN,25.748,56,1006,7-6(3) 7-6(6) 6-2,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0CI,,,Fabian Marozsan,R,185,HUN,25.266,59,960,TD51,17,,Frances Tiafoe,R,185,USA,26.981,16,2560,6-7(3) 6-4 3-6 6-4 6-1,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.37,51,1096,HB71,18,,Hubert Hurkacz,R,196,POL,27.921,17,2555,6-4 6-4 6-2,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,KE29,19,,Karen Khachanov,R,190,RUS,28.649,19,2410,D0F6,,,Gabriel Diallo,R,203,CAN,23.304,86,646,7-6(4) 4-6 6-3 6-3,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,CD85,,,Pablo Carreno Busta,R,183,ESP,33.507,182,317,6-3 6-3 6-7(4) 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,C0AU,31,,Francisco Cerundolo,L,180,ARG,26.419,31,1620,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.079,73,758,6-2 1-0 RET,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,GC88,,,Marcos Giron,R,180,USA,31.474,46,1175,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.49,38,1315,7-5 3-6 7-5 3-6 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0QL,,,Alex Michelsen,R,188,DEN,20.386,42,1270,M0OQ,,WC,James McCabe,R,188,AUS,32.978,258,216,7-5 6-3 7-6(4),5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,MC65,,,Gael Monfils,L,193,FRA,38.367,41,1280,AE14,,,Daniel Altmaier,R,188,GER,26.337,101,582,7-5 6-3 7-6(3),5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,MW02,,,Corentin Moutet,L,180,FRA,25.737,69,772,KC12,,Q,Mitchell Krueger,R,188,USA,31.003,146,396,4-6 6-4 7-6(3) 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,SU87,,,Lorenzo Sonego,R,183,ITA,29.677,55,1026,F0FV,,Q,Joao Fonseca,R,185,BRA,18.397,112,520,6-7(6) 6-3 6-1 3-6 6-3,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,MO44,,,Pedro Martinez,R,185,ESP,27.718,44,1220,6-1 6-4 6-1,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,A0E2,3,,Carlos Alcaraz,R,185,ESP,21.693,3,7010,N732,,,Yoshihito Nishioka,L,175,JPN,29.296,65,807,6-0 6-1 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0NI,,,Jakub Mensik,R,193,CZE,19.367,48,1162,RH16,6,,Casper Ruud,R,180,NOR,26.06,6,4210,6-2 3-6 6-1 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,F0F2,,Q,Jaime Faria,R,188,POR,21.438,125,481,6-1 6-7(4) 6-3 6-2,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,N552,,,Kei Nishikori,R,175,JPN,35.041,76,743,6-7(3) 6-0 6-3 6-1,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,HF80,,Q,Hady Habib,R,188,LBN,26.397,219,264,6-3 6-4 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D0CO,15,,Jack Draper,L,193,GBR,23.06,18,2530,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.762,71,766,6-7(3) 6-3 3-6 7-5 6-3,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,F0F1,20,,Arthur Fils,R,188,FRA,20.589,21,2280,HB64,,,Quentin Halys,R,183,FRA,28.216,74,756,6-2 4-6 7-6(2) 7-5,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,V832,,,Aleksandar Vukic,R,196,AUS,28.773,68,778,K0AH,22,,Sebastian Korda,R,196,USA,24.526,22,2065,6-4 3-6 2-6 6-3 7-5,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,G09O,,,Hugo Gaston,L,178,FRA,24.299,81,703,6-3 3-1 RET,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0FH,26,,Tomas Machac,R,185,CZE,24.252,25,1805,O522,,,Reilly Opelka,R,211,USA,27.378,170,341,3-6 7-6(1) 6-7(5) 7-6(4) 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,BT72,,,Nuno Borges,R,185,POR,27.899,33,1445,TC61,27,,Jordan Thompson,R,193,AUS,30.734,27,1695,6-3 6-2 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.608,66,790,AG37,29,,Felix Auger-Aliassime,R,193,CAN,32.849,23,1905,6-7(7) 6-7(5) 6-4 6-1 6-3,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,BM95,,,Benjamin Bonzi,R,180,FRA,28.597,64,819,P0CT,,LL,Francesco Passaro,R,180,ITA,24.016,104,571,6-2 6-4 3-6 6-4,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,CF59,,,Roberto Carballes Baena,R,183,ESP,31.811,57,981,D994,,,James Duckworth,R,188,AUS,32.978,89,637,6-4 6-2 7-5,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,F0BY,,,Jacob Fearnley,R,183,GBR,23.499,92,632,C0H0,,,Arthur Cazaux,R,183,FRA,22.392,78,732,3-6 7-5 6-2 6-3,5,R64,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,GC88,,,Marcos Giron,R,180,USA,31.474,46,1175,6-3 6-4 6-2,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,MC65,,,Gael Monfils,L,193,FRA,38.367,41,1280,FB98,4,,Taylor Fritz,R,196,USA,27.211,4,5350,3-6 7-5 7-6(1) 6-4,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,DH58,8,,Alex de Minaur,L,180,AUS,28.773,8,3535,C0AU,31,,Francisco Cerundolo,L,180,ARG,26.419,31,1620,5-7 7-6(3) 6-3 6-3,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,R0DG,13,,Holger Rune,R,188,DNK,21.71,13,2910,KI95,,,Miomir Kecmanovic,R,188,SRB,25.37,51,1096,6-7(5) 6-3 4-6 6-4 6-4,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,M0EJ,16,,Lorenzo Musetti,L,185,ITA,22.866,15,2600,6-3 3-6 6-4 7-6(5),5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,M0QL,,,Alex Michelsen,R,188,DEN,20.386,42,1270,KE29,19,,Karen Khachanov,R,190,RUS,28.649,19,2410,6-3 7-6(5) 6-2,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,SU87,,,Lorenzo Sonego,R,183,ITA,29.677,55,1026,M0CI,,,Fabian Marozsan,R,185,HUN,25.266,59,960,6-7(3) 7-6(6) 6-1 6-2,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,T0HA,,Q,Learner Tien,L,180,USA,19.115,121,493,MW02,,,Corentin Moutet,L,180,FRA,25.737,69,772,7-6(10) 6-3 6-3,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,F0BY,,,Jacob Fearnley,R,183,GBR,23.499,92,632,6-3 6-4 6-4,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,A0E2,3,,Carlos Alcaraz,R,185,ESP,21.693,3,7010,BT72,,,Nuno Borges,R,185,POR,27.899,33,1445,6-2 6-4 6-7(3) 6-2,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,M0FH,26,,Tomas Machac,R,185,CZE,24.252,25,1805,6-1 6-4 6-4,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,CF59,,,Roberto Carballes Baena,R,183,ESP,31.811,57,981,7-6(0) 6-2 6-0,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,F0F1,20,,Arthur Fils,R,188,FRA,20.589,21,2280,4-6 7-5 6-4 1-0 RET,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D0CO,15,,Jack Draper,L,193,GBR,23.06,18,2530,V832,,,Aleksandar Vukic,R,196,AUS,28.773,68,778,6-4 2-6 5-7 7-6(5) 7-6(8),5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,BM95,,,Benjamin Bonzi,R,180,FRA,28.597,64,819,6-2 6-3 6-3,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.608,66,790,M0NI,,,Jakub Mensik,R,193,CZE,19.367,48,1162,3-6 4-6 7-6(7) 6-4 6-2,5,R32,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,R0DG,13,,Holger Rune,R,188,DNK,21.71,13,2910,6-3 3-6 6-3 6-2,5,R16,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,DH58,8,,Alex de Minaur,L,180,AUS,28.773,8,3535,M0QL,,,Alex Michelsen,R,188,DEN,20.386,42,1270,6-0 7-6(5) 6-3,5,R16,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,MC65,,,Gael Monfils,L,193,FRA,38.367,41,1280,7-6(3) 6-7(3) 7-6(2) 1-0 RET,5,R16,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,SU87,,,Lorenzo Sonego,R,183,ITA,29.677,55,1026,T0HA,,Q,Learner Tien,L,180,USA,19.115,121,493,6-3 6-2 3-6 6-1,5,R16,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,6-1 2-6 6-3 6-2,5,R16,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,A0E2,3,,Carlos Alcaraz,R,185,ESP,21.693,3,7010,D0CO,15,,Jack Draper,L,193,GBR,23.06,18,2530,7-5 6-1 RET,5,R16,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,6-3 6-4 7-6(4),5,R16,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.608,66,790,6-1 6-1 6-1,5,R16,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,DH58,8,,Alex de Minaur,L,180,AUS,28.773,8,3535,6-3 6-2 6-1,5,QF,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,SU87,,,Lorenzo Sonego,R,183,ITA,29.677,55,1026,6-4 7-5 4-6 7-6(4),5,QF,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,7-6(1) 7-6(0) 2-6 6-1,5,QF,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,A0E2,3,,Carlos Alcaraz,R,185,ESP,21.693,3,7010,4-6 6-4 6-3 6-4,5,QF,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,7-6(2) 6-2 6-2,5,SF,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,7-6(5) RET,5,SF,,,,,,,,,,,,,,,,,,,
-2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,6-3 7-6(4) 6-3,5,F,,,,,,,,,,,,,,,,,,,
-
+2025-9900,United Cup,Hard,18,A,20241229,,CD85,,,Pablo Carreno Busta,R,183,ESP,33.5,196,292,S0H2,,,Alexander Shevchenko,R,188,UKR,24.1,78,715,6-2 6-1,3,RR,64,3,0,40,27,21,9,8,1,2,3,4,42,24,14,4,7,2,7
+2025-9900,United Cup,Hard,18,A,20241229,,Z371,,,Zhizhen Zhang,R,193,CHN,28.2,45,1155,MJ08,,,Thiago Monteiro,L,180,BRA,30.6,109,566,6-3 6-0,3,RR,54,10,0,39,30,26,7,8,0,0,3,2,35,22,13,3,7,1,5
+2025-9900,United Cup,Hard,18,A,20241229,,TE51,,,Stefanos Tsitsipas,R,193,GRC,26.4,11,3165,CD85,,,Pablo Carreno Busta,R,183,ESP,33.5,196,292,6-4 4-6 6-3,3,RR,128,13,6,84,49,40,19,15,1,3,2,3,92,70,48,9,14,6,9
+2025-9900,United Cup,Hard,18,A,20241229,,CG80,,,Borna Coric,R,185,CRO,28.1,90,639,AG37,,,Felix Auger-Aliassime,R,193,CAN,28.1,29,1635,0-6 6-4 6-4,3,RR,139,1,6,81,40,26,17,13,5,10,13,3,90,67,43,11,13,8,12
+2025-9900,United Cup,Hard,18,A,20241229,,HH26,,,Ugo Humbert,L,188,FRA,26.5,14,2765,S0LA,,,Dominic Stricker,L,188,CHE,22.4,300,173,6-3 7-5,3,RR,72,10,2,51,34,30,10,11,0,1,10,1,56,34,27,10,10,1,4
+2025-9900,United Cup,Hard,18,A,20241229,,DH58,,,Alex de Minaur,L,180,AUS,28.7,9,3745,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.5,39,1315,6-1 6-4,3,RR,76,8,2,51,26,23,15,9,0,0,2,1,47,28,20,7,8,3,6
+2025-9900,United Cup,Hard,18,A,20241229,,AG37,,,Felix Auger-Aliassime,R,193,CAN,28.1,29,1635,FB98,,,Taylor Fritz,R,196,USA,27.2,4,5100,4-6 7-5 6-3,3,RR,139,19,4,89,59,47,15,16,2,4,13,1,92,58,42,16,15,1,4
+2025-9900,United Cup,Hard,18,A,20241229,,C0E9,,,Flavio Cobolli,R,183,ITA,22.7,32,1472,S0LA,,,Dominic Stricker,L,188,CHE,22.4,300,173,6-3 7-6(2),3,RR,89,5,3,67,36,27,22,10,5,5,6,0,62,45,33,7,11,0,2
+2025-9900,United Cup,Hard,18,A,20241229,,RH16,,,Casper Ruud,R,180,NOR,26,6,4255,M0FH,,,Tomas Machac,R,185,CZE,24.2,25,1758,7-6(6) 5-7 6-4,3,RR,174,12,6,116,75,56,19,17,6,9,7,13,111,70,50,17,17,2,5
+2025-9900,United Cup,Hard,18,A,20241229,,Z355,,,Alexander Zverev,L,198,DEU,27.7,2,7915,MJ08,,,Thiago Monteiro,L,180,BRA,30.6,109,566,6-4 6-4,3,RR,77,11,3,51,32,29,11,10,0,0,5,1,53,32,24,11,10,2,4
+2025-9900,United Cup,Hard,18,A,20241229,,RH16,,,Casper Ruud,R,180,NOR,26,6,4255,HB71,,,Hubert Hurkacz,R,196,POL,27.9,16,2640,7-5 6-3,3,RR,83,4,0,61,44,34,12,11,2,2,8,0,58,40,28,8,10,4,6
+2025-9900,United Cup,Hard,18,A,20241229,,S0H2,,,Alexander Shevchenko,R,188,UKR,24.1,78,715,TE51,,,Stefanos Tsitsipas,R,193,GRC,26.4,11,3165,6-4 7-6(0),3,RR,112,2,3,70,45,31,19,11,1,2,7,4,77,42,30,16,11,2,4
+2025-9900,United Cup,Hard,18,A,20241229,,Z355,,,Alexander Zverev,L,198,DEU,27.7,2,7915,Z371,,,Zhizhen Zhang,R,193,CHN,28.2,45,1155,2-6 6-0 6-2,3,RR,125,6,3,66,47,36,8,11,3,5,3,1,78,48,31,11,11,4,9
+2025-9900,United Cup,Hard,18,A,20241229,,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.5,39,1315,HD68,,,Billy Harris,R,193,GBR,29.9,125,474,3-6 6-3 6-2,3,RR,164,10,1,93,61,44,18,13,8,9,9,4,90,50,37,18,13,6,9
+2025-9900,United Cup,Hard,18,A,20241229,,FB98,,,Taylor Fritz,R,196,USA,27.2,4,5100,CG80,,,Borna Coric,R,185,CRO,28.1,90,639,6-3 6-2,3,RR,91,5,1,56,28,22,17,9,2,2,3,5,54,27,19,11,8,4,7
+2025-9900,United Cup,Hard,18,A,20241229,,C0E9,,,Flavio Cobolli,R,183,ITA,22.7,32,1472,HH26,,,Ugo Humbert,L,188,FRA,26.5,14,2765,3-6 7-6(8) 6-2,3,RR,126,11,0,89,57,41,21,14,2,4,10,2,83,46,36,24,15,1,4
+2025-9900,United Cup,Hard,18,A,20241229,,FB98,,,Taylor Fritz,R,196,USA,27.2,4,5100,Z371,,,Zhizhen Zhang,R,193,CHN,28.2,45,1155,6-4 6-4,3,RR,79,8,1,44,33,30,10,10,0,0,8,0,72,48,36,9,10,7,9
+2025-9900,United Cup,Hard,18,A,20241229,,S0H2,,,Alexander Shevchenko,R,188,UKR,24.1,78,715,MN20,,,Daniel Masur,R,183,GER,30.1,254,217,6-7(5) 6-2 6-2,3,RR,133,11,4,84,57,42,16,14,4,5,3,2,104,72,44,15,14,8,13
+2025-9900,United Cup,Hard,18,A,20241229,,M0FH,,,Tomas Machac,R,185,CZE,24.2,25,1758,HB71,,,Hubert Hurkacz,R,196,POL,27.9,16,2640,7-5 3-6 6-4,3,RR,115,8,5,83,52,43,14,15,2,3,14,3,85,55,40,21,16,3,5
+2025-9900,United Cup,Hard,18,A,20241229,,DH58,,,Alex de Minaur,L,180,AUS,28.7,9,3745,HD68,,,Billy Harris,R,193,GBR,29.9,125,474,6-2 6-1,3,RR,76,6,2,40,19,17,13,7,3,3,3,1,56,36,17,9,8,2,7
+2025-9900,United Cup,Hard,18,A,20241229,,HB71,,,Hubert Hurkacz,R,196,POL,27.9,16,2640,HD68,,,Billy Harris,R,193,GBR,29.9,125,474,7-6(3) 7-5,3,RR,105,18,0,67,51,45,9,12,3,3,7,2,79,54,42,12,12,2,3
+2025-9900,United Cup,Hard,18,A,20241229,,M0FH,,,Tomas Machac,R,185,CZE,24.2,25,1758,C0E9,,,Flavio Cobolli,R,183,ITA,22.7,32,1472,6-1 6-2,3,RR,54,9,2,43,27,23,11,8,0,0,1,4,35,19,10,6,7,0,4
+2025-9900,United Cup,Hard,18,A,20241229,,FB98,,,Taylor Fritz,R,196,USA,27.2,4,5100,M0FH,,,Tomas Machac,R,185,CZE,24.2,25,1758,6-7(4) 6-5 RET,3,RR,111,15,3,79,57,43,9,11,8,10,5,2,79,52,35,14,12,1,4
+2025-9900,United Cup,Hard,18,A,20241229,,HB71,,,Hubert Hurkacz,R,196,POL,27.9,16,2640,S0H2,,,Alexander Shevchenko,R,188,UKR,24.1,78,715,6-3 6-2,3,RR,58,10,0,46,35,28,8,9,0,0,1,1,49,34,18,9,8,1,4
+2025-9900,United Cup,Hard,18,A,20241229,,FB98,,,Taylor Fritz,R,196,USA,27.2,4,5100,HB71,,,Hubert Hurkacz,R,196,POL,27.9,16,2640,6-4 5-7 7-6(4),3,RR,138,13,3,96,62,51,20,17,0,1,17,0,96,64,51,20,17,1,2
+2025-339,Brisbane,Hard,32,A,20241229,,V832,,,Aleksandar Vukic,R,196,AUS,28.7,68,778,GB88,,,David Goffin,R,180,BEL,34.1,52,1037,6-2 6-3,3,R32,82,11,1,57,31,25,15,9,3,3,3,2,61,35,18,15,8,2,5
+2025-339,Brisbane,Hard,32,A,20241229,,M0QL,,,Alex Michelsen,R,188,DEN,20.3,41,1245,O483,,,Christopher O'Connell,R,183,AUS,26,64,795,6-4 4-6 7-6,3,R32,144,7,2,92,49,38,25,16,3,6,13,3,101,56,47,21,16,2,5
+2025-339,Brisbane,Hard,32,A,20241229,,BM95,,,Benjamin Bonzi,R,180,FRA,28.6,75,730,TE30,,,Alejandro Tabilo,L,185,CHI,27.6,23,1943,6-7 7-6 6-4,3,R32,168,15,2,110,72,57,23,17,3,4,18,7,125,84,66,16,17,5,7
+2025-339,Brisbane,Hard,32,A,20241229,,N732,,,Yoshihito Nishioka,L,175,JPN,29.3,69,776,RC91,,,Arthur Rinderknech,R,188,FRA,29.4,59,927,6-3 6-4,3,R32,74,1,0,50,31,28,13,10,0,0,6,1,51,31,23,11,9,1,3
+2025-339,Brisbane,Hard,32,A,20241229,,TC61,,,Jordan Thompson,R,193,AUS,30.7,26,1745,BK40,,,Matteo Berrettini,R,196,ITA,28.7,34,1380,3-6 6-3 6-4,3,R32,134,6,4,93,56,41,16,14,2,4,8,1,76,49,41,13,14,2,5
+2025-339,Brisbane,Hard,32,A,20241229,,J551,,,Nicolas Jarry,R,201,CHI,29.2,35,1370,N0BS,,,Mariano Navone,R,180,ITA,23.8,47,1148,7-5 7-6,3,R32,108,7,1,75,47,39,17,12,3,4,10,1,77,49,37,15,12,1,3
+2025-339,Brisbane,Hard,32,A,20241229,,D875,,,Grigor Dimitrov,R,191,BUL,33.6,10,3350,H997,,,Yannick Hanfmann,R,193,GER,33.1,96,627,7-6 6-3,3,R32,107,9,3,63,38,33,10,10,2,3,4,3,95,64,40,14,11,7,10
+2025-339,Brisbane,Hard,32,A,20241229,,L0BV,,,Jiri Lehecka,R,185,CZE,23.1,28,1660,R0DG,,,Holger Rune,R,188,DNK,21.7,13,3025,7-5 6-3,3,R32,84,5,1,68,43,29,14,10,7,9,1,2,62,40,21,11,11,1,6
+2025-339,Brisbane,Hard,32,A,20241229,,O522,,,Reilly Opelka,R,211,USA,27.3,293,176,GJ16,,,Federico Agustin Gomez,R,191,ARG,28.1,137,442,7-5 6-4,3,R32,75,9,1,49,29,27,17,11,0,0,7,2,62,41,31,11,11,3,5
+2025-339,Brisbane,Hard,32,A,20241229,,A0FC,,,Matteo Arnaldi,R,185,ITA,23.8,37,1345,P09Z,,,Alexei Popyrin,R,196,AUS,25.4,24,1865,6-3 6-2,3,R32,69,7,3,54,24,17,21,9,2,2,5,2,41,29,19,5,8,0,3
+2025-339,Brisbane,Hard,32,A,20241229,,TD51,,,Frances Tiafoe,R,185,USA,26.9,18,2585,W09E,,,Adam Walton,R,185,USA,25.7,93,636,7-6 6-3,3,R32,90,13,1,66,46,37,11,11,3,4,13,4,66,38,30,11,10,2,4
+2025-339,Brisbane,Hard,32,A,20241229,,M0NI,,,Jakub Mensik,R,193,CZE,19.3,48,1136,K926,,,Mikhail Kukushkin,R,183,KAZ,37,113,542,7-6 6-4,3,R32,94,13,2,68,42,33,15,11,1,2,2,3,76,47,30,17,11,2,4
+2025-339,Brisbane,Hard,32,A,20241229,,L987,,,Dusan Lajovic,R,188,SRB,34.5,81,710,C0H0,,,Arthur Cazaux,R,183,FRA,22.4,63,807,6-4 6-4,3,R32,101,1,1,61,41,27,15,10,8,9,8,6,81,46,33,13,10,7,10
+2025-339,Brisbane,Hard,32,A,20241229,,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.5,31,1561,KE17,,,Nick Kyrgios,R,193,AUS,29.7,,,7-6 6-7 7-6,3,R32,147,36,7,111,73,65,24,18,2,2,15,0,107,81,67,18,18,2,2
+2025-339,Brisbane,Hard,32,A,20241229,,MC65,,,Gael Monfils,L,193,FRA,38.3,55,1005,B0NN,,,Nishesh Basavareddy,R,180,USA,19.7,138,440,6-4 4-6 6-1,3,R32,109,18,0,77,52,40,13,14,4,7,4,1,74,49,34,9,13,2,7
+2025-339,Brisbane,Hard,32,A,20241229,,D643,,,Novak Djokovic,R,188,SRB,37.6,7,3910,H0BH,,,Rinky Hijikata,R,178,AUS,23.8,73,746,6-3 6-3,3,R32,74,12,0,47,31,25,12,9,0,0,7,1,54,37,22,8,9,2,5
+2025-339,Brisbane,Hard,32,A,20241229,,L0BV,,,Jiri Lehecka,R,185,CZE,23.1,28,1660,N732,,,Yoshihito Nishioka,L,175,JPN,29.3,69,776,6-2 6-7 6-4,3,R16,139,17,3,81,51,45,17,15,2,3,3,3,107,75,49,16,15,8,12
+2025-339,Brisbane,Hard,32,A,20241229,,J551,,,Nicolas Jarry,R,201,CHI,29.2,35,1370,BM95,,,Benjamin Bonzi,R,180,FRA,28.6,75,730,6-2 6-3,3,R16,65,10,0,43,30,27,6,9,0,1,4,2,51,35,18,9,8,3,7
+2025-339,Brisbane,Hard,32,A,20241229,,D875,,,Grigor Dimitrov,R,191,BUL,33.6,10,3350,V832,,,Aleksandar Vukic,R,196,AUS,28.7,68,778,6-2 7-6,3,R16,83,12,1,53,33,31,13,10,0,0,5,4,74,44,31,15,10,8,10
+2025-339,Brisbane,Hard,32,A,20241229,,TC61,,,Jordan Thompson,R,193,AUS,30.7,26,1745,M0QL,,,Alex Michelsen,R,188,DEN,20.3,41,1245,7-5 6-3,3,R16,102,3,1,60,37,28,15,10,6,7,4,2,65,46,29,9,11,3,7
+2025-339,Brisbane,Hard,32,A,20241229,,M0NI,,,Jakub Mensik,R,193,CZE,19.3,48,1136,L987,,,Dusan Lajovic,R,188,SRB,34.5,81,710,6-3 6-2,3,R16,65,4,0,51,38,27,9,9,2,3,5,1,55,43,21,6,8,5,9
+2025-339,Brisbane,Hard,32,A,20241229,,O522,,,Reilly Opelka,R,211,USA,27.3,293,176,A0FC,,,Matteo Arnaldi,R,185,ITA,23.8,37,1345,7-6 7-6,3,R16,116,25,6,86,58,49,13,12,1,2,8,2,75,40,34,21,12,1,2
+2025-339,Brisbane,Hard,32,A,20241229,,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.5,31,1561,TD51,,,Frances Tiafoe,R,185,USA,26.9,18,2585,6-4 7-6,3,R16,92,20,4,75,50,40,11,11,2,2,6,2,72,38,31,16,11,2,3
+2025-339,Brisbane,Hard,32,A,20241229,,D643,,,Novak Djokovic,R,188,SRB,37.6,7,3910,MC65,,,Gael Monfils,L,193,FRA,38.3,55,1005,6-3 6-3,3,R16,72,5,1,52,34,26,12,9,1,1,4,4,48,34,21,6,9,0,3
+2025-339,Brisbane,Hard,32,A,20241229,,L0BV,,,Jiri Lehecka,R,185,CZE,23.1,28,1660,J551,,,Nicolas Jarry,R,201,CHI,29.2,35,1370,6-4 6-4,3,QF,89,10,2,66,39,31,14,10,5,5,8,2,62,39,28,11,10,3,5
+2025-339,Brisbane,Hard,32,A,20241229,,D875,,,Grigor Dimitrov,R,191,BUL,33.6,10,3350,TC61,,,Jordan Thompson,R,193,AUS,30.7,26,1745,6-1 2-1 RET,3,QF,43,1,1,31,21,19,5,5,0,0,1,1,26,12,7,6,5,1,4
+2025-339,Brisbane,Hard,32,A,20241229,,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.5,31,1561,M0NI,,,Jakub Mensik,R,193,CZE,19.3,48,1136,7-5 7-6,3,QF,92,19,2,72,47,37,18,12,0,0,10,5,78,48,38,16,12,1,2
+2025-339,Brisbane,Hard,32,A,20241229,,O522,,,Reilly Opelka,R,211,USA,27.3,293,176,D643,,,Novak Djokovic,R,188,SRB,37.6,7,3910,7-6 6-3,3,QF,100,16,1,64,49,38,13,11,1,1,8,1,73,53,38,12,10,4,5
+2025-339,Brisbane,Hard,32,A,20241229,,L0BV,,,Jiri Lehecka,R,185,CZE,23.1,28,1660,D875,,,Grigor Dimitrov,R,191,BUL,33.6,10,3350,6-4 4-4 RET,3,SF,83,4,3,52,26,22,17,9,0,0,6,2,49,32,24,12,9,1,2
+2025-339,Brisbane,Hard,32,A,20241229,,O522,,,Reilly Opelka,R,211,USA,27.3,293,176,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.5,31,1561,6-3 7-6,3,SF,86,12,2,64,45,38,13,11,4,4,10,5,69,48,38,9,10,1,2
+2025-339,Brisbane,Hard,32,A,20241229,,L0BV,,,Jiri Lehecka,R,185,CZE,23.1,28,1660,O522,,,Reilly Opelka,R,211,USA,27.3,293,176,4-1 RET,3,F,13,3,0,15,10,10,2,3,0,0,0,0,9,9,4,0,2,0,1
+2025-336,Hong Kong,Hard,28,A,20241229,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.3,54,1021,D0FJ,,,Luciano Darderi,R,183,ITA,22.9,44,1198,6-3 6-3,3,R32,67,9,1,57,39,32,8,9,2,2,9,1,53,35,22,10,9,6,9
+2025-336,Hong Kong,Hard,28,A,20241229,,M0CI,,,Fabian Marozsan,R,185,HUN,25.2,58,935,SX50,,,Roman Safiullin,R,188,RUS,27.4,60,923,6-1 7-6,3,R32,93,6,3,70,41,30,14,10,1,5,4,3,72,47,29,8,9,10,16
+2025-336,Hong Kong,Hard,28,A,20241229,,SU87,,,Lorenzo Sonego,R,183,ITA,29.6,53,1026,N0AE,,,Brandon Nakashima,R,185,USA,23.4,38,1335,7-6 6-3,3,R32,90,5,1,61,38,34,17,11,0,0,6,0,56,39,33,10,10,1,2
+2025-336,Hong Kong,Hard,28,A,20241229,,N771,,,Cameron Norrie,L,188,GBR,29.4,49,1119,T0HA,,,Learner Tien,R,180,USA,35,122,493,6-3 7-5,3,R32,98,11,1,78,60,38,8,11,5,7,6,5,69,42,27,11,10,5,9
+2025-336,Hong Kong,Hard,28,A,20241229,,BU13,,,Zizou Bergs,R,185,BEL,25.6,71,768,M0HT,,,Alejandro Moro Canas,L,187,ESP,24.1,169,345,6-4 6-4,3,R32,91,11,1,54,38,31,11,10,1,2,2,3,78,48,31,12,10,6,9
+2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,HH06,,,Marc-Andrea Huesler,L,188,CHE,22.9,159,376,2-6 6-4 6-3,3,R32,125,9,2,93,73,48,10,14,6,9,8,3,81,40,34,15,13,5,8
+2025-336,Hong Kong,Hard,28,A,20241229,,BT72,,,Nuno Borges,R,185,POR,27.9,36,1355,Y09V,,,Yunchaokete Bu,R,185,CHN,29.3,65,784,3-6 6-3 7-6,3,R32,134,9,4,81,55,46,14,15,2,4,17,1,107,65,51,20,15,9,11
+2025-336,Hong Kong,Hard,28,A,20241229,,MU94,,,Jaume Munar,R,180,ESP,27.7,62,832,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.6,61,845,4-6 6-3 6-3,3,R32,117,6,4,78,49,36,19,14,2,4,2,4,76,39,25,21,14,2,6
+2025-336,Hong Kong,Hard,28,A,20241229,,MO44,,,Pedro Martinez,R,185,ESP,27.7,43,1205,P0CT,,,Francesco Passaro,R,180,ITA,24,108,570,6-4 6-4,3,R32,89,3,1,63,45,35,10,10,3,3,5,2,55,38,30,8,10,4,6
+2025-336,Hong Kong,Hard,28,A,20241229,,N552,,,Kei Nishikori,R,175,JPN,35,106,578,SU55,,,Denis Shapovalov,L,191,CAN,25.7,56,981,6-2 6-3,3,R32,58,4,0,50,35,29,9,9,2,2,7,5,52,27,18,12,8,4,7
+2025-336,Hong Kong,Hard,28,A,20241229,,D0F6,,,Gabriel Diallo,R,203,CAN,23.3,87,643,CF59,,,Roberto Carballes Baena,R,180,ESP,23.8,57,981,4-6 7-6 7-5,3,R32,169,9,2,117,85,57,19,17,10,13,9,6,104,65,52,16,17,5,8
+2025-336,Hong Kong,Hard,28,A,20241229,,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,W0BH,,,Coleman Wong,R,191,HKG,20.6,170,340,7-6 6-4,3,R32,89,4,1,59,33,29,20,11,0,0,17,1,76,52,41,9,11,6,7
+2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,KI95,,,Miomir Kecmanovic,R,188,SRB,25.3,54,1021,5-7 7-6 7-6,3,R16,210,9,2,122,86,61,16,18,5,10,4,5,139,83,57,26,18,5,9
+2025-336,Hong Kong,Hard,28,A,20241229,,N771,,,Cameron Norrie,L,188,GBR,29.4,49,1119,SU87,,,Lorenzo Sonego,R,183,ITA,29.6,53,1026,6-2 4-6 6-1,3,R16,144,4,1,70,52,37,13,12,2,3,7,0,75,52,38,7,13,4,9
+2025-336,Hong Kong,Hard,28,A,20241229,,F0F1,,,Arthur Fils,R,188,FRA,20.5,20,2355,BU13,,,Zizou Bergs,R,185,BEL,25.6,71,768,7-6 6-4,3,R16,100,6,2,67,39,32,15,11,0,2,5,2,71,46,34,11,11,2,5
+2025-336,Hong Kong,Hard,28,A,20241229,,N552,,,Kei Nishikori,R,175,JPN,35,106,578,KE29,,,Karen Khachanov,R,190,RUS,28.6,19,2410,4-6 6-3 7-5,3,R16,129,1,1,90,62,43,17,16,5,8,7,5,90,59,41,14,15,3,7
+2025-336,Hong Kong,Hard,28,A,20241229,,MU94,,,Jaume Munar,R,180,ESP,27.7,62,832,BT72,,,Nuno Borges,R,185,POR,27.9,36,1355,6-3 7-5,3,R16,83,5,0,57,35,30,11,11,0,1,2,4,59,36,26,10,10,1,4
+2025-336,Hong Kong,Hard,28,A,20241229,,M0EJ,,,Lorenzo Musetti,L,185,ITA,22.8,17,2600,D0F6,,,Gabriel Diallo,R,203,CAN,23.3,87,643,6-4 6-3,3,R16,86,6,3,49,37,30,7,9,2,2,6,2,70,49,32,9,10,7,10
+2025-336,Hong Kong,Hard,28,A,20241229,,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,MO44,,,Pedro Martinez,R,185,ESP,27.7,43,1205,6-3 6-1,3,R16,77,9,2,54,40,32,5,8,6,6,5,6,49,33,23,2,8,3,7
+2025-336,Hong Kong,Hard,28,A,20241229,,M0CI,,,Fabian Marozsan,R,185,HUN,25.2,58,935,RE44,,,Andrey Rublev,R,188,RUS,27.2,8,3760,7-5 3-6 6-3,3,R16,118,5,2,103,67,45,15,15,10,13,10,3,85,53,39,15,15,5,9
+2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,F0F1,,,Arthur Fils,R,188,FRA,20.5,20,2355,3-6 6-3 6-1,3,QF,111,3,1,89,57,41,14,12,11,13,3,9,69,31,21,19,13,3,8
+2025-336,Hong Kong,Hard,28,A,20241229,,MU94,,,Jaume Munar,R,180,ESP,27.7,62,832,M0EJ,,,Lorenzo Musetti,L,185,ITA,22.8,17,2600,2-6 7-6 7-5,3,QF,156,2,4,102,69,47,17,16,7,11,9,4,102,69,54,11,16,4,7
+2025-336,Hong Kong,Hard,28,A,20241229,,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,M0CI,,,Fabian Marozsan,R,185,HUN,25.2,58,935,1-6 6-3 6-4,3,QF,104,9,4,77,57,44,6,13,4,6,6,2,81,55,43,11,13,6,8
+2025-336,Hong Kong,Hard,28,A,20241229,,N552,,,Kei Nishikori,R,175,JPN,35,106,578,N771,,,Cameron Norrie,L,188,GBR,29.4,49,1119,6-3 3-6 6-2,3,QF,101,4,1,75,55,43,9,13,1,2,8,3,79,55,38,11,13,2,5
+2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,MU94,,,Jaume Munar,R,180,ESP,27.7,62,832,7-6 6-4,3,SF,145,4,3,94,62,47,20,16,2,4,6,2,99,73,54,16,16,2,4
+2025-336,Hong Kong,Hard,28,A,20241229,,N552,,,Kei Nishikori,R,175,JPN,35,106,578,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,4-3 RET,3,SF,20,3,0,22,13,10,7,4,0,0,3,0,15,12,9,3,3,0,0
+2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,N552,,,Kei Nishikori,R,175,JPN,35,106,578,2-6 6-1 6-3,3,F,103,2,1,77,60,44,7,12,4,6,4,1,75,48,28,14,12,4,8
+2025-8998,Adelaide,Hard,28,A,20250106,,SU55,,,Denis Shapovalov,L,191,CAN,25.73,58,981,Z371,,,Zhizhen Zhang,R,193,CHN,28.225,47,1140,6-3 6-4,3,R32,67,9,4,54,32,31,12,10,0,0,4,2,53,30,21,14,9,3,5
+2025-8998,Adelaide,Hard,28,A,20250106,,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.591,68,775,BD06,,,Roberto Bautista Agut,R,180,ESP,36.731,51,1067,7-5 6-2,3,R32,103,5,3,74,44,32,15,10,1,2,1,5,70,44,28,11,10,5,9
+2025-8998,Adelaide,Hard,28,A,20250106,,O483,,,Christopher O'Connell,R,183,AUS,29.374,64,795,RC91,,,Arthur Rinderknech,R,188,FRA,29.459,60,927,7-5 7-6,3,R32,99,9,1,66,40,35,18,12,1,1,7,1,71,48,37,16,12,5,6
+2025-8998,Adelaide,Hard,28,A,20250106,,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.742,77,716,N732,,,Yoshihito Nishioka,L,175,JPN,29.279,63,807,6-3 3-6 6-3,3,R32,130,15,3,88,60,44,14,14,3,5,4,2,89,54,36,18,13,9,12
+2025-8998,Adelaide,Hard,28,A,20250106,,TC01,,,Li Tu,R,183,AUS,28.613,179,323,D994,,,James Duckworth,R,188,AUS,32.961,94,624,6-1 7-5,3,R32,73,6,2,59,35,29,13,9,5,5,1,3,53,35,24,8,10,2,6
+2025-8998,Adelaide,Hard,28,A,20250106,,GH33,,,Manuel Guinard,L,198,FRA,29.144,261,209,SX50,,,Roman Safiullin,R,188,RUS,27.417,62,823,7-6 6-1 6-6,3,R32,127,7,11,98,48,33,26,14,7,11,13,5,83,53,37,13,13,5,9
+2025-8998,Adelaide,Hard,28,A,20250106,,GC88,,,Marcos Giron,R,180,USA,31.455,45,1150,V832,,,Aleksandar Vukic,R,196,AUS,28.753,67,778,6-2 3-6 6-3,3,R32,103,4,0,72,41,29,22,13,2,4,8,3,89,58,40,12,13,4,8
+2025-8998,Adelaide,Hard,28,A,20250106,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.352,55,1021,BK92,,,Alexander Bublik,R,193,KAZ,27.556,33,1420,6-4 6-2,3,R32,62,2,4,49,36,28,7,9,0,1,8,12,64,33,24,10,9,8,12
+2025-8998,Adelaide,Hard,28,A,20250106,,C0H0,,,Arthur Cazaux,R,183,FRA,22.374,80,707,W09E,,,Adam Walton,R,185,USA,25.725,91,636,7-5 6-1,3,R32,102,9,8,73,38,28,19,10,9,10,4,1,58,37,20,9,9,5,9
+2025-8998,Adelaide,Hard,28,A,20250106,,N0AE,,,Brandon Nakashima,R,185,USA,23.428,37,1335,H997,,,Yannick Hanfmann,R,193,GER,33.15,98,615,6-1 2-6 6-3,3,R32,100,14,3,69,39,31,14,12,2,4,2,5,74,48,33,9,12,3,7
+2025-8998,Adelaide,Hard,28,A,20250106,,H0BH,,,Rinky Hijikata,R,178,AUS,23.869,79,712,GB88,,,David Goffin,R,180,BEL,34.084,53,1029,6-1 6-2,3,R32,72,4,3,57,29,21,16,8,4,5,3,0,44,20,11,9,7,4,9
+2025-8998,Adelaide,Hard,28,A,20250106,,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.473,39,1315,S0N0,,,Tristan Schoolkate,R,183,AUS,23.86,173,336,7-6 6-3,3,R32,111,4,1,71,42,33,19,11,3,3,14,1,65,36,31,13,10,1,2
+2025-8998,Adelaide,Hard,28,A,20250106,,AG37,,,Felix Auger-Aliassime,R,193,CAN,24.06,29,1680,C0H0,,,Arthur Cazaux,R,183,FRA,22.374,80,707,1-6 6-4 7-5,3,R16,153,12,5,83,54,39,14,14,4,6,8,3,100,54,38,24,15,7,9
+2025-8998,Adelaide,Hard,28,A,20250106,,GC88,,,Marcos Giron,R,180,USA,31.455,45,1150,SU55,,,Denis Shapovalov,L,191,CAN,25.73,58,981,7-5 6-2,3,R16,78,2,0,50,26,19,16,10,1,3,9,13,63,31,24,7,10,8,13
+2025-8998,Adelaide,Hard,28,A,20250106,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.352,55,1021,O483,,,Christopher O'Connell,R,183,AUS,29.374,64,795,7-6 6-2,3,R16,91,3,1,64,34,31,14,10,2,3,13,4,68,37,28,10,10,6,9
+2025-8998,Adelaide,Hard,28,A,20250106,,H0BH,,,Rinky Hijikata,R,178,AUS,23.869,79,712,N0AE,,,Brandon Nakashima,R,185,USA,23.428,37,1335,6-2 3-6 7-6,3,R16,121,6,5,86,49,38,24,14,3,4,17,2,84,62,48,12,15,3,5
+2025-8998,Adelaide,Hard,28,A,20250106,,BM95,,,Benjamin Bonzi,R,180,FRA,28.578,70,762,TC01,,,Li Tu,R,183,AUS,28.613,179,323,6-3 6-3,3,R16,85,3,3,63,33,23,15,9,8,10,4,1,58,32,15,11,9,3,8
+2025-8998,Adelaide,Hard,28,A,20250106,,K0AH,,,Sebastian Korda,R,196,USA,24.507,22,1985,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.591,68,775,6-3 6-3,3,R16,91,8,2,69,43,37,9,9,5,5,2,3,63,40,25,10,9,4,7
+2025-8998,Adelaide,Hard,28,A,20250106,,PL56,,,Tommy Paul,R,188,USA,27.641,12,3145,GH33,,,Manuel Guinard,L,198,FRA,29.144,261,209,6-4 3-6 6-3,3,R16,111,9,4,93,60,43,18,14,10,11,8,3,84,58,43,14,14,0,2
+2025-8998,Adelaide,Hard,28,A,20250106,,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.742,77,716,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.473,39,1315,7-5 4-6 7-6,3,R16,182,23,4,115,82,61,18,17,5,6,13,0,103,72,60,16,17,4,5
+2025-8998,Adelaide,Hard,28,A,20250106,,PL56,,,Tommy Paul,R,188,USA,27.641,12,3145,H0BH,,,Rinky Hijikata,R,178,AUS,23.869,79,712,6-3 6-4,3,QF,78,8,0,65,42,32,13,10,4,4,4,2,52,36,23,9,9,5,7
+2025-8998,Adelaide,Hard,28,A,20250106,,AG37,,,Felix Auger-Aliassime,R,193,CAN,24.06,29,1680,GC88,,,Marcos Giron,R,180,USA,31.455,45,1150,7-6 6-3,3,QF,100,11,3,76,54,43,10,10,9,9,2,1,72,37,24,20,11,6,8
+2025-8998,Adelaide,Hard,28,A,20250106,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.352,55,1021,BM95,,,Benjamin Bonzi,R,180,FRA,28.578,70,762,6-2 6-3,3,QF,64,12,0,48,33,29,8,9,1,1,2,1,54,31,19,12,8,2,5
+2025-8998,Adelaide,Hard,28,A,20250106,,K0AH,,,Sebastian Korda,R,196,USA,24.507,22,1985,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.742,77,716,W/O,3,QF,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2025-8998,Adelaide,Hard,28,A,20250106,,AG37,,,Felix Auger-Aliassime,R,193,CAN,24.06,29,1680,PL56,,,Tommy Paul,R,188,USA,27.641,12,3145,7-6 3-6 6-4,3,SF,164,8,4,110,70,52,14,16,8,12,7,3,94,52,36,25,15,5,8
+2025-8998,Adelaide,Hard,28,A,20250106,,K0AH,,,Sebastian Korda,R,196,USA,24.507,22,1985,KI95,,,Miomir Kecmanovic,R,188,SRB,25.352,55,1021,6-3 7-6,3,SF,79,13,3,68,44,37,14,11,0,0,2,2,61,46,34,9,10,0,1
+2025-8998,Adelaide,Hard,28,A,20250106,,AG37,,,Felix Auger-Aliassime,R,193,CAN,24.06,29,1680,K0AH,,,Sebastian Korda,R,196,USA,24.507,22,1985,6-3 3-6 6-1,3,F,109,10,4,72,41,34,20,13,4,5,7,4,81,50,35,11,12,7,10
+2025-301,Auckland,Hard,28,A,20250106,,BT72,,,Nuno Borges,R,185,POR,27.88,36,1370,D0FJ,,,Luciano Darderi,R,183,ITA,22.894,44,1198,5-7 6-3 7-5,3,R32,122,1,1,86,59,41,18,16,2,5,8,5,97,55,36,24,17,2,7
+2025-301,Auckland,Hard,28,A,20250106,,CF59,,,Roberto Carballes Baena,R,180,ESP,36.731,59,981,AE14,,,Daniel Altmaier,R,188,GER,26.319,93,625,6-3 3-6 7-5,3,R32,158,4,2,86,55,39,19,15,4,7,7,2,111,70,49,13,15,13,17
+2025-301,Auckland,Hard,28,A,20250106,,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,B0HY,,,Isaac Becroft,R,180,NZL,38.349,980,15,6-3 7-5,3,R32,88,9,2,70,38,32,16,11,3,4,1,2,53,35,22,10,10,1,4
+2025-301,Auckland,Hard,28,A,20250106,,M0QL,,,Alex Michelsen,R,188,DEN,20.367,41,1245,N897,,,Sumit Nagal,R,183,IND,27.392,96,622,6-7 6-4 6-2,3,R32,160,6,2,104,73,53,13,15,7,10,0,3,111,78,48,11,15,7,13
+2025-301,Auckland,Hard,28,A,20250106,,N0BS,,,Mariano Navone,R,180,ITA,23.858,46,1148,ME82,,,Adrian Mannarino,L,180,FRA,36.523,73,744,7-6 6-7 6-1,3,R32,187,5,7,116,72,51,21,16,3,7,3,4,112,58,35,29,15,10,16
+2025-301,Auckland,Hard,28,A,20250106,,N0BG,,,Luca Nardi,R,185,ITA,21.421,90,637,C0E9,,,Flavio Cobolli,R,183,ITA,22.672,32,1512,6-2 1-1 RET,3,R32,45,4,2,36,22,19,5,5,2,2,1,2,29,14,7,8,5,1,3
+2025-301,Auckland,Hard,28,A,20250106,,SU87,,,Lorenzo Sonego,R,183,ITA,29.659,54,1026,D0F6,,,Gabriel Diallo,R,203,CAN,23.285,87,646,7-6 2-6 7-6,3,R32,178,4,2,116,85,58,22,16,10,13,8,3,108,77,60,18,16,3,4
+2025-301,Auckland,Hard,28,A,20250106,,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.06,78,714,N771,,,Cameron Norrie,L,188,GBR,29.374,48,1124,6-2 6-3,3,R32,82,1,5,54,40,28,5,9,3,5,1,1,50,33,19,4,8,5,10
+2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,L,193,FRA,38.349,52,1030,MO44,,,Pedro Martinez,R,185,ESP,27.699,43,1220,1-6 7-6 6-3,3,R32,144,8,3,86,51,38,17,15,1,5,1,3,83,58,41,15,13,3,5
+2025-301,Auckland,Hard,28,A,20250106,,SL28,,,Jan-Lennard Struff,R,196,GER,32.961,42,1225,Y09V,,,Yunchaokete Bu,R,185,CHN,29.279,65,784,6-3 6-4,3,R32,81,13,1,50,31,26,12,10,0,1,6,1,73,45,29,11,9,8,11
+2025-301,Auckland,Hard,28,A,20250106,,B0NN,,,Nishesh Basavareddy,R,180,USA,19.682,133,453,C0DF,,,Francisco Comesana,L,180,ARG,24.252,85,661,6-2 6-2,3,R32,69,6,0,51,36,25,11,8,2,2,6,2,52,34,19,7,8,5,9
+2025-301,Auckland,Hard,28,A,20250106,,M0NI,,,Jakub Mensik,R,193,CZE,19.348,49,1122,CD85,,,Pablo Carreno Busta,R,183,ESP,33.489,184,317,6-0 4-6 7-5,3,R32,131,18,2,88,55,45,18,15,1,2,3,3,100,63,45,17,15,4,7
+2025-301,Auckland,Hard,28,A,20250106,,B0NN,,,Nishesh Basavareddy,R,180,USA,19.682,133,453,TE30,,,Alejandro Tabilo,L,185,CHI,27.598,23,1943,6-4 5-7 6-4,3,R16,145,9,2,99,66,48,19,16,6,7,12,2,108,73,53,18,16,11,13
+2025-301,Auckland,Hard,28,A,20250106,,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,N0BG,,,Luca Nardi,R,185,ITA,21.421,90,637,6-1 6-4,3,R16,81,7,2,47,26,21,12,9,3,5,3,6,69,34,19,13,8,7,12
+2025-301,Auckland,Hard,28,A,20250106,,M0QL,,,Alex Michelsen,R,188,DEN,20.367,41,1245,SU87,,,Lorenzo Sonego,R,183,ITA,29.659,54,1026,7-6 6-2,3,R16,117,1,2,70,50,39,11,10,3,3,6,1,89,71,45,8,10,8,10
+2025-301,Auckland,Hard,28,A,20250106,,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.06,78,714,B0BI,,,Sebastian Baez,R,178,ARG,24.025,28,1690,6-4 7-6,3,R16,128,4,5,79,44,32,18,11,4,7,1,1,75,50,31,12,11,5,9
+2025-301,Auckland,Hard,28,A,20250106,,CF59,,,Roberto Carballes Baena,R,180,ESP,36.731,59,981,C0AU,,,Francisco Cerundolo,L,180,ARG,26.401,31,1620,6-2 7-5,3,R16,91,3,0,69,51,37,11,10,2,2,6,3,59,35,24,12,10,2,5
+2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,L,193,FRA,38.349,52,1030,SL28,,,Jan-Lennard Struff,R,196,GER,32.961,42,1225,6-1 7-6,3,R16,88,14,4,62,41,37,10,10,1,1,5,2,56,28,20,16,9,0,2
+2025-301,Auckland,Hard,28,A,20250106,,BT72,,,Nuno Borges,R,185,POR,27.88,36,1370,N0BS,,,Mariano Navone,R,180,ITA,23.858,46,1148,4-6 7-5 6-4,3,R16,151,6,0,111,75,47,19,16,4,8,4,3,102,63,41,20,16,5,10
+2025-301,Auckland,Hard,28,A,20250106,,M0NI,,,Jakub Mensik,R,193,CZE,19.348,49,1122,S0S1,,,Ben Shelton,R,198,USA,22.245,21,2330,7-6 4-6 7-5,3,R16,158,10,7,119,71,57,25,17,5,6,7,2,127,84,54,27,17,11,12
+2025-301,Auckland,Hard,28,A,20250106,,B0NN,,,Nishesh Basavareddy,R,180,USA,19.682,133,453,M0QL,,,Alex Michelsen,R,188,DEN,20.367,41,1245,2-6 6-2 6-4,3,QF,102,4,2,79,46,37,17,13,5,7,5,2,73,46,36,9,13,3,6
+2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,L,193,FRA,38.349,52,1030,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.06,78,714,6-3 6-1,3,QF,77,4,1,52,33,28,7,8,3,3,0,1,60,40,25,7,8,3,7
+2025-301,Auckland,Hard,28,A,20250106,,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,CF59,,,Roberto Carballes Baena,R,180,ESP,36.731,59,981,1-6 6-2 6-3,3,QF,112,2,2,65,37,26,13,12,1,5,2,4,74,45,32,8,12,6,11
+2025-301,Auckland,Hard,28,A,20250106,,BT72,,,Nuno Borges,R,185,POR,27.88,36,1370,M0NI,,,Jakub Mensik,R,193,CZE,19.348,49,1122,6-7 6-2 7-6,3,QF,147,5,0,104,75,53,16,16,3,5,17,9,118,70,53,20,16,4,8
+2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,L,193,FRA,38.349,52,1030,B0NN,,,Nishesh Basavareddy,R,180,USA,19.682,133,453,7-6 6-4,3,SF,106,7,2,88,48,36,22,11,5,5,3,0,59,38,27,17,11,1,2
+2025-301,Auckland,Hard,28,A,20250106,,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,BT72,,,Nuno Borges,R,185,POR,27.88,36,1370,6-2 3-6 7-5,3,SF,136,6,1,87,48,31,20,14,3,7,0,2,94,58,34,19,15,7,13
+2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,L,193,FRA,38.349,52,1030,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,6-3 6-4,3,F,97,4,4,60,33,29,15,10,6,6,2,3,64,42,30,10,9,3,5
+2025-580,Australian Open,Hard,128,G,20250113,,FB98,4,,Taylor Fritz,R,196,USA,27.211,4,5350,B0CD,,,Jenson Brooksby,R,193,USA,24.216,,,6-2 6-0 6-3,5,R128,106,7,1,70,47,39,14,12,2,2,1,4,80,47,31,7,11,1,7
+2025-580,Australian Open,Hard,128,G,20250113,,MM58,5,,Daniil Medvedev,R,193,RUS,28.921,5,5030,S0HR,,WC,Kasidit Samrej,R,191,THA,23.981,418,109,6-2 4-6 3-6 6-1 6-2,5,R128,188,24,8,104,58,53,28,21,4,6,4,6,155,91,59,29,21,7,13
+2025-580,Australian Open,Hard,128,G,20250113,,DH58,8,,Alex de Minaur,L,180,AUS,28.773,8,3535,V812,,,Botic van de Zandschulp,R,196,NLD,28.164,84,672,6-1 7-5 6-4,5,R128,142,13,4,93,59,48,17,15,4,5,5,7,90,45,29,21,14,5,10
+2025-580,Australian Open,Hard,128,G,20250113,,F0FV,,Q,Joao Fonseca,R,185,BRA,18.397,112,520,RE44,9,,Andrey Rublev,R,188,RUS,27.233,9,3520,7-6(1) 6-3 7-6(5),5,R128,147,14,1,120,84,66,19,17,5,6,13,5,105,73,50,18,16,8,10
+2025-580,Australian Open,Hard,128,G,20250113,,R0DG,13,,Holger Rune,R,188,DNK,21.71,13,2910,Z371,,,Zhizhen Zhang,R,193,CHN,28.244,49,1140,4-6 6-3 6-4 3-6 6-4,5,R128,190,10,4,131,86,62,31,24,3,6,21,2,142,92,71,22,24,6,10
+2025-580,Australian Open,Hard,128,G,20250113,,M0EJ,16,,Lorenzo Musetti,L,185,ITA,22.866,15,2600,A0FC,,,Matteo Arnaldi,R,185,ITA,23.891,39,1305,7-6(4) 4-6 7-6(5) 6-3,5,R128,246,6,5,147,89,56,30,22,8,16,7,13,183,96,60,40,21,19,28
+2025-580,Australian Open,Hard,128,G,20250113,,HB71,18,,Hubert Hurkacz,R,196,POL,27.921,17,2555,GJ37,,,Tallon Griekspoor,R,191,NLD,28.534,40,1280,7-5 6-4 6-4,5,R128,143,14,1,83,63,49,13,16,0,1,10,5,120,71,50,22,16,14,18
+2025-580,Australian Open,Hard,128,G,20250113,,KE29,19,,Karen Khachanov,R,190,RUS,28.649,19,2410,ME82,,,Adrian Mannarino,L,180,FRA,36.542,75,751,7-6(5) 6-3 6-3,5,R128,140,6,4,81,53,44,14,15,1,4,4,7,106,47,30,26,15,4,10
+2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,N0AE,,,Brandon Nakashima,R,185,USA,23.447,35,1355,7-6(3) 7-5 7-5,5,R128,160,12,3,113,67,49,30,18,2,3,9,2,111,73,52,22,18,5,8
+2025-580,Australian Open,Hard,128,G,20250113,,MW02,,,Corentin Moutet,L,180,FRA,25.737,69,772,P09Z,25,,Alexei Popyrin,R,196,AUS,25.441,24,1840,4-6 6-3 6-4 6-4,5,R128,214,6,2,124,72,54,30,20,9,12,1,7,144,93,62,20,19,14,19
+2025-580,Australian Open,Hard,128,G,20250113,,MC65,,,Gael Monfils,L,193,FRA,38.367,41,1280,M0GZ,30,,Giovanni Mpetshi Perricard,R,203,BEL,21.518,30,1651,7-6(7) 6-3 6-7(6) 6-7(5) 6-4,5,R128,226,18,16,174,102,86,42,28,0,0,19,9,181,113,84,42,27,10,12
+2025-580,Australian Open,Hard,128,G,20250113,,C0AU,31,,Francisco Cerundolo,L,180,ARG,26.419,31,1620,BK92,,,Alexander Bublik,R,193,KAZ,27.575,37,1330,7-6(1) 6-3 6-2,5,R128,109,6,3,83,50,42,19,15,1,3,10,15,106,57,41,14,14,8,13
+2025-580,Australian Open,Hard,128,G,20250113,,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.49,38,1315,C0E9,32,,Flavio Cobolli,R,183,ITA,22.69,32,1512,6-7(8) 6-3 7-5 6-1,5,R128,215,16,3,136,84,64,30,20,7,8,10,3,150,86,52,37,20,9,15
+2025-580,Australian Open,Hard,128,G,20250113,,AE14,,,Daniel Altmaier,R,188,GER,26.337,101,582,C0DF,,,Francisco Comesana,L,180,ARG,24.271,85,662,6-2 3-6 7-6(4) 4-6 6-4,5,R128,202,13,5,132,84,74,26,25,2,4,18,5,146,92,78,24,24,3,6
+2025-580,Australian Open,Hard,128,G,20250113,,BK40,,,Matteo Berrettini,R,196,ITA,28.756,34,1380,N771,,,Cameron Norrie,L,188,GBR,29.392,52,1082,6-7(4) 6-4 6-1 6-3,5,R128,176,32,7,114,80,68,16,19,5,5,13,2,138,91,61,22,19,9,14
+2025-580,Australian Open,Hard,128,G,20250113,,B0EJ,,Q,Tristan Boyer,R,188, USA,23.732,136,448,CE77,,,Federico Coria,R,180,ARG,32.849,96,617,6-3 6-7(3) 4-6 7-5 6-1,5,R128,231,10,1,139,97,78,24,25,2,5,10,8,163,104,72,28,25,6,12
+2025-580,Australian Open,Hard,128,G,20250113,,CD85,,,Pablo Carreno Busta,R,183,ESP,33.507,182,317,MQ75,,Q,Kamil Majchrzak,R,180,POL,29,122,491,6-4 6-4 6-3,5,R128,123,6,1,86,62,46,14,15,5,5,4,2,88,62,43,12,14,5,9
+2025-580,Australian Open,Hard,128,G,20250113,,D0F6,,,Gabriel Diallo,R,203,CAN,23.304,86,646,N0BG,,,Luca Nardi,R,185,ITA,21.438,83,675,6-7(1) 7-6(3) 5-7 6-1 6-2,5,R128,249,21,8,167,104,78,32,26,11,15,9,13,167,94,63,38,25,9,16
+2025-580,Australian Open,Hard,128,G,20250113,,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.079,73,758,BU13,,,Zizou Bergs,R,185,BEL,25.614,60,948,6-7(5) 6-4 1-6 6-3 6-4,5,R128,246,8,9,154,93,72,31,24,8,11,12,9,161,86,64,40,24,12,16
+2025-580,Australian Open,Hard,128,G,20250113,,GD64,,Q,Cristian Garin,R,180,CHI,28.625,150,382,CG80,,,Borna Coric,R,185,CRO,28.164,87,639,7-5 6-1 6-2,5,R128,123,7,2,62,34,30,20,14,0,1,3,4,85,44,27,18,13,6,13
+2025-580,Australian Open,Hard,128,G,20250113,,GC88,,,Marcos Giron,R,180,USA,31.474,46,1175,H997,,,Yannick Hanfmann,R,193,GER,33.167,95,618,2-6 7-5 6-1 7-5,5,R128,182,9,3,116,70,48,25,20,3,8,11,2,138,87,57,21,19,16,23
+2025-580,Australian Open,Hard,128,G,20250113,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.37,51,1096,L987,,,Dusan Lajovic,R,188,SRB,34.54,80,717,7-5 3-6 6-3 3-6 6-3,5,R128,206,10,5,172,102,71,36,24,16,20,17,3,158,101,69,29,24,7,12
+2025-580,Australian Open,Hard,128,G,20250113,,KC12,,Q,Mitchell Krueger,R,188,USA,31.003,146,396,H0BH,,,Rinky Hijikata,R,178,AUS,23.888,72,759,6-4 6-4 6-3,5,R128,131,6,1,79,62,42,11,15,5,8,8,8,103,57,37,18,14,8,15
+2025-580,Australian Open,Hard,128,G,20250113,,SU55,,,Denis Shapovalov,L,191,CAN,25.748,56,1006,BD06,,,Roberto Bautista Agut,R,180,ESP,36.751,53,1067,3-6 6-4 6-4 7-6(8),5,R128,191,24,15,131,63,55,26,21,6,10,2,5,136,99,59,22,20,13,17
+2025-580,Australian Open,Hard,128,G,20250113,,SU87,,,Lorenzo Sonego,R,183,ITA,29.677,55,1026,W367,,WC,Stan Wawrinka,R,183,CHE,39.797,156,371,6-4 5-7 7-5 7-5,5,R128,191,12,6,132,82,69,27,23,9,11,6,3,112,56,41,40,23,1,5
+2025-580,Australian Open,Hard,128,G,20250113,,T0HA,,Q,Learner Tien,L,180,USA,19.115,121,493,U182,,,Camilo Ugo Carabelli,R,185,ARG,25.575,94,624,4-6 7-6(3) 6-3 5-7 6-4,5,R128,236,7,16,168,102,74,29,27,7,14,10,9,178,112,81,26,26,13,20
+2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,J551,,,Nicolas Jarry,R,201,CHI,29.258,36,1340,7-6(2) 7-6(5) 6-1,5,R128,160,7,1,101,58,48,30,16,2,2,13,4,98,71,52,13,15,3,5
+2025-580,Australian Open,Hard,128,G,20250113,,A0E2,3,,Carlos Alcaraz,R,185,ESP,21.693,3,7010,S0H2,,,Alexander Shevchenko,R,188,UKR,24.123,77,743,6-1 7-5 6-1,5,R128,114,6,4,81,48,33,22,13,2,4,0,0,89,53,28,14,13,11,19
+2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,B0NN,,WC,Nishesh Basavareddy,R,180,USA,19.701,107,566,4-6 6-3 6-4 6-2,5,R128,179,23,4,106,72,56,21,19,2,3,4,8,129,71,51,26,18,7,11
+2025-580,Australian Open,Hard,128,G,20250113,,P0CT,,LL,Francesco Passaro,R,180,ITA,24.016,104,571,D875,10,,Grigor Dimitrov,R,191,BUL,33.663,10,3200,7-5 2-1 RET,5,R128,65,5,0,39,22,16,12,8,0,0,6,4,54,38,25,7,7,2,4
+2025-580,Australian Open,Hard,128,G,20250113,,M0QL,,,Alex Michelsen,R,188,DEN,20.386,42,1270,TE51,11,,Stefanos Tsitsipas,R,193,GRC,26.422,12,3195,7-5 6-3 2-6 6-4,5,R128,163,8,8,124,85,59,20,20,3,7,13,2,116,72,50,23,19,7,12
+2025-580,Australian Open,Hard,128,G,20250113,,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,O483,,,Christopher O'Connell,R,183,AUS,26.06,70,770,6-2 3-6 6-1 6-7(5) 7-5,5,R128,240,15,3,149,91,73,29,24,6,8,11,1,178,114,76,29,24,14,20
+2025-580,Australian Open,Hard,128,G,20250113,,D0CO,15,,Jack Draper,L,193,GBR,23.06,18,2530,N0BS,,,Mariano Navone,R,180,ITA,23.877,47,1173,4-6 6-3 3-6 6-3 6-2,5,R128,241,13,3,160,93,62,32,23,12,17,5,4,160,108,64,27,22,10,17
+2025-580,Australian Open,Hard,128,G,20250113,,TD51,17,,Frances Tiafoe,R,185,USA,26.981,16,2560,RC91,,,Arthur Rinderknech,R,188,FRA,29.477,61,927,7-6(2) 6-3 4-6 6-7(4) 6-3,5,R128,248,14,8,169,98,77,40,26,8,10,33,10,161,94,79,30,26,5,10
+2025-580,Australian Open,Hard,128,G,20250113,,K0AH,22,,Sebastian Korda,R,196,USA,24.526,22,2065,KI63,,Q,Lukas Klein,R,193,CZE,26.814,144,405,6-3 0-6 6-3 7-6(6),5,R128,147,7,3,113,68,44,25,18,6,10,11,4,108,64,45,24,18,4,8
+2025-580,Australian Open,Hard,128,G,20250113,,CF59,,,Roberto Carballes Baena,R,183,ESP,31.811,57,981,TE30,23,,Alejandro Tabilo,L,185,CHI,27.616,26,1705,1-6 6-2 6-3 7-6(1),5,R128,171,7,2,113,75,49,23,18,8,12,9,2,110,66,46,17,18,5,10
+2025-580,Australian Open,Hard,128,G,20250113,,TC61,27,,Jordan Thompson,R,193,AUS,30.734,27,1695,KE73,,Q,Dominik Koepfer,L,185,GER,30.71,124,485,7-6(3) 6-4 4-6 6-3,5,R128,195,18,3,128,67,52,36,21,8,12,5,6,116,69,51,24,20,3,8
+2025-580,Australian Open,Hard,128,G,20250113,,C0H0,,,Arthur Cazaux,R,183,FRA,22.392,78,732,B0BI,28,,Sebastian Baez,R,178,ARG,24.044,28,1690,6-3 5-7 3-6 6-0 6-3,5,R128,224,10,1,143,84,60,33,23,7,11,1,3,129,97,65,15,22,6,13
+2025-580,Australian Open,Hard,128,G,20250113,,AG37,29,,Felix Auger-Aliassime,R,193,CAN,32.849,23,1905,SL28,,,Jan-Lennard Struff,R,196,GER,32.978,43,1240,6-3 6-0 4-6 6-1,5,R128,144,19,3,93,65,52,14,16,2,4,15,4,114,67,35,22,16,12,20
+2025-580,Australian Open,Hard,128,G,20250113,,BM95,,,Benjamin Bonzi,R,180,FRA,28.597,64,819,GB88,,,David Goffin,R,180,BEL,34.101,54,1029,6-1 6-2 7-6(7),5,R128,133,12,3,105,62,43,23,14,5,8,8,3,85,43,27,16,13,7,14
+2025-580,Australian Open,Hard,128,G,20250113,,BT72,,,Nuno Borges,R,185,POR,27.899,33,1445,MP20,,,Alexandre Muller,R,183,FRA,27.948,58,965,6-7(2) 6-3 6-2 7-5,5,R128,175,20,5,123,85,66,21,21,4,5,7,2,125,83,58,19,20,5,10
+2025-580,Australian Open,Hard,128,G,20250113,,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.608,66,790,S0RE,,,Juncheng Shang,R,180,CHN,19.945,50,1115,7-6(1) 5-2,5,R128,111,0,4,58,30,21,15,10,1,4,3,4,89,51,29,14,9,7,12
+2025-580,Australian Open,Hard,128,G,20250113,,D994,,,James Duckworth,R,188,AUS,32.978,89,637,S0LA,,,Dominic Stricker,L,188,CHE,22.411,304,173,6-2 6-4 6-2,5,R128,96,10,1,69,40,34,19,13,1,1,7,3,78,45,30,15,13,1,6
+2025-580,Australian Open,Hard,128,G,20250113,,F0F2,,Q,Jaime Faria,R,188,POR,21.438,125,481,K09F,,,Pavel Kotov,R,185,RUS,26.153,97,612,6-1 6-1 7-5,5,R128,105,10,3,70,44,34,20,13,2,2,9,7,84,42,29,15,13,4,10
+2025-580,Australian Open,Hard,128,G,20250113,,F0BY,,,Jacob Fearnley,R,183,GBR,23.499,92,632,KE17,,,Nick Kyrgios,R,193,AUS,29.715,,,7-6(3) 6-3 7-6(2),5,R128,139,17,8,110,68,55,27,17,2,3,13,8,119,87,60,14,16,9,11
+2025-580,Australian Open,Hard,128,G,20250113,,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.762,71,766,SX50,,,Roman Safiullin,R,188,RUS,27.436,63,823,3-6 6-3 6-3 7-6(5),5,R128,245,23,1,158,106,76,18,20,18,22,14,2,130,91,59,18,19,2,8
+2025-580,Australian Open,Hard,128,G,20250113,,M0CI,,,Fabian Marozsan,R,185,HUN,25.266,59,960,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.847,79,732,6-3 6-7(5) 7-5 5-7 7-5,5,R128,236,20,1,165,118,88,32,29,2,4,23,6,190,132,102,24,28,12,16
+2025-580,Australian Open,Hard,128,G,20250113,,M0OQ,,WC,James McCabe,R,188,AUS,32.978,258,216,L0IL,,Q,Martin Landaluce,R,193,ESP,19.014,142,414,6-4 6-3 6-4,5,R128,127,14,2,82,63,52,12,15,1,1,9,8,92,54,41,15,14,6,9
+2025-580,Australian Open,Hard,128,G,20250113,,M0NI,,,Jakub Mensik,R,193,CZE,19.367,48,1162,BG23,,Q,Nikoloz Basilashvili,R,185,GEO,32.888,206,273,6-1 6-7(3) 6-3 6-3,5,R128,153,31,8,125,68,56,29,19,11,12,10,9,116,58,45,24,18,5,11
+2025-580,Australian Open,Hard,128,G,20250113,,N732,,,Yoshihito Nishioka,L,175,JPN,29.296,65,807,DF88,,Q,Aziz Dougaz,L,188,TUN,27.803,231,254,3-6 6-4 7-6(3) 6-3,5,R128,179,3,1,117,70,50,31,20,5,8,18,7,135,85,63,16,20,6,11
+2025-580,Australian Open,Hard,128,G,20250113,,S0N0,,WC,Tristan Schoolkate,R,183,AUS,23.88,173,336,DA81,,,Taro Daniel,R,191,JPN,31.962,113,519,6-7(6) 7-6(4) 6-1 6-4,5,R128,194,23,4,133,72,61,35,21,8,10,8,1,128,86,63,20,20,7,12
+2025-580,Australian Open,Hard,128,G,20250113,,V832,,,Aleksandar Vukic,R,196,AUS,28.773,68,778,D923,,,Damir Dzumhur,R,183,BIH,32.652,82,679,6-7(3) 6-0 3-6 6-3 6-4,5,R128,199,24,3,131,76,57,30,23,6,10,3,4,149,94,52,34,23,7,15
+2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,PF39,,WC,Lucas Pouille,L,185,FRA,30.888,103,575,6-4 6-4 6-4,5,R128,141,18,2,88,64,50,15,15,2,2,3,7,113,62,45,21,15,15,18
+2025-580,Australian Open,Hard,128,G,20250113,,RH16,6,,Casper Ruud,R,180,NOR,26.06,6,4210,MU94,,,Jaume Munar,R,180,ESP,27.693,62,922,6-3 1-6 7-5 2-6 6-1,5,R128,201,7,2,123,83,57,23,22,3,8,10,3,138,90,66,18,21,7,12
+2025-580,Australian Open,Hard,128,G,20250113,,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,G0GD,,Q,Matteo Gigante,L,180,ITA,23.025,145,403,7-6(5) 7-5 6-4,5,R128,169,9,4,107,67,50,25,17,2,3,16,7,119,75,58,21,17,6,9
+2025-580,Australian Open,Hard,128,G,20250113,,F0F1,20,,Arthur Fils,R,188,FRA,20.589,21,2280,V0AM,,,Otto Virtanen,R,193,FIN,23.564,93,627,3-6 7-6(4) 6-4 6-4,5,R128,165,15,2,116,74,60,23,21,2,4,11,12,146,80,59,32,20,7,10
+2025-580,Australian Open,Hard,128,G,20250113,,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,TC01,,WC,Li Tu,R,183,AUS,28.633,168,342,6-1 3-6 6-3 7-6(1),5,R128,140,13,2,103,67,54,26,19,3,4,8,4,107,66,50,21,18,3,6
+2025-580,Australian Open,Hard,128,G,20250113,,M0FH,26,,Tomas Machac,R,185,CZE,24.252,25,1805,N897,,,Sumit Nagal,R,183,IND,27.411,91,635,6-3 6-1 7-5,5,R128,125,7,4,82,40,31,25,14,5,7,0,5,85,58,31,10,14,8,15
+2025-580,Australian Open,Hard,128,G,20250113,,G09O,,,Hugo Gaston,L,178,FRA,24.299,81,703,J553,,WC,Omar Jasika,L,183,AUS,27.658,179,323,6-2 3-6 6-2 6-2,5,R128,150,12,2,101,61,46,22,17,7,9,2,3,109,85,51,9,16,4,11
+2025-580,Australian Open,Hard,128,G,20250113,,HF80,,Q,Hady Habib,R,188,LBN,26.397,219,264,Y09V,,,Yunchaokete Bu,R,185,CHN,29.296,67,784,7-6(4) 6-4 7-6(6),5,R128,151,18,2,89,59,52,23,17,0,1,13,3,112,64,44,30,17,3,5
+2025-580,Australian Open,Hard,128,G,20250113,,HB64,,,Quentin Halys,R,183,FRA,28.216,74,756,W09E,,,Adam Walton,R,185,USA,25.742,90,636,4-6 4-6 6-4 7-6(4) 7-5,5,R128,218,31,6,164,99,83,32,27,4,6,11,1,157,105,78,35,27,3,5
+2025-580,Australian Open,Hard,128,G,20250113,,MO44,,,Pedro Martinez,R,185,ESP,27.718,44,1220,D0FJ,,,Luciano Darderi,R,183,ITA,22.913,45,1198,6-3 4-1 RET,5,R128,72,1,2,42,32,23,6,7,4,5,3,4,57,36,20,6,7,3,7
+2025-580,Australian Open,Hard,128,G,20250113,,N552,,,Kei Nishikori,R,175,JPN,35.041,76,743,MJ08,,Q,Thiago Monteiro,L,180,BRA,30.622,105,566,4-6 6-7(4) 7-5 6-2 6-3,5,R128,246,17,3,140,101,82,22,26,6,7,21,5,169,108,80,31,25,14,19
+2025-580,Australian Open,Hard,128,G,20250113,,O522,,,Reilly Opelka,R,211,USA,27.378,170,341,O0A2,,Q,Gauthier Onclin,R,180,BEL,23.88,239,242,3-6 7-6(4) 6-3 6-2,5,R128,191,38,5,160,115,85,15,19,10,13,2,4,121,83,54,20,19,3,7
+2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,S0N0,,WC,Tristan Schoolkate,R,183,AUS,23.88,173,336,4-6 6-4 6-1 6-3,5,R64,166,14,5,100,62,48,21,18,0,1,13,10,138,83,59,19,18,8,13
+2025-580,Australian Open,Hard,128,G,20250113,,FB98,4,,Taylor Fritz,R,196,USA,27.211,4,5350,GD64,,Q,Cristian Garin,R,180,CHI,28.625,150,382,6-2 6-1 6-0,5,R64,82,8,1,60,40,32,12,11,0,0,2,3,62,40,20,7,10,2,9
+2025-580,Australian Open,Hard,128,G,20250113,,T0HA,,Q,Learner Tien,L,180,USA,19.115,121,493,MM58,5,,Daniil Medvedev,R,193,RUS,28.921,5,5030,6-3 7-6(4) 6-7(8) 1-6 7-6(7),5,R64,288,7,4,201,142,86,26,26,14,24,20,9,169,95,67,32,26,6,15
+2025-580,Australian Open,Hard,128,G,20250113,,DH58,8,,Alex de Minaur,L,180,AUS,28.773,8,3535,B0EJ,,Q,Tristan Boyer,R,188, USA,23.732,136,448,6-2 6-4 6-3,5,R64,119,6,3,64,34,30,21,14,1,2,3,2,96,63,40,11,13,8,14
+2025-580,Australian Open,Hard,128,G,20250113,,R0DG,13,,Holger Rune,R,188,DNK,21.71,13,2910,BK40,,,Matteo Berrettini,R,196,ITA,28.756,34,1380,7-6(3) 2-6 6-3 7-6(6),5,R64,207,8,6,127,81,59,28,21,6,10,16,2,149,108,70,23,20,7,10
+2025-580,Australian Open,Hard,128,G,20250113,,M0EJ,16,,Lorenzo Musetti,L,185,ITA,22.866,15,2600,SU55,,,Denis Shapovalov,L,191,CAN,25.748,56,1006,7-6(3) 7-6(6) 6-2,5,R64,162,3,4,111,76,58,19,16,4,5,5,15,112,65,46,20,16,8,11
+2025-580,Australian Open,Hard,128,G,20250113,,M0CI,,,Fabian Marozsan,R,185,HUN,25.266,59,960,TD51,17,,Frances Tiafoe,R,185,USA,26.981,16,2560,6-7(3) 6-4 3-6 6-4 6-1,5,R64,197,14,6,172,101,74,39,24,17,20,19,10,150,85,67,28,24,11,17
+2025-580,Australian Open,Hard,128,G,20250113,,KI95,,,Miomir Kecmanovic,R,188,SRB,25.37,51,1096,HB71,18,,Hubert Hurkacz,R,196,POL,27.921,17,2555,6-4 6-4 6-2,5,R64,111,6,0,84,49,38,24,14,3,3,14,6,82,53,41,11,14,7,11
+2025-580,Australian Open,Hard,128,G,20250113,,KE29,19,,Karen Khachanov,R,190,RUS,28.649,19,2410,D0F6,,,Gabriel Diallo,R,203,CAN,23.304,86,646,7-6(4) 4-6 6-3 6-3,5,R64,194,10,1,122,71,56,32,20,4,5,15,4,135,87,66,22,20,7,10
+2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,CD85,,,Pablo Carreno Busta,R,183,ESP,33.507,182,317,6-3 6-3 6-7(4) 6-4,5,R64,156,17,4,111,68,58,30,20,6,6,3,1,109,74,59,19,20,1,5
+2025-580,Australian Open,Hard,128,G,20250113,,C0AU,31,,Francisco Cerundolo,L,180,ARG,26.419,31,1620,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.079,73,758,6-2 1-0 RET,5,R64,40,2,0,26,17,12,5,5,1,2,0,2,27,18,7,3,4,2,6
+2025-580,Australian Open,Hard,128,G,20250113,,GC88,,,Marcos Giron,R,180,USA,31.474,46,1175,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.49,38,1315,7-5 3-6 7-5 3-6 6-4,5,R64,246,8,1,163,98,64,34,26,11,19,14,1,153,94,60,30,26,6,14
+2025-580,Australian Open,Hard,128,G,20250113,,M0QL,,,Alex Michelsen,R,188,DEN,20.386,42,1270,M0OQ,,WC,James McCabe,R,188,AUS,32.978,258,216,7-5 6-3 7-6(4),5,R64,135,8,2,96,76,61,14,17,0,0,10,4,110,65,48,19,16,12,14
+2025-580,Australian Open,Hard,128,G,20250113,,MC65,,,Gael Monfils,L,193,FRA,38.367,41,1280,AE14,,,Daniel Altmaier,R,188,GER,26.337,101,582,7-5 6-3 7-6(3),5,R64,139,12,8,99,57,47,21,17,2,5,4,2,99,55,36,22,16,5,10
+2025-580,Australian Open,Hard,128,G,20250113,,MW02,,,Corentin Moutet,L,180,FRA,25.737,69,772,KC12,,Q,Mitchell Krueger,R,188,USA,31.003,146,396,4-6 6-4 7-6(3) 6-4,5,R64,217,7,5,147,97,66,24,21,5,9,4,5,137,82,55,30,21,6,11
+2025-580,Australian Open,Hard,128,G,20250113,,SU87,,,Lorenzo Sonego,R,183,ITA,29.677,55,1026,F0FV,,Q,Joao Fonseca,R,185,BRA,18.397,112,520,6-7(6) 6-3 6-1 3-6 6-3,5,R64,217,12,3,140,93,72,27,23,5,6,11,6,146,88,62,29,23,7,12
+2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,MO44,,,Pedro Martinez,R,185,ESP,27.718,44,1220,6-1 6-4 6-1,5,R64,114,8,2,73,54,41,12,12,6,6,0,4,72,49,26,8,12,7,13
+2025-580,Australian Open,Hard,128,G,20250113,,A0E2,3,,Carlos Alcaraz,R,185,ESP,21.693,3,7010,N732,,,Yoshihito Nishioka,L,175,JPN,29.296,65,807,6-0 6-1 6-4,5,R64,81,14,3,60,36,32,17,12,0,0,1,3,61,33,19,11,11,4,10
+2025-580,Australian Open,Hard,128,G,20250113,,M0NI,,,Jakub Mensik,R,193,CZE,19.367,48,1162,RH16,6,,Casper Ruud,R,180,NOR,26.06,6,4210,6-2 3-6 6-1 6-4,5,R64,164,22,1,108,65,46,28,17,7,8,7,6,121,75,47,22,17,11,16
+2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,F0F2,,Q,Jaime Faria,R,188,POR,21.438,125,481,6-1 6-7(4) 6-3 6-2,5,R64,180,14,2,113,74,56,22,18,5,7,14,6,107,63,40,17,18,5,12
+2025-580,Australian Open,Hard,128,G,20250113,,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,N552,,,Kei Nishikori,R,175,JPN,35.041,76,743,6-7(3) 6-0 6-3 6-1,5,R64,161,8,2,104,74,55,11,17,1,5,0,5,129,86,41,18,17,7,18
+2025-580,Australian Open,Hard,128,G,20250113,,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,HF80,,Q,Hady Habib,R,188,LBN,26.397,219,264,6-3 6-4 6-4,5,R64,101,17,1,75,50,43,18,15,0,0,11,4,89,58,42,14,14,7,10
+2025-580,Australian Open,Hard,128,G,20250113,,D0CO,15,,Jack Draper,L,193,GBR,23.06,18,2530,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.762,71,766,6-7(3) 6-3 3-6 7-5 6-3,5,R64,275,12,4,157,97,69,40,26,4,7,11,4,164,115,86,19,25,6,11
+2025-580,Australian Open,Hard,128,G,20250113,,F0F1,20,,Arthur Fils,R,188,FRA,20.589,21,2280,HB64,,,Quentin Halys,R,183,FRA,28.216,74,756,6-2 4-6 7-6(2) 7-5,5,R64,172,12,5,120,79,64,24,21,5,6,24,4,125,81,59,23,21,4,7
+2025-580,Australian Open,Hard,128,G,20250113,,V832,,,Aleksandar Vukic,R,196,AUS,28.773,68,778,K0AH,22,,Sebastian Korda,R,196,USA,24.526,22,2065,6-4 3-6 2-6 6-3 7-5,5,R64,197,17,5,150,94,66,33,24,10,14,21,4,131,81,61,29,24,2,6
+2025-580,Australian Open,Hard,128,G,20250113,,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,G09O,,,Hugo Gaston,L,178,FRA,24.299,81,703,6-3 3-1 RET,5,R64,57,6,2,44,19,19,11,7,3,4,1,1,57,39,23,5,6,5,8
+2025-580,Australian Open,Hard,128,G,20250113,,M0FH,26,,Tomas Machac,R,185,CZE,24.252,25,1805,O522,,,Reilly Opelka,R,211,USA,27.378,170,341,3-6 7-6(1) 6-7(5) 7-6(4) 6-4,5,R64,205,16,7,167,105,88,36,28,7,8,40,16,173,115,102,24,27,4,5
+2025-580,Australian Open,Hard,128,G,20250113,,BT72,,,Nuno Borges,R,185,POR,27.899,33,1445,TC61,27,,Jordan Thompson,R,193,AUS,30.734,27,1695,6-3 6-2 6-4,5,R64,107,6,0,81,62,46,15,14,2,2,6,2,81,51,32,14,13,5,9
+2025-580,Australian Open,Hard,128,G,20250113,,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.608,66,790,AG37,29,,Felix Auger-Aliassime,R,193,CAN,32.849,23,1905,6-7(7) 6-7(5) 6-4 6-1 6-3,5,R64,291,7,3,176,112,78,36,25,6,10,11,6,152,108,69,22,25,9,18
+2025-580,Australian Open,Hard,128,G,20250113,,BM95,,,Benjamin Bonzi,R,180,FRA,28.597,64,819,P0CT,,LL,Francesco Passaro,R,180,ITA,24.016,104,571,6-2 6-4 3-6 6-4,5,R64,130,2,1,104,75,54,19,19,7,9,8,3,100,71,50,18,18,4,9
+2025-580,Australian Open,Hard,128,G,20250113,,CF59,,,Roberto Carballes Baena,R,183,ESP,31.811,57,981,D994,,,James Duckworth,R,188,AUS,32.978,89,637,6-4 6-2 7-5,5,R64,171,10,1,77,51,42,19,15,0,0,6,3,111,67,41,22,15,11,15
+2025-580,Australian Open,Hard,128,G,20250113,,F0BY,,,Jacob Fearnley,R,183,GBR,23.499,92,632,C0H0,,,Arthur Cazaux,R,183,FRA,22.392,78,732,3-6 7-5 6-2 6-3,5,R64,177,9,9,111,69,51,21,19,4,8,5,2,106,62,41,21,19,6,13
+2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,GC88,,,Marcos Giron,R,180,USA,31.474,46,1175,6-3 6-4 6-2,5,R32,121,8,2,83,50,41,17,14,6,7,2,2,82,48,32,12,13,5,10
+2025-580,Australian Open,Hard,128,G,20250113,,MC65,,,Gael Monfils,L,193,FRA,38.367,41,1280,FB98,4,,Taylor Fritz,R,196,USA,27.211,4,5350,3-6 7-5 7-6(1) 6-4,5,R32,188,24,4,121,74,61,32,22,3,4,12,0,130,87,65,25,21,4,6
+2025-580,Australian Open,Hard,128,G,20250113,,DH58,8,,Alex de Minaur,L,180,AUS,28.773,8,3535,C0AU,31,,Francisco Cerundolo,L,180,ARG,26.419,31,1620,5-7 7-6(3) 6-3 6-3,5,R32,233,7,9,137,67,47,39,21,4,9,5,6,152,79,50,34,21,9,16
+2025-580,Australian Open,Hard,128,G,20250113,,R0DG,13,,Holger Rune,R,188,DNK,21.71,13,2910,KI95,,,Miomir Kecmanovic,R,188,SRB,25.37,51,1096,6-7(5) 6-3 4-6 6-4 6-4,5,R32,207,16,5,158,95,73,28,26,3,8,4,6,149,95,66,27,25,8,15
+2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,M0EJ,16,,Lorenzo Musetti,L,185,ITA,22.866,15,2600,6-3 3-6 6-4 7-6(5),5,R32,172,11,3,119,83,67,17,20,4,6,2,3,116,69,51,28,20,3,6
+2025-580,Australian Open,Hard,128,G,20250113,,M0QL,,,Alex Michelsen,R,188,DEN,20.386,42,1270,KE29,19,,Karen Khachanov,R,190,RUS,28.649,19,2410,6-3 7-6(5) 6-2,5,R32,134,8,4,99,62,45,22,15,2,3,14,1,83,52,38,15,14,0,4
+2025-580,Australian Open,Hard,128,G,20250113,,SU87,,,Lorenzo Sonego,R,183,ITA,29.677,55,1026,M0CI,,,Fabian Marozsan,R,185,HUN,25.266,59,960,6-7(3) 7-6(6) 6-1 6-2,5,R32,196,15,3,130,81,69,26,20,5,5,9,7,134,86,63,23,19,11,15
+2025-580,Australian Open,Hard,128,G,20250113,,T0HA,,Q,Learner Tien,L,180,USA,19.115,121,493,MW02,,,Corentin Moutet,L,180,FRA,25.737,69,772,7-6(10) 6-3 6-3,5,R32,169,1,5,107,56,41,28,15,10,13,3,2,107,75,45,15,15,9,15
+2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,F0BY,,,Jacob Fearnley,R,183,GBR,23.499,92,632,6-3 6-4 6-4,5,R32,122,7,1,81,58,46,12,15,4,6,6,6,79,52,32,13,14,7,12
+2025-580,Australian Open,Hard,128,G,20250113,,A0E2,3,,Carlos Alcaraz,R,185,ESP,21.693,3,7010,BT72,,,Nuno Borges,R,185,POR,27.899,33,1445,6-2 6-4 6-7(3) 6-2,5,R32,175,9,3,109,67,56,24,19,3,3,3,1,137,94,60,23,19,8,13
+2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,M0FH,26,,Tomas Machac,R,185,CZE,24.252,25,1805,6-1 6-4 6-4,5,R32,142,9,4,79,51,41,15,14,2,3,4,5,87,55,35,12,13,10,15
+2025-580,Australian Open,Hard,128,G,20250113,,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,CF59,,,Roberto Carballes Baena,R,183,ESP,31.811,57,981,7-6(0) 6-2 6-0,5,R32,143,7,2,86,47,37,20,13,3,5,3,10,98,54,37,9,13,9,16
+2025-580,Australian Open,Hard,128,G,20250113,,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,F0F1,20,,Arthur Fils,R,188,FRA,20.589,21,2280,4-6 7-5 6-4 1-0 RET,5,R32,157,3,6,102,65,50,14,17,4,7,6,3,101,62,42,18,16,5,10
+2025-580,Australian Open,Hard,128,G,20250113,,D0CO,15,,Jack Draper,L,193,GBR,23.06,18,2530,V832,,,Aleksandar Vukic,R,196,AUS,28.773,68,778,6-4 2-6 5-7 7-6(5) 7-6(8),5,R32,238,29,4,164,112,84,27,27,8,14,22,6,188,119,93,28,27,14,18
+2025-580,Australian Open,Hard,128,G,20250113,,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,BM95,,,Benjamin Bonzi,R,180,FRA,28.597,64,819,6-2 6-3 6-3,5,R32,107,9,1,76,52,42,14,13,2,2,1,2,85,51,29,19,13,3,8
+2025-580,Australian Open,Hard,128,G,20250113,,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.608,66,790,M0NI,,,Jakub Mensik,R,193,CZE,19.367,48,1162,3-6 4-6 7-6(7) 6-4 6-2,5,R32,210,4,3,156,108,74,25,25,17,22,16,7,142,81,67,24,24,3,9
+2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,R0DG,13,,Holger Rune,R,188,DNK,21.71,13,2910,6-3 3-6 6-3 6-2,5,R16,193,14,6,105,59,49,27,18,4,5,5,4,110,68,45,21,17,4,8
+2025-580,Australian Open,Hard,128,G,20250113,,DH58,8,,Alex de Minaur,L,180,AUS,28.773,8,3535,M0QL,,,Alex Michelsen,R,188,DEN,20.386,42,1270,6-0 7-6(5) 6-3,5,R16,129,5,1,90,38,30,33,14,3,4,3,1,87,58,35,14,13,6,11
+2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,MC65,,,Gael Monfils,L,193,FRA,38.367,41,1280,7-6(3) 6-7(3) 7-6(2) 1-0 RET,5,R16,177,7,3,120,83,67,20,19,5,6,12,9,124,74,61,23,18,2,4
+2025-580,Australian Open,Hard,128,G,20250113,,SU87,,,Lorenzo Sonego,R,183,ITA,29.677,55,1026,T0HA,,Q,Learner Tien,L,180,USA,19.115,121,493,6-3 6-2 3-6 6-1,5,R16,145,20,2,95,63,57,14,17,3,4,4,7,102,58,43,14,16,6,11
+2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,6-1 2-6 6-3 6-2,5,R16,136,19,3,86,61,51,12,16,5,7,12,3,104,74,51,7,16,10,16
+2025-580,Australian Open,Hard,128,G,20250113,,A0E2,3,,Carlos Alcaraz,R,185,ESP,21.693,3,7010,D0CO,15,,Jack Draper,L,193,GBR,23.06,18,2530,7-5 6-1 RET,5,R16,95,6,5,59,40,33,7,10,2,3,5,2,68,40,22,12,9,8,12
+2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,6-3 6-4 7-6(4),5,R16,159,9,3,92,54,44,24,16,2,3,11,4,106,60,47,19,15,8,11
+2025-580,Australian Open,Hard,128,G,20250113,,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,25.608,66,790,6-1 6-1 6-1,5,R16,87,8,0,67,45,38,12,11,3,3,2,0,61,36,18,8,10,6,13
+2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,DH58,8,,Alex de Minaur,L,180,AUS,28.773,8,3535,6-3 6-2 6-1,5,QF,108,2,0,59,38,32,17,12,1,1,2,1,78,40,26,15,12,4,10
+2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,SU87,,,Lorenzo Sonego,R,183,ITA,29.677,55,1026,6-4 7-5 4-6 7-6(4),5,QF,230,9,4,141,100,75,24,22,6,8,3,1,153,101,72,27,22,8,11
+2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,7-6(1) 7-6(0) 2-6 6-1,5,QF,208,7,5,135,93,67,22,20,7,11,9,2,118,76,51,21,19,3,7
+2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,A0E2,3,,Carlos Alcaraz,R,185,ESP,21.693,3,7010,4-6 6-4 6-3 6-4,5,QF,217,5,3,136,86,54,29,20,7,11,10,5,125,92,62,11,19,7,13
+2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,S0S1,21,,Ben Shelton,R,198,USA,22.263,20,2280,7-6(2) 6-2 6-2,5,SF,156,8,0,89,51,38,24,14,5,7,7,6,118,70,40,22,14,7,13
+2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,7-6(5) RET,5,SF,81,8,1,38,29,24,7,6,3,3,5,0,54,29,21,15,6,5,5
+2025-580,Australian Open,Hard,128,G,20250113,,S0AG,1,,Jannik Sinner,R,188,ITA,23.411,1,11830,Z355,2,,Alexander Zverev,L,198,DEU,27.734,2,7635,6-3 7-6(4) 6-3,5,F,162,6,2,95,57,48,24,15,0,0,12,2,95,65,45,15,15,8,10
+2025-375,Montpellier,Hard,28,A,20250127,,K0AZ,,Q,Aleksandar Kovacevic,R,193,USA,26.415,102,577,GB88,6,,David Goffin,R,180,BEL,34.14,56,994,6-2 3-6 6-4,3,R32,114,9,5,83,46,38,16,14,4,6,8,1,75,45,34,16,13,3,6
+2025-375,Montpellier,Hard,28,A,20250127,,BG23,,Q,Nikoloz Basilashvili,R,185,GEO,32.926,178,323,K926,,,Mikhail Kukushkin,R,183,KAZ,37.09,112,541,6-3 3-6 5-0,3,R32,104,8,1,71,38,30,17,12,2,4,8,0,69,38,22,16,11,4,8
+2025-375,Montpellier,Hard,28,A,20250127,,D0C1,,,Jesper de Jong,R,180,NLD,22.979,131,466,HB64,,WC,Quentin Halys,R,183,FRA,28.255,74,756,7-6(7) 2-0,3,R32,72,6,3,46,25,21,15,7,0,0,11,4,51,30,25,8,7,1,2
+2025-375,Montpellier,Hard,28,A,20250127,,GJ37,5,,Tallon Griekspoor,R,191,NLD,28.573,46,1190,V812,,,Botic van de Zandschulp,R,196,NLD,28.203,84,672,7-5 6-3,3,R32,95,8,2,77,47,34,13,11,5,7,4,10,57,28,21,10,10,0,4
+2025-375,Montpellier,Hard,28,A,20250127,,RC91,7,,Arthur Rinderknech,R,188,FRA,29.515,61,924,M0G4,,,Harold Mayot,R,180,FRA,22.979,130,472,7-6(2) 2-6 6-1,3,R32,130,16,7,106,61,48,21,14,14,16,5,1,75,51,41,11,13,1,3
+2025-375,Montpellier,Hard,28,A,20250127,,B0GG,,,Mattia Bellucci,R,175,ITA,23.658,98,605,PF39,,,Lucas Pouille,L,185,FRA,30.926,104,575,6-4 6-4,3,R32,100,8,1,70,40,34,14,10,10,10,6,5,69,34,31,11,10,7,9
+2025-375,Montpellier,Hard,28,A,20250127,,E865,,,Christopher Eubanks,R,196,USA,28.731,111,548,K0E6,,Q,Alibek Kachmazov,L,185,RUS,22.448,199,299,7-5 6-4,3,R32,80,8,1,62,47,38,6,11,3,4,4,1,61,38,26,11,11,1,4
+2025-375,Montpellier,Hard,28,A,20250127,,G628,,,Richard Gasquet,R,185,FRA,38.612,132,460,ME82,,,Adrian Mannarino,L,180,FRA,36.581,108,561,6-3 6-2,3,R32,75,4,3,48,28,26,11,9,0,0,1,2,56,36,22,9,8,3,6
+2025-375,Montpellier,Hard,28,A,20250127,,LB66,,Q,Constant Lestienne,R,183,FRA,32.682,177,323,CG80,,,Borna Coric,R,185,CRO,28.203,103,575,6-3 7-5,3,R32,98,2,2,62,42,33,10,11,1,2,7,0,61,41,29,8,10,2,5
+2025-375,Montpellier,Hard,28,A,20250127,,Y09V,8,,Yunchaokete Bu,R,185,CHN,29.334,71,787,AE14,,,Daniel Altmaier,R,188,GER,26.375,91,622,7-6(1) 6-3,3,R32,103,4,0,61,38,31,16,10,2,2,6,1,79,56,35,12,11,2,4
+2025-375,Montpellier,Hard,28,A,20250127,,C0H0,,,Arthur Cazaux,R,183,FRA,22.43,101,582,W367,,WC,Stan Wawrinka,R,183,CHE,39.836,154,361,6-4 6-3,3,R32,88,0,0,56,34,29,11,9,2,2,8,1,64,33,24,14,10,5,8
+2025-375,Montpellier,Hard,28,A,20250127,,KE73,,,Dominik Koepfer,L,185,GER,30.748,118,515,BK24,,WC,Gregoire Barrere,R,185,FRA,30.946,144,406,6-4 7-6(5),3,R32,95,6,2,81,52,42,10,11,7,9,2,4,64,37,25,15,11,0,3
+2025-375,Montpellier,Hard,28,A,20250127,,D0C1,,,Jesper de Jong,R,180,NLD,22.979,131,466,C0E9,3,,Flavio Cobolli,R,183,ITA,22.729,34,1392,6-3 7-6(2),3,R16,116,9,1,64,30,27,20,11,3,4,2,0,72,43,26,16,10,4,6
+2025-375,Montpellier,Hard,28,A,20250127,,GJ37,5,,Tallon Griekspoor,R,191,NLD,28.573,46,1190,G628,,,Richard Gasquet,R,185,FRA,38.612,132,460,6-3 3-6 7-5,3,R16,123,18,2,97,68,51,15,15,8,9,11,3,85,49,40,19,15,3,5
+2025-375,Montpellier,Hard,28,A,20250127,,BG23,,Q,Nikoloz Basilashvili,R,185,GEO,32.926,178,323,RC91,7,,Arthur Rinderknech,R,188,FRA,29.515,61,924,6-0 7-6(4),3,R16,97,7,1,66,42,29,14,9,3,4,7,3,72,47,28,8,9,4,8
+2025-375,Montpellier,Hard,28,A,20250127,,K0AZ,,Q,Aleksandar Kovacevic,R,193,USA,26.415,102,577,B0GG,,,Mattia Bellucci,R,175,ITA,23.658,98,605,7-5 7-6(5),3,R16,105,9,1,71,44,39,17,12,1,1,15,0,71,47,37,16,12,0,1
+2025-375,Montpellier,Hard,28,A,20250127,,RE44,1/WC,,Andrey Rublev,R,188,RUS,27.271,10,3130,E865,,,Christopher Eubanks,R,196,USA,28.731,111,548,6-4 6-3,3,R16,64,4,0,48,28,25,12,9,3,3,8,1,52,42,27,5,10,3,6
+2025-375,Montpellier,Hard,28,A,20250127,,AG37,2,,Felix Auger-Aliassime,R,193,CAN,32.888,23,1855,C0H0,,,Arthur Cazaux,R,183,FRA,22.43,101,582,6-4 7-6(5),3,R16,107,11,2,55,43,36,7,11,0,1,5,3,72,47,31,13,11,4,6
+2025-375,Montpellier,Hard,28,A,20250127,,BK92,4,,Alexander Bublik,R,193,KAZ,27.614,39,1330,KE73,,,Dominik Koepfer,L,185,GER,30.748,118,515,6-4 6-2,3,R16,70,10,5,59,41,31,9,9,3,4,1,2,53,31,22,8,9,2,6
+2025-375,Montpellier,Hard,28,A,20250127,,Y09V,8,,Yunchaokete Bu,R,185,CHN,29.334,71,787,LB66,,Q,Constant Lestienne,R,183,FRA,32.682,177,323,6-2 6-1,3,R16,63,9,0,39,22,19,11,7,1,1,4,4,61,32,22,7,8,9,14
+2025-375,Montpellier,Hard,28,A,20250127,,RE44,1/WC,,Andrey Rublev,R,188,RUS,27.271,10,3130,BG23,,Q,Nikoloz Basilashvili,R,185,GEO,32.926,178,323,5-2,3,QF,26,7,0,18,10,9,6,3,0,0,4,1,21,8,6,6,4,0,2
+2025-375,Montpellier,Hard,28,A,20250127,,AG37,2,,Felix Auger-Aliassime,R,193,CAN,32.888,23,1855,Y09V,8,,Yunchaokete Bu,R,185,CHN,29.334,71,787,6-3 6-4,3,QF,83,11,0,51,35,30,11,10,0,0,3,0,53,27,22,13,9,3,5
+2025-375,Montpellier,Hard,28,A,20250127,,K0AZ,,Q,Aleksandar Kovacevic,R,193,USA,26.415,102,577,BK92,4,,Alexander Bublik,R,193,KAZ,27.614,39,1330,6-3 6-2,3,QF,76,4,0,59,37,31,11,9,8,8,12,7,65,37,28,9,8,6,9
+2025-375,Montpellier,Hard,28,A,20250127,,D0C1,,,Jesper de Jong,R,180,NLD,22.979,131,466,GJ37,5,,Tallon Griekspoor,R,191,NLD,28.573,46,1190,7-6(5) 6-4,3,QF,106,8,1,80,55,44,14,11,6,6,12,3,68,43,35,14,11,2,3
+2025-375,Montpellier,Hard,28,A,20250127,,K0AZ,,Q,Aleksandar Kovacevic,R,193,USA,26.415,102,577,RE44,1/WC,,Andrey Rublev,R,188,RUS,27.271,10,3130,7-5 6-4,3,SF,95,9,1,77,41,33,18,11,4,5,8,2,55,35,27,10,11,2,5
+2025-375,Montpellier,Hard,28,A,20250127,,AG37,2,,Felix Auger-Aliassime,R,193,CAN,32.888,23,1855,D0C1,,,Jesper de Jong,R,180,NLD,22.979,131,466,6-4 7-6(4),3,SF,123,12,6,70,42,31,16,11,2,3,11,2,86,57,40,11,11,11,13
+2025-375,Montpellier,Hard,28,A,20250127,,AG37,2,,Felix Auger-Aliassime,R,193,CAN,32.888,23,1855,K0AZ,,Q,Aleksandar Kovacevic,R,193,USA,26.415,102,577,6-2 6-7(7) 7-6(2),3,F,159,19,1,105,78,61,17,16,1,1,7,2,99,60,44,26,16,1,3
