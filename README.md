@@ -9,11 +9,15 @@ stats https://twitter.com/TennisMyLife68
 
 This work was originally based on Jeff Sackmann's (available at
 https://github.com/JeffSackmann/tennis_atp under Creative Common Non
-Commecial Share Alike). We therefore mantained the same patterns in
+Commecial Share Alike). 
+
+We therefore mantained the same patterns in
 column names and ordering. However, using Sackmann's csvs we
 encountered many missing data which we proceeded to integrate. As an
 example, the famous 1274 won matches in Connors' career are all
-present in our Database and not in Jeff's. There are many other
+present in our Database and not in Jeff's. 
+
+There are many other
 examples, too many to list them all here. Another significant
 difference with Sackmann's database is using ATP's players id for a
 more confortable method to calculate records and searching data on ATP
