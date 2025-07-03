@@ -1,3 +1,7 @@
+
+
+![AgeOfNRecord](http://www.tennismylife.org/wp-content/uploads/2015/09/cropped-header.jpg)
+
 # TML-Database
 A complete and live updated Database with ATP tournaments matches
 tested many many times by the scripts to search tweeted records and
@@ -5,11 +9,15 @@ stats https://twitter.com/TennisMyLife68
 
 This work was originally based on Jeff Sackmann's (available at
 https://github.com/JeffSackmann/tennis_atp under Creative Common Non
-Commecial Share Alike). We therefore mantained the same patterns in
+Commecial Share Alike). 
+
+We therefore mantained the same patterns in
 column names and ordering. However, using Sackmann's csvs we
 encountered many missing data which we proceeded to integrate. As an
 example, the famous 1274 won matches in Connors' career are all
-present in our Database and not in Jeff's. There are many other
+present in our Database and not in Jeff's. 
+
+There are many other
 examples, too many to list them all here. Another significant
 difference with Sackmann's database is using ATP's players id for a
 more confortable method to calculate records and searching data on ATP
@@ -129,8 +137,8 @@ quality of this database.
 
 Enjoy!
 
-
 This database is offered in partnership with https://canaltenis.com/
 
+![AgeOfNRecord](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyydzNXDVdbyxCz1sET3rQ1bj0TDUnKSSDQ&s)
 
-![Image description]([https://pbs.twimg.com/profile_images/1150124885148086273/MLggdMOo_400x400.png](https://pbs.twimg.com/profile_images/1663227924856598528/fy5c4GoA_400x400.jpg))
+
