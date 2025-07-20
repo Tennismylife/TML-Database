@@ -2451,6 +2451,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-M-DC-2023-FLS-2-B-M-GBR-FRA-01,Davis Cup Finals RR: GBR vs FRA,Hard,2,D,20230917,2,HH26,,,Ugo Humbert,L,188,FRA,25.2,36,1268,N771,,,Cameron Norrie,L,188,GBR,28,17,1985,7-6(5) 3-6 7-5,3,RR,,20,1,101,65,52,19,16,2,3,2,3,119,82,57,20,17,5,6
 2023-M-DC-2023-FLS-3-C-M-ESP-KOR-01,Davis Cup Finals RR: ESP vs KOR,Hard,2,D,20230917,2,DH50,,,Alejandro Davidovich Fokina,R,183,ESP,24.2,25,1435,KF17,,,Soonwoo Kwon,R,180,KOR,25.7,112,533,6-4 6-4,3,RR,,6,0,53,41,35,6,10,1,1,5,3,61,32,22,16,10,1,3
 2023-M-DC-2023-FLS-4-D-M-CRO-NED-01,Davis Cup Finals RR: CRO vs NED,Hard,2,D,20230917,2,GH92,,,Borna Gojo,R,196,CRO,25.5,77,747,GJ37,,,Tallon Griekspoor,R,188,NED,27.1,24,1446,4-6 7-6(2) 6-4,3,RR,,18,2,115,79,57,19,16,8,10,7,2,95,72,54,12,16,1,3
+2023-9210,Laver Cup,Hard,2,A,20230918,1,S0S1,,,Ben Shelton,R,198,USA,20.953,19,1735,F0F1,,,Arthur Fils,R,188,FRA,19.279,44,1032,6-1 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,
+2023-9210,Laver Cup,Hard,2,A,20230918,2,C0AU,,,Francisco Cerundolo,L,180,ARG,25.109,21,1635,DH50,,,Alejandro Davidovich Fokina,L,180,ESP,24.298,25,1435,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+2023-9210,Laver Cup,Hard,2,A,20230918,3,AG37,,,Felix Auger-Aliassime,R,193,CAN,31.538,14,2340,MC65,,,Gael Monfils,L,193,FRA,37.057,142,432,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2023-9210,Laver Cup,Hard,2,A,20230918,4,FB98,,,Taylor Fritz,R,196,USA,25.901,8,3955,RE44,,,Andrey Rublev,R,188,RUS,25.923,6,4515,7-6(3) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2023-9210,Laver Cup,Hard,2,A,20230918,5,RH16,,,Casper Ruud,R,180,NOR,24.751,9,3560,PL56,,,Tommy Paul,R,188,USA,26.350,13,2660,7-6(6) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2023-9210,Laver Cup,Hard,2,A,20230918,6,TD51,,,Frances Tiafoe,R,185,USA,25.671,11,2690,HB71,,,Hubert Hurkacz,R,196,POL,26.611,16,2035,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2023-7581,Chengdu,Hard,32,A,20230920,271,S0TI,,Q,Philip Sekulic,R,191,AUS,20,325,163,BT72,,,Nuno Borges,R,185,POR,26.5,88,694,7-5 5-7 6-3,3,R32,155,5,6,101,56,42,22,17,6,10,13,3,111,74,52,13,16,11,16
 2023-7581,Chengdu,Hard,32,A,20230920,272,RC91,,,Arthur Rinderknech,R,196,FRA,28.1,67,826,TC01,,LL,Li Tu,R,183,AUS,27.3,203,306,7-6(5) 7-6(6),3,R32,116,11,5,85,51,43,16,12,1,2,5,2,74,42,33,21,12,5,6
 2023-7581,Chengdu,Hard,32,A,20230920,273,GC88,,,Marcos Giron,R,180,USA,30.1,64,850,BK92,5,,Alexander Bublik,R,196,KAZ,26.2,29,1349,7-6(6) 6-3,3,R32,101,1,1,84,47,34,17,11,5,7,4,7,65,37,25,13,10,2,5
