@@ -1926,6 +1926,21 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M-DC-2016-WG-M-USA-CRO-01,Davis Cup WG QF: USA vs CRO,Hard,4,D,20160715,2,I186,,,John Isner,R,208,USA,31.209,16,2055,CG80,,,Borna Coric,R,188,CRO,19.655,54,900,6-4 6-4 6-3,5,RR,119,23,2,100,62,48,20,15,8,8,3,2,81,54,39,14,14,4,7
 2016-M-DC-2016-WG-M-USA-CRO-01,Davis Cup WG QF: USA vs CRO,Hard,4,D,20160715,4,C977,,,Marin Cilic,R,198,CRO,27.784,12,2695,I186,,,John Isner,R,208,USA,31.209,16,2055,7-6(9) 6-3 6-4,5,RR,127,13,1,101,57,48,27,16,1,1,17,3,89,69,58,9,15,4,6
 2016-M-DC-2016-WG-M-USA-CRO-01,Davis Cup WG QF: USA vs CRO,Hard,4,D,20160715,5,CG80,,,Borna Coric,R,188,CRO,19.655,54,900,SM25,,,Jack Sock,R,185,USA,23.795,26,1495,6-4 3-6 6-3 6-4,5,RR,180,10,5,101,58,40,30,19,4,7,12,6,142,69,50,33,19,15,20
+2016-M-DC-2016-G2-EPA-M-LUX-NOR-01,Davis Cup G2 PO: LUX vs NOR,Hard,4,D,,20160715,RH16,,,Casper Ruud,R,180,NOR,17.563,9,3560,KJ00,,,Alex Knaff,R,193,LUX,,488,84,6-2 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-LUX-NOR-02,Davis Cup G2 PO: LUX vs NOR,Hard,4,D,,20160715,DC76,,,Viktor Durasovic,,,,,367,136,,,,Ugo Nastasi,,,,,,,6-4 3-6 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-LUX-NOR-03,Davis Cup G2 PO: LUX vs NOR,Hard,4,D,,20160715,,,,Ugo Nastasi,,,,,,,RH16,,,Casper Ruud,R,180,NOR,17.563,9,3560,7-6(5) 2-6 7-6(0) 6-7(4) 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-LUX-NOR-04,Davis Cup G2 PO: LUX vs NOR,Hard,4,D,,20160715,DC76,,,Viktor Durasovic,,,,,367,136,,,,Gilles Kremer,,,,,,,7-6(2) 6-3 4-6 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-TUN-BUL-05,Davis Cup G2 PO: TUN vs BUL,Hard,4,D,,20160715,,,,Mohamed Aziz Dougaz,,,,,,,KC33,,,Dimitar Kuzmanov,,,,,180,339,7-6(4) 6-4 2-6 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-TUN-BUL-06,Davis Cup G2 PO: TUN vs BUL,Hard,4,D,,20160715,J267,,,Malek Jaziri,,,,,,2,LI39,,,Alexandar Lazarov,R,191,BUL,,479,88,6-7(5) 7-5 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-TUN-BUL-07,Davis Cup G2 PO: TUN vs BUL,Hard,4,D,,20160715,,,,Vasko Mladenov,,,,,,,EA13,,,Moez Echargui,,,,,302,184,6-7(5) 7-5 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-TUN-BUL-08,Davis Cup G2 PO: TUN vs BUL,Hard,4,D,,20160715,LI39,,,Alexandar Lazarov,R,191,BUL,,479,88,,,,Mohamed Aziz Dougaz,,,,,,,4-6 6-4 7-6(1),5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-MON-EGY-09,Davis Cup G2 PO: MON vs EGY,Clay,4,D,,20160715,,,,Karim-Mohamed Maamoun,,,,,722,36,B946,,,Benjamin Balleret,R,183,MON,,,,6-1 5-7 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-MON-EGY-10,Davis Cup G2 PO: MON vs EGY,Clay,4,D,,20160715,S0AA,,,Romain Arneodo,R,175,MCO,,,,SK47,,,Mohamed Safwat,R,180,EGY,,462,94,6-7(6) 3-6 6-4 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-MON-EGY-11,Davis Cup G2 PO: MON vs EGY,Clay,4,D,,20160715,B946,,,Benjamin Balleret,R,183,MON,,,,,,,Youssef Hossam,,,,,,,4-6 6-1 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-GEO-ZIM-12,Davis Cup G2 PO: GEO vs ZIM,Hard,4,D,,20160715,LC54,,,Benjamin Lock,R,198,ZIM,,346,145,,,,George Tsivadze,,,,,,2,3-6 6-0 7-5 6-7(2) 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-GEO-ZIM-13,Davis Cup G2 PO: GEO vs ZIM,Hard,4,D,,20160715,BG23,,,Nikoloz Basilashvili,R,185,GEO,24.391,357,141,,,,Mark Fynn,,,,,,,6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-GEO-ZIM-14,Davis Cup G2 PO: GEO vs ZIM,Hard,4,D,,20160715,BG23,,,Nikoloz Basilashvili,R,185,GEO,24.391,357,141,LC54,,,Benjamin Lock,R,198,ZIM,,346,145,6-3 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+2016-M-DC-2016-G2-EPA-M-GEO-ZIM-15,Davis Cup G2 PO: GEO vs ZIM,Hard,4,D,,20160715,,,,George Tsivadze,,,,,,2,,,,Mark Fynn,,,,,,,6-3 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,
 2016-314,Gstaad,Clay,32,A,20160718,271,MJ08,,Q,Thiago Monteiro,L,183,BRA,22.133,110,546,BP41,,WC,Antoine Bellier,U,196,SUI,19.748,538,65,6-3 7-5,3,R32,81,3,1,52,39,31,9,10,0,0,5,3,76,36,26,17,11,6,9
 2016-314,Gstaad,Clay,32,A,20160718,272,H756,,,Robin Haase,R,190,NED,29.284,95,615,D776,,,Thiemo de Bakker,R,193,NED,27.828,136,426,6-7(4) 6-3 6-1,3,R32,109,9,2,83,52,41,19,14,1,1,7,3,104,61,42,18,14,5,9
 2016-314,Gstaad,Clay,32,A,20160718,273,Z184,,,Horacio Zeballos,L,188,ARG,31.225,73,726,V620,,LL,Agustin Velotti,R,,ARG,24.151,253,206,6-4 6-2,3,R32,83,8,2,64,44,33,8,9,9,10,1,3,63,35,22,10,9,5,9
