@@ -311,7 +311,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-345,Montpellier,Hard,28,A,20190204,,A829,,,Radu Albot,R,175,MDA,29.232,90,,K435,5,,Philipp Kohlschreiber,L,178,GER,35.305,32,,6-4 6-3,3,R32,72,6,2,53,33,26,13,10,1,2,4,1,58,34,20,14,9,0,3
 2019-345,Montpellier,Hard,28,A,20190204,,HA71,,Q,Antoine Hoang,R,183,FRA,23.253,150,,D632,,PR,Steve Darcis,L,175,BEL,34.897,311,,6-1 6-2,3,R32,61,1,0,48,31,23,10,7,3,3,2,3,45,25,12,6,8,1,6
 2019-345,Montpellier,Hard,28,A,20190204,,T786,,WC,Jo-Wilfried Tsonga,R,188,FRA,33.802,210,,HH26,,WC,Ugo Humbert,L,188,FRA,20.611,86,,3-6 7-6(5) 6-4,3,R32,,21,8,95,48,44,23,15,2,3,17,3,115,72,59,19,16,8,9
-2019-345,Montpellier,Hard,28,A,20190204,,CA12,6,,Jeremy Chardy,R,188,FRA,31.978,35,,MB53,,LL,Adrian Menendez-Maceiras,L,183,ESP,33.27,124,,6-1 6-1,3,R32,46,9,1,35,23,20,9,7,0,0,2,4,41,25,11,6,7,2,7
+2019-345,Montpellier,Hard,28,A,20190204,,CA12,6,,Jeremy Chardy,R,188,FRA,31.978,35,,MB53,,LL,Adrian Menendez-Maceiras,R,183,ESP,33.27,124,,6-1 6-1,3,R32,46,9,1,35,23,20,9,7,0,0,2,4,41,25,11,6,7,2,7
 2019-345,Montpellier,Hard,28,A,20190204,,H996,7,,Pierre-Hugues Herbert,R,188,FRA,27.885,44,,KB09,,,Denis Kudla,L,180,USA,26.467,63,,6-2 6-1,3,R32,56,7,1,39,22,18,14,8,0,0,2,2,49,27,16,8,7,3,7
 2019-345,Montpellier,Hard,28,A,20190204,,I305,,,Ilya Ivashka,R,193,BLR,24.945,80,,F586,,,Thomas Fabbiano,L,173,ITA,29.695,84,,4-6 6-4 6-3,3,R32,122,17,4,104,60,48,21,15,9,11,2,1,77,44,29,22,14,1,4
 2019-345,Montpellier,Hard,28,A,20190204,,G710,,,Marcel Granollers,R,191,ESP,32.816,111,,K336,,,Ivo Karlovic,R,211,CRO,39.934,78,,7-6(3) 6-7(5) 7-6(5),3,R32,130,11,3,112,77,64,27,18,2,2,27,5,106,66,59,25,18,0,0
@@ -336,7 +336,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-7434,Sofia,Hard,28,A,20190204,,BK40,,,Matteo Berrettini,U,196,ITA,22.815,53,,I165,,,Denis Istomin,L,188,UZB,32.411,106,,6-4 7-6(7),3,R32,92,10,0,64,31,25,22,11,0,1,3,2,72,45,34,15,11,8,10
 2019-7434,Sofia,Hard,28,A,20190204,,CA99,,,Marius Copil,R,193,ROU,28.301,56,,W367,,,Stan Wawrinka,L,183,SUI,33.856,57,,3-6 7-6(5) 6-4,3,R32,107,11,1,92,55,40,26,15,2,3,13,1,90,56,48,23,16,6,7
 2019-7434,Sofia,Hard,28,A,20190204,,V306,6,,Fernando Verdasco,L,188,ESP,35.222,26,,LI39,,Q,Alexandar Lazarov,R,191,BUL,21.246,,,6-2 6-1,3,R32,51,7,2,44,33,28,5,8,1,1,2,2,42,22,12,8,7,1,5
-2019-7434,Sofia,Hard,28,A,20190204,,E690,,,Matthew Ebden,R,188,AUS,31.192,45,,A0AB,,WC,Adrian Andreev,R,,BUL,17.733,,,6-3 4-6 7-6(5),3,R32,139,14,9,99,56,42,21,16,3,7,2,7,92,52,32,24,15,1,5
+2019-7434,Sofia,Hard,28,A,20190204,,E690,,,Matthew Ebden,R,188,AUS,31.192,45,,A0AB,,WC,Adrian Andreev,R,175,BUL,17.733,,,6-3 4-6 7-6(5),3,R32,139,14,9,99,56,42,21,16,3,7,2,7,92,52,32,24,15,1,5
 2019-7434,Sofia,Hard,28,A,20190204,,MH16,,Q,Yannick Maden,U,185,GER,29.27,121,,ME82,,,Adrian Mannarino,L,180,FRA,30.601,46,,6-4 7-6(4),3,R32,106,1,2,77,43,29,19,11,3,5,7,6,83,37,25,22,11,5,8
 2019-7434,Sofia,Hard,28,A,20190204,,F724,,,Marton Fucsovics,R,188,HUN,26.99,47,,SA93,8,,Andreas Seppi,L,191,ITA,34.954,37,,6-2 7-6(2),3,R32,93,4,1,60,36,29,13,10,2,4,2,3,79,41,29,15,10,4,8
 2019-7434,Sofia,Hard,28,A,20190204,,BC72,,Q,Daniel Brands,R,196,GER,31.554,180,,BG23,5,,Nikoloz Basilashvili,L,185,RUS,26.949,22,,7-6(7) 7-5,3,R32,92,11,4,76,52,36,15,12,4,6,7,10,88,48,37,17,12,5,8
@@ -847,7 +847,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-DC-2019-G2-AO-M-THA-PHI-01,Davis Cup G2 R1: THA vs PHI,Hard,4,D,20190405,1,,,,Palaphoom Kovapitukted,U,,THA,19.3210130048,,,,,,Jeson Patrombon,R,,PHI,26.0123203285,,,6-3 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-G2-AO-M-THA-PHI-01,Davis Cup G2 R1: THA vs PHI,Hard,4,D,20190405,2,,,,Wishaya Trongcharoenchaikul,R,,THA,23.9808350445,488,12,L0A0,,,Alberto Lim,R,,PHI,19.871321013,,,6-4 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-G2-AO-M-THA-PHI-01,Davis Cup G2 R1: THA vs PHI,Hard,4,D,20190405,4,,,,John Bryan Decasa Otico,U,,PHI,19.7672826831,,,,,,Kasidit Samrej,U,,THA,18.1765913758,,,4-6 6-3 [6-7] RET,3,RR,,,,,,,,,,,,,,,,,,,
-2019-M-DC-2019-G2-EPA-M-LTU-MAR-01,Davis Cup G2 R1: LTU vs MAR,Clay,4,D,20190405,1,BE90,,,Ricardas Berankis,R,175,LTU,28.7775496235,98,601,,,,Adam Moundir,U,,SUI,23.9315537303,,,6-2 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-G2-EPA-M-LTU-MAR-01,Davis Cup G2 R1: LTU vs MAR,Clay,4,D,20190405,1,BE90,,,Ricardas Berankis,R,175,LTU,28.7775496235,98,601,MP94,,,Adam Moundir,R,191,MAR,23.9315537303,,,6-2 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-G2-EPA-M-LTU-MAR-01,Davis Cup G2 R1: LTU vs MAR,Clay,4,D,20190405,2,,,,Lamine Ouahab,R,185,ALG,34.2724161533,440,20,,,,Laurynas Grigelis,R,183,LTU,27.6303901437,287,138,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-G2-EPA-M-LTU-MAR-01,Davis Cup G2 R1: LTU vs MAR,Clay,4,D,20190405,4,BE90,,,Ricardas Berankis,R,175,LTU,28.7775496235,98,601,,,,Lamine Ouahab,R,185,ALG,34.2724161533,440,20,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-G2-EPA-M-LTU-MAR-01,Davis Cup G2 R1: LTU vs MAR,Clay,4,D,20190405,5,,,,Laurynas Grigelis,R,183,LTU,27.6303901437,287,138,,,,Amine Ahouda,U,185,MAR,21.5523613963,,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
@@ -875,7 +875,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-360,Marrakech,Clay,28,A,20190408,,PD31,,,Benoit Paire,R,196,FRA,29.916,69,,H996,8,,Pierre-Hugues Herbert,L,188,FRA,28.057,50,,6-4 6-2,3,R16,76,7,2,60,32,29,12,9,2,2,3,3,66,44,24,13,9,4,7
 2019-360,Marrakech,Clay,28,A,20190408,,T786,,WC,Jo-Wilfried Tsonga,R,188,FRA,33.974,116,,E831,3,,Kyle Edmund,L,188,GBR,24.246,22,,7-6(6) 6-3,3,R16,89,8,1,60,44,37,9,10,1,1,7,1,66,36,28,17,11,2,4
 2019-360,Marrakech,Clay,28,A,20190408,,SU87,,Q,Lorenzo Sonego,R,191,ITA,23.91,103,,H756,,,Robin Haase,L,191,NED,32.005,62,,7-6(5) 6-3,3,R16,99,5,1,65,41,28,15,11,0,2,1,4,70,43,29,13,10,2,5
-2019-360,Marrakech,Clay,28,A,20190408,,DA81,,,Taro Daniel,R,191,JPN,26.193,75,,MB53,,Q,Adrian Menendez-Maceiras,L,183,ESP,33.443,139,,6-2 1-6 6-1,3,R16,104,5,1,61,44,28,11,11,1,4,3,2,68,38,22,15,11,4,9
+2019-360,Marrakech,Clay,28,A,20190408,,DA81,,,Taro Daniel,R,191,JPN,26.193,75,,MB53,,Q,Adrian Menendez-Maceiras,R,183,ESP,33.443,139,,6-2 1-6 6-1,3,R16,104,5,1,61,44,28,11,11,1,4,3,2,68,38,22,15,11,4,9
 2019-360,Marrakech,Clay,28,A,20190408,,SD32,4,,Gilles Simon,R,183,FRA,34.278,27,,A887,,,Guido Andreozzi,L,183,ARG,27.674,90,,6-2 6-2,3,R16,76,0,2,46,34,26,6,8,1,2,1,2,49,27,16,6,8,1,6
 2019-360,Marrakech,Clay,28,A,20190408,,A596,,,Pablo Andujar,R,180,ESP,33.205,70,,K435,7,,Philipp Kohlschreiber,L,178,GER,35.477,41,,7-6(6) 6-4,3,R16,112,1,2,81,64,42,11,11,5,6,8,0,67,43,28,16,11,0,2
 2019-360,Marrakech,Clay,28,A,20190408,,V708,,,Jiri Vesely,L,198,CZE,25.744,101,,LB84,,,Juan Ignacio Londero,L,180,ARG,25.645,66,,6-3 6-4,3,R16,99,7,2,58,37,30,14,10,2,2,5,2,78,43,26,19,9,8,10
@@ -2294,7 +2294,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2019-M-DC-2019-G2-AM-M-MEX-PAR-01,Davis Cup G2 R1: MEX vs PAR,Clay,4,D,20190914,1,,,,Manuel Sanchez,R,0,MEX,28.6762491444,830,16,,,,Ayed Zatar,R,,PAR,23.446954141,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-G2-AM-M-MEX-PAR-01,Davis Cup G2 R1: MEX vs PAR,Clay,4,D,20190914,2,,,,Lucas Gomez,U,178,MEX,24.0793976728,735,23,,,,Juan Borba,R,,PAR,23.40862423,,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-G2-AM-M-MEX-PAR-01,Davis Cup G2 R1: MEX vs PAR,Clay,4,D,20190914,4,,,,Lucas Gomez,U,178,MEX,24.0793976728,735,23,,,,Ayed Zatar,R,,PAR,23.446954141,,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2019-M-DC-2019-G2-AM-M-MEX-PAR-01,Davis Cup G2 R1: MEX vs PAR,Clay,4,D,20190914,5,,,,Manuel Sanchez,R,0,MEX,28.6762491444,830,16,V0DP,,,Adolfo Daniel Vallejo,,,PAR,,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2019-M-DC-2019-G2-AM-M-MEX-PAR-01,Davis Cup G2 R1: MEX vs PAR,Clay,4,D,20190914,5,,,,Manuel Sanchez,R,0,MEX,28.6762491444,830,16,V0DP,,,Adolfo Daniel Vallejo,R,183,PAR,,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-G2-AO-M-NZL-INA-01,Davis Cup G2 R1: NZL vs INA,Hard,4,D,20190914,1,R0DC,,,Ajeet Rai,R,188,NZL,20.6406570842,744,22,,,,Fitriadi M Rifqi,U,,INA,20.6269678303,,,7-6(7) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-G2-AO-M-NZL-INA-01,Davis Cup G2 R1: NZL vs INA,Hard,4,D,20190914,2,,,,Rhett Purcell,R,,GBR,23.5893223819,922,13,,,,David Agung Susanto,U,,INA,28.1368925394,1195,5,3-6 6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 2019-M-DC-2019-G2-AO-M-NZL-INA-01,Davis Cup G2 R1: NZL vs INA,Hard,4,D,20190914,4,,,,Ari Fahresi,U,,INA,,,,R0DC,,,Ajeet Rai,R,188,NZL,20.6406570842,744,22,6-3 2-6 [10-7],3,RR,,,,,,,,,,,,,,,,,,,

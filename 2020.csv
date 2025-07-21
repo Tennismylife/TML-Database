@@ -737,9 +737,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-M-DC-2020-WG2-PO-MAR-VIE-01,Davis Cup WG2 PO: MAR vs VIE,Clay,4,D,20200306,1,0,,,Lamine Ouahab,R,185,ALG,35.1,664,29,LD22,,,Nam Hoang Ly,R,175,VIE,23,714,25,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2020-M-DC-2020-WG2-PO-MAR-VIE-01,Davis Cup WG2 PO: MAR vs VIE,Clay,4,D,20200306,2,MP94,,,Adam Moundir,R,191,MAR,24.8,458,69,0,,,Phuong Van Nguyen,R,175,VIE,19,,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2020-M-DC-2020-WG2-PO-MAR-VIE-01,Davis Cup WG2 PO: MAR vs VIE,Clay,4,D,20200306,4,0,,,Aissa Benchakroun,U,,MAR,17.9,1671,1,0,,,Linh Giang Trinh,R,183,VIE,22.5,,,2-6 6-3 [10-4],3,RR,,,,,,,,,,,,,,,,,,,
-2020-M-DC-2020-WG2-PO-PAR-SRI-01,Davis Cup WG2 PO: PAR vs SRI,Clay,4,D,20200306,1,0,,,Adolfo Daniel Vallejo,R,183,PAR,15.8,,,0,,,Sharmal Dissanayake,R,,SRI,23.8,,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2020-M-DC-2020-WG2-PO-PAR-SRI-01,Davis Cup WG2 PO: PAR vs SRI,Clay,4,D,20200306,1,V0DP,,,Adolfo Daniel Vallejo,R,183,PAR,15.8,,,0,,,Sharmal Dissanayake,R,,SRI,23.8,,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2020-M-DC-2020-WG2-PO-PAR-SRI-01,Davis Cup WG2 PO: PAR vs SRI,Clay,4,D,20200306,2,0,,,Martin Antonio Vergara Del Puerto,U,,PAR,15.8,,,0,,,Yasitha De Silva,R,,SRI,24.6,,,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,
-2020-M-DC-2020-WG2-PO-PAR-SRI-01,Davis Cup WG2 PO: PAR vs SRI,Clay,4,D,20200306,4,0,,,Adolfo Daniel Vallejo,R,183,PAR,15.8,,,0,,,Thehan Sanjaya Wijemanne,L,,SRI,16.1,,,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+2020-M-DC-2020-WG2-PO-PAR-SRI-01,Davis Cup WG2 PO: PAR vs SRI,Clay,4,D,20200306,4,V0DP,,,Adolfo Daniel Vallejo,R,183,PAR,15.8,,,0,,,Thehan Sanjaya Wijemanne,L,,SRI,16.1,,,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2020-M-DC-2020-WG2-PO-PHI-GRE-01,Davis Cup WG2 PO: PHI vs GRE,Clay,4,D,20200306,1,TE51,,,Stefanos Tsitsipas,R,193,GRE,21.5,6,4745,0,,,Alberto Lim,R,,PHI,20.7,,,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2020-M-DC-2020-WG2-PO-PHI-GRE-01,Davis Cup WG2 PO: PHI vs GRE,Clay,4,D,20200306,2,TG77,,,Petros Tsitsipas,R,185,GRE,19.5,1169,6,0,,,Jeson Patrombon,R,,PHI,26.9,1421,2,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2020-M-DC-2020-WG2-PO-PHI-GRE-01,Davis Cup WG2 PO: PHI vs GRE,Clay,4,D,20200306,4,TE51,,,Stefanos Tsitsipas,R,193,GRE,21.5,6,4745,0,,,Jeson Patrombon,R,,PHI,26.9,1421,2,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
@@ -1424,7 +1424,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-352,Paris Masters,Hard,56,M,20201102,,MM58,3,,Daniil Medvedev,R,198,RUS,24.72553,5,,N409,10,,Milos Raonic,L,,CAN,29.850786,17,,6-4 7-6(4),3,SF,97,7,3,70,51,41,10,11,6,7,12,1,68,47,38,6,11,1,3
 2020-352,Paris Masters,Hard,56,M,20201102,,MM58,3,,Daniil Medvedev,R,198,RUS,24.72553,5,,Z355,4,,Alexander Zverev,R,198,GER,23.537304,7,,5-7 6-4 6-1,3,F,127,14,2,83,48,38,21,14,6,7,11,3,102,76,51,9,15,6,10
 2020-7434,Sofia,Hard,28,A,20201109,,ME82,5,,Adrian Mannarino,L,180,FRA,32.364136,35,,K966,,LL,Martin Klizan,L,191,SVK,31.331964,150,,3-6 6-1 7-5,3,R32,129,10,5,92,53,39,21,14,3,5,7,1,79,41,30,19,14,6,10
-2020-7434,Sofia,Hard,28,A,20201109,,MH30,6,,John Millman,R,183,AUS,31.405886,38,,A0AB,,WC,Adrian Andreev,R,,BUL,19.496235,666,,6-3 6-1,3,R32,73,4,0,44,24,20,14,8,0,0,2,3,54,31,17,10,8,2,6
+2020-7434,Sofia,Hard,28,A,20201109,,MH30,6,,John Millman,R,183,AUS,31.405886,38,,A0AB,,WC,Adrian Andreev,R,175,BUL,19.496235,666,,6-3 6-1,3,R32,73,4,0,44,24,20,14,8,0,0,2,3,54,31,17,10,8,2,6
 2020-7434,Sofia,Hard,28,A,20201109,,MH30,,LL,Marc Andrea Huesler,U,,SUI,24.377823,149,,BG23,7,,Nikoloz Basilashvili,L,185,GEO,28.711842,39,,6-1 4-6 7-6(6),3,R32,111,22,3,86,61,49,16,15,4,5,5,5,95,59,41,21,14,3,5
 2020-7434,Sofia,Hard,28,A,20201109,,MH30,,WC,Jonas Forejtek,R,183,CZE,19.66872,399,,C977,8,,Marin Cilic,L,198,CRO,32.11499,41,,6-3 6-2,3,R32,66,2,2,56,35,29,8,9,2,3,2,2,47,26,19,7,8,1,5
 2020-7434,Sofia,Hard,28,A,20201109,,A829,,,Radu Albot,R,175,MDA,30.995209,93,,SE73,,,Yuichi Sugita,L,175,JPN,32.14237,100,,6-4 6-1,3,R32,76,4,4,48,28,23,11,8,0,0,1,2,63,36,23,12,9,5,9
