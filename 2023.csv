@@ -17,11 +17,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-9900,United Cup,Hard,18,A,20230102,236,N771,15,,Cameron Norrie,L,188,GBR,27.3,14,2445,N409,4,,Rafael Nadal,L,185,ESP,36.5,2,6020,3-6 6-3 6-4,3,RR,164,6,2,88,57,42,18,14,5,6,10,4,95,55,40,21,14,9,11
 2023-9900,United Cup,Hard,18,A,20230102,239,Kb95,,,Jason Kubler,R,178,AUS,29.6,107,538,R772,,,Albert Ramos-Vinolas,L,188,ESP,34.9,39,1075,6-3 4-6 6-3,3,RR,129,10,2,78,50,41,14,14,1,3,4,2,82,46,33,19,14,1,5
 2023-9900,United Cup,Hard,18,A,20230102,240,DH58,7,,Alex de Minaur,R,183,AUS,23.8,24,1790,N409,4,,Rafael Nadal,L,185,ESP,36.5,2,6020,3-6 6-1 7-5,3,RR,162,3,6,100,62,39,19,14,8,12,2,4,92,56,34,16,14,7,13
-2023-9900,United Cup,Hard,18,A,20230102,243,O449,,,Oscar Otte,R,196,GER,29.4,76,691,S0GD,,,Dalibor Svrcina,R,,CZE,20.2,222,249,7-6(1) 6-2,3,RR,109,7,2,67,35,23,15,10,6,10,0,2,73,46,24,10,10,1,7
+2023-9900,United Cup,Hard,18,A,20230102,243,O449,,,Oscar Otte,R,193,GER,29.4,76,691,S0GD,,,Dalibor Svrcina,R,,CZE,20.2,222,249,7-6(1) 6-2,3,RR,109,7,2,67,35,23,15,10,6,10,0,2,73,46,24,10,10,1,7
 2023-9900,United Cup,Hard,18,A,20230102,244,L0BV,14,,Jiri Lehecka,R,185,CZE,21.1,81,646,Z355,10,,Alexander Zverev,R,198,GER,25.7,12,2700,6-4 6-2,3,RR,92,5,3,67,47,36,8,9,6,7,1,8,56,34,22,8,9,4,8
 2023-9900,United Cup,Hard,18,A,20230102,247,TD51,,,Frances Tiafoe,R,188,USA,24.9,19,2000,M0FH,,,Tomas Machac,R,183,CZE,22.2,97,580,6-3 2-4 RET,3,RR,80,4,1,55,36,24,10,8,2,4,6,5,59,37,27,6,7,3,5
 2023-9900,United Cup,Hard,18,A,20230102,248,FB98,3,,Taylor Fritz,R,193,USA,25.1,9,3355,L0BV,14,,Jiri Lehecka,R,185,CZE,21.1,81,646,6-3 6-4,3,RR,,5,3,68,41,32,14,10,2,2,4,1,48,31,24,8,9,1,3
-2023-9900,United Cup,Hard,18,A,20230102,251,TD51,,,Frances Tiafoe,R,188,USA,24.9,19,2000,O449,,,Oscar Otte,R,196,GER,29.4,76,691,7-5 6-4,3,RR,75,9,3,56,30,29,16,11,0,0,10,0,58,30,23,18,11,0,2
+2023-9900,United Cup,Hard,18,A,20230102,251,TD51,,,Frances Tiafoe,R,188,USA,24.9,19,2000,O449,,,Oscar Otte,R,193,GER,29.4,76,691,7-5 6-4,3,RR,75,9,3,56,30,29,16,11,0,0,10,0,58,30,23,18,11,0,2
 2023-9900,United Cup,Hard,18,A,20230102,252,FB98,3,,Taylor Fritz,R,193,USA,25.1,9,3355,Z355,10,,Alexander Zverev,R,198,GER,25.7,12,2700,6-1 6-4,3,RR,64,8,4,45,27,26,11,9,1,1,3,5,60,48,31,3,8,3,6
 2023-9900,United Cup,Hard,18,A,20230102,255,HH06,,,Marc-Andrea Huesler,L,196,SUI,26.5,56,818,S0GR,,,Timofey Skatov,R,173,RUS,21.9,142,387,4-6 6-3 6-3,3,RR,,6,1,99,67,48,16,14,6,7,4,2,88,61,41,13,14,4,7
 2023-9900,United Cup,Hard,18,A,20230102,256,W367,9,,Stan Wawrinka,R,183,SUI,37.7,148,377,BK92,13,,Alexander Bublik,R,196,KAZ,25.5,37,1130,6-3 7-6(3),3,RR,90,10,0,63,34,29,19,11,0,0,7,2,59,42,33,8,10,3,4
@@ -208,7 +208,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-580,Australian Open,Hard,128,G,20230116,146,CG94,,Q,Enzo Couacaud,R,183,FRA,27.8,191,302,DA31,,,Hugo Dellien,R,180,BOL,29.5,131,425,6-4 7-5 6-0,5,R128,111,4,1,80,47,37,18,14,2,4,1,4,88,62,34,11,14,6,13
 2023-580,Australian Open,Hard,128,G,20230116,147,D643,4,,Novak Djokovic,R,188,SRB,35.6,5,5070,CF59,,,Roberto Carballes Baena,R,183,ESP,29.8,75,695,6-3 6-4 6-0,5,R128,122,9,1,70,45,39,16,13,3,3,4,1,78,39,26,14,12,4,9
 2023-580,Australian Open,Hard,128,G,20230116,148,FB98,8,,Taylor Fritz,R,196,USA,25.2,9,3545,BG23,,,Nikoloz Basilashvili,R,185,RUS,30.8,90,595,6-4 6-2 4-6 7-5,5,R128,144,32,2,101,67,56,20,20,2,4,9,11,125,68,50,26,20,3,8
-2023-580,Australian Open,Hard,128,G,20230116,149,P09Z,,WC,Alexei Popyrin,R,196,AUS,23.4,113,506,T0AP,,,Chun Hsin Tseng,R,175,TPE,21.4,115,490,4-6 7-6(5) 6-7(5) 7-6(4) 6-1,5,R128,266,31,4,174,114,95,31,27,9,10,2,7,197,121,91,37,26,12,14
+2023-580,Australian Open,Hard,128,G,20230116,149,P09Z,,WC,Alexei Popyrin,R,196,AUS,23.4,113,506,T0AP,,,Chun-Hsin Tseng,R,175,TPE,21.4,115,490,4-6 7-6(5) 6-7(5) 7-6(4) 6-1,5,R128,266,31,4,174,114,95,31,27,9,10,2,7,197,121,91,37,26,12,14
 2023-580,Australian Open,Hard,128,G,20230116,150,S0S1,,,Ben Shelton,L,193,USA,20.2,89,604,Z371,,,Zhizhen Zhang,R,193,CHN,26.2,96,567,4-6 6-3 6-2 2-6 7-6(4),5,R128,211,18,8,143,81,66,36,24,5,8,12,2,149,94,72,26,23,3,6
 2023-580,Australian Open,Hard,128,G,20230116,151,J551,,Q,Nicolas Jarry,R,201,CHI,27.2,154,370,KI95,26,,Miomir Kecmanovic,R,183,SRB,23.3,27,1445,6-3 6-4 7-6(3),5,R128,121,21,0,81,58,49,19,16,0,0,5,2,94,52,38,23,15,1,3
 2023-580,Australian Open,Hard,128,G,20230116,152,SM37,23,,Diego Schwartzman,R,170,ARG,30.4,26,1550,K0DP,,Q,Oleksii Krutykh,R,185,UKR,22.8,188,308,6-4 6-7(6) 6-3 7-6(5),5,R128,235,8,4,152,103,70,29,22,14,16,9,3,139,69,51,36,21,8,12
@@ -315,7 +315,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-M-DC-2023-WG1-PO-BRA-CHN-01,Davis Cup WG1 PO: BRA vs CHN,,4,D,20230203,2,MJ08,,,Thiago Monteiro,L,183,BRA,28.6,78,690,C0AJ,,,Jie Cui,R,183,CHN,25,913,14,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-PO-IND-DEN-01,Davis Cup WG1 PO: IND vs DEN,Hard,4,D,20230203,2,N897,,,Sumit Nagal,R,178,IND,25.4,506,70,H09N,,,August Holmgren,R,188,DEN,24.7,484,78,4-6 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-PO-PAK-LTU-01,Davis Cup WG1 PO: PAK vs LTU,,4,D,20230203,2,B0MM,,,Edas Butvilas,R,191,LTU,18.5,784,24,K425,,,Aqeel Khan,R,,PAK,43,,,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,
-2023-M-DC-2023-WG1-PO-PER-IRL-01,Davis Cup WG1 PO: PER vs IRL,,4,D,20230203,2,H0C9,,,Arklon Huertas Del Pino,R,183,PER,28.5,491,76,O684,,,Osgar Ohoisin,R,193,IRL,26.4,771,26,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2023-M-DC-2023-WG1-PO-PER-IRL-01,Davis Cup WG1 PO: PER vs IRL,,4,D,20230203,2,H0C9,,,Arklon Huertas Del Pino,R,183,PER,28.5,491,76,O684,,,Osgar O'Hoisin,R,193,IRL,26.4,771,26,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-PO-ROU-THA-01,Davis Cup WG1 PO: ROU vs THA,,4,D,20230203,2,J09X,,,Filip Cristian Jianu,R,180,ROU,21.3,267,202,S0HR,,,Kasidit Samrej,R,191,THA,22,605,48,6-4 6-7(5) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-PO-TUR-SLO-01,Davis Cup WG1 PO: TUR vs SLO,,4,D,20230203,2,I306,,,Cem Ilkel,R,185,TUR,27.4,304,168,A0I1,,,Bor Artnak,R,193,SLO,18.6,678,36,6-2 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-PO-UKR-LBN-01,Davis Cup WG1 PO: UKR vs LBN,,4,D,20230203,2,B0LL,,,Viacheslav Bielinskyi,R,171,UKR,19.1,622,46,HG94,,,Benjamin Hassan,R,183,LBN,27.9,324,155,6-4 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,
@@ -365,7 +365,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-M-DC-2023-QLS-M-NED-SVK-01,Davis Cup QLS R1: NED vs SVK,Hard,4,D,20230204,2,V942,,,Tim van Rijthoven,R,188,NED,25.7,107,504,MV14,,,Alex Molcan,L,178,SVK,25.1,55,850,7-6(6) 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-PO-ISR-LAT-01,Davis Cup WG1 PO: ISR vs LAT,,4,D,20230204,2,G858,,,Ernests Gulbis,R,190,LAT,34.4,289,181,CL82,,,Daniel Cukierman,R,,ISR,27.5,367,130,6-1 2-6 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-PO-EST-JAM-01,Davis Cup WG2 PO: EST vs JAM,,4,D,20230204,2,B0I5,,,Blaise Bicknell,R,191,JAM,21.1,769,26,RH25,,,Kenneth Raisma,L,193,EST,24.8,1640,1,4-6 6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,
-2023-M-DC-2023-WG2-PO-INA-VIE-01,Davis Cup WG2 PO: INA vs VIE,,4,D,20230204,2,LD22,,,Nam Hoang Ly,R,175,VIE,25.9,243,225,SY76,,,Anthony Susanto,R,,INA,25.6,1717,1,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+2023-M-DC-2023-WG2-PO-INA-VIE-01,Davis Cup WG2 PO: INA vs VIE,,4,D,20230204,2,LD22,,,Nam Hoang Ly,R,175,VIE,25.9,243,225,SY76,,,Anthony Susanto,,,INA,25.6,1717,1,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-PO-RSA-LUX-01,Davis Cup WG2 PO: RSA vs LUX,,4,D,20230204,2,R0E0,,,Chris Rodesch,R,198,LUX,21.5,724,30,VA23,,,Kris Van Wyk,R,185,RSA,26.3,516,67,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-QLS-M-ARG-FIN-01,Davis Cup QLS R1: ARG vs FIN,Hard,4,D,20230204,4,RH24,,,Emil Ruusuvuori,R,188,FIN,23.8,43,976,BF23,,,Facundo Bagnis,L,183,ARG,32.9,88,595,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-QLS-M-BEL-KOR-01,Davis Cup QLS R1: BEL vs KOR,Hard,4,D,20230204,4,KF17,,,Soonwoo Kwon,R,180,KOR,25.1,61,827,GB88,,,David Goffin,R,180,BEL,32.1,41,985,3-6 6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,
@@ -380,7 +380,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-M-DC-2023-QLS-M-BEL-KOR-01,Davis Cup QLS R1: BEL vs KOR,Hard,4,D,20230204,5,HC21,,,Seong Chan Hong,R,175,KOR,25.5,237,229,BU13,,,Zizou Bergs,R,185,BEL,23.6,115,463,6-3 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-PO-ISR-LAT-01,Davis Cup WG1 PO: ISR vs LAT,,4,D,20230204,5,CL82,,,Daniel Cukierman,R,,ISR,27.5,367,130,O0BQ,,,Karlis Ozolins,R,196,LAT,20.6,1215,5,6-7(5) 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-PO-EST-JAM-01,Davis Cup WG2 PO: EST vs JAM,,4,D,20230204,5,S0B0,,,Johannes Seeman,U,,EST,22.5,,,B0PB,,,Jacob Bicknell,U,,JAM,23.6,,,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,
-2023-M-DC-2023-WG2-PO-INA-VIE-01,Davis Cup WG2 PO: INA vs VIE,,4,D,20230204,5,R862,,,Christopher Rungkat,R,170,INA,33,,,N0A0,,,Dac Tien Nguyen,R,,VIE,24,1859,1,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+2023-M-DC-2023-WG2-PO-INA-VIE-01,Davis Cup WG2 PO: INA vs VIE,,4,D,20230204,5,R862,,,Christopher Rungkat,R,175,INA,33,,,N0A0,,,Dac Tien Nguyen,R,,VIE,24,1859,1,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-PO-RSA-LUX-01,Davis Cup WG2 PO: RSA vs LUX,,4,D,20230204,5,CN80,,,Raphael Calzi,R,180,LUX,25.5,,,B0IZ,,,Devin Badenhorst,R,,RSA,18.6,1717,1,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,
 2023-9158,Cordoba,Clay,32,A,20230206,271,D874,,Q,Federico Delbonis,L,193,ARG,32.3,131,426,TE30,,,Alejandro Tabilo,L,188,CHI,25.6,146,394,6-7(8) 6-2 7-6(6),3,R32,183,4,4,107,70,51,21,16,4,6,13,6,128,72,53,26,16,7,11
 2023-9158,Cordoba,Clay,32,A,20230206,272,CF01,,,Marco Cecchinato,R,185,ITA,30.3,93,572,BF23,,,Facundo Bagnis,L,183,ARG,32.9,88,595,6-2 7-6(4),3,R32,92,6,2,64,41,32,12,10,2,3,5,4,70,49,33,5,10,3,6
@@ -414,7 +414,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-424,Dallas,Hard,32,A,20230206,273,W09G,6,,J J Wolf,R,183,USA,24.1,43,922,H09P,,Q,Brandon Holt,R,185,USA,24.8,195,302,6-3 6-3,3,R32,69,9,3,45,27,26,10,9,0,0,7,2,62,46,28,6,9,3,6
 2023-424,Dallas,Hard,32,A,20230206,275,GA36,,,Emilio Gomez,R,185,ECU,31.1,102,533,D0F6,,,Gabriel Diallo,R,203,CAN,21.3,211,260,6-4 6-7(5) 7-6(5),3,R32,162,8,3,106,71,61,19,17,3,4,18,2,113,86,64,15,17,1,3
 2023-424,Dallas,Hard,32,A,20230206,276,AE14,,,Daniel Altmaier,R,188,GER,24.4,99,539,S0K7,,Q,Zachary Svajda,R,175,USA,20.1,265,203,6-2 6-4,3,R32,85,6,1,65,35,28,17,9,3,3,6,0,51,32,23,7,9,0,3
-2023-424,Dallas,Hard,32,A,20230206,277,I186,5,,John Isner,R,208,USA,37.7,39,980,T0AP,,,Chun Hsin Tseng,R,175,TPE,21.4,108,500,7-6(5) 7-6(1),3,R32,107,22,0,71,56,47,10,12,1,1,5,2,81,59,43,13,12,5,5
+2023-424,Dallas,Hard,32,A,20230206,277,I186,5,,John Isner,R,208,USA,37.7,39,980,T0AP,,,Chun-Hsin Tseng,R,175,TPE,21.4,108,500,7-6(5) 7-6(1),3,R32,107,22,0,71,56,47,10,12,1,1,5,2,81,59,43,13,12,5,5
 2023-424,Dallas,Hard,32,A,20230206,278,ME82,8,,Adrian Mannarino,L,180,FRA,34.6,63,791,J386,,,Steve Johnson,R,188,USA,33.1,120,448,7-6(6) 6-2,3,R32,92,13,0,57,39,36,10,10,0,0,10,3,80,44,33,14,10,4,6
 2023-424,Dallas,Hard,32,A,20230206,279,TC61,,,Jordan Thompson,R,183,AUS,28.7,84,604,KB09,,,Denis Kudla,R,180,USA,30.4,92,573,6-1 7-5,3,R32,86,10,0,52,35,28,13,10,3,3,2,1,60,38,22,13,9,4,7
 2023-424,Dallas,Hard,32,A,20230206,280,WB32,,,Yibing Wu,R,183,CHN,23.3,97,544,MP01,,,Michael Mmoh,R,188,USA,25,86,599,6-3 3-6 6-3,3,R32,130,9,1,88,58,41,16,14,5,7,12,3,86,54,35,18,13,6,9
@@ -922,7 +922,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-7290,Estoril,Clay,32,A,20230403,279,TB69,,,Dominic Thiem,R,185,AUT,29.5,111,510,O513,,Q,Sebastian Ofner,R,191,AUT,26.8,122,488,3-6 6-3 6-4,3,R32,124,4,6,83,46,33,19,14,4,8,2,3,91,52,35,18,14,11,16
 2023-7290,Estoril,Clay,32,A,20230403,280,HB64,,,Quentin Halys,R,191,FRA,26.4,80,691,BT72,,,Nuno Borges,R,185,POR,26.1,65,783,6-3 6-4,3,R32,78,8,5,61,36,30,15,10,2,2,5,2,64,47,30,9,9,5,7
 2023-7290,Estoril,Clay,32,A,20230403,282,B0BI,5,,Sebastian Baez,R,170,ARG,22.2,32,1170,A829,,,Radu Albot,R,175,MDA,33.3,106,523,7-5 7-6(3),3,R32,133,2,1,80,50,30,20,12,8,12,0,2,82,51,31,12,12,2,7
-2023-7290,Estoril,Clay,32,A,20230403,283,CG04,,,Pedro Cachin,R,185,ARG,27.9,67,773,T0AP,,,Chun Hsin Tseng,R,175,TPE,21.6,145,401,6-4 6-4,3,R32,96,6,0,53,34,27,8,10,1,3,0,2,70,36,16,21,10,7,11
+2023-7290,Estoril,Clay,32,A,20230403,283,CG04,,,Pedro Cachin,R,185,ARG,27.9,67,773,T0AP,,,Chun-Hsin Tseng,R,175,TPE,21.6,145,401,6-4 6-4,3,R32,96,6,0,53,34,27,8,10,1,3,0,2,70,36,16,21,10,7,11
 2023-7290,Estoril,Clay,32,A,20230403,284,SH90,,WC,Joao Sousa,R,185,POR,34,147,390,Z0A1,,,Giulio Zeppieri,L,183,ITA,21.3,121,489,6-4 1-6 6-3,3,R32,107,2,3,78,48,35,15,13,2,5,3,2,71,50,37,10,13,0,3
 2023-7290,Estoril,Clay,32,A,20230403,286,Z419,,,Bernabe Zapata Miralles,R,183,ESP,26.2,43,952,HB71,2,,Hubert Hurkacz,R,196,POL,26.1,12,2750,6-7(7) 6-4 6-2,3,R16,147,2,3,118,87,61,16,15,11,12,7,6,100,61,44,16,15,1,5
 2023-7290,Estoril,Clay,32,A,20230403,287,KI95,6,,Miomir Kecmanovic,R,183,SRB,23.5,40,985,R09X,,,Jurij Rodionov,L,191,AUT,23.8,120,490,6-0 6-1,3,R16,63,5,1,44,25,19,10,6,3,3,3,3,46,23,9,8,7,6,12
@@ -2048,7 +2048,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-418,Washington,Hard,64,A,20230731,255,MC65,,WC,Gael Monfils,R,193,FRA,36.9,323,162,F811,,Q,Bjorn Fratangelo,R,183,USA,30,695,38,6-3 6-4,3,R64,71,6,1,51,33,29,12,10,2,2,1,2,61,41,25,12,9,5,7
 2023-418,Washington,Hard,64,A,20230731,256,BI23,,,Liam Broady,L,183,GBR,29.5,125,504,MW02,,,Corentin Moutet,L,180,FRA,24.2,80,750,7-6(0) 6-4,3,R64,134,2,3,75,38,29,15,11,2,6,4,1,79,48,27,12,11,4,9
 2023-418,Washington,Hard,64,A,20230731,259,A829,,,Radu Albot,R,175,MDA,33.7,97,615,GC88,,,Marcos Giron,R,180,USA,30,69,830,6-3 5-7 7-5,3,R64,163,3,5,124,85,53,19,17,12,17,12,2,103,62,37,21,16,8,14
-2023-418,Washington,Hard,64,A,20230731,260,MP01,,,Michael Mmoh,R,188,USA,25.5,112,564,KA98,,Q,Bradley Klahn,L,190,USA,32.9,797,26,6-3 6-3,3,R64,82,8,2,51,34,28,11,9,2,2,4,5,61,42,28,6,9,6,9
+2023-418,Washington,Hard,64,A,20230731,260,MP01,,,Michael Mmoh,R,188,USA,25.5,112,564,KA98,,Q,Bradley Klahn,L,183,USA,32.9,797,26,6-3 6-3,3,R64,82,8,2,51,34,28,11,9,2,2,4,5,61,42,28,6,9,6,9
 2023-418,Washington,Hard,64,A,20230731,263,TC61,,,Jordan Thompson,R,183,AUS,29.2,71,827,A678,,WC,Kevin Anderson,R,203,RSA,37.2,652,45,6-4 6-7(1) 6-1,3,R64,131,15,1,86,54,43,18,15,2,3,15,7,95,60,44,14,14,11,15
 2023-418,Washington,Hard,64,A,20230731,264,SY67,,LL,Sho Shimabukuro,R,180,JPN,26,161,367,HG86,,PR,Lloyd Harris,R,193,RSA,26.4,186,321,6-4 6-3,3,R64,63,7,3,50,30,27,11,10,0,1,7,2,48,27,21,8,9,0,3
 2023-418,Washington,Hard,64,A,20230731,267,N0AE,,,Brandon Nakashima,R,188,USA,21.9,70,830,V832,,,Aleksandar Vukic,R,188,AUS,27.3,62,855,7-6(5) 7-6(9),3,R64,126,8,2,86,53,38,18,12,4,7,7,1,98,56,35,23,12,4,7
@@ -2430,7 +2430,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-M-DC-2023-WG1-M-GRE-SVK-01,Davis Cup WG1 R1: GRE vs SVK,Hard,4,D,20230916,1,MV14,,,Alex Molcan,L,178,SVK,25.7,113,530,S0F7,,,Alexandros Skorilas,R,185,GRE,23.4,766,30,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-M-ISR-JPN-01,Davis Cup WG1 R1: ISR vs JPN,Hard,4,D,20230916,1,SY67,,,Sho Shimabukuro,R,180,JPN,26.1,146,416,O674,,,Yshai Oliel,L,188,ISR,23.6,470,90,6-4 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-M-PER-NOR-01,Davis Cup WG1 R1: PER vs NOR,Clay,4,D,20230916,1,DC76,,,Viktor Durasovic,R,185,NOR,26.4,366,136,B0GR,,,Gonzalo Bueno,R,173,PER,19.4,403,116,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2023-M-DC-2023-WG2-M-ESA-IRL-01,Davis Cup WG2 R1: ESA vs IRL,Clay,4,D,20230916,1,G0G4,,,Conor Gannon,U,,IRL,21.2,,,C0NU,,,Cesar Cruz,U,,ESA,16.9,,,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+2023-M-DC-2023-WG2-M-ESA-IRL-01,Davis Cup WG2 R1: ESA vs IRL,Clay,4,D,20230916,1,G0G4,,,Conor Gannon,U,,IRL,21.2,,,C0NU,,,Cesar Cruz,,ESA,,16.9,,,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-M-HKG-LAT-01,Davis Cup WG2 R1: HKG vs LAT,Hard,4,D,20230916,1,S0GV,,,Robert Strombachs,R,191,LAT,23.9,385,128,WB15,,,Hong Kit Jack Wong,R,,HKG,25,1478,3,6-3 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-M-IND-MAR-01,Davis Cup WG2 R1: IND vs MAR,Hard,4,D,20230916,1,D0FA,,,Yassine Dlimi,R,191,MAR,20.3,557,65,MP13,,,Mukund Sasikumar,R,185,IND,26.6,365,137,6-7(4) 7-5 4-1 RET,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-M-MEX-CHN-01,Davis Cup WG2 R1: MEX vs CHN,Clay,4,D,20230916,1,P0J1,,,Rodrigo Pacheco Mendez,L,188,MEX,18.3,677,43,SX90,,,Fajing Sun,R,178,CHN,26.9,401,117,5-7 7-6(2) 1-1 RET,3,RR,,,,,,,,,,,,,,,,,,,
@@ -2446,7 +2446,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-M-DC-2023-WG1-M-GRE-SVK-01,Davis Cup WG1 R1: GRE vs SVK,Hard,4,D,20230916,2,TE51,,,Stefanos Tsitsipas,R,193,GRE,25,5,4615,KI63,,,Lukas Klein,R,193,SVK,25.4,149,412,6-7(3) 7-6(5) 4-0 RET,3,RR,,10,2,93,62,48,19,14,2,2,5,8,107,67,46,24,14,11,13
 2023-M-DC-2023-WG1-M-ISR-JPN-01,Davis Cup WG1 R1: ISR vs JPN,Hard,4,D,20230916,2,CL82,,,Daniel Cukierman,R,,ISR,28.1,372,132,M0HU,,,Shintaro Mochizuki,R,175,JPN,20.2,193,315,1-6 7-6(5) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-M-PER-NOR-01,Davis Cup WG1 R1: PER vs NOR,Clay,4,D,20230916,2,V836,,,Juan Pablo Varillas,R,185,PER,27.9,70,815,B0U4,,,Nicolai Budkov Kjaer,R,188,NOR,17,,,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2023-M-DC-2023-WG2-M-ESA-IRL-01,Davis Cup WG2 R1: ESA vs IRL,Clay,4,D,20230916,2,A853,,,Marcelo Arevalo,R,191,ESA,32.9,,,O684,,,Osgar Ohoisin,R,193,IRL,27,859,21,7-6(5) 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+2023-M-DC-2023-WG2-M-ESA-IRL-01,Davis Cup WG2 R1: ESA vs IRL,Clay,4,D,20230916,2,A853,,,Marcelo Arevalo,R,191,ESA,32.9,,,O684,,,Osgar O'Hoisin,R,193,IRL,27,859,21,7-6(5) 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-M-HKG-LAT-01,Davis Cup WG2 R1: HKG vs LAT,Hard,4,D,20230916,2,W0BH,,,Coleman Wong,R,191,HKG,19.2,534,70,R0CT,,,Martins Rocens,R,185,LAT,23.4,,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-M-IND-MAR-01,Davis Cup WG2 R1: IND vs MAR,Hard,4,D,20230916,2,N897,,,Sumit Nagal,R,178,IND,26,156,397,MP94,,,Adam Moundir,R,191,MAR,28.3,779,29,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-M-MEX-CHN-01,Davis Cup WG2 R1: MEX vs CHN,Clay,4,D,20230916,2,TG30,,,Rigele Te,R,188,CHN,25.9,492,82,E873,,,Ernesto Escobedo,R,185,USA,27.1,399,117,1-6 6-4 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,
@@ -2458,7 +2458,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-M-DC-2023-WG1-M-GRE-SVK-01,Davis Cup WG1 R1: GRE vs SVK,Hard,4,D,20230916,4,MV14,,,Alex Molcan,L,178,SVK,25.7,113,530,TE51,,,Stefanos Tsitsipas,R,193,GRE,25,5,4615,7-6(6) 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-M-ISR-JPN-01,Davis Cup WG1 R1: ISR vs JPN,Hard,4,D,20230916,4,CL82,,,Daniel Cukierman,R,,ISR,28.1,372,132,SY67,,,Sho Shimabukuro,R,180,JPN,26.1,146,416,2-6 6-1 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG1-M-PER-NOR-01,Davis Cup WG1 R1: PER vs NOR,Clay,4,D,20230916,4,V836,,,Juan Pablo Varillas,R,185,PER,27.9,70,815,DC76,,,Viktor Durasovic,R,185,NOR,26.4,366,136,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,
-2023-M-DC-2023-WG2-M-ESA-IRL-01,Davis Cup WG2 R1: ESA vs IRL,Clay,4,D,20230916,4,O684,,,Osgar Ohoisin,R,193,IRL,27,859,21,D0FO,,,Diego Duran,U,,ESA,,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2023-M-DC-2023-WG2-M-ESA-IRL-01,Davis Cup WG2 R1: ESA vs IRL,Clay,4,D,20230916,4,O684,,,Osgar O'Hoisin,R,193,IRL,27,859,21,D0FO,,,Diego Duran,U,,ESA,,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-M-HKG-LAT-01,Davis Cup WG2 R1: HKG vs LAT,Hard,4,D,20230916,4,S0GV,,,Robert Strombachs,R,191,LAT,23.9,385,128,W0BH,,,Coleman Wong,R,191,HKG,19.2,534,70,6-4 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-M-IND-MAR-01,Davis Cup WG2 R1: IND vs MAR,Hard,4,D,20230916,4,N897,,,Sumit Nagal,R,178,IND,26,156,397,D0FA,,,Yassine Dlimi,R,191,MAR,20.3,557,65,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-M-MEX-CHN-01,Davis Cup WG2 R1: MEX vs CHN,Clay,4,D,20230916,4,E873,,,Ernesto Escobedo,R,185,USA,27.1,399,117,Z0CQ,,,Yi Zhou,R,193,CHN,18.4,893,18,7-6(7) 7-5,3,RR,,,,,,,,,,,,,,,,,,,
@@ -2478,7 +2478,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-M-DC-2023-FLS-2-B-M-GBR-FRA-01,Davis Cup Finals RR: GBR vs FRA,Hard,2,D,20230917,2,HH26,,,Ugo Humbert,L,188,FRA,25.2,36,1268,N771,,,Cameron Norrie,L,188,GBR,28,17,1985,7-6(5) 3-6 7-5,3,RR,,20,1,101,65,52,19,16,2,3,2,3,119,82,57,20,17,5,6
 2023-M-DC-2023-FLS-3-C-M-ESP-KOR-01,Davis Cup Finals RR: ESP vs KOR,Hard,2,D,20230917,2,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,24.2,25,1435,KF17,,,Soonwoo Kwon,R,180,KOR,25.7,112,533,6-4 6-4,3,RR,,6,0,53,41,35,6,10,1,1,5,3,61,32,22,16,10,1,3
 2023-M-DC-2023-FLS-4-D-M-CRO-NED-01,Davis Cup Finals RR: CRO vs NED,Hard,2,D,20230917,2,GH92,,,Borna Gojo,R,196,CRO,25.5,77,747,GJ37,,,Tallon Griekspoor,R,188,NED,27.1,24,1446,4-6 7-6(2) 6-4,3,RR,,18,2,115,79,57,19,16,8,10,7,2,95,72,54,12,16,1,3
-2023-9210,Laver Cup,Hard,2,A,20230918,1,S0S1,,,Ben Shelton,L,193,USA,20.953,19,1735,F0F1,,,Arthur Fils,R,188,FRA,19.279,44,1032,6-1 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,
+2023-9210,Laver Cup,Hard,2,A,20230918,1,S0S1,,,Ben Shelton,L,193,USA,20.953,19,1735,F0F1,,,Arthur Fils,R,185,FRA,19.279,44,1032,6-1 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,
 2023-9210,Laver Cup,Hard,2,A,20230918,2,C0AU,,,Francisco Cerundolo,R,185,ARG,25.109,21,1635,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,24.298,25,1435,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,
 2023-9210,Laver Cup,Hard,2,A,20230918,3,AG37,,,Felix Auger-Aliassime,R,193,CAN,31.538,14,2340,MC65,,,Gael Monfils,R,193,FRA,37.057,142,432,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2023-9210,Laver Cup,Hard,2,A,20230918,4,FB98,,,Taylor Fritz,R,196,USA,25.901,8,3955,RE44,,,Andrey Rublev,R,188,RUS,25.923,6,4515,7-6(3) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
@@ -2612,7 +2612,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-5014,Shanghai Masters,Hard,128,M,20231002,203,H997,,,Yannick Hanfmann,R,193,GER,31.8,53,933,D994,,Q,James Duckworth,R,183,AUS,31.6,139,438,6-4 6-7(10) 6-3,3,R128,147,12,1,93,68,57,16,16,1,1,10,1,99,63,48,22,15,5,7
 2023-5014,Shanghai Masters,Hard,128,M,20231002,204,N732,,,Yoshihito Nishioka,L,170,JPN,28,48,970,AE14,,,Daniel Altmaier,R,188,GER,25,47,971,6-4 3-6 7-6(2),3,R128,173,1,0,91,60,44,21,15,4,5,15,2,92,60,47,19,16,1,2
 2023-5014,Shanghai Masters,Hard,128,M,20231002,207,HB64,,,Quentin Halys,R,191,FRA,26.9,76,740,KC56,,,Aslan Karatsev,R,185,RUS,30,52,943,7-6(4) 3-6 6-2,3,R128,127,5,6,86,45,35,23,14,5,7,8,5,95,57,46,16,15,5,8
-2023-5014,Shanghai Masters,Hard,128,M,20231002,208,T0AP,,Q,Chun Hsin Tseng,R,175,TPE,22.1,380,129,S0H2,,,Alexander Shevchenko,R,188,KAZ,22.8,84,709,3-6 6-3 6-2,3,R128,111,3,3,79,49,36,16,13,3,5,2,3,70,37,26,17,13,2,6
+2023-5014,Shanghai Masters,Hard,128,M,20231002,208,T0AP,,Q,Chun-Hsin Tseng,R,175,TPE,22.1,380,129,S0H2,,,Alexander Shevchenko,R,188,KAZ,22.8,84,709,3-6 6-3 6-2,3,R128,111,3,3,79,49,36,16,13,3,5,2,3,70,37,26,17,13,2,6
 2023-5014,Shanghai Masters,Hard,128,M,20231002,211,F0F1,,,Arthur Fils,R,185,FRA,19.3,44,1020,K09F,,,Pavel Kotov,R,191,RUS,24.8,103,610,6-1 6-4,3,R128,77,5,5,55,32,26,10,9,0,1,3,1,53,38,19,9,8,6,10
 2023-5014,Shanghai Masters,Hard,128,M,20231002,212,O513,,,Sebastian Ofner,R,191,AUT,27.3,49,967,V836,,,Juan Pablo Varillas,R,185,PER,27.9,65,825,7-6(3) 7-6(6),3,R128,125,12,2,87,50,41,18,12,3,5,6,0,95,62,45,14,12,2,4
 2023-5014,Shanghai Masters,Hard,128,M,20231002,215,W09G,,,J J Wolf,R,183,USA,24.7,51,955,CG04,,,Pedro Cachin,R,185,ARG,28.4,71,757,3-6 6-3 6-4,3,R128,124,12,3,91,49,42,19,14,7,9,7,4,82,56,41,11,14,2,5
@@ -2644,7 +2644,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-5014,Shanghai Masters,Hard,128,M,20231002,252,E865,29,,Christopher Eubanks,R,201,USA,27.4,32,1313,H997,,,Yannick Hanfmann,R,193,GER,31.8,53,933,4-6 6-3 6-2,3,R64,127,14,1,85,66,43,12,14,1,3,8,1,91,63,40,15,13,7,11
 2023-5014,Shanghai Masters,Hard,128,M,20231002,253,RH16,8,,Casper Ruud,R,183,NOR,24.7,9,3605,N732,,,Yoshihito Nishioka,L,170,JPN,28,48,970,7-5 6-0,3,R64,74,9,0,39,34,29,3,9,0,1,2,1,60,36,20,8,9,4,9
 2023-5014,Shanghai Masters,Hard,128,M,20231002,254,RE44,5,,Andrey Rublev,R,188,RUS,25.9,7,4550,HB64,,,Quentin Halys,R,191,FRA,26.9,76,740,6-4 7-5,3,R64,66,14,1,55,38,35,9,11,0,0,17,5,65,41,32,9,11,2,4
-2023-5014,Shanghai Masters,Hard,128,M,20231002,255,ME82,31,,Adrian Mannarino,L,180,FRA,35.2,23,1526,T0AP,,Q,Chun Hsin Tseng,R,175,TPE,22.1,380,129,6-2 6-2,3,R64,92,6,2,54,34,27,9,8,3,3,5,2,62,41,23,8,8,5,9
+2023-5014,Shanghai Masters,Hard,128,M,20231002,255,ME82,31,,Adrian Mannarino,L,180,FRA,35.2,23,1526,T0AP,,Q,Chun-Hsin Tseng,R,175,TPE,22.1,380,129,6-2 6-2,3,R64,92,6,2,54,34,27,9,8,3,3,5,2,62,41,23,8,8,5,9
 2023-5014,Shanghai Masters,Hard,128,M,20231002,256,F0F1,,,Arthur Fils,R,185,FRA,19.3,44,1020,DH50,24,,Alejandro Davidovich Fokina,R,180,ESP,24.3,25,1470,6-2 7-5,3,R64,82,7,3,55,32,27,11,10,1,2,2,0,65,46,31,7,10,2,6
 2023-5014,Shanghai Masters,Hard,128,M,20231002,257,PL56,12,,Tommy Paul,R,185,USA,26.3,12,2660,O513,,,Sebastian Ofner,R,191,AUT,27.3,49,967,6-3 6-0,3,R64,70,4,1,35,18,16,12,7,0,0,0,2,59,40,19,9,8,1,6
 2023-5014,Shanghai Masters,Hard,128,M,20231002,258,W09G,,,J J Wolf,R,183,USA,24.7,51,955,N771,15,,Cameron Norrie,L,188,GBR,28.1,16,2020,6-3 5-7 7-6(4),3,R64,192,13,4,109,63,43,22,16,7,11,4,1,110,76,44,19,17,14,19
@@ -2892,10 +2892,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-352,Paris Masters,Hard,64,M,20231030,298,D875,,,Grigor Dimitrov,R,191,BUL,32.4,17,2060,TE51,7,,Stefanos Tsitsipas,R,193,GRE,25.2,6,4435,6-3 6-7(1) 7-6(3),3,SF,151,6,2,97,65,51,25,17,4,4,12,1,102,70,51,22,16,4,5
 2023-352,Paris Masters,Hard,64,M,20231030,299,D643,1,,Novak Djokovic,R,188,SRB,36.4,1,11045,RE44,5,,Andrey Rublev,R,188,RUS,26,5,4935,5-7 7-6(3) 7-5,3,SF,181,17,5,118,79,58,23,18,4,6,16,2,112,77,56,20,18,6,8
 2023-352,Paris Masters,Hard,64,M,20231030,300,D643,1,,Novak Djokovic,R,188,SRB,36.4,1,11045,D875,,,Grigor Dimitrov,R,191,BUL,32.4,17,2060,6-4 6-3,3,F,98,6,1,48,32,26,11,9,0,0,5,2,68,35,25,14,10,1,4
-2023-341,Metz,Hard,32,A,20231106,271,0,,WC,Pierre-Hugues Herbert,R,188,FRA,32.6,344,148,C0H0,,WC,Arthur Cazaux,R,183,FRA,21.2,123,508,7-6(7) 6-4,3,R32,113,8,1,78,52,41,14,11,2,2,12,0,84,59,44,12,11,7,8
+2023-341,Metz,Hard,32,A,20231106,271,H996,,WC,Pierre-Hugues Herbert,R,188,FRA,32.6,344,148,C0H0,,WC,Arthur Cazaux,R,183,FRA,21.2,123,508,7-6(7) 6-4,3,R32,113,8,1,78,52,41,14,11,2,2,12,0,84,59,44,12,11,7,8
 2023-341,Metz,Hard,32,A,20231106,272,V0DZ,,,Luca Van Assche,R,178,FRA,19.4,70,755,V812,,,Botic van de Zandschulp,R,191,NED,28,51,930,3-6 6-3 7-6(5),3,R32,162,3,5,95,62,47,19,15,1,2,13,1,109,71,54,18,15,8,9
 2023-341,Metz,Hard,32,A,20231106,273,W367,8,,Stan Wawrinka,R,183,SUI,38.6,53,922,Z419,,,Bernabe Zapata Miralles,R,183,ESP,26.8,81,715,6-0 6-2,3,R32,51,3,1,35,20,16,12,7,0,0,1,2,47,28,15,5,7,5,10
-2023-341,Metz,Hard,32,A,20231106,275,LB66,,,Constant Lestienne,R,180,FRA,31.4,90,689,0,,Q,Calvin Hemery,R,191,FRA,28.7,205,307,6-3 6-2,3,R32,61,9,1,56,37,30,9,9,0,0,4,2,42,25,15,8,8,0,3
+2023-341,Metz,Hard,32,A,20231106,275,LB66,,,Constant Lestienne,R,180,FRA,31.4,90,689,HB48,,Q,Calvin Hemery,R,191,FRA,28.7,205,307,6-3 6-2,3,R32,61,9,1,56,37,30,9,9,0,0,4,2,42,25,15,8,8,0,3
 2023-341,Metz,Hard,32,A,20231106,276,S0H2,,,Alexander Shevchenko,R,188,KAZ,22.9,63,807,0,,Q,Mathias Bourgue,R,188,FRA,29.7,271,212,6-4 7-5,3,R32,85,2,0,57,41,30,12,11,1,2,4,1,79,52,36,11,11,7,10
 2023-341,Metz,Hard,32,A,20231106,277,0,,LL,Mate Valkusz,R,183,HUN,25.2,232,265,AE14,9,,Daniel Altmaier,R,188,GER,25.1,54,911,6-2 6-2,3,R32,71,1,0,42,31,23,6,8,1,2,1,2,60,39,21,7,8,6,11
 2023-341,Metz,Hard,32,A,20231106,278,BK24,,,Gregoire Barrere,R,183,FRA,29.7,85,698,H997,7,,Yannick Hanfmann,R,193,GER,31.9,50,937,7-6(5) 6-4,3,R32,99,7,1,80,52,40,16,11,6,7,3,0,70,47,31,14,11,0,2
@@ -2904,7 +2904,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-341,Metz,Hard,32,A,20231106,282,SU87,6,,Lorenzo Sonego,R,191,ITA,28.4,49,955,GC88,,,Marcos Giron,R,180,USA,30.2,59,860,2-6 6-3 7-6(3),3,R32,134,8,4,89,49,39,25,15,3,5,2,2,83,51,39,20,14,2,3
 2023-341,Metz,Hard,32,A,20231106,283,S0NV,,Q,Abdullah Shelbayh,L,180,JOR,19.9,215,294,G09O,,,Hugo Gaston,L,173,FRA,23.1,83,701,7-6(5) 6-2,3,R32,111,6,3,83,48,30,19,10,8,11,0,0,73,44,24,14,10,9,14
 2023-341,Metz,Hard,32,A,20231106,284,F510,,WC,Fabio Fognini,R,178,ITA,36.4,147,409,SX91,,,Thiago Seyboth Wild,R,185,BRA,23.6,74,742,7-6(3) 7-6(9),3,R32,127,6,13,99,47,39,24,12,6,8,10,5,85,57,41,13,12,2,4
-2023-341,Metz,Hard,32,A,20231106,286,0,,WC,Pierre-Hugues Herbert,R,188,FRA,32.6,344,148,BO10,,LL,Gijs Brouwer,L,191,NED,27.6,163,381,7-5 6-4,3,R16,87,9,4,67,45,33,12,11,2,3,4,3,73,43,31,12,11,6,9
+2023-341,Metz,Hard,32,A,20231106,286,H996,,WC,Pierre-Hugues Herbert,R,188,FRA,32.6,344,148,BO10,,LL,Gijs Brouwer,L,191,NED,27.6,163,381,7-5 6-4,3,R16,87,9,4,67,45,33,12,11,2,3,4,3,73,43,31,12,11,6,9
 2023-341,Metz,Hard,32,A,20231106,287,V0DZ,,,Luca Van Assche,R,178,FRA,19.4,70,755,W367,8,,Stan Wawrinka,R,183,SUI,38.6,53,922,3-6 7-6(6) 0-0 RET,3,R16,103,3,3,61,30,22,19,10,2,4,8,2,67,37,32,16,11,2,3
 2023-341,Metz,Hard,32,A,20231106,288,KE29,3,,Karen Khachanov,R,198,RUS,27.4,15,2475,LB66,,,Constant Lestienne,R,180,FRA,31.4,90,689,6-4 6-4,3,R16,88,3,0,59,40,29,13,10,1,2,9,3,68,42,26,14,10,3,6
 2023-341,Metz,Hard,32,A,20231106,289,S0H2,,,Alexander Shevchenko,R,188,KAZ,22.9,63,807,0,,LL,Mate Valkusz,R,183,HUN,25.2,232,265,7-5 2-6 6-2,3,R16,102,10,2,72,48,41,12,14,0,2,1,2,84,52,36,14,14,1,4
@@ -2912,11 +2912,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-341,Metz,Hard,32,A,20231106,291,HH26,4,,Ugo Humbert,L,188,FRA,25.3,23,1540,TB69,,,Dominic Thiem,R,185,AUT,30.1,95,643,7-6(5) 4-6 6-3,3,R16,160,11,2,90,57,48,17,16,4,6,4,3,103,59,43,23,15,3,5
 2023-341,Metz,Hard,32,A,20231106,292,SU87,6,,Lorenzo Sonego,R,191,ITA,28.4,49,955,S0NV,,Q,Abdullah Shelbayh,L,180,JOR,19.9,215,294,6-3 7-5,3,R16,93,10,1,60,40,32,14,11,3,3,3,5,70,43,32,11,10,4,6
 2023-341,Metz,Hard,32,A,20231106,293,F510,,WC,Fabio Fognini,R,178,ITA,36.4,147,409,BK92,5,,Alexander Bublik,R,196,KAZ,26.3,32,1369,4-6 7-6(7) 7-6(5),3,R16,175,1,6,119,64,45,26,17,5,9,19,13,129,78,58,23,17,8,11
-2023-341,Metz,Hard,32,A,20231106,294,0,,WC,Pierre-Hugues Herbert,R,188,FRA,32.6,344,148,V0DZ,,,Luca Van Assche,R,178,FRA,19.4,70,755,4-6 6-3 7-5,3,QF,154,20,1,97,71,57,12,16,4,5,5,4,119,79,55,20,15,12,14
+2023-341,Metz,Hard,32,A,20231106,294,H996,,WC,Pierre-Hugues Herbert,R,188,FRA,32.6,344,148,V0DZ,,,Luca Van Assche,R,178,FRA,19.4,70,755,4-6 6-3 7-5,3,QF,154,20,1,97,71,57,12,16,4,5,5,4,119,79,55,20,15,12,14
 2023-341,Metz,Hard,32,A,20231106,295,S0H2,,,Alexander Shevchenko,R,188,KAZ,22.9,63,807,KE29,3,,Karen Khachanov,R,198,RUS,27.4,15,2475,6-4 6-4,3,QF,72,3,2,56,30,26,17,10,3,3,10,0,48,27,23,11,10,1,3
 2023-341,Metz,Hard,32,A,20231106,296,HH26,4,,Ugo Humbert,L,188,FRA,25.3,23,1540,M0G4,,Q,Harold Mayot,R,180,FRA,21.7,176,348,6-3 7-5,3,QF,86,5,0,56,41,33,12,11,1,1,3,0,68,43,29,14,10,5,7
 2023-341,Metz,Hard,32,A,20231106,297,F510,,WC,Fabio Fognini,R,178,ITA,36.4,147,409,SU87,6,,Lorenzo Sonego,R,191,ITA,28.4,49,955,6-1 6-2,3,QF,76,1,2,46,21,17,17,8,2,2,4,1,51,30,16,8,7,2,6
-2023-341,Metz,Hard,32,A,20231106,298,S0H2,,,Alexander Shevchenko,R,188,KAZ,22.9,63,807,0,,WC,Pierre-Hugues Herbert,R,188,FRA,32.6,344,148,6-4 6-4,3,SF,77,8,0,59,39,32,9,10,2,3,10,3,62,45,31,5,10,4,7
+2023-341,Metz,Hard,32,A,20231106,298,S0H2,,,Alexander Shevchenko,R,188,KAZ,22.9,63,807,H996,,WC,Pierre-Hugues Herbert,R,188,FRA,32.6,344,148,6-4 6-4,3,SF,77,8,0,59,39,32,9,10,2,3,10,3,62,45,31,5,10,4,7
 2023-341,Metz,Hard,32,A,20231106,299,HH26,4,,Ugo Humbert,L,188,FRA,25.3,23,1540,F510,,WC,Fabio Fognini,R,178,ITA,36.4,147,409,6-0 6-2,3,SF,67,8,0,38,24,21,9,7,0,0,2,1,56,39,20,4,7,6,11
 2023-341,Metz,Hard,32,A,20231106,300,HH26,4,,Ugo Humbert,L,188,FRA,25.3,23,1540,S0H2,,,Alexander Shevchenko,R,188,KAZ,22.9,63,807,6-3 6-3,3,F,67,4,0,45,29,25,12,9,1,1,4,2,55,34,25,9,9,4,7
 2023-7434,Sofia,Hard,32,A,20231106,271,R772,,,Albert Ramos-Vinolas,L,188,ESP,35.8,94,644,CF59,,,Roberto Carballes Baena,R,183,ESP,30.6,61,816,7-5 4-6 6-3,3,R32,168,5,2,111,66,46,19,16,5,9,5,2,81,50,37,13,15,3,8

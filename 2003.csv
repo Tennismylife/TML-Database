@@ -356,7 +356,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-D011,Davis Cup G1 R1: IND vs JPN,Grass,4,D,20030207,2,P269,,,Leander Paes,R,178,IND,29.632,1003,5,S550,,,Takao Suzuki,R,175,JPN,26.371,132,285,6-3 7-6(3) 6-4,5,RR,122,30,3,95,66,50,20,17,4,5,10,2,108,65,52,19,17,6,8
 2003-D011,Davis Cup G1 R1: IND vs JPN,Grass,4,D,20030207,3,B757,,,Rohan Bopanna,R,190,IND,22.919,344,76,103647,,,Jun Kato,R,173,JPN,22.275,503,38,7-6(5) 6-4 6-4,5,RR,122,30,3,95,66,50,20,17,4,5,10,2,108,65,52,19,17,6,8
 2003-D011,Davis Cup G1 R1: IND vs JPN,Grass,4,D,20030207,4,P269,,,Leander Paes,R,178,IND,29.632,1003,5,M531,,,Gouichi Motomura,R,173,JPN,29.109,224,135,1-6 6-3 6-4,3,RR,122,30,3,95,66,50,20,17,4,5,10,2,108,65,52,19,17,6,8
-2003-D012,Davis Cup G1 R1: NZL vs PAK,Hard,4,D,20030207,1,N267,,,Mark Nielsen,R,185,NZL,25.322,329,82,103499,,,Aqeel Khan,R,,PAK,23.012,,,6-0 6-1 6-2,5,RR,122,30,3,95,66,50,20,17,4,5,10,2,108,65,52,19,17,6,8
+2003-D012,Davis Cup G1 R1: NZL vs PAK,Hard,4,D,20030207,1,N267,,,Mark Nielsen,R,185,NZL,25.322,329,82,K425,,,Aqeel Khan,R,,PAK,23.012,,,6-0 6-1 6-2,5,RR,122,30,3,95,66,50,20,17,4,5,10,2,108,65,52,19,17,6,8
 2003-D012,Davis Cup G1 R1: NZL vs PAK,Hard,4,D,20030207,2,H297,,,Alistair Hunt,R,190,NZL,30.229,1332,1,Q019,,,Aisam-Ul-Haq Qureshi,R,183,PAK,22.883,360,71,6-4 1-6 7-5 6-2,5,RR,122,30,3,95,66,50,20,17,4,5,10,2,108,65,52,19,17,6,8
 2003-D012,Davis Cup G1 R1: NZL vs PAK,Hard,4,D,20030207,3,103483,,,James Shortall,R,,NZL,23.11,878,9,108588,,,Asim Shafik,U,,PAK,27.121,,,6-2 6-2,3,RR,122,30,3,95,66,50,20,17,4,5,10,2,108,65,52,19,17,6,8
 2003-D012,Davis Cup G1 R1: NZL vs PAK,Hard,4,D,20030207,4,102873,,,Rob Cheyne,R,,NZL,26.289,1046,5,108637,,,Nomi Qamar,U,,PAK,20.468,,,6-2 6-0,3,RR,122,30,3,95,66,50,20,17,4,5,10,2,108,65,52,19,17,6,8
@@ -1006,7 +1006,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-D061,Davis Cup G2 PO: URU vs COL,Clay,4,D,20030404,3,Q017,,,Michael Quintero,R,,COL,22.719,310,90,D253,,,Federico Dondo,R,,URU,31.45,823,11,6-3 7-5 7-6(9),5,RR,71,8,1,55,39,31,9,9,3,3,3,1,53,26,13,16,9,3,6
 2003-D061,Davis Cup G2 PO: URU vs COL,Clay,4,D,20030404,4,104421,,,Martin Vilarrubi,U,,URU,18.574,924,7,G478,,,Pablo Gonzalez,R,178,COL,20.745,421,56,6-3 7-5 4-6 6-3,5,RR,71,8,1,55,39,31,9,9,3,3,3,1,53,26,13,16,9,3,6
 2003-D066,Davis Cup G1 PO: JPN vs PAK,Carpet,4,D,20030404,1,M531,,,Gouichi Motomura,R,173,JPN,29.262,236,131,108896,,,Shahzad Khan,U,,PAK,16.32,,,6-2 6-3 6-1,5,RR,71,8,1,55,39,31,9,9,3,3,3,1,53,26,13,16,9,3,6
-2003-D066,Davis Cup G1 PO: JPN vs PAK,Carpet,4,D,20030404,2,S550,,,Takao Suzuki,R,175,JPN,26.524,243,128,103499,,,Aqeel Khan,R,,PAK,23.165,,,6-1 6-1 6-4,5,RR,71,8,1,55,39,31,9,9,3,3,3,1,53,26,13,16,9,3,6
+2003-D066,Davis Cup G1 PO: JPN vs PAK,Carpet,4,D,20030404,2,S550,,,Takao Suzuki,R,175,JPN,26.524,243,128,K425,,,Aqeel Khan,R,,PAK,23.165,,,6-1 6-1 6-4,5,RR,71,8,1,55,39,31,9,9,3,3,3,1,53,26,13,16,9,3,6
 2003-D066,Davis Cup G1 PO: JPN vs PAK,Carpet,4,D,20030404,3,M531,,,Gouichi Motomura,R,173,JPN,29.262,236,131,108897,,,Inam Gul,U,,PAK,21.224,,,6-0 6-1,3,RR,71,8,1,55,39,31,9,9,3,3,3,1,53,26,13,16,9,3,6
 2003-D066,Davis Cup G1 PO: JPN vs PAK,Carpet,4,D,20030404,4,S550,,,Takao Suzuki,R,175,JPN,26.524,243,128,108896,,,Shahzad Khan,U,,PAK,16.32,,,6-2 6-2,3,RR,71,8,1,55,39,31,9,9,3,3,3,1,53,26,13,16,9,3,6
 2003-D067,Davis Cup G1 PO: INA vs KOR,Hard,4,D,20030404,1,103504,,,Febi Widhiyanto,R,,INA,23.138,773,12,103273,,,Dong Hyun Kim,R,,KOR,24.476,425,54,6-1 6-3 6-0,5,RR,71,8,1,55,39,31,9,9,3,3,3,1,53,26,13,16,9,3,6
@@ -1452,14 +1452,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-306,St. Poelten,Clay,32,A,20030519,30,D402,6,,Nikolay Davydenko,R,178,RUS,21.96,36,900,V232,,,Martin Verkerk,R,196,NED,24.548,56,733,7-5 6-1,3,SF,93,2,3,64,46,31,12,9,4,4,4,5,70,38,26,11,10,3,7
 2003-306,St. Poelten,Clay,32,A,20030519,31,R485,1,,Andy Roddick,R,188,USA,20.717,6,2075,D402,6,,Nikolay Davydenko,R,178,RUS,21.96,36,900,6-3 6-2,3,F,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,S694,,,Radek Stepanek,R,185,CZE,24.474,47,,A202,,,Wayne Arthurs,L,185,AUS,32.17,58,,7-6(1) 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,M605,,,Carlos Moya,R,,ESP,26.724,4,,B676,,,James Blake,R,185,USA,23.389,27,,7-6(2) 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,M605,,,Carlos Moya,R,190,ESP,26.724,4,,B676,,,James Blake,R,185,USA,23.389,27,,7-6(2) 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,M442,,,Todd Martin,R,198,USA,32.862,94,,C344,,,Alex Corretja,R,180,ESP,29.103,17,,6-3 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,H432,,,Lleyton Hewitt,R,178,AUS,22.229,1,,N254,,,Jiri Novak,R,191,CZE,28.159,14,,6-3 6-2,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,N301,,,David Nalbandian,R,180,ARG,21.377,8,,B446,,,Jonas Bjorkman,R,183,SWE,31.154,69,,6-2 6-2,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,G415,,,Fernando Gonzalez,R,183,CHI,22.804,20,,B484,,,Lars Burgsmuller,R,183,GER,27.45,93,,6-4 7-6(6),3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,G374,,,Gaston Gaudio,R,175,ARG,24.441,22,,E113,,,Thomas Enqvist,R,191,SWE,29.183,99,,4-6 6-4 7-6(4),3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,B545,,,Tomas Behrend,R,193,GER,28.433,102,,R286,,,Marcelo Rios,L,175,CHI,27.395,42,,3-6 7-5 7-6(2),3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,N254,,,Jiri Novak,R,191,CZE,28.159,14,,M605,,,Carlos Moya,R,,ESP,26.724,4,,4-6 7-6(5) 6-2,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,N254,,,Jiri Novak,R,191,CZE,28.159,14,,M605,,,Carlos Moya,R,190,ESP,26.724,4,,4-6 7-6(5) 6-2,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,H432,,,Lleyton Hewitt,R,178,AUS,22.229,1,,B676,,,James Blake,R,185,USA,23.389,27,,6-3 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,C344,,,Alex Corretja,R,180,ESP,29.103,17,,S694,,,Radek Stepanek,R,185,CZE,24.474,47,,6-4 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,A202,,,Wayne Arthurs,L,185,AUS,32.17,58,,M442,,,Todd Martin,R,198,USA,32.862,94,,7-6(4) 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
@@ -1468,7 +1468,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-615,World Team Championship,Clay,64,A,20030519,,G415,,,Fernando Gonzalez,R,183,CHI,22.804,20,,N250,,,Magnus Norman,R,188,SWE,26.968,81,,6-2 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,G374,,,Gaston Gaudio,R,175,ARG,24.441,22,,B545,,,Tomas Behrend,R,193,GER,28.433,102,,6-2 6-4,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,S694,,,Radek Stepanek,R,185,CZE,24.474,47,,M442,,,Todd Martin,R,198,USA,32.862,94,,6-2 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
-2003-615,World Team Championship,Clay,64,A,20030519,,H432,,,Lleyton Hewitt,R,178,AUS,22.229,1,,M605,,,Carlos Moya,R,,ESP,26.724,4,,6-2 3-6 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
+2003-615,World Team Championship,Clay,64,A,20030519,,H432,,,Lleyton Hewitt,R,178,AUS,22.229,1,,M605,,,Carlos Moya,R,190,ESP,26.724,4,,6-2 3-6 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,C344,,,Alex Corretja,R,180,ESP,29.103,17,,A202,,,Wayne Arthurs,L,185,AUS,32.17,58,,3-6 7-5 7-5,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,B676,,,James Blake,R,185,USA,23.389,27,,N254,,,Jiri Novak,R,191,CZE,28.159,14,,7-5 4-6 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
 2003-615,World Team Championship,Clay,64,A,20030519,,S636,,,Rainer Schuettler,R,180,GER,27.064,11,,N250,,,Magnus Norman,R,188,SWE,26.968,81,,6-1 6-3,3,RR,64,3,1,52,33,25,11,9,1,2,1,1,50,42,21,4,8,3,7
@@ -1984,9 +1984,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-D055,Davis Cup G2 R2: DEN vs SLO,Hard,4,D,20030711,3,C328,,,Kenneth Carlsen,L,190,DEN,30.22,81,503,T264,,,Marko Tkalec,R,178,SLO,26.305,554,33,6-2 6-2 6-4,5,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
 2003-D055,Davis Cup G2 R2: DEN vs SLO,Hard,4,D,20030711,4,108640,,,Mik Ledvonova,U,,DEN,22.1,,,108892,,,Nejc Podkrajsek,U,,SLO,17.495,,,1-6 6-2 6-0,3,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
 2003-D056,Davis Cup G2 R2: YUG vs BUL,Clay,4,D,20030711,1,T742,,,Janko Tipsarevic,R,180,SRB,19.039,147,262,103666,,,Ilia Kushev,U,,BUL,22.563,757,13,6-3 1-6 6-2 6-3,5,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
-2003-D056,Davis Cup G2 R2: YUG vs BUL,Clay,4,D,20030711,2,L504,,,Radoslav Lukaev,R,,BUL,21.202,306,93,P642,,,Boris Pashanski,R,180,SRB,20.674,254,119,3-6 6-4 6-7(3) 6-4 6-4,5,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
+2003-D056,Davis Cup G2 R2: YUG vs BUL,Clay,4,D,20030711,2,L504,,,Radoslav Lukaev,R,,BUL,21.202,306,93,P642,,,Boris Pashanski,R,178,SRB,20.674,254,119,3-6 6-4 6-7(3) 6-4 6-4,5,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
 2003-D056,Davis Cup G2 R2: YUG vs BUL,Clay,4,D,20030711,3,T742,,,Janko Tipsarevic,R,180,SRB,19.039,147,262,L504,,,Radoslav Lukaev,R,,BUL,21.202,306,93,6-3 6-1 6-3,5,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
-2003-D056,Davis Cup G2 R2: YUG vs BUL,Clay,4,D,20030711,4,P642,,,Boris Pashanski,R,180,SRB,20.674,254,119,103936,,,Todor Enev,R,,BUL,21.407,413,62,6-2 6-4,3,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
+2003-D056,Davis Cup G2 R2: YUG vs BUL,Clay,4,D,20030711,4,P642,,,Boris Pashanski,R,178,SRB,20.674,254,119,103936,,,Todor Enev,R,,BUL,21.407,413,62,6-2 6-4,3,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
 2003-D057,Davis Cup G2 R2: GRE vs IRL,Clay,4,D,20030711,1,E160,,,Konstantinos Economidis,R,188,GRE,25.676,286,103,103402,,,Peter Clarke,R,188,IRL,23.997,295,97,7-6(2) 6-3 6-4,5,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
 2003-D057,Davis Cup G2 R2: GRE vs IRL,Clay,4,D,20030711,2,M854,,,Vasilis Mazarakis,R,178,GRE,23.406,135,292,N349,,,Conor Niland,R,185,IRL,21.796,,,6-2 2-6 6-7(1) 6-1 6-3,5,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
 2003-D057,Davis Cup G2 R2: GRE vs IRL,Clay,4,D,20030711,3,R365,,,Nikos Rovas,R,,GRE,25.793,651,22,103197,,,John Doran,R,,IRL,25.142,,,4-6 5-4 RET,5,RR,93,1,1,56,32,25,14,10,1,2,4,1,59,40,25,9,9,4,7
@@ -2621,7 +2621,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-533,Costa do Sauipe,Hard,32,A,20030908,4,S876,7,,Flavio Saretta,R,183,BRA,23.195,46,803,D339,,WC,Marcos Daniel,R,180,BRA,25.18,155,245,6-4 6-3,3,R32,86,7,1,46,30,24,10,9,0,1,2,2,77,48,29,11,10,3,7
 2003-533,Costa do Sauipe,Hard,32,A,20030908,5,K293,3,,Gustavo Kuerten,R,190,BRA,26.992,14,1430,N250,,,Magnus Norman,R,188,SWE,27.274,77,483,6-3 6-2,3,R32,60,11,1,56,37,29,10,9,0,0,5,4,42,17,13,11,8,1,4
 2003-533,Costa do Sauipe,Hard,32,A,20030908,6,E141,,,Werner Eschauer,R,188,AUT,29.369,96,393,S877,,Q,Julio Silva,R,173,BRA,24.189,360,84,5-7 7-6(2) 7-6(1),3,R32,197,10,3,137,68,51,35,18,6,10,4,0,123,76,51,25,18,9,12
-2003-533,Costa do Sauipe,Hard,32,A,20030908,7,M708,,,Ricardo Mello,L,175,BRA,22.713,173,217,C634,,Q,Paul Capdeville,R,190,CHI,20.435,522,39,6-7(4) 6-0 6-1,3,R32,100,1,1,74,48,34,17,13,2,4,4,11,77,40,22,13,12,3,10
+2003-533,Costa do Sauipe,Hard,32,A,20030908,7,M708,,,Ricardo Mello,L,175,BRA,22.713,173,217,C634,,Q,Paul Capdeville,R,191,CHI,20.435,522,39,6-7(4) 6-0 6-1,3,R32,100,1,1,74,48,34,17,13,2,4,4,11,77,40,22,13,12,3,10
 2003-533,Costa do Sauipe,Hard,32,A,20030908,8,C514,6,,Juan Ignacio Chela,R,190,ARG,24.025,43,845,L257,,,Todd Larkham,R,178,AUS,28.903,136,262,6-4 2-6 6-1,3,R32,104,4,2,73,45,29,12,13,5,11,1,4,71,49,24,10,12,7,14
 2003-533,Costa do Sauipe,Hard,32,A,20030908,9,C328,8,,Kenneth Carlsen,L,190,DEN,30.393,72,523,F433,,WC,Franco Ferreiro,R,188,BRA,19.187,316,101,4-6 6-4 7-6(11),3,R32,104,4,2,73,45,29,12,13,5,11,1,4,71,49,24,10,12,7,14
 2003-533,Costa do Sauipe,Hard,32,A,20030908,10,M759,,,Wesley Moodie,R,196,RSA,24.564,82,453,M783,,,Ivan Miranda,R,175,PER,23.502,113,329,6-4 6-4,3,R32,65,10,1,53,38,30,11,10,1,1,1,1,57,36,27,9,10,1,3
@@ -2698,13 +2698,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-D058,Davis Cup G2 R3: DEN vs RSA,Carpet,4,D,20030919,3,C328,,,Kenneth Carlsen,L,190,DEN,30.412,68,548,F196,,,Wayne Ferreira,R,185,RSA,32,25,1110,6-1 7-6(5) 6-2,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
 2003-D058,Davis Cup G2 R3: DEN vs RSA,Carpet,4,D,20030919,4,M759,,,Wesley Moodie,R,196,RSA,24.583,77,467,N390,,,Frederik Nielsen,R,190,DEN,20.052,906,8,6-4 6-4 6-4,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
 2003-D059,Davis Cup G2 R3: GRE vs YUG,Clay,4,D,20030919,1,T742,,,Janko Tipsarevic,R,180,SRB,19.231,136,267,P350,,,Solon Peppas,R,,GRE,28.89,606,27,3-6 6-3 6-2 2-6 6-3,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
-2003-D059,Davis Cup G2 R3: GRE vs YUG,Clay,4,D,20030919,2,E160,,,Konstantinos Economidis,R,188,GRE,25.867,313,101,P642,,,Boris Pashanski,R,180,SRB,20.865,204,179,6-2 6-4 6-2,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
+2003-D059,Davis Cup G2 R3: GRE vs YUG,Clay,4,D,20030919,2,E160,,,Konstantinos Economidis,R,188,GRE,25.867,313,101,P642,,,Boris Pashanski,R,178,SRB,20.865,204,179,6-2 6-4 6-2,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
 2003-D059,Davis Cup G2 R3: GRE vs YUG,Clay,4,D,20030919,3,E160,,,Konstantinos Economidis,R,188,GRE,25.867,313,101,T742,,,Janko Tipsarevic,R,180,SRB,19.231,136,267,6-0 7-6(6) 6-4,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
-2003-D059,Davis Cup G2 R3: GRE vs YUG,Clay,4,D,20030919,4,P642,,,Boris Pashanski,R,180,SRB,20.865,204,179,J206,,,Alexandros Jakupovic,R,,GRE,21.752,723,17,6-4 6-3,3,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
+2003-D059,Davis Cup G2 R3: GRE vs YUG,Clay,4,D,20030919,4,P642,,,Boris Pashanski,R,178,SRB,20.865,204,179,J206,,,Alexandros Jakupovic,R,,GRE,21.752,723,17,6-4 6-3,3,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
 2003-D068,Davis Cup G1 PO: PAK vs KOR,Grass,4,D,20030919,1,Q019,,,Aisam-Ul-Haq Qureshi,R,183,PAK,23.496,486,44,I145,,,Kyu Tae Im,R,185,KOR,22.689,533,36,6-1 6-2 6-4,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
-2003-D068,Davis Cup G1 PO: PAK vs KOR,Grass,4,D,20030919,2,103514,,,Young Jun Kim,R,,KOR,23.559,371,79,103499,,,Aqeel Khan,R,,PAK,23.625,,,7-6(17) 4-6 6-3 7-6(8),5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
+2003-D068,Davis Cup G1 PO: PAK vs KOR,Grass,4,D,20030919,2,103514,,,Young Jun Kim,R,,KOR,23.559,371,79,K425,,,Aqeel Khan,R,,PAK,23.625,,,7-6(17) 4-6 6-3 7-6(8),5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
 2003-D068,Davis Cup G1 PO: PAK vs KOR,Grass,4,D,20030919,3,103514,,,Young Jun Kim,R,,KOR,23.559,371,79,Q019,,,Aisam-Ul-Haq Qureshi,R,183,PAK,23.496,486,44,6-7(4) 7-6(5) 6-7(2) 7-6(5) 6-4,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
-2003-D068,Davis Cup G1 PO: PAK vs KOR,Grass,4,D,20030919,4,103499,,,Aqeel Khan,R,,PAK,23.625,,,I145,,,Kyu Tae Im,R,185,KOR,22.689,533,36,6-3 6-3 6-4,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
+2003-D068,Davis Cup G1 PO: PAK vs KOR,Grass,4,D,20030919,4,K425,,,Aqeel Khan,R,,PAK,23.625,,,I145,,,Kyu Tae Im,R,185,KOR,22.689,533,36,6-3 6-3 6-4,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
 2003-D070,Davis Cup G1 PO: VEN vs BAH,Hard,4,D,20030919,1,103065,,,Kepler Orellana,R,,VEN,25.936,449,53,MC19,,,Devin Mullings,U,,BAH,17.947,,,6-3 6-1 6-1,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
 2003-D070,Davis Cup G1 PO: VEN vs BAH,Hard,4,D,20030919,2,D353,,,Jose De Armas,R,,VEN,22.475,278,122,108898,,,Christopher Eldon,U,,BAH,18.426,,,6-4 6-4 7-5,5,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
 2003-D070,Davis Cup G1 PO: VEN vs BAH,Hard,4,D,20030919,3,108628,,,Jhonnatan Medina Alvarez,U,,VEN,21.673,,,108899,,,Davin Russell,U,,BAH,18.954,,,6-1 6-1,3,RR,80,1,0,49,29,19,13,8,4,5,2,0,48,31,16,4,8,2,7
@@ -3202,7 +3202,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-605,Masters Cup,Hard,8,F,20031110,1,F324,,,Roger Federer,R,185,SUI,22.256,3,3625,A092,,,Andre Agassi,R,180,USA,33.533,5,3025,6-7(3) 6-3 7-6(7),3,RR,146,20,6,124,66,49,24,16,6,9,4,4,117,70,45,24,17,5,10
 2003-605,Masters Cup,Hard,8,F,20031110,2,F324,,,Roger Federer,R,185,SUI,22.256,3,3625,N301,,,David Nalbandian,R,180,ARG,21.856,8,1960,6-3 6-0,3,RR,71,2,3,51,25,21,13,8,3,4,1,6,55,27,14,11,7,6,11
 2003-605,Masters Cup,Hard,8,F,20031110,3,F324,,,Roger Federer,R,185,SUI,22.256,3,3625,F316,,,Juan Carlos Ferrero,R,183,ESP,23.743,2,4205,6-3 6-1,3,RR,54,6,1,49,28,22,14,8,3,3,5,7,53,27,16,10,8,3,7
-2003-605,Masters Cup,Hard,8,F,20031110,,M605,7,,Carlos Moya,R,,ESP,27.203,7,,S636,6,,Rainer Schuettler,R,180,GER,27.543,6,,7-5 6-4,3,RR,54,6,1,49,28,22,14,8,3,3,5,7,53,27,16,10,8,3,7
+2003-605,Masters Cup,Hard,8,F,20031110,,M605,7,,Carlos Moya,R,190,ESP,27.203,7,,S636,6,,Rainer Schuettler,R,180,GER,27.543,6,,7-5 6-4,3,RR,54,6,1,49,28,22,14,8,3,3,5,7,53,27,16,10,8,3,7
 2003-605,Masters Cup,Hard,8,F,20031110,6,A092,,,Andre Agassi,R,180,USA,33.533,5,3025,F316,,,Juan Carlos Ferrero,R,183,ESP,23.743,2,4205,2-6 6-3 6-4,3,RR,92,7,3,77,54,39,12,14,0,2,7,1,67,39,30,19,13,2,4
 2003-605,Masters Cup,Hard,8,F,20031110,7,A092,,,Andre Agassi,R,180,USA,33.533,5,3025,N301,,,David Nalbandian,R,180,ARG,21.856,8,1960,7-6(10) 3-6 6-4,3,RR,152,4,1,104,66,46,20,15,8,12,9,9,121,72,50,25,16,6,10
 2003-605,Masters Cup,Hard,8,F,20031110,8,A092,,,Andre Agassi,R,180,USA,33.533,5,3025,S636,,,Rainer Schuettler,R,180,GER,27.543,6,3005,5-7 6-0 6-4,3,SF,128,1,3,92,54,38,21,14,4,6,4,3,82,42,27,19,14,1,6

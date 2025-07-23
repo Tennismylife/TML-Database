@@ -1,7 +1,7 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced
-2025-9900,United Cup,Hard,18,A,20241229,,CD85,,,Pablo Carreno Busta,R,183,ESP,33.5,196,292,S0H2,,,Alexander Shevchenko,R,188,KAZ,24.1,78,715,6-2 6-1,3,RR,64,3,0,40,27,21,9,8,1,2,3,4,42,24,14,4,7,2,7
+2025-9900,United Cup,Hard,18,A,20241229,,CD85,,,Pablo Carreno Busta,R,188,ESP,33.5,196,292,S0H2,,,Alexander Shevchenko,R,188,KAZ,24.1,78,715,6-2 6-1,3,RR,64,3,0,40,27,21,9,8,1,2,3,4,42,24,14,4,7,2,7
 2025-9900,United Cup,Hard,18,A,20241229,,Z371,,,Zhizhen Zhang,R,193,CHN,28.2,45,1155,MJ08,,,Thiago Monteiro,L,180,BRA,30.6,109,566,6-3 6-0,3,RR,54,10,0,39,30,26,7,8,0,0,3,2,35,22,13,3,7,1,5
-2025-9900,United Cup,Hard,18,A,20241229,,TE51,,,Stefanos Tsitsipas,R,193,GRC,26.4,11,3165,CD85,,,Pablo Carreno Busta,R,183,ESP,33.5,196,292,6-4 4-6 6-3,3,RR,128,13,6,84,49,40,19,15,1,3,2,3,92,70,48,9,14,6,9
+2025-9900,United Cup,Hard,18,A,20241229,,TE51,,,Stefanos Tsitsipas,R,193,GRC,26.4,11,3165,CD85,,,Pablo Carreno Busta,R,188,ESP,33.5,196,292,6-4 4-6 6-3,3,RR,128,13,6,84,49,40,19,15,1,3,2,3,92,70,48,9,14,6,9
 2025-9900,United Cup,Hard,18,A,20241229,,CG80,,,Borna Coric,R,188,CRO,28.1,90,639,AG37,,,Felix Auger-Aliassime,R,193,CAN,28.1,29,1635,0-6 6-4 6-4,3,RR,139,1,6,81,40,26,17,13,5,10,13,3,90,67,43,11,13,8,12
 2025-9900,United Cup,Hard,18,A,20241229,,HH26,,,Ugo Humbert,L,188,FRA,26.5,14,2765,S0LA,,,Dominic Stricker,L,188,CHE,22.4,300,173,6-3 7-5,3,RR,72,10,2,51,34,30,10,11,0,1,10,1,56,34,27,10,10,1,4
 2025-9900,United Cup,Hard,18,A,20241229,,DH58,,,Alex de Minaur,R,183,AUS,28.7,9,3745,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.5,39,1315,6-1 6-4,3,RR,76,8,2,51,26,23,15,9,0,0,2,1,47,28,20,7,8,3,6
@@ -69,13 +69,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-336,Hong Kong,Hard,28,A,20241229,,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,W0BH,,,Coleman Wong,R,191,HKG,20.6,170,340,7-6 6-4,3,R32,89,4,1,59,33,29,20,11,0,0,17,1,76,52,41,9,11,6,7
 2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,KI95,,,Miomir Kecmanovic,R,183,SRB,25.3,54,1021,5-7 7-6 7-6,3,R16,210,9,2,122,86,61,16,18,5,10,4,5,139,83,57,26,18,5,9
 2025-336,Hong Kong,Hard,28,A,20241229,,N771,,,Cameron Norrie,L,188,GBR,29.4,49,1119,SU87,,,Lorenzo Sonego,R,191,ITA,29.6,53,1026,6-2 4-6 6-1,3,R16,144,4,1,70,52,37,13,12,2,3,7,0,75,52,38,7,13,4,9
-2025-336,Hong Kong,Hard,28,A,20241229,,F0F1,,,Arthur Fils,R,188,FRA,20.5,20,2355,BU13,,,Zizou Bergs,R,185,BEL,25.6,71,768,7-6 6-4,3,R16,100,6,2,67,39,32,15,11,0,2,5,2,71,46,34,11,11,2,5
+2025-336,Hong Kong,Hard,28,A,20241229,,F0F1,,,Arthur Fils,R,185,FRA,20.5,20,2355,BU13,,,Zizou Bergs,R,185,BEL,25.6,71,768,7-6 6-4,3,R16,100,6,2,67,39,32,15,11,0,2,5,2,71,46,34,11,11,2,5
 2025-336,Hong Kong,Hard,28,A,20241229,,N552,,,Kei Nishikori,R,178,JPN,35,106,578,KE29,,,Karen Khachanov,R,198,RUS,28.6,19,2410,4-6 6-3 7-5,3,R16,129,1,1,90,62,43,17,16,5,8,7,5,90,59,41,14,15,3,7
 2025-336,Hong Kong,Hard,28,A,20241229,,MU94,,,Jaume Munar,R,183,ESP,27.7,62,832,BT72,,,Nuno Borges,R,185,POR,27.9,36,1355,6-3 7-5,3,R16,83,5,0,57,35,30,11,11,0,1,2,4,59,36,26,10,10,1,4
 2025-336,Hong Kong,Hard,28,A,20241229,,M0EJ,,,Lorenzo Musetti,R,185,ITA,22.8,17,2600,D0F6,,,Gabriel Diallo,R,203,CAN,23.3,87,643,6-4 6-3,3,R16,86,6,3,49,37,30,7,9,2,2,6,2,70,49,32,9,10,7,10
 2025-336,Hong Kong,Hard,28,A,20241229,,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,MO44,,,Pedro Martinez,R,185,ESP,27.7,43,1205,6-3 6-1,3,R16,77,9,2,54,40,32,5,8,6,6,5,6,49,33,23,2,8,3,7
 2025-336,Hong Kong,Hard,28,A,20241229,,M0CI,,,Fabian Marozsan,R,185,HUN,25.2,58,935,RE44,,,Andrey Rublev,R,188,RUS,27.2,8,3760,7-5 3-6 6-3,3,R16,118,5,2,103,67,45,15,15,10,13,10,3,85,53,39,15,15,5,9
-2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,F0F1,,,Arthur Fils,R,188,FRA,20.5,20,2355,3-6 6-3 6-1,3,QF,111,3,1,89,57,41,14,12,11,13,3,9,69,31,21,19,13,3,8
+2025-336,Hong Kong,Hard,28,A,20241229,,MP20,,,Alexandre Muller,R,183,FRA,27.9,67,778,F0F1,,,Arthur Fils,R,185,FRA,20.5,20,2355,3-6 6-3 6-1,3,QF,111,3,1,89,57,41,14,12,11,13,3,9,69,31,21,19,13,3,8
 2025-336,Hong Kong,Hard,28,A,20241229,,MU94,,,Jaume Munar,R,183,ESP,27.7,62,832,M0EJ,,,Lorenzo Musetti,R,185,ITA,22.8,17,2600,2-6 7-6 7-5,3,QF,156,2,4,102,69,47,17,16,7,11,9,4,102,69,54,11,16,4,7
 2025-336,Hong Kong,Hard,28,A,20241229,,S0RE,,,Juncheng Shang,R,180,CHN,19.9,50,1115,M0CI,,,Fabian Marozsan,R,185,HUN,25.2,58,935,1-6 6-3 6-4,3,QF,104,9,4,77,57,44,6,13,4,6,6,2,81,55,43,11,13,6,8
 2025-336,Hong Kong,Hard,28,A,20241229,,N552,,,Kei Nishikori,R,178,JPN,35,106,578,N771,,,Cameron Norrie,L,188,GBR,29.4,49,1119,6-3 3-6 6-2,3,QF,101,4,1,75,55,43,9,13,1,2,8,3,79,55,38,11,13,2,5
@@ -120,7 +120,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-301,Auckland,Hard,28,A,20250106,,MC65,,,Gael Monfils,R,193,FRA,38.349,52,1030,MO44,,,Pedro Martinez,R,185,ESP,27.699,43,1220,1-6 7-6 6-3,3,R32,144,8,3,86,51,38,17,15,1,5,1,3,83,58,41,15,13,3,5
 2025-301,Auckland,Hard,28,A,20250106,,SL28,,,Jan-Lennard Struff,R,193,GER,32.961,42,1225,Y09V,,,Yunchaokete Bu,R,185,CHN,29.279,65,784,6-3 6-4,3,R32,81,13,1,50,31,26,12,10,0,1,6,1,73,45,29,11,9,8,11
 2025-301,Auckland,Hard,28,A,20250106,,B0NN,,,Nishesh Basavareddy,R,180,USA,19.682,133,453,C0DF,,,Francisco Comesana,L,180,ARG,24.252,85,661,6-2 6-2,3,R32,69,6,0,51,36,25,11,8,2,2,6,2,52,34,19,7,8,5,9
-2025-301,Auckland,Hard,28,A,20250106,,M0NI,,,Jakub Mensik,R,193,CZE,19.348,49,1122,CD85,,,Pablo Carreno Busta,R,183,ESP,33.489,184,317,6-0 4-6 7-5,3,R32,131,18,2,88,55,45,18,15,1,2,3,3,100,63,45,17,15,4,7
+2025-301,Auckland,Hard,28,A,20250106,,M0NI,,,Jakub Mensik,R,193,CZE,19.348,49,1122,CD85,,,Pablo Carreno Busta,R,188,ESP,33.489,184,317,6-0 4-6 7-5,3,R32,131,18,2,88,55,45,18,15,1,2,3,3,100,63,45,17,15,4,7
 2025-301,Auckland,Hard,28,A,20250106,,B0NN,,,Nishesh Basavareddy,R,180,USA,19.682,133,453,TE30,,,Alejandro Tabilo,L,188,CHI,27.598,23,1943,6-4 5-7 6-4,3,R16,145,9,2,99,66,48,19,16,6,7,12,2,108,73,53,18,16,11,13
 2025-301,Auckland,Hard,28,A,20250106,,BU13,,,Zizou Bergs,R,185,BEL,25.596,66,783,N0BG,,,Luca Nardi,R,185,ITA,21.421,90,637,6-1 6-4,3,R16,81,7,2,47,26,21,12,9,3,5,3,6,69,34,19,13,8,7,12
 2025-301,Auckland,Hard,28,A,20250106,,M0QL,,,Alex Michelsen,R,193,USA,20.367,41,1245,SU87,,,Lorenzo Sonego,R,191,ITA,29.659,54,1026,7-6 6-2,3,R16,117,1,2,70,50,39,11,10,3,3,6,1,89,71,45,8,10,8,10
@@ -152,7 +152,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-580,Australian Open,Hard,128,G,20250113,,AE14,,,Daniel Altmaier,R,188,GER,26.337,101,582,C0DF,,,Francisco Comesana,L,180,ARG,24.271,85,662,6-2 3-6 7-6(4) 4-6 6-4,5,R128,202,13,5,132,84,74,26,25,2,4,18,5,146,92,78,24,24,3,6
 2025-580,Australian Open,Hard,128,G,20250113,,BK40,,,Matteo Berrettini,R,196,ITA,28.756,34,1380,N771,,,Cameron Norrie,L,188,GBR,29.392,52,1082,6-7(4) 6-4 6-1 6-3,5,R128,176,32,7,114,80,68,16,19,5,5,13,2,138,91,61,22,19,9,14
 2025-580,Australian Open,Hard,128,G,20250113,,B0EJ,,Q,Tristan Boyer,R,188,USA,23.732,136,448,CE77,,,Federico Coria,R,180,ARG,32.849,96,617,6-3 6-7(3) 4-6 7-5 6-1,5,R128,231,10,1,139,97,78,24,25,2,5,10,8,163,104,72,28,25,6,12
-2025-580,Australian Open,Hard,128,G,20250113,,CD85,,,Pablo Carreno Busta,R,183,ESP,33.507,182,317,MQ75,,Q,Kamil Majchrzak,R,183,POL,29,122,491,6-4 6-4 6-3,5,R128,123,6,1,86,62,46,14,15,5,5,4,2,88,62,43,12,14,5,9
+2025-580,Australian Open,Hard,128,G,20250113,,CD85,,,Pablo Carreno Busta,R,188,ESP,33.507,182,317,MQ75,,Q,Kamil Majchrzak,R,183,POL,29,122,491,6-4 6-4 6-3,5,R128,123,6,1,86,62,46,14,15,5,5,4,2,88,62,43,12,14,5,9
 2025-580,Australian Open,Hard,128,G,20250113,,D0F6,,,Gabriel Diallo,R,203,CAN,23.304,86,646,N0BG,,,Luca Nardi,R,185,ITA,21.438,83,675,6-7(1) 7-6(3) 5-7 6-1 6-2,5,R128,249,21,8,167,104,78,32,26,11,15,9,13,167,94,63,38,25,9,16
 2025-580,Australian Open,Hard,128,G,20250113,,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.079,73,758,BU13,,,Zizou Bergs,R,185,BEL,25.614,60,948,6-7(5) 6-4 1-6 6-3 6-4,5,R128,246,8,9,154,93,72,31,24,8,11,12,9,161,86,64,40,24,12,16
 2025-580,Australian Open,Hard,128,G,20250113,,GD64,,Q,Cristian Garin,R,185,CHI,28.625,150,382,CG80,,,Borna Coric,R,188,CRO,28.164,87,639,7-5 6-1 6-2,5,R128,123,7,2,62,34,30,20,14,0,1,3,4,85,44,27,18,13,6,13
@@ -179,7 +179,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-580,Australian Open,Hard,128,G,20250113,,BT72,,,Nuno Borges,R,185,POR,27.899,33,1445,MP20,,,Alexandre Muller,R,183,FRA,27.948,58,965,6-7(2) 6-3 6-2 7-5,5,R128,175,20,5,123,85,66,21,21,4,5,7,2,125,83,58,19,20,5,10
 2025-580,Australian Open,Hard,128,G,20250113,,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.608,66,790,S0RE,,,Juncheng Shang,R,180,CHN,19.945,50,1115,7-6(1) 5-2,5,R128,111,0,4,58,30,21,15,10,1,4,3,4,89,51,29,14,9,7,12
 2025-580,Australian Open,Hard,128,G,20250113,,D994,,,James Duckworth,R,188,AUS,32.978,89,637,S0LA,,,Dominic Stricker,L,188,CHE,22.411,304,173,6-2 6-4 6-2,5,R128,96,10,1,69,40,34,19,13,1,1,7,3,78,45,30,15,13,1,6
-2025-580,Australian Open,Hard,128,G,20250113,,F0F2,,Q,Jaime Faria,R,188,POR,21.438,125,481,K09F,,,Pavel Kotov,R,185,RUS,26.153,97,612,6-1 6-1 7-5,5,R128,105,10,3,70,44,34,20,13,2,2,9,7,84,42,29,15,13,4,10
+2025-580,Australian Open,Hard,128,G,20250113,,F0F2,,Q,Jaime Faria,R,188,POR,21.438,125,481,K09F,,,Pavel Kotov,R,191,RUS,26.153,97,612,6-1 6-1 7-5,5,R128,105,10,3,70,44,34,20,13,2,2,9,7,84,42,29,15,13,4,10
 2025-580,Australian Open,Hard,128,G,20250113,,F0BY,,,Jacob Fearnley,R,183,GBR,23.499,92,632,KE17,,,Nick Kyrgios,R,193,AUS,29.715,,,7-6(3) 6-3 7-6(2),5,R128,139,17,8,110,68,55,27,17,2,3,13,8,119,87,60,14,16,9,11
 2025-580,Australian Open,Hard,128,G,20250113,,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.762,71,766,SX50,,,Roman Safiullin,R,188,RUS,27.436,63,823,3-6 6-3 6-3 7-6(5),5,R128,245,23,1,158,106,76,18,20,18,22,14,2,130,91,59,18,19,2,8
 2025-580,Australian Open,Hard,128,G,20250113,,M0CI,,,Fabian Marozsan,R,185,HUN,25.266,59,960,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.847,79,732,6-3 6-7(5) 7-5 5-7 7-5,5,R128,236,20,1,165,118,88,32,29,2,4,23,6,190,132,102,24,28,12,16
@@ -191,7 +191,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-580,Australian Open,Hard,128,G,20250113,,Z355,2,,Alexander Zverev,R,198,GER,27.734,2,7635,PF39,,WC,Lucas Pouille,R,185,FRA,30.888,103,575,6-4 6-4 6-4,5,R128,141,18,2,88,64,50,15,15,2,2,3,7,113,62,45,21,15,15,18
 2025-580,Australian Open,Hard,128,G,20250113,,RH16,6,,Casper Ruud,R,183,NOR,26.06,6,4210,MU94,,,Jaume Munar,R,183,ESP,27.693,62,922,6-3 1-6 7-5 2-6 6-1,5,R128,201,7,2,123,83,57,23,22,3,8,10,3,138,90,66,18,21,7,12
 2025-580,Australian Open,Hard,128,G,20250113,,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,G0GD,,Q,Matteo Gigante,L,180,ITA,23.025,145,403,7-6(5) 7-5 6-4,5,R128,169,9,4,107,67,50,25,17,2,3,16,7,119,75,58,21,17,6,9
-2025-580,Australian Open,Hard,128,G,20250113,,F0F1,20,,Arthur Fils,R,188,FRA,20.589,21,2280,V0AM,,,Otto Virtanen,R,193,FIN,23.564,93,627,3-6 7-6(4) 6-4 6-4,5,R128,165,15,2,116,74,60,23,21,2,4,11,12,146,80,59,32,20,7,10
+2025-580,Australian Open,Hard,128,G,20250113,,F0F1,20,,Arthur Fils,R,185,FRA,20.589,21,2280,V0AM,,,Otto Virtanen,R,193,FIN,23.564,93,627,3-6 7-6(4) 6-4 6-4,5,R128,165,15,2,116,74,60,23,21,2,4,11,12,146,80,59,32,20,7,10
 2025-580,Australian Open,Hard,128,G,20250113,,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,TC01,,WC,Li Tu,R,183,AUS,28.633,168,342,6-1 3-6 6-3 7-6(1),5,R128,140,13,2,103,67,54,26,19,3,4,8,4,107,66,50,21,18,3,6
 2025-580,Australian Open,Hard,128,G,20250113,,M0FH,26,,Tomas Machac,R,185,CZE,24.252,25,1805,N897,,,Sumit Nagal,R,183,IND,27.411,91,635,6-3 6-1 7-5,5,R128,125,7,4,82,40,31,25,14,5,7,0,5,85,58,31,10,14,8,15
 2025-580,Australian Open,Hard,128,G,20250113,,G09O,,,Hugo Gaston,L,173,FRA,24.299,81,703,J553,,WC,Omar Jasika,L,183,AUS,27.658,179,323,6-2 3-6 6-2 6-2,5,R128,150,12,2,101,61,46,22,17,7,9,2,3,109,85,51,9,16,4,11
@@ -209,7 +209,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-580,Australian Open,Hard,128,G,20250113,,M0CI,,,Fabian Marozsan,R,185,HUN,25.266,59,960,TD51,17,,Frances Tiafoe,R,185,USA,26.981,16,2560,6-7(3) 6-4 3-6 6-4 6-1,5,R64,197,14,6,172,101,74,39,24,17,20,19,10,150,85,67,28,24,11,17
 2025-580,Australian Open,Hard,128,G,20250113,,KI95,,,Miomir Kecmanovic,R,183,SRB,25.37,51,1096,HB71,18,,Hubert Hurkacz,R,196,POL,27.921,17,2555,6-4 6-4 6-2,5,R64,111,6,0,84,49,38,24,14,3,3,14,6,82,53,41,11,14,7,11
 2025-580,Australian Open,Hard,128,G,20250113,,KE29,19,,Karen Khachanov,R,198,RUS,28.649,19,2410,D0F6,,,Gabriel Diallo,R,203,CAN,23.304,86,646,7-6(4) 4-6 6-3 6-3,5,R64,194,10,1,122,71,56,32,20,4,5,15,4,135,87,66,22,20,7,10
-2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,L,193,USA,22.263,20,2280,CD85,,,Pablo Carreno Busta,R,183,ESP,33.507,182,317,6-3 6-3 6-7(4) 6-4,5,R64,156,17,4,111,68,58,30,20,6,6,3,1,109,74,59,19,20,1,5
+2025-580,Australian Open,Hard,128,G,20250113,,S0S1,21,,Ben Shelton,L,193,USA,22.263,20,2280,CD85,,,Pablo Carreno Busta,R,188,ESP,33.507,182,317,6-3 6-3 6-7(4) 6-4,5,R64,156,17,4,111,68,58,30,20,6,6,3,1,109,74,59,19,20,1,5
 2025-580,Australian Open,Hard,128,G,20250113,,C0AU,31,,Francisco Cerundolo,R,185,ARG,26.419,31,1620,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.079,73,758,6-2 1-0 RET,5,R64,40,2,0,26,17,12,5,5,1,2,0,2,27,18,7,3,4,2,6
 2025-580,Australian Open,Hard,128,G,20250113,,GC88,,,Marcos Giron,R,180,USA,31.474,46,1175,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.49,38,1315,7-5 3-6 7-5 3-6 6-4,5,R64,246,8,1,163,98,64,34,26,11,19,14,1,153,94,60,30,26,6,14
 2025-580,Australian Open,Hard,128,G,20250113,,M0QL,,,Alex Michelsen,R,193,USA,20.386,42,1270,M0OQ,,WC,James McCabe,R,188,AUS,32.978,258,216,7-5 6-3 7-6(4),5,R64,135,8,2,96,76,61,14,17,0,0,10,4,110,65,48,19,16,12,14
@@ -223,7 +223,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-580,Australian Open,Hard,128,G,20250113,,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,N552,,,Kei Nishikori,R,178,JPN,35.041,76,743,6-7(3) 6-0 6-3 6-1,5,R64,161,8,2,104,74,55,11,17,1,5,0,5,129,86,41,18,17,7,18
 2025-580,Australian Open,Hard,128,G,20250113,,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,HF80,,Q,Hady Habib,R,188,LBN,26.397,219,264,6-3 6-4 6-4,5,R64,101,17,1,75,50,43,18,15,0,0,11,4,89,58,42,14,14,7,10
 2025-580,Australian Open,Hard,128,G,20250113,,D0CO,15,,Jack Draper,L,193,GBR,23.06,18,2530,KD46,,,Thanasi Kokkinakis,R,185,AUS,28.762,71,766,6-7(3) 6-3 3-6 7-5 6-3,5,R64,275,12,4,157,97,69,40,26,4,7,11,4,164,115,86,19,25,6,11
-2025-580,Australian Open,Hard,128,G,20250113,,F0F1,20,,Arthur Fils,R,188,FRA,20.589,21,2280,HB64,,,Quentin Halys,R,183,FRA,28.216,74,756,6-2 4-6 7-6(2) 7-5,5,R64,172,12,5,120,79,64,24,21,5,6,24,4,125,81,59,23,21,4,7
+2025-580,Australian Open,Hard,128,G,20250113,,F0F1,20,,Arthur Fils,R,185,FRA,20.589,21,2280,HB64,,,Quentin Halys,R,183,FRA,28.216,74,756,6-2 4-6 7-6(2) 7-5,5,R64,172,12,5,120,79,64,24,21,5,6,24,4,125,81,59,23,21,4,7
 2025-580,Australian Open,Hard,128,G,20250113,,V832,,,Aleksandar Vukic,R,188,AUS,28.773,68,778,K0AH,22,,Sebastian Korda,R,196,USA,24.526,22,2065,6-4 3-6 2-6 6-3 7-5,5,R64,197,17,5,150,94,66,33,24,10,14,21,4,131,81,61,29,24,2,6
 2025-580,Australian Open,Hard,128,G,20250113,,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,G09O,,,Hugo Gaston,L,173,FRA,24.299,81,703,6-3 3-1 RET,5,R64,57,6,2,44,19,19,11,7,3,4,1,1,57,39,23,5,6,5,8
 2025-580,Australian Open,Hard,128,G,20250113,,M0FH,26,,Tomas Machac,R,185,CZE,24.252,25,1805,O522,,,Reilly Opelka,R,211,USA,27.378,170,341,3-6 7-6(1) 6-7(5) 7-6(4) 6-4,5,R64,205,16,7,167,105,88,36,28,7,8,40,16,173,115,102,24,27,4,5
@@ -244,7 +244,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-580,Australian Open,Hard,128,G,20250113,,A0E2,3,,Carlos Alcaraz,R,183,ESP,21.693,3,7010,BT72,,,Nuno Borges,R,185,POR,27.899,33,1445,6-2 6-4 6-7(3) 6-2,5,R32,175,9,3,109,67,56,24,19,3,3,3,1,137,94,60,23,19,8,13
 2025-580,Australian Open,Hard,128,G,20250113,,D643,7,,Novak Djokovic,R,188,SRB,37.647,7,3900,M0FH,26,,Tomas Machac,R,185,CZE,24.252,25,1805,6-1 6-4 6-4,5,R32,142,9,4,79,51,41,15,14,2,3,4,5,87,55,35,12,13,10,15
 2025-580,Australian Open,Hard,128,G,20250113,,PL56,12,,Tommy Paul,R,188,USA,27.66,11,3195,CF59,,,Roberto Carballes Baena,R,183,ESP,31.811,57,981,7-6(0) 6-2 6-0,5,R32,143,7,2,86,47,37,20,13,3,5,3,10,98,54,37,9,13,9,16
-2025-580,Australian Open,Hard,128,G,20250113,,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,F0F1,20,,Arthur Fils,R,188,FRA,20.589,21,2280,4-6 7-5 6-4 1-0 RET,5,R32,157,3,6,102,65,50,14,17,4,7,6,3,101,62,42,18,16,5,10
+2025-580,Australian Open,Hard,128,G,20250113,,HH26,14,,Ugo Humbert,L,188,FRA,26.551,14,2765,F0F1,20,,Arthur Fils,R,185,FRA,20.589,21,2280,4-6 7-5 6-4 1-0 RET,5,R32,157,3,6,102,65,50,14,17,4,7,6,3,101,62,42,18,16,5,10
 2025-580,Australian Open,Hard,128,G,20250113,,D0CO,15,,Jack Draper,L,193,GBR,23.06,18,2530,V832,,,Aleksandar Vukic,R,188,AUS,28.773,68,778,6-4 2-6 5-7 7-6(5) 7-6(8),5,R32,238,29,4,164,112,84,27,27,8,14,22,6,188,119,93,28,27,14,18
 2025-580,Australian Open,Hard,128,G,20250113,,L0BV,24,,Jiri Lehecka,R,185,CZE,23.181,29,1660,BM95,,,Benjamin Bonzi,R,183,FRA,28.597,64,819,6-2 6-3 6-3,5,R32,107,9,1,76,52,42,14,13,2,2,1,2,85,51,29,19,13,3,8
 2025-580,Australian Open,Hard,128,G,20250113,,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.608,66,790,M0NI,,,Jakub Mensik,R,193,CZE,19.367,48,1162,3-6 4-6 7-6(7) 6-4 6-2,5,R32,210,4,3,156,108,74,25,25,17,22,16,7,142,81,67,24,24,3,9
@@ -269,9 +269,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-375,Montpellier,Hard,28,A,20250127,,GJ37,5,,Tallon Griekspoor,R,191,NLD,28.573,46,1190,V812,,,Botic van de Zandschulp,R,191,NED,28.203,84,672,7-5 6-3,3,R32,95,8,2,77,47,34,13,11,5,7,4,10,57,28,21,10,10,0,4
 2025-375,Montpellier,Hard,28,A,20250127,,RC91,7,,Arthur Rinderknech,R,196,FRA,29.515,61,924,M0G4,,,Harold Mayot,R,180,FRA,22.979,130,472,7-6(2) 2-6 6-1,3,R32,130,16,7,106,61,48,21,14,14,16,5,1,75,51,41,11,13,1,3
 2025-375,Montpellier,Hard,28,A,20250127,,B0GG,,,Mattia Bellucci,R,175,ITA,23.658,98,605,PF39,,,Lucas Pouille,R,185,FRA,30.926,104,575,6-4 6-4,3,R32,100,8,1,70,40,34,14,10,10,10,6,5,69,34,31,11,10,7,9
-2025-375,Montpellier,Hard,28,A,20250127,,E865,,,Christopher Eubanks,R,196,USA,28.731,111,548,K0E6,,Q,Alibek Kachmazov,R,185,RUS,22.448,199,299,7-5 6-4,3,R32,80,8,1,62,47,38,6,11,3,4,4,1,61,38,26,11,11,1,4
+2025-375,Montpellier,Hard,28,A,20250127,,E865,,,Christopher Eubanks,R,201,USA,28.731,111,548,K0E6,,Q,Alibek Kachmazov,R,185,RUS,22.448,199,299,7-5 6-4,3,R32,80,8,1,62,47,38,6,11,3,4,4,1,61,38,26,11,11,1,4
 2025-375,Montpellier,Hard,28,A,20250127,,G628,,,Richard Gasquet,R,185,FRA,38.612,132,460,ME82,,,Adrian Mannarino,L,180,FRA,36.581,108,561,6-3 6-2,3,R32,75,4,3,48,28,26,11,9,0,0,1,2,56,36,22,9,8,3,6
-2025-375,Montpellier,Hard,28,A,20250127,,LB66,,Q,Constant Lestienne,R,183,FRA,32.682,177,323,CG80,,,Borna Coric,R,188,CRO,28.203,103,575,6-3 7-5,3,R32,98,2,2,62,42,33,10,11,1,2,7,0,61,41,29,8,10,2,5
+2025-375,Montpellier,Hard,28,A,20250127,,LB66,,Q,Constant Lestienne,R,180,FRA,32.682,177,323,CG80,,,Borna Coric,R,188,CRO,28.203,103,575,6-3 7-5,3,R32,98,2,2,62,42,33,10,11,1,2,7,0,61,41,29,8,10,2,5
 2025-375,Montpellier,Hard,28,A,20250127,,Y09V,8,,Yunchaokete Bu,R,185,CHN,29.334,71,787,AE14,,,Daniel Altmaier,R,188,GER,26.375,91,622,7-6(1) 6-3,3,R32,103,4,0,61,38,31,16,10,2,2,6,1,79,56,35,12,11,2,4
 2025-375,Montpellier,Hard,28,A,20250127,,C0H0,,,Arthur Cazaux,R,183,FRA,22.43,101,582,W367,,WC,Stan Wawrinka,R,183,CHE,39.836,154,361,6-4 6-3,3,R32,88,0,0,56,34,29,11,9,2,2,8,1,64,33,24,14,10,5,8
 2025-375,Montpellier,Hard,28,A,20250127,,KE73,,,Dominik Koepfer,L,180,GER,30.748,118,515,BK24,,WC,Gregoire Barrere,R,185,FRA,30.946,144,406,6-4 7-6(5),3,R32,95,6,2,81,52,42,10,11,7,9,2,4,64,37,25,15,11,0,3
@@ -279,10 +279,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-375,Montpellier,Hard,28,A,20250127,,GJ37,5,,Tallon Griekspoor,R,191,NLD,28.573,46,1190,G628,,,Richard Gasquet,R,185,FRA,38.612,132,460,6-3 3-6 7-5,3,R16,123,18,2,97,68,51,15,15,8,9,11,3,85,49,40,19,15,3,5
 2025-375,Montpellier,Hard,28,A,20250127,,BG23,,Q,Nikoloz Basilashvili,R,185,RUS,32.926,178,323,RC91,7,,Arthur Rinderknech,R,196,FRA,29.515,61,924,6-0 7-6(4),3,R16,97,7,1,66,42,29,14,9,3,4,7,3,72,47,28,8,9,4,8
 2025-375,Montpellier,Hard,28,A,20250127,,K0AZ,,Q,Aleksandar Kovacevic,R,183,USA,26.415,102,577,B0GG,,,Mattia Bellucci,R,175,ITA,23.658,98,605,7-5 7-6(5),3,R16,105,9,1,71,44,39,17,12,1,1,15,0,71,47,37,16,12,0,1
-2025-375,Montpellier,Hard,28,A,20250127,,RE44,1/WC,,Andrey Rublev,R,188,RUS,27.271,10,3130,E865,,,Christopher Eubanks,R,196,USA,28.731,111,548,6-4 6-3,3,R16,64,4,0,48,28,25,12,9,3,3,8,1,52,42,27,5,10,3,6
+2025-375,Montpellier,Hard,28,A,20250127,,RE44,1/WC,,Andrey Rublev,R,188,RUS,27.271,10,3130,E865,,,Christopher Eubanks,R,201,USA,28.731,111,548,6-4 6-3,3,R16,64,4,0,48,28,25,12,9,3,3,8,1,52,42,27,5,10,3,6
 2025-375,Montpellier,Hard,28,A,20250127,,AG37,2,,Felix Auger-Aliassime,R,193,CAN,32.888,23,1855,C0H0,,,Arthur Cazaux,R,183,FRA,22.43,101,582,6-4 7-6(5),3,R16,107,11,2,55,43,36,7,11,0,1,5,3,72,47,31,13,11,4,6
 2025-375,Montpellier,Hard,28,A,20250127,,BK92,4,,Alexander Bublik,R,196,KAZ,27.614,39,1330,KE73,,,Dominik Koepfer,L,180,GER,30.748,118,515,6-4 6-2,3,R16,70,10,5,59,41,31,9,9,3,4,1,2,53,31,22,8,9,2,6
-2025-375,Montpellier,Hard,28,A,20250127,,Y09V,8,,Yunchaokete Bu,R,185,CHN,29.334,71,787,LB66,,Q,Constant Lestienne,R,183,FRA,32.682,177,323,6-2 6-1,3,R16,63,9,0,39,22,19,11,7,1,1,4,4,61,32,22,7,8,9,14
+2025-375,Montpellier,Hard,28,A,20250127,,Y09V,8,,Yunchaokete Bu,R,185,CHN,29.334,71,787,LB66,,Q,Constant Lestienne,R,180,FRA,32.682,177,323,6-2 6-1,3,R16,63,9,0,39,22,19,11,7,1,1,4,4,61,32,22,7,8,9,14
 2025-375,Montpellier,Hard,28,A,20250127,,RE44,1/WC,,Andrey Rublev,R,188,RUS,27.271,10,3130,BG23,,Q,Nikoloz Basilashvili,R,185,RUS,32.926,178,323,5-2 RET,3,QF,26,7,0,18,10,9,6,3,0,0,4,1,21,8,6,6,4,0,2
 2025-375,Montpellier,Hard,28,A,20250127,,AG37,2,,Felix Auger-Aliassime,R,193,CAN,32.888,23,1855,Y09V,8,,Yunchaokete Bu,R,185,CHN,29.334,71,787,6-3 6-4,3,QF,83,11,0,51,35,30,11,10,0,0,3,0,53,27,22,13,9,3,5
 2025-375,Montpellier,Hard,28,A,20250127,,K0AZ,,Q,Aleksandar Kovacevic,R,183,USA,26.415,102,577,BK92,4,,Alexander Bublik,R,196,KAZ,27.614,39,1330,6-3 6-2,3,QF,76,4,0,59,37,31,11,9,8,8,12,7,65,37,28,9,8,6,9
@@ -300,7 +300,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-M-DC-2025-QLS-M-ISR-GER-01,Davis Cup QLS R1: ISR vs GER,Hard,4,D,20250131,1,MN13,,,Maximilian Marterer,L,188,GER,29.63,198,303,O674,,,Yshai Oliel,L,188,ISR,25.073,531,69,6-2 5-7 6-4,3,,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-QLS-M-ISR-GER-01,Davis Cup QLS R1: ISR vs GER,Hard,4,D,20250131,2,H997,,,Yannick Hanfmann,R,193,GER,33.216,92,618,CL82,,,Daniel Cukierman,R,,ISR,29.566,556,63,6-4 6-4,3,,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-QLS-M-ISR-GER-01,Davis Cup QLS R1: ISR vs GER,Hard,4,D,20250131,3,S0V8,,,Ofek Shimanov,R,178,ISR,19.581,,7,MN20,,,Daniel Masur,R,183,GER,30.237,265,202,7-6(2) 3-6 [10-8],3,,,,,,,,,,,,,,,,,,,,
-2025-M-DC-2025-QLS-M-TPE-USA-01,Davis Cup QLS R1: TPE vs USA,Hard,4,D,20250131,1,GC88,,,Marcos Giron,R,180,USA,31.523,43,1265,T0AP,,,Chun-Hsin Tseng,R,180,TPE,28.742,119,509,6-2 6-2,3,,,,,,,,,,,,,,,,,,,,
+2025-M-DC-2025-QLS-M-TPE-USA-01,Davis Cup QLS R1: TPE vs USA,Hard,4,D,20250131,1,GC88,,,Marcos Giron,R,180,USA,31.523,43,1265,T0AP,,,Chun-Hsin Tseng,R,175,TPE,28.742,119,509,6-2 6-2,3,,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-QLS-M-TPE-USA-01,Davis Cup QLS R1: TPE vs USA,Hard,4,D,20250131,2,M0QL,,,Alex Michelsen,R,193,USA,20.436,36,1370,W857,,,Tung-Lin Wu,R,188,TPE,27.143,240,241,7-6(4) 6-3,3,,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-QLS-M-TPE-USA-01,Davis Cup QLS R1: TPE vs USA,Hard,4,D,20250131,3,MK66,,,Mackenzie McDonald,R,178,USA,27.934,125,488,H0B5,,,Tsung-Hao Huang,R,173,TPE,27.143,680,42,6-2 6-3,3,,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-QLS-M-DEN-SRB-01,Davis Cup QLS R1: DEN vs SRB,Hard,4,D,20250131,1,KI95,,,Miomir Kecmanovic,R,183,SRB,25.419,55,996,M0K4,,,Elmer Moller,R,183,DEN,21.564,149,372,3-6 6-2 6-1,3,,,,,,,,,,,,,,,,,,,,
@@ -311,7 +311,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-M-DC-2025-QLS-M-CRO-SVK-01,Davis Cup QLS R1: CRO vs SVK,Hard,4,D,20250131,2,P0HW,,,Dino Prizmic,R,188,CRO,19.491,368,134,KC04,,,Jozef Kovalik,R,183,SVK,32.241,127,484,6-2 6-2,3,,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-QLS-M-CRO-SVK-01,Davis Cup QLS R1: CRO vs SVK,Hard,4,D,20250131,3,GB93,,,Norbert Gombos,R,193,SVK,34.47,408,115,D0L3,,,Matej Dodig,R,188,CRO,19.537,263,204,6-4 6-4,3,,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-QLS-M-FRA-BRA-01,Davis Cup QLS R1: FRA vs BRA,Hard,4,D,20250131,1,HH26,,,Ugo Humbert,L,188,FRA,26.6,15,2865,F0FV,,,Joao Fonseca,R,185,BRA,18.447,99,600,7-5 6-3,3,,,,,,,,,,,,,,,,,,,,
-2025-M-DC-2025-QLS-M-FRA-BRA-01,Davis Cup QLS R1: FRA vs BRA,Hard,4,D,20250131,2,F0F1,,,Arthur Fils,R,188,FRA,20.638,19,2330,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.896,76,732,6-1 6-4,3,,,,,,,,,,,,,,,,,,,,
+2025-M-DC-2025-QLS-M-FRA-BRA-01,Davis Cup QLS R1: FRA vs BRA,Hard,4,D,20250131,2,F0F1,,,Arthur Fils,R,185,FRA,20.638,19,2330,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.896,76,732,6-1 6-4,3,,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-QLS-M-FRA-BRA-01,Davis Cup QLS R1: FRA vs BRA,Hard,4,D,20250131,3,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.567,30,1645,P0DF,,,Matheus Pucinelli De Almeida,R,183,BRA,23.836,302,173,6-4 6-4,3,,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-QLS-M-ESP-SUI-01,Davis Cup QLS R1: ESP vs SUI,Hard,4,D,20250131,1,MO44,,,Pedro Martinez,R,185,ESP,27.767,44,1220,S0LA,,,Dominic Stricker,L,188,CHE,22.46,287,183,6-4 7-6(7),3,,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-QLS-M-ESP-SUI-01,Davis Cup QLS R1: ESP vs SUI,Hard,4,D,20250131,2,CF59,,,Roberto Carballes Baena,R,183,ESP,31.86,51,1071,K0EP,,,Jerome Kym,R,198,SUI,21.969,136,444,6-4 6-4,3,,,,,,,,,,,,,,,,,,,,
@@ -385,8 +385,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-M-DC-2025-WG2-PO-DOM-BOL-02,Davis Cup WG2 PO: DOM vs BOL,Hard,4,D,20250201,2,CF88,,,Roberto Cid,R,193,DOM,31.422,,,G0DB,,,Raul Garcia,,,BOL,22.91,,2,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-DOM-BOL-03,Davis Cup WG2 PO: DOM vs BOL,Hard,4,D,20250201,3,CF88,,,Roberto Cid,R,193,DOM,31.422,,,Z239,,,Federico Zeballos,R,185,BOL,36.674,,2,7-6(2) 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-ESA-MDA-01,Davis Cup WG2 PO: ESA vs MDA,Hard,4,D,20250201,1,S0R5,,,Ilya Snitari,R,188,MDA,22.868,587,58,A853,,,Marcelo Arevalo,R,191,ESA,34.29,,,1-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
-2025-M-DC-2025-WG2-PO-ESA-MDA-02,Davis Cup WG2 PO: ESA vs MDA,Hard,4,D,20250201,2,C0NU,,,Cesar Cruz,,,ESA,18.389,,,G642,,,Andrei Gorban,,,MDA,41.537,,,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
-2025-M-DC-2025-WG2-PO-ESA-MDA-03,Davis Cup WG2 PO: ESA vs MDA,Hard,4,D,20250201,3,S0R5,,,Ilya Snitari,R,188,MDA,22.868,587,58,C0NU,,,Cesar Cruz,,,ESA,18.389,,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2025-M-DC-2025-WG2-PO-ESA-MDA-02,Davis Cup WG2 PO: ESA vs MDA,Hard,4,D,20250201,2,C0NU,,,Cesar Cruz,,ESA,,18.389,,,G642,,,Andrei Gorban,,,MDA,41.537,,,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+2025-M-DC-2025-WG2-PO-ESA-MDA-03,Davis Cup WG2 PO: ESA vs MDA,Hard,4,D,20250201,3,S0R5,,,Ilya Snitari,R,188,MDA,22.868,587,58,C0NU,,,Cesar Cruz,,ESA,,18.389,,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-ESA-MDA-04,Davis Cup WG2 PO: ESA vs MDA,Hard,4,D,20250201,4,A853,,,Marcelo Arevalo,R,191,ESA,34.29,,,C0RS,,,Ilie Cazac,,,MDA,,,,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-JAM-NZL-01,Davis Cup WG2 PO: JAM vs NZL,Hard,4,D,20250201,1,L0IP,,,Jack Loutit,L,,NZL,20.608,,18,B0I5,,,Blaise Bicknell,R,191,JAM,23.181,1078,11,3-6 6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-JAM-NZL-02,Davis Cup WG2 PO: JAM vs NZL,Hard,4,D,20250201,2,P0AO,,,Rowland Phillips,,,JAM,31.022,,,P0ED,,,Kiranpal Pannu,R,185,NZL,28.066,494,80,6-3 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
@@ -409,13 +409,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-M-DC-2025-WG2-PO-EST-VEN-02,Davis Cup WG2 PO: EST vs VEN,Hard,,D,20250131,2,L0GH,,,Mark Lajal,R,191,EST,21.725,204,291,RG88,,,Ricardo Rodriguez,,,VEN,31.762,,,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-EST-VEN-03,Davis Cup WG2 PO: EST vs VEN,Hard,,D,20250131,3,M0W0,,,Markus Molder,R,183,EST,19.729,1116,10,P0I5,,,Ignacio Parisca,,,VEN,19.45,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-IRL-KSA-01,Davis Cup WG2 PO: IRL vs KSA,Hard,,D,20250131,1,A0JA,,,Michael Agwi,,,IRL,21.41,429,105,A0I3,,,Saud Alhogbani,,,KSA,,,,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,
-2025-M-DC-2025-WG2-PO-IRL-KSA-02,Davis Cup WG2 PO: IRL vs KSA,Hard,,D,20250131,2,O684,,,Osgar Ohoisin,,,IRL,28.411,,,AG30,,,Ammar Alhogbani,,,KSA,26.13,,2,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2025-M-DC-2025-WG2-PO-IRL-KSA-02,Davis Cup WG2 PO: IRL vs KSA,Hard,,D,20250131,2,O684,,,Osgar O'Hoisin,R,193,IRL,28.411,,,AG30,,,Ammar Alhogbani,,,KSA,26.13,,2,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-IRL-KSA-03,Davis Cup WG2 PO: IRL vs KSA,Hard,,D,20250131,3,E0AY,,,Ammar Elamin,R,185,IRL,22.62,1367,5,B0U3,,,Abdulmajeed Bukhari,,,KSA,,,,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-IRL-KSA-04,Davis Cup WG2 PO: IRL vs KSA,Hard,,D,20250131,4,M0X8,,,Freddy Murray,,,IRL,21.533,,1,BL48,,,Abdulmalek Burasais,,,KSA,,,,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-CHN-MNE-01,Davis Cup WG2 PO: CHN vs MNE,Hard,,D,20250131,1,C0AJ,,,Jie Cui,R,183,CHN,27.02,280,188,J0CS,,,Petar Jovanovic,,,MNE,21.528,938,17,6-4 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-CHN-MNE-02,Davis Cup WG2 PO: CHN vs MNE,Hard,,D,20250131,2,Z371,,,Zhizhen Zhang,R,193,CHN,28.293,50,1100,K0JI,,,Aleksa Krivokapic,,,MNE,,,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-CHN-MNE-03,Davis Cup WG2 PO: CHN vs MNE,Hard,,D,20250131,3,SX90,,,Fajing Sun,R,178,CHN,28.329,277,192,J0CS,,,Petar Jovanovic,,,MNE,21.528,938,17,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,
-2025-M-DC-2025-WG2-PO-MAR-ZIM-01,Davis Cup WG2 PO: MAR vs ZIM,Hard,,D,20250131,1,B0D6,,,Taha Baadi,R,183,MAR,23.537,749,33,LH62,,,Courtney John Lock,,,ZIM,28.287,,1,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2025-M-DC-2025-WG2-PO-MAR-ZIM-01,Davis Cup WG2 PO: MAR vs ZIM,Hard,,D,20250131,1,B0D6,,,Taha Baadi,R,183,MAR,23.537,749,33,LH62,,,Courtney John Lock,R,193,ZIM,28.287,,1,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-MAR-ZIM-02,Davis Cup WG2 PO: MAR vs ZIM,Hard,,D,20250131,2,BT68,,,Elliot Benchetrit,R,193,MAR,26.333,608,54,S0M2,,,Ethan Denzel Sibanda,,,ZIM,20.641,,,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2025-M-DC-2025-WG2-PO-MAR-ZIM-03,Davis Cup WG2 PO: MAR vs ZIM,Hard,,D,20250131,3,B0QQ,,,Karim Bennani,,,MAR,17.413,,8,T0KN,,,Ronan Tashinga Mtisi,,,ZIM,,,,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2025-424,Dallas,Hard,32,A,20250203,,FB98,1,,Taylor Fritz,R,196,USA,27.268,4,5050,RC91,,,Arthur Rinderknech,R,196,FRA,29.534,60,936,6-4 6-2,3,R32,66,11,0,43,29,27,9,9,0,0,5,1,58,37,27,6,9,6,9
@@ -430,7 +430,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-424,Dallas,Hard,32,A,20250203,,S0S1,4,,Ben Shelton,L,193,USA,22.321,13,2980,V832,,,Aleksandar Vukic,R,188,AUS,28.83,66,868,6-3 6-3,3,R32,63,6,4,49,29,26,11,9,0,0,4,1,50,35,24,6,9,1,4
 2025-424,Dallas,Hard,32,A,20250203,,N771,,,Cameron Norrie,L,188,GBR,29.449,63,892,M0QL,7,,Alex Michelsen,R,193,USA,20.444,36,1370,2-6 7-6(1) 6-1,3,R32,122,7,2,107,77,52,13,14,11,14,7,2,77,57,44,8,13,5,8
 2025-424,Dallas,Hard,32,A,20250203,,TD51,5,,Frances Tiafoe,R,185,USA,27.038,18,2560,DA81,,,Taro Daniel,R,191,JPN,32.019,117,519,6-1 3-6 6-4,3,R32,104,8,3,77,43,32,19,13,3,5,4,3,75,47,36,9,13,4,8
-2025-424,Dallas,Hard,32,A,20250203,,A0FC,8,,Matteo Arnaldi,R,185,ITA,23.948,39,1265,E865,,Q,Christopher Eubanks,R,196,USA,28.75,104,567,6-3 6-4,3,R32,79,5,4,62,38,29,15,10,2,2,7,1,55,42,32,4,9,2,4
+2025-424,Dallas,Hard,32,A,20250203,,A0FC,8,,Matteo Arnaldi,R,185,ITA,23.948,39,1265,E865,,Q,Christopher Eubanks,R,201,USA,28.75,104,567,6-3 6-4,3,R32,79,5,4,62,38,29,15,10,2,2,7,1,55,42,32,4,9,2,4
 2025-424,Dallas,Hard,32,A,20250203,,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.666,59,940,H09P,,Q,Brandon Holt,R,185,USA,26.831,179,324,6-1 7-5,3,R32,81,6,0,61,43,32,12,10,3,3,4,1,58,40,25,7,9,3,6
 2025-424,Dallas,Hard,32,A,20250203,,H0BH,,,Rinky Hijikata,R,178,AUS,23.945,73,759,ME82,,,Adrian Mannarino,L,180,FRA,36.6,107,561,7-5 6-3,3,R32,86,5,0,61,42,33,12,11,0,0,8,1,61,40,29,10,10,1,3
 2025-424,Dallas,Hard,32,A,20250203,,Q02L,,Q,Ethan Quinn,R,191,USA,20.898,199,307,,,WC,Trevor Svajda,,,,18.793,669,43,6-4 6-2,3,R32,85,9,1,55,43,33,7,9,2,2,0,1,74,52,30,10,9,6,9
@@ -449,7 +449,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-424,Dallas,Hard,32,A,20250203,,RH16,2,,Casper Ruud,R,183,NOR,26.118,5,4160,MU94,,,Jaume Munar,R,183,ESP,27.751,64,882,6-2 2-6 7-6(4),3,SF,149,4,2,90,65,44,10,14,3,6,6,1,91,61,40,16,14,3,6
 2025-424,Dallas,Hard,32,A,20250203,,SU55,,,Denis Shapovalov,L,185,CAN,25.805,54,1021,PL56,3,,Tommy Paul,R,188,USA,27.718,9,3495,7-5 6-3,3,SF,94,6,4,78,50,39,13,11,3,3,2,0,57,34,24,12,10,1,3
 2025-424,Dallas,Hard,32,A,20250203,,SU55,,,Denis Shapovalov,L,185,CAN,25.805,54,1021,RH16,2,,Casper Ruud,R,183,NOR,26.118,5,4160,7-6(5) 6-3,3,F,100,13,2,73,50,36,15,11,1,1,5,1,73,55,35,12,10,4,5
-2025-407,Rotterdam,Hard,32,A,20250203,,F0F1,7,,Arthur Fils,R,188,FRA,20.647,19,2330,LB66,,Q,Constant Lestienne,R,183,FRA,32.701,169,336,6-7(4) 6-2 6-1,3,R32,128,14,0,90,49,36,24,13,3,4,1,3,87,47,28,21,14,7,13
+2025-407,Rotterdam,Hard,32,A,20250203,,F0F1,7,,Arthur Fils,R,185,FRA,20.647,19,2330,LB66,,Q,Constant Lestienne,R,180,FRA,32.701,169,336,6-7(4) 6-2 6-1,3,R32,128,14,0,90,49,36,24,13,3,4,1,3,87,47,28,21,14,7,13
 2025-407,Rotterdam,Hard,32,A,20250203,,AE14,,LL,Daniel Altmaier,R,188,GER,26.395,93,622,K0AZ,SE,,Aleksandar Kovacevic,R,183,USA,26.434,75,748,1-6 6-4 6-3,3,R32,108,9,1,72,37,31,18,13,1,3,3,2,75,43,33,15,13,2,4
 2025-407,Rotterdam,Hard,32,A,20250203,,GJ37,,,Tallon Griekspoor,R,191,NLD,28.592,43,1230,BK40,,,Matteo Berrettini,R,196,ITA,28.814,33,1430,6-3 6-7(2) 7-6(4),3,R32,142,8,3,103,61,51,26,17,1,1,13,3,86,56,48,23,16,0,1
 2025-407,Rotterdam,Hard,32,A,20250203,,M0CI,,,Fabian Marozsan,R,185,HUN,25.323,57,960,SL28,,,Jan-Lennard Struff,R,193,GER,33.036,45,1200,6-3 4-6 7-6(3),3,R32,115,7,1,102,69,53,19,16,1,2,13,4,93,47,39,27,15,3,4
@@ -470,7 +470,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-407,Rotterdam,Hard,32,A,20250203,,RE44,4,,Andrey Rublev,R,188,RUS,27.29,10,3220,M0CI,,,Fabian Marozsan,R,185,HUN,25.323,57,960,7-6(2) 7-6(7),3,R16,105,10,0,78,46,34,20,12,2,4,7,3,79,54,36,15,12,1,3
 2025-407,Rotterdam,Hard,32,A,20250203,,MO44,,,Pedro Martinez,R,185,ESP,27.775,44,1205,R0DG,5,,Holger Rune,R,188,DEN,21.767,14,2970,6-4 6-1,3,R16,83,0,2,49,34,25,11,9,1,2,2,1,58,33,17,13,8,4,8
 2025-407,Rotterdam,Hard,32,A,20250203,,TE51,6/WC,,Stefanos Tsitsipas,R,193,GRC,26.479,12,3005,GJ37,,,Tallon Griekspoor,R,191,NLD,28.592,43,1230,6-7(5) 7-6(6) 7-5,3,R16,179,12,5,116,71,57,26,18,3,5,10,2,131,89,65,21,18,6,9
-2025-407,Rotterdam,Hard,32,A,20250203,,AE14,,LL,Daniel Altmaier,R,188,GER,26.395,93,622,F0F1,7,,Arthur Fils,R,188,FRA,20.647,19,2330,6-4 3-6 7-5,3,R16,146,11,1,86,53,39,16,15,1,4,6,4,116,68,45,24,16,9,13
+2025-407,Rotterdam,Hard,32,A,20250203,,AE14,,LL,Daniel Altmaier,R,188,GER,26.395,93,622,F0F1,7,,Arthur Fils,R,185,FRA,20.647,19,2330,6-4 3-6 7-5,3,R16,146,11,1,86,53,39,16,15,1,4,6,4,116,68,45,24,16,9,13
 2025-407,Rotterdam,Hard,32,A,20250203,,B0GG,,Q,Mattia Bellucci,R,175,ITA,23.677,92,624,MM58,2,,Daniil Medvedev,R,198,RUS,28.978,7,3780,6-3 6-7(6) 6-3,3,R16,174,2,1,131,85,56,25,16,11,12,9,8,93,53,44,17,14,5,8
 2025-407,Rotterdam,Hard,32,A,20250203,,HB71,8,,Hubert Hurkacz,R,196,POL,27.978,21,2205,L0BV,,,Jiri Lehecka,R,185,CZE,23.238,24,1810,7-5 2-0,3,R16,55,6,0,43,29,24,8,7,4,4,3,0,38,26,16,8,7,0,2
 2025-407,Rotterdam,Hard,32,A,20250203,,A0E2,1,,Carlos Alcaraz,R,183,ESP,21.751,3,7010,MO44,,,Pedro Martinez,R,185,ESP,27.775,44,1205,6-2 6-1,3,QF,70,7,2,36,23,21,8,7,0,0,0,4,57,39,20,6,8,5,10
@@ -513,7 +513,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-499,Delray Beach,Hard,28,A,20250210,,Y09V,,,Yunchaokete Bu,R,185,CHN,29.373,69,830,H0BH,,,Rinky Hijikata,R,178,AUS,23.964,72,784,6-2 6-0,3,R32,59,4,1,36,19,16,12,7,0,0,2,1,48,29,13,7,7,3,8
 2025-499,Delray Beach,Hard,28,A,20250210,,MK66,,WC,Mackenzie McDonald,R,178,USA,25.539,123,488,N552,,,Kei Nishikori,R,178,JPN,35.118,71,793,7-6(4) 4-6 7-5,3,R32,152,4,1,111,79,56,13,17,3,8,4,2,102,61,41,19,17,2,7
 2025-499,Delray Beach,Hard,28,A,20250210,,N732,,,Yoshihito Nishioka,L,175,JPN,29.373,63,922,V832,,,Aleksandar Vukic,R,188,AUS,28.849,67,868,6-3 6-4,3,R32,79,5,0,63,34,27,18,10,4,4,9,2,49,26,19,14,9,1,3
-2025-499,Delray Beach,Hard,28,A,20250210,,O522,,WC,Reilly Opelka,R,211,USA,27.455,121,491,E865,,,Christopher Eubanks,R,196,USA,28.769,104,567,6-3 7-6(7),3,R32,86,13,2,67,43,35,16,11,1,1,3,0,59,40,29,13,10,0,1
+2025-499,Delray Beach,Hard,28,A,20250210,,O522,,WC,Reilly Opelka,R,211,USA,27.455,121,491,E865,,,Christopher Eubanks,R,201,USA,28.769,104,567,6-3 7-6(7),3,R32,86,13,2,67,43,35,16,11,1,1,3,0,59,40,29,13,10,0,1
 2025-499,Delray Beach,Hard,28,A,20250210,,N0AE,6,,Brandon Nakashima,R,188,USA,23.523,43,1250,T0BW,,Q,James Trotter,R,182,JPN,25.539,182,321,7-6(2) 6-1,3,R32,98,5,0,57,38,33,13,10,0,0,4,1,79,48,28,18,9,6,8
 2025-499,Delray Beach,Hard,28,A,20250210,,KI95,7,,Miomir Kecmanovic,R,183,SRB,25.447,56,996,GH92,,,Borna Gojo,R,196,CRO,26.954,414,111,6-4 6-4,3,R32,70,3,0,51,37,32,5,10,0,1,11,2,58,39,27,9,10,2,5
 2025-499,Delray Beach,Hard,28,A,20250210,,MP01,,Q,Michael Mmoh,R,188,USA,27.086,328,156,S0H2,,,Alexander Shevchenko,R,188,KAZ,24.2,88,668,7-5 7-6(5),3,R32,119,5,1,80,55,37,13,12,6,9,3,3,79,42,33,13,12,3,7
@@ -603,7 +603,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,F0F2,,LL,Jaime Faria,R,188,POR,21.534,107,561,BS86,,Q,Tomas Barrios Vera,R,191,CHI,27.19,139,432,6-2 7-5,3,R32,87,6,5,59,31,26,14,10,3,4,2,3,61,37,26,9,10,4,8
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,MP20,,,Alexandre Muller,R,183,FRA,28.044,60,953,F0FV,SE,,Joao Fonseca,R,185,BRA,18.493,68,850,6-1 7-6(4),3,R32,92,2,2,66,44,34,15,10,2,2,5,2,71,51,36,6,9,8,10
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,N0BS,,,Mariano Navone,R,180,ITA,23.973,46,1195,CF59,,,Roberto Carballes Baena,R,183,ESP,31.907,53,1071,6-4 6-3,3,R32,96,3,2,61,39,29,8,9,5,7,1,2,55,35,20,8,10,1,6
-2025-6932,Rio de Janeiro,Clay,32,A,20250217,,T0AP,,Q,Chun-Hsin Tseng,R,180,TPE,,125,480,TE30,3,,Alejandro Tabilo,L,188,CHI,27.712,28,1690,6-2 7-5,3,R32,96,6,2,64,39,29,13,10,7,9,0,4,72,37,22,13,10,8,13
+2025-6932,Rio de Janeiro,Clay,32,A,20250217,,T0AP,,Q,Chun-Hsin Tseng,R,175,TPE,,125,480,TE30,3,,Alejandro Tabilo,L,188,CHI,27.712,28,1690,6-2 7-5,3,R32,96,6,2,64,39,29,13,10,7,9,0,4,72,37,22,13,10,8,13
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,J551,6,,Nicolas Jarry,R,201,CHI,29.353,47,1175,C0C8,,Q,Juan Manuel Cerundolo,L,183,ARG,23.258,127,464,4-6 6-3 6-4,3,R32,145,12,3,92,59,43,19,15,3,5,4,7,100,64,44,18,14,9,12
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,C0DF,,,Francisco Comesana,L,180,ARG,24.367,86,673,H0DU,,WC,Gustavo Heide,R,191,BRA,22.971,162,359,7-6(2) 6-7(7) 6-3,3,R32,201,16,4,106,66,57,21,17,6,7,10,12,139,78,57,29,16,16,18
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,MJ08,,WC,Thiago Monteiro,L,180,BRA,30.718,99,590,D0CG,,,Facundo Diaz Acosta,L,185,ARG,24.175,119,498,3-6 6-3 7-6(3),3,R32,159,6,3,93,57,44,20,15,1,2,8,3,89,58,46,17,15,4,5
@@ -616,10 +616,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,Z355,1,,Alexander Zverev,R,198,GER,27.83,2,8135,S0H2,,,Alexander Shevchenko,R,188,KAZ,24.219,103,568,7-6(1) 7-6(6),3,R16,148,6,4,78,51,34,18,12,2,5,5,7,115,68,45,18,12,9,12
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,B0BI,5,,Sebastian Baez,R,178,ARG,24.14,31,1510,N0BS,,,Mariano Navone,R,180,ITA,23.973,46,1195,6-4 1-6 6-3,3,R16,128,0,3,88,61,38,11,13,10,15,2,3,76,49,29,15,13,7,12
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,C0DF,,,Francisco Comesana,L,180,ARG,24.367,86,673,J551,6,,Nicolas Jarry,R,201,CHI,29.353,47,1175,7-6(4) 6-7(1) 7-6(6),3,R16,194,12,4,128,80,61,26,18,5,7,11,3,108,66,53,29,18,2,4
-2025-6932,Rio de Janeiro,Clay,32,A,20250217,,T0AP,,Q,Chun-Hsin Tseng,R,180,TPE,,125,480,MJ08,,WC,Thiago Monteiro,L,180,BRA,30.718,99,590,6-7(4) 6-3 7-6(4),3,R16,200,12,4,131,72,52,30,17,6,9,5,5,98,60,43,18,16,4,8
+2025-6932,Rio de Janeiro,Clay,32,A,20250217,,T0AP,,Q,Chun-Hsin Tseng,R,175,TPE,,125,480,MJ08,,WC,Thiago Monteiro,L,180,BRA,30.718,99,590,6-7(4) 6-3 7-6(4),3,R16,200,12,4,131,72,52,30,17,6,9,5,5,98,60,43,18,16,4,8
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,C0DF,,,Francisco Comesana,L,180,ARG,24.367,86,673,Z355,1,,Alexander Zverev,R,198,GER,27.83,2,8135,4-6 6-3 6-4,3,QF,151,4,1,94,56,40,21,15,3,6,8,4,76,48,31,17,14,3,7
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,MP20,,,Alexandre Muller,R,183,FRA,28.044,60,953,C0AU,4,,Francisco Cerundolo,R,185,ARG,26.515,26,1825,7-5 6-1,3,QF,76,2,0,60,41,31,10,10,3,4,0,2,48,26,16,11,9,4,8
-2025-6932,Rio de Janeiro,Clay,32,A,20250217,,B0BI,5,,Sebastian Baez,R,178,ARG,24.14,31,1510,T0AP,,Q,Chun-Hsin Tseng,R,180,TPE,,125,480,6-4 6-1,3,QF,95,2,2,57,44,29,7,9,1,3,0,1,60,32,16,12,8,7,12
+2025-6932,Rio de Janeiro,Clay,32,A,20250217,,B0BI,5,,Sebastian Baez,R,178,ARG,24.14,31,1510,T0AP,,Q,Chun-Hsin Tseng,R,175,TPE,,125,480,6-4 6-1,3,QF,95,2,2,57,44,29,7,9,1,3,0,1,60,32,16,12,8,7,12
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,U182,,LL,Camilo Ugo Carabelli,R,185,ARG,25.671,91,644,F0F2,,LL,Jaime Faria,R,188,POR,21.534,107,561,7-6(5) 6-4,3,QF,116,8,0,75,45,35,16,11,1,2,9,4,85,56,43,9,11,7,9
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,B0BI,5,,Sebastian Baez,R,178,ARG,24.14,31,1510,U182,,LL,Camilo Ugo Carabelli,R,185,ARG,25.671,91,644,3-6 6-1 6-1,3,SF,105,7,0,65,49,31,11,11,3,5,1,1,70,43,29,7,12,4,10
 2025-6932,Rio de Janeiro,Clay,32,A,20250217,,MP20,,,Alexandre Muller,R,183,FRA,28.044,60,953,C0DF,,,Francisco Comesana,L,180,ARG,24.367,86,673,7-5 6-7(3) 6-3,3,SF,175,1,2,112,71,52,19,17,5,8,5,4,105,63,43,18,16,5,10
@@ -629,7 +629,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-495,Dubai,Hard,32,A,20250224,,HB64,,Q,Quentin Halys,R,183,FRA,28.332,77,751,RE44,3,,Andrey Rublev,R,188,RUS,27.348,9,3670,3-6 6-4 7-6(5),3,R32,132,18,6,98,54,43,25,15,10,12,5,2,91,54,44,21,16,4,6
 2025-495,Dubai,Hard,32,A,20250224,,HH26,5,,Ugo Humbert,L,188,FRA,26.666,15,2825,L0BV,,,Jiri Lehecka,R,185,CZE,23.296,22,2035,6-3 6-0,3,R32,68,6,0,48,29,24,11,8,2,2,1,1,55,36,19,6,7,6,10
 2025-495,Dubai,Hard,32,A,20250224,,O483,,Q,Christopher O'Connell,R,183,AUS,26.175,75,780,D875,6,,Grigor Dimitrov,R,191,BUL,33.778,16,2745,6-0 RET,3,R32,26,2,0,17,9,7,5,3,0,0,0,2,21,12,5,2,3,4,7
-2025-495,Dubai,Hard,32,A,20250224,,BT72,,,Nuno Borges,R,185,POR,28.014,38,1345,F0F1,8,,Arthur Fils,R,188,FRA,20.704,19,2355,6-2 6-1,3,R32,61,4,1,44,29,22,10,7,3,3,2,3,57,32,19,8,8,7,12
+2025-495,Dubai,Hard,32,A,20250224,,BT72,,,Nuno Borges,R,185,POR,28.014,38,1345,F0F1,8,,Arthur Fils,R,185,FRA,20.704,19,2355,6-2 6-1,3,R32,61,4,1,44,29,22,10,7,3,3,2,3,57,32,19,8,8,7,12
 2025-495,Dubai,Hard,32,A,20250224,,AG37,,,Felix Auger-Aliassime,R,193,CAN,32.964,21,2155,BK92,,,Alexander Bublik,R,196,KAZ,27.69,51,1065,7-6(7) 6-7(4) 6-3,3,R32,169,8,5,113,81,62,17,16,6,7,16,7,126,79,52,27,17,14,17
 2025-495,Dubai,Hard,32,A,20250224,,BK40,,,Matteo Berrettini,R,196,ITA,28.871,30,1530,MC65,,,Gael Monfils,R,193,FRA,38.482,40,1280,7-5 6-4,3,R32,83,9,2,53,39,35,5,11,4,6,5,4,63,37,24,12,11,0,4
 2025-495,Dubai,Hard,32,A,20250224,,GJ37,,,Tallon Griekspoor,R,191,NLD,28.649,47,1120,SX50,,Q,Roman Safiullin,R,188,RUS,27.551,72,823,5-7 7-6(4) 7-6(1),3,R32,179,17,5,130,92,67,20,18,10,12,10,7,115,64,50,30,18,2,3
@@ -721,7 +721,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,G09O,,Q,Hugo Gaston,L,173,FRA,24.433,92,636,D0FJ,,,Luciano Darderi,R,183,ITA,23.047,59,985,6-3 6-3,3,R128,82,5,1,60,28,25,13,9,4,5,2,0,57,36,22,8,9,2,6
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,G0GD,,Q,Matteo Gigante,L,180,ITA,23.159,200,293,B0BI,,,Sebastian Baez,R,178,ARG,24.178,31,1510,3-6 6-1 6-4,3,R128,117,3,6,76,46,28,16,13,3,7,0,3,89,56,32,13,13,7,13
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,GB88,,,David Goffin,R,180,BEL,34.236,63,906,SU87,,,Lorenzo Sonego,R,191,ITA,29.811,35,1401,6-4 7-5,3,R128,102,2,1,60,27,16,15,11,0,5,1,2,68,43,22,7,11,4,11
-2025-404,Indian Wells Masters,Hard,96,M,20250303,,HB64,,,Quentin Halys,R,183,FRA,28.351,77,751,CD85,,Q,Pablo Carreno Busta,R,183,ESP,33.641,112,524,6-3 6-4,3,R128,90,9,3,59,39,33,7,10,5,7,2,1,60,39,22,11,9,4,8
+2025-404,Indian Wells Masters,Hard,96,M,20250303,,HB64,,,Quentin Halys,R,183,FRA,28.351,77,751,CD85,,Q,Pablo Carreno Busta,R,188,ESP,33.641,112,524,6-3 6-4,3,R128,90,9,3,59,39,33,7,10,5,7,2,1,60,39,22,11,9,4,8
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,H0BH,,,Rinky Hijikata,R,178,AUS,24.022,82,735,S0H2,,,Alexander Shevchenko,R,188,KAZ,24.258,95,618,6-1 6-3,3,R128,64,1,1,48,35,22,6,8,2,4,0,5,53,35,16,7,8,3,9
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,L987,,,Dusan Lajovic,R,183,SRB,34.674,100,592,TC01,,Q,Li Tu,R,183,AUS,28.767,170,336,6-2 6-0,3,R128,56,1,0,45,34,27,5,7,3,3,2,1,46,21,13,7,7,4,9
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,MK66,,WC,Mackenzie McDonald,R,178,USA,23.236,115,513,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.742,48,1095,2-6 6-3 6-2,3,R128,111,2,1,80,45,24,22,13,5,9,2,4,73,40,20,20,12,3,8
@@ -772,7 +772,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,TD51,16,,Frances Tiafoe,R,185,USA,27.115,18,2485,D923,,Q,Damir Dzumhur,R,175,BIH,32.786,90,662,7-6(4) 7-6(7),3,R64,129,5,5,99,55,38,22,12,2,7,2,3,89,57,31,18,12,5,10
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,HH26,18,,Ugo Humbert,L,188,FRA,26.685,15,2825,N552,,,Kei Nishikori,R,178,JPN,35.175,73,793,6-4 6-3,3,R64,88,7,3,70,35,27,17,10,4,6,1,2,47,29,17,8,9,1,5
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,WB08,,Q,Yosuke Watanuki,R,185,JPN,26.891,346,144,M0FH,19,,Tomas Machac,R,185,CZE,24.386,25,1855,4-6 4-2 RET,3,R64,56,4,2,42,22,19,10,8,2,4,5,3,44,30,24,4,8,0,2
-2025-404,Indian Wells Masters,Hard,96,M,20250303,,F0F1,20,,Arthur Fils,R,188,FRA,20.723,19,2355,D0F6,,LL,Gabriel Diallo,R,203,CAN,23.438,89,665,6-2 6-2,3,R64,67,0,0,37,25,22,7,8,0,1,3,2,55,32,15,9,8,3,8
+2025-404,Indian Wells Masters,Hard,96,M,20250303,,F0F1,20,,Arthur Fils,R,185,FRA,20.723,19,2355,D0F6,,LL,Gabriel Diallo,R,203,CAN,23.438,89,665,6-2 6-2,3,R64,67,0,0,37,25,22,7,8,0,1,3,2,55,32,15,9,8,3,8
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,N771,,,Cameron Norrie,L,188,GBR,29.526,74,784,L0BV,23,,Jiri Lehecka,R,185,CZE,23.315,22,2035,3-6 6-4 7-5,3,R64,143,3,2,110,66,45,23,15,10,12,4,3,93,47,34,28,16,3,6
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,P09Z,26,,Alexei Popyrin,R,196,AUS,25.575,27,1700,BU13,,,Zizou Bergs,R,185,BEL,25.748,56,1035,7-6(4) 7-5,3,R64,130,5,1,83,52,41,16,12,4,5,2,4,85,51,36,18,12,4,6
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,BK40,28,,Matteo Berrettini,R,196,ITA,28.89,30,1530,O483,,,Christopher O'Connell,R,183,AUS,26.195,75,780,6-2 7-6(2),3,R64,94,7,1,63,40,28,17,10,1,1,4,3,61,40,28,9,10,1,3
@@ -790,7 +790,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,TE51,8,,Stefanos Tsitsipas,R,193,GRC,26.556,11,3005,BK40,28,,Matteo Berrettini,R,196,ITA,28.89,30,1530,6-3 6-3,3,R32,68,0,2,44,26,24,12,9,0,0,6,1,52,37,26,4,9,3,6
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,PL56,10,,Tommy Paul,R,188,USA,27.795,10,3280,N771,,,Cameron Norrie,L,188,GBR,29.526,74,784,6-3 7-5,3,R32,92,6,3,58,30,21,14,10,0,3,1,7,70,35,21,13,11,6,12
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,R0DG,12,,Holger Rune,R,188,DEN,21.844,13,2970,HH26,18,,Ugo Humbert,L,188,FRA,26.685,15,2825,5-7 6-4 7-5,3,R32,155,6,9,110,56,42,28,17,7,10,10,5,104,55,39,24,17,6,10
-2025-404,Indian Wells Masters,Hard,96,M,20250303,,F0F1,20,,Arthur Fils,R,188,FRA,20.723,19,2355,M0EJ,15,,Lorenzo Musetti,R,185,ITA,23,17,2650,3-6 7-6(4) 6-3,3,R32,151,6,3,103,65,44,20,16,3,7,6,3,90,54,38,19,14,3,6
+2025-404,Indian Wells Masters,Hard,96,M,20250303,,F0F1,20,,Arthur Fils,R,185,FRA,20.723,19,2355,M0EJ,15,,Lorenzo Musetti,R,185,ITA,23,17,2650,3-6 7-6(4) 6-3,3,R32,151,6,3,103,65,44,20,16,3,7,6,3,90,54,38,19,14,3,6
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,WB08,,Q,Yosuke Watanuki,R,185,JPN,26.891,346,144,TD51,16,,Frances Tiafoe,R,185,USA,27.115,18,2485,6-4 7-6(6),3,R32,113,16,2,71,37,28,22,11,4,6,4,2,87,50,32,17,11,9,12
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,GC88,,,Marcos Giron,R,180,USA,31.608,52,1060,P09Z,26,,Alexei Popyrin,R,196,AUS,25.575,27,1700,5-7 6-3 6-3,3,R32,152,7,2,111,67,43,28,15,14,15,5,4,86,38,27,28,15,5,8
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,GJ37,,,Tallon Griekspoor,R,191,NLD,28.668,47,1120,M0GZ,29,,Giovanni Mpetshi Perricard,R,203,BEL,21.652,29,1580,7-6(3) 6-3,3,R32,76,10,1,60,32,26,21,11,1,2,5,5,55,28,22,17,10,3,5
@@ -800,10 +800,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,S0S1,11,,Ben Shelton,L,193,USA,22.397,14,2930,N0AE,32,,Brandon Nakashima,R,188,USA,23.581,42,1265,7-6(6) 6-1,3,R16,94,6,1,61,40,29,14,10,3,4,0,1,62,30,18,17,9,2,5
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,MM58,5,,Daniil Medvedev,R,198,RUS,29.055,6,4030,PL56,10,,Tommy Paul,R,188,USA,27.795,10,3280,6-4 6-0,3,R16,74,8,4,51,31,22,9,8,3,5,4,4,55,37,19,5,8,2,8
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,R0DG,12,,Holger Rune,R,188,DEN,21.844,13,2970,TE51,8,,Stefanos Tsitsipas,R,193,GRC,26.556,11,3005,6-4 6-4,3,R16,88,3,0,58,41,30,11,10,5,6,2,1,61,37,22,13,10,2,5
-2025-404,Indian Wells Masters,Hard,96,M,20250303,,F0F1,20,,Arthur Fils,R,188,FRA,20.723,19,2355,GC88,,,Marcos Giron,R,180,USA,31.608,52,1060,6-2 2-6 6-3,3,R16,112,4,0,81,51,32,21,13,4,6,3,1,88,50,35,16,12,2,5
+2025-404,Indian Wells Masters,Hard,96,M,20250303,,F0F1,20,,Arthur Fils,R,185,FRA,20.723,19,2355,GC88,,,Marcos Giron,R,180,USA,31.608,52,1060,6-2 2-6 6-3,3,R16,112,4,0,81,51,32,21,13,4,6,3,1,88,50,35,16,12,2,5
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,GJ37,,,Tallon Griekspoor,R,191,NLD,28.668,47,1120,WB08,,Q,Yosuke Watanuki,R,185,JPN,26.891,346,144,7-6(4) 6-1,3,R16,86,3,0,61,42,34,13,10,1,1,5,1,54,23,19,13,9,2,4
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,A0E2,2,,Carlos Alcaraz,R,183,ESP,21.827,3,7510,C0AU,25,,Francisco Cerundolo,R,185,ARG,26.553,26,1725,6-3 7-6(4),3,QF,103,5,5,73,48,36,15,11,8,9,1,4,73,57,38,5,10,1,3
-2025-404,Indian Wells Masters,Hard,96,M,20250303,,MM58,5,,Daniil Medvedev,R,198,RUS,29.055,6,4030,F0F1,20,,Arthur Fils,R,188,FRA,20.723,19,2355,6-4 2-6 7-6(7),3,QF,145,5,3,88,54,34,25,15,4,8,2,7,106,61,45,21,15,8,11
+2025-404,Indian Wells Masters,Hard,96,M,20250303,,MM58,5,,Daniil Medvedev,R,198,RUS,29.055,6,4030,F0F1,20,,Arthur Fils,R,185,FRA,20.723,19,2355,6-4 2-6 7-6(7),3,QF,145,5,3,88,54,34,25,15,4,8,2,7,106,61,45,21,15,8,11
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,D0CO,13,,Jack Draper,L,193,GBR,23.195,12,3000,S0S1,11,,Ben Shelton,L,193,USA,22.397,14,2930,6-4 7-5,3,QF,99,3,1,68,49,33,14,11,0,1,3,5,75,42,28,16,11,2,5
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,R0DG,12,,Holger Rune,R,188,DEN,21.844,13,2970,GJ37,,,Tallon Griekspoor,R,191,NLD,28.668,47,1120,5-7 6-0 6-3,3,QF,128,6,0,74,51,39,11,14,1,4,3,3,95,60,38,10,13,9,15
 2025-404,Indian Wells Masters,Hard,96,M,20250303,,D0CO,13,,Jack Draper,L,193,GBR,23.195,12,3000,A0E2,2,,Carlos Alcaraz,R,183,ESP,21.827,3,7510,6-1 0-6 6-4,3,SF,104,4,2,69,47,30,11,12,5,9,3,4,70,39,25,14,11,1,5
@@ -819,7 +819,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-403,Miami Masters,Hard,96,M,20250317,,F0FV,,,Joao Fonseca,R,185,BRA,18.57,60,955,T0HA,,,Learner Tien,L,180,USA,19.288,66,867,6-7(1) 6-3 6-4,3,R128,143,10,3,99,63,45,23,16,3,4,10,3,108,67,47,22,15,9,12
 2025-403,Miami Masters,Hard,96,M,20250317,,G09O,,LL,Hugo Gaston,L,173,FRA,24.471,88,711,N732,,,Yoshihito Nishioka,L,175,JPN,29.468,68,859,6-4 3-1 RET,3,R128,61,2,2,45,22,14,15,7,1,2,1,3,47,27,18,8,7,2,5
 2025-403,Miami Masters,Hard,96,M,20250317,,M0NI,,,Jakub Mensik,R,193,CZE,19.54,54,1042,BD06,,,Roberto Bautista Agut,R,180,ESP,36.923,50,1089,6-4 3-6 6-1,3,R128,113,23,3,86,57,48,9,13,7,8,1,1,71,53,38,7,13,2,5
-2025-403,Miami Masters,Hard,96,M,20250317,,O522,PR,,Reilly Opelka,R,211,USA,27.551,114,529,E865,,WC,Christopher Eubanks,R,196,USA,28.865,104,563,6-3 7-6(4),3,R128,85,15,5,66,42,39,13,11,1,1,6,0,65,45,37,9,10,3,4
+2025-403,Miami Masters,Hard,96,M,20250317,,O522,PR,,Reilly Opelka,R,211,USA,27.551,114,529,E865,,WC,Christopher Eubanks,R,201,USA,28.865,104,563,6-3 7-6(4),3,R128,85,15,5,66,42,39,13,11,1,1,6,0,65,45,37,9,10,3,4
 2025-403,Miami Masters,Hard,96,M,20250317,,SX50,,,Roman Safiullin,R,188,RUS,27.608,71,851,B0CD,PR,,Jenson Brooksby,R,193,USA,24.389,544,67,6-3 3-6 6-3,3,R128,133,12,2,102,73,52,12,14,7,9,6,0,78,53,36,15,13,2,5
 2025-403,Miami Masters,Hard,96,M,20250317,,SU87,,,Lorenzo Sonego,R,191,ITA,29.849,38,1356,N0BS,,,Mariano Navone,R,180,ITA,24.049,62,925,7-5 7-5,3,R128,131,2,5,71,38,33,18,12,3,4,1,3,78,38,27,21,12,4,7
 2025-403,Miami Masters,Hard,96,M,20250317,,TC61,,,Jordan Thompson,R,183,AUS,30.907,37,1375,GC88,,,Marcos Giron,R,180,USA,31.647,45,1240,3-6 6-4 7-5,3,R128,136,12,2,95,58,42,22,16,5,7,10,4,106,65,48,20,15,9,11
@@ -839,7 +839,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-403,Miami Masters,Hard,96,M,20250317,,MU94,,,Jaume Munar,R,183,ESP,27.866,56,992,RC91,,,Arthur Rinderknech,R,196,FRA,29.649,74,821,6-3 7-6(5),3,R128,106,3,2,71,43,34,14,11,0,0,13,3,75,51,36,11,10,4,5
 2025-403,Miami Masters,Hard,96,M,20250317,,S0N0,,Q,Tristan Schoolkate,R,183,AUS,24.052,129,450,Q02L,,Q,Ethan Quinn,R,191,USA,21.013,135,432,6-0 6-2,3,R128,61,11,1,42,28,24,6,7,0,0,5,2,42,25,13,5,7,1,6
 2025-403,Miami Masters,Hard,96,M,20250317,,S0JA,,WC,Eliot Spizzirri,R,183,USA,23.231,134,434,HD68,,Q,Billy Harris,R,193,GBR,30.141,107,558,7-6(2) 3-6 6-2,3,R128,138,3,0,94,65,50,13,14,5,7,10,4,99,66,50,10,15,5,8
-2025-403,Miami Masters,Hard,96,M,20250317,,T0AP,,Q,Chun-Hsin Tseng,R,180,TPE,28.865,115,529,B0GG,,,Mattia Bellucci,R,175,ITA,23.792,72,838,7-6(5) 6-2,3,R128,92,2,0,56,28,23,22,10,1,1,6,4,67,35,28,13,10,2,4
+2025-403,Miami Masters,Hard,96,M,20250317,,T0AP,,Q,Chun-Hsin Tseng,R,175,TPE,28.865,115,529,B0GG,,,Mattia Bellucci,R,175,ITA,23.792,72,838,7-6(5) 6-2,3,R128,92,2,0,56,28,23,22,10,1,1,6,4,67,35,28,13,10,2,4
 2025-403,Miami Masters,Hard,96,M,20250317,,U182,,LL,Camilo Ugo Carabelli,R,185,ARG,25.748,65,870,H09P,,Q,Brandon Holt,R,185,USA,26.946,116,528,2-6 7-6(5) 6-4,3,R128,144,8,6,100,65,43,14,15,6,12,8,2,98,72,41,17,15,7,12
 2025-403,Miami Masters,Hard,96,M,20250317,,Z355,1,,Alexander Zverev,R,198,GER,27.907,2,7945,F0BY,,Q,Jacob Fearnley,R,183,GBR,23.671,83,770,6-2 6-4,3,R64,74,8,1,49,44,36,2,9,2,2,4,3,59,40,23,10,9,2,5
 2025-403,Miami Masters,Hard,96,M,20250317,,FB98,3,,Taylor Fritz,R,196,USA,27.384,4,4900,SU87,,,Lorenzo Sonego,R,191,ITA,29.849,38,1356,7-6(2) 6-3,3,R64,108,9,0,62,39,32,16,11,0,0,10,0,87,66,46,7,10,6,7
@@ -849,7 +849,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-403,Miami Masters,Hard,96,M,20250317,,O522,PR,,Reilly Opelka,R,211,USA,27.551,114,529,R0DG,11,,Holger Rune,R,188,DEN,21.882,12,3270,4-6 6-3 7-6(5),3,R64,123,21,4,93,63,48,20,16,1,2,1,5,93,59,45,20,15,2,3
 2025-403,Miami Masters,Hard,96,M,20250317,,W0BH,,WC,Coleman Wong,R,191,HKG,20.778,182,312,S0S1,13,,Ben Shelton,L,193,USA,22.436,14,2980,7-6(3) 2-6 7-6(5),3,R64,136,8,0,108,71,51,19,16,5,8,17,2,99,67,53,18,16,2,3
 2025-403,Miami Masters,Hard,96,M,20250317,,TD51,16,,Frances Tiafoe,R,185,USA,27.153,17,2485,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.781,39,1325,7-5 7-6(5),3,R64,119,10,1,74,43,37,15,12,5,6,3,2,95,67,45,12,12,8,10
-2025-403,Miami Masters,Hard,96,M,20250317,,F0F1,17,,Arthur Fils,R,188,FRA,20.762,18,2480,D0F6,,LL,Gabriel Diallo,R,203,CAN,23.477,87,730,6-4 2-3 RET,3,R64,70,1,2,40,28,24,6,7,1,1,5,2,48,32,27,5,8,1,2
+2025-403,Miami Masters,Hard,96,M,20250317,,F0F1,17,,Arthur Fils,R,185,FRA,20.762,18,2480,D0F6,,LL,Gabriel Diallo,R,203,CAN,23.477,87,730,6-4 2-3 RET,3,R64,70,1,2,40,28,24,6,7,1,1,5,2,48,32,27,5,8,1,2
 2025-403,Miami Masters,Hard,96,M,20250317,,F0FV,,,Joao Fonseca,R,185,BRA,18.57,60,955,HH26,19,,Ugo Humbert,L,188,FRA,26.723,20,2375,6-4 6-3,3,R64,71,5,0,40,26,25,11,9,0,0,5,2,53,33,26,6,10,2,5
 2025-403,Miami Masters,Hard,96,M,20250317,,M0FH,20,,Tomas Machac,R,185,CZE,24.425,21,2310,A0FC,,,Matteo Arnaldi,R,185,ITA,24.063,35,1410,6-2 1-6 6-3,3,R64,104,5,6,77,53,36,13,12,4,6,6,3,74,45,29,15,12,2,5
 2025-403,Miami Masters,Hard,96,M,20250317,,SX50,,,Roman Safiullin,R,188,RUS,27.608,71,851,P09Z,25,,Alexei Popyrin,R,196,AUS,25.614,26,1800,6-7(4) 6-3 7-5,3,R64,154,7,4,93,60,51,16,16,1,2,20,5,113,71,55,18,17,8,12
@@ -861,7 +861,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-403,Miami Masters,Hard,96,M,20250317,,D643,4,,Novak Djokovic,R,188,SRB,37.819,5,3860,H0BH,,,Rinky Hijikata,R,178,AUS,24.06,86,752,6-0 7-6(1),3,R64,79,9,1,49,39,33,8,9,2,2,2,1,63,43,29,7,9,7,10
 2025-403,Miami Masters,Hard,96,M,20250317,,RH16,5,,Casper Ruud,R,183,NOR,26.233,6,3855,KI95,,,Miomir Kecmanovic,R,183,SRB,25.542,48,1161,3-6 6-4 6-4,3,R64,125,9,0,99,71,54,12,15,7,9,4,0,81,49,36,20,14,3,5
 2025-403,Miami Masters,Hard,96,M,20250317,,MU94,,,Jaume Munar,R,183,ESP,27.866,56,992,MM58,7,,Daniil Medvedev,R,198,RUS,29.093,8,3680,6-2 6-3,3,R64,78,0,0,53,31,24,15,9,2,2,1,4,53,31,19,10,8,8,11
-2025-403,Miami Masters,Hard,96,M,20250317,,TE51,9,,Stefanos Tsitsipas,R,193,GRC,26.595,10,3405,T0AP,,Q,Chun-Hsin Tseng,R,180,TPE,28.865,115,529,4-6 7-5 6-3,3,R64,134,9,3,86,59,44,17,16,4,6,7,0,82,50,35,19,15,5,8
+2025-403,Miami Masters,Hard,96,M,20250317,,TE51,9,,Stefanos Tsitsipas,R,193,GRC,26.595,10,3405,T0AP,,Q,Chun-Hsin Tseng,R,175,TPE,28.865,115,529,4-6 7-5 6-3,3,R64,134,9,3,86,59,44,17,16,4,6,7,0,82,50,35,19,15,5,8
 2025-403,Miami Masters,Hard,96,M,20250317,,PL56,12,,Tommy Paul,R,188,USA,27.833,13,3030,BK92,,,Alexander Bublik,R,196,KAZ,27.748,80,785,5-7 7-5 6-4,3,R64,130,17,2,100,58,46,27,17,3,4,19,10,112,66,52,22,17,10,12
 2025-403,Miami Masters,Hard,96,M,20250317,,D875,14,,Grigor Dimitrov,R,191,BUL,33.836,15,2745,C0NB,,WC,Federico Cina,R,185,ITA,17.966,441,105,6-1 6-4,3,R64,68,4,1,54,32,26,14,9,2,2,3,2,49,33,20,6,8,4,7
 2025-403,Miami Masters,Hard,96,M,20250317,,M0EJ,15,,Lorenzo Musetti,R,185,ITA,23.038,16,2650,HB64,,,Quentin Halys,R,183,FRA,28.389,57,981,3-6 7-6(4) 7-5,3,R64,147,4,3,120,79,53,25,16,3,5,17,7,105,61,50,20,17,4,6
@@ -876,7 +876,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-403,Miami Masters,Hard,96,M,20250317,,Z355,1,,Alexander Zverev,R,198,GER,27.907,2,7945,TC61,,,Jordan Thompson,R,183,AUS,30.907,37,1375,7-5 6-4,3,R32,87,6,0,55,42,32,10,11,0,1,11,0,60,42,29,9,11,2,5
 2025-403,Miami Masters,Hard,96,M,20250317,,FB98,3,,Taylor Fritz,R,196,USA,27.384,4,4900,SU55,27,,Denis Shapovalov,L,185,CAN,25.921,28,1716,7-5 6-3,3,R32,86,9,1,59,38,32,12,11,3,4,6,6,52,37,23,8,10,1,4
 2025-403,Miami Masters,Hard,96,M,20250317,,DH58,,,Alex de Minaur,R,183,AUS,,11,3335,F0FV,,,Joao Fonseca,R,185,BRA,18.57,60,955,5-7 7-5 6-3,3,R32,151,1,3,99,54,38,28,17,5,8,4,1,92,61,42,14,16,1,5
-2025-403,Miami Masters,Hard,96,M,20250317,,F0F1,17,,Arthur Fils,R,188,FRA,20.762,18,2480,TD51,16,,Frances Tiafoe,R,185,USA,27.153,17,2485,7-6(11) 5-7 6-2,3,R32,175,21,4,100,68,49,19,16,2,5,11,5,142,79,52,30,16,10,14
+2025-403,Miami Masters,Hard,96,M,20250317,,F0F1,17,,Arthur Fils,R,185,FRA,20.762,18,2480,TD51,16,,Frances Tiafoe,R,185,USA,27.153,17,2485,7-6(11) 5-7 6-2,3,R32,175,21,4,100,68,49,19,16,2,5,11,5,142,79,52,30,16,10,14
 2025-403,Miami Masters,Hard,96,M,20250317,,M0FH,20,,Tomas Machac,R,185,CZE,24.425,21,2310,O522,PR,,Reilly Opelka,R,211,USA,27.551,114,529,7-6(1) 6-3,3,R32,74,8,1,58,39,35,13,11,0,0,19,2,59,44,34,6,10,0,1
 2025-403,Miami Masters,Hard,96,M,20250317,,BK40,29,,Matteo Berrettini,R,196,ITA,28.929,30,1580,BU13,,,Zizou Bergs,R,185,BEL,25.786,51,1065,6-4 6-4,3,R32,94,3,1,56,37,28,12,10,0,1,10,5,69,39,26,13,10,9,12
 2025-403,Miami Masters,Hard,96,M,20250317,,M0NI,,,Jakub Mensik,R,193,CZE,19.54,54,1042,SX50,,,Roman Safiullin,R,188,RUS,27.608,71,851,6-4 6-4,3,R32,72,15,1,55,41,36,6,10,0,0,5,0,50,36,29,8,10,0,2
@@ -889,7 +889,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-403,Miami Masters,Hard,96,M,20250317,,M0EJ,15,,Lorenzo Musetti,R,185,ITA,23.038,16,2650,AG37,18,,Felix Auger-Aliassime,R,193,CAN,33.022,19,2415,4-6 6-2 6-3,3,R32,146,1,1,93,60,40,20,14,6,8,11,4,90,70,46,8,13,10,14
 2025-403,Miami Masters,Hard,96,M,20250317,,N0AE,31,,Brandon Nakashima,R,188,USA,23.619,32,1500,GB88,,,David Goffin,R,180,BEL,34.274,55,1003,6-3 6-7(5) 6-3,3,R32,136,13,2,94,63,53,15,16,2,4,7,5,100,56,43,18,14,6,10
 2025-403,Miami Masters,Hard,96,M,20250317,,MC65,,,Gael Monfils,R,193,FRA,38.54,46,1230,MU94,,,Jaume Munar,R,183,ESP,27.866,56,992,7-5 5-7 7-6(1),3,R32,157,7,5,110,73,57,17,18,1,4,8,2,104,68,49,20,18,5,8
-2025-403,Miami Masters,Hard,96,M,20250317,,F0F1,17,,Arthur Fils,R,188,FRA,20.762,18,2480,Z355,1,,Alexander Zverev,R,198,GER,27.907,2,7945,3-6 6-3 6-4,3,R16,120,4,2,75,51,35,16,14,1,3,9,0,80,55,38,14,14,2,5
+2025-403,Miami Masters,Hard,96,M,20250317,,F0F1,17,,Arthur Fils,R,185,FRA,20.762,18,2480,Z355,1,,Alexander Zverev,R,198,GER,27.907,2,7945,3-6 6-3 6-4,3,R16,120,4,2,75,51,35,16,14,1,3,9,0,80,55,38,14,14,2,5
 2025-403,Miami Masters,Hard,96,M,20250317,,FB98,3,,Taylor Fritz,R,196,USA,27.384,4,4900,W09E,,LL,Adam Walton,R,183,AUS,25.915,89,666,6-3 7-5,3,R16,94,4,0,57,44,24,9,11,3,3,2,0,54,41,25,6,10,7,9
 2025-403,Miami Masters,Hard,96,M,20250317,,D643,4,,Novak Djokovic,R,188,SRB,37.819,5,3860,M0EJ,15,,Lorenzo Musetti,R,185,ITA,23.038,16,2650,6-2 6-2,3,R16,83,1,1,46,32,24,8,8,0,1,1,3,56,39,20,6,8,7,12
 2025-403,Miami Masters,Hard,96,M,20250317,,C0AU,23,,Francisco Cerundolo,R,185,ARG,26.592,24,1925,RH16,5,,Casper Ruud,R,183,NOR,26.233,6,3855,6-4 6-2,3,R16,86,6,1,53,37,28,11,9,0,0,4,3,66,52,28,9,9,7,10
@@ -899,14 +899,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-403,Miami Masters,Hard,96,M,20250317,,K0AH,24,,Sebastian Korda,R,196,USA,24.699,25,1860,MC65,,,Gael Monfils,R,193,FRA,38.54,46,1230,6-4 2-6 6-4,3,R16,132,6,3,83,49,39,15,14,1,3,8,4,83,56,43,12,14,4,6
 2025-403,Miami Masters,Hard,96,M,20250317,,FB98,3,,Taylor Fritz,R,196,USA,27.384,4,4900,BK40,29,,Matteo Berrettini,R,196,ITA,28.929,30,1580,7-5 6-7(7) 7-5,3,QF,164,16,3,102,78,62,15,18,4,5,17,0,123,96,72,10,18,8,11
 2025-403,Miami Masters,Hard,96,M,20250317,,D643,4,,Novak Djokovic,R,188,SRB,37.819,5,3860,K0AH,24,,Sebastian Korda,R,196,USA,24.699,25,1860,6-3 7-6(4),3,QF,82,11,0,59,49,41,6,11,0,1,7,0,56,37,26,13,10,0,2
-2025-403,Miami Masters,Hard,96,M,20250317,,M0NI,,,Jakub Mensik,R,193,CZE,19.54,54,1042,F0F1,17,,Arthur Fils,R,188,FRA,20.762,18,2480,7-6(5) 6-1,3,QF,75,13,2,53,35,30,9,9,2,3,1,3,69,47,33,7,10,3,7
+2025-403,Miami Masters,Hard,96,M,20250317,,M0NI,,,Jakub Mensik,R,193,CZE,19.54,54,1042,F0F1,17,,Arthur Fils,R,185,FRA,20.762,18,2480,7-6(5) 6-1,3,QF,75,13,2,53,35,30,9,9,2,3,1,3,69,47,33,7,10,3,7
 2025-403,Miami Masters,Hard,96,M,20250317,,D875,14,,Grigor Dimitrov,R,191,BUL,33.836,15,2745,C0AU,23,,Francisco Cerundolo,R,185,ARG,26.592,24,1925,6-7(6) 6-4 7-6(3),3,QF,168,7,3,108,66,53,21,17,3,5,7,1,115,73,51,23,17,10,13
 2025-403,Miami Masters,Hard,96,M,20250317,,M0NI,,,Jakub Mensik,R,193,CZE,19.54,54,1042,FB98,3,,Taylor Fritz,R,196,USA,27.384,4,4900,7-6(4) 4-6 7-6(4),3,SF,145,25,4,101,73,60,15,17,1,2,14,3,114,79,63,16,17,2,2
 2025-403,Miami Masters,Hard,96,M,20250317,,D643,4,,Novak Djokovic,R,188,SRB,37.819,5,3860,D875,14,,Grigor Dimitrov,R,191,BUL,33.836,15,2745,6-2 6-3,3,SF,70,5,1,45,39,31,2,9,1,2,3,3,43,23,16,6,8,2,6
 2025-403,Miami Masters,Hard,96,M,20250317,,M0NI,,,Jakub Mensik,R,193,CZE,19.54,54,1042,D643,4,,Novak Djokovic,R,188,SRB,37.819,5,3860,7-6(4) 7-6(4),3,F,123,14,1,78,52,40,14,12,0,1,7,1,74,56,43,9,12,2,3
 2025-717,Houston,Clay,28,A,20250331,,Q02L,,WC,Ethan Quinn,R,191,USA,21.051,130,456,TC61,6,,Jordan Thompson,R,183,AUS,30.945,35,1415,4-6 6-4 6-3,3,R32,156,4,4,96,54,38,23,15,9,13,3,3,95,58,36,18,14,5,10
 2025-717,Houston,Clay,28,A,20250331,,N552,8,,Kei Nishikori,R,178,JPN,35.252,66,873,KC12,,Q,Mitchell Krueger,R,188,USA,31.214,141,416,6-4 6-2,3,R32,74,4,2,57,44,34,5,9,3,4,2,2,48,31,19,8,9,3,7
-2025-717,Houston,Clay,28,A,20250331,,E865,,,Christopher Eubanks,R,196,USA,28.903,117,515,H0BH,,,Rinky Hijikata,R,178,AUS,24.099,82,769,6-2 4-6 6-3,3,R32,115,8,0,80,53,39,16,14,4,6,3,4,85,50,30,17,13,3,7
+2025-717,Houston,Clay,28,A,20250331,,E865,,,Christopher Eubanks,R,201,USA,28.903,117,515,H0BH,,,Rinky Hijikata,R,178,AUS,24.099,82,769,6-2 4-6 6-3,3,R32,115,8,0,80,53,39,16,14,4,6,3,4,85,50,30,17,13,3,7
 2025-717,Houston,Clay,28,A,20250331,,ME82,,LL,Adrian Mannarino,L,180,FRA,36.753,144,409,H997,,,Yannick Hanfmann,R,193,GER,33.378,123,479,7-6(5) 6-3,3,R32,110,2,0,82,51,34,15,11,12,14,4,2,57,40,26,7,10,0,3
 2025-717,Houston,Clay,28,A,20250331,,MK66,,,Mackenzie McDonald,R,178,USA,21.051,100,592,GE33,,,Daniel Elahi Galan,R,191,COL,28.783,114,538,6-2 6-7(3) 6-4,3,R32,135,4,2,84,53,42,21,15,1,1,7,0,90,60,46,13,15,2,5
 2025-717,Houston,Clay,28,A,20250331,,S0ZE,,Q,Colton Smith,R,183,USA,22.073,200,284,D994,,,James Duckworth,R,188,AUS,33.189,89,698,6-2 6-2,3,R32,69,5,2,44,28,22,11,8,1,1,3,3,58,34,20,10,8,6,10
@@ -919,14 +919,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-717,Houston,Clay,28,A,20250331,,TD51,2,,Frances Tiafoe,R,185,USA,27.192,17,2525,W09E,,,Adam Walton,R,183,AUS,25.953,85,746,7-5 6-3,3,R16,90,4,2,53,26,22,17,10,1,2,5,3,73,42,24,16,11,4,8
 2025-717,Houston,Clay,28,A,20250331,,N0AE,4,,Brandon Nakashima,R,188,USA,23.658,33,1570,MK66,,,Mackenzie McDonald,R,178,USA,21.051,100,592,6-1 7-5,3,R16,78,7,1,49,32,26,14,10,0,0,5,1,61,41,26,9,9,2,5
 2025-717,Houston,Clay,28,A,20250331,,M0QL,5,,Alex Michelsen,R,193,USA,20.597,34,1445,ME82,,LL,Adrian Mannarino,L,180,FRA,36.753,144,409,6-7(0) 6-4 6-2,3,R16,148,3,3,95,62,38,19,15,5,9,1,3,99,69,39,14,15,9,16
-2025-717,Houston,Clay,28,A,20250331,,E865,,,Christopher Eubanks,R,196,USA,28.903,117,515,N552,8,,Kei Nishikori,R,178,JPN,35.252,66,873,6-1 RET,3,R16,24,2,1,22,15,11,5,4,0,0,1,0,20,17,9,0,3,2,4
+2025-717,Houston,Clay,28,A,20250331,,E865,,,Christopher Eubanks,R,201,USA,28.903,117,515,N552,8,,Kei Nishikori,R,178,JPN,35.252,66,873,6-1 RET,3,R16,24,2,1,22,15,11,5,4,0,0,1,0,20,17,9,0,3,2,4
 2025-717,Houston,Clay,28,A,20250331,,PL56,1,,Tommy Paul,R,188,USA,27.871,13,3070,GD64,,WC,Cristian Garin,R,185,CHI,28.836,133,439,2-6 6-2 7-6(5),3,R16,162,7,3,96,54,39,18,14,8,12,2,3,113,74,50,16,14,10,14
 2025-717,Houston,Clay,28,A,20250331,,B0CD,,Q,Jenson Brooksby,R,193,USA,24.427,507,77,TE30,3,,Alejandro Tabilo,L,188,CHI,27.827,32,1575,3-6 6-4 7-6(6),3,R16,169,4,3,99,57,45,19,15,4,7,5,1,115,58,43,28,16,7,10
 2025-717,Houston,Clay,28,A,20250331,,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.587,79,780,DF92,,Q,Corentin Denolly,R,188,USA,27.817,328,159,6-3 6-3,3,R16,79,8,4,54,31,28,11,9,2,2,2,8,70,38,26,12,9,6,9
 2025-717,Houston,Clay,28,A,20250331,,S0ZE,,Q,Colton Smith,R,183,USA,22.073,200,284,Q02L,,WC,Ethan Quinn,R,191,USA,21.051,130,456,6-3 6-4,3,R16,74,3,4,54,31,27,16,10,1,1,2,3,48,30,23,8,9,2,4
 2025-717,Houston,Clay,28,A,20250331,,PL56,1,,Tommy Paul,R,188,USA,27.871,13,3070,S0ZE,,Q,Colton Smith,R,183,USA,22.073,200,284,6-1 7-6(1),3,QF,89,3,2,51,24,22,19,9,3,3,2,2,71,44,27,13,10,4,7
 2025-717,Houston,Clay,28,A,20250331,,TD51,2,,Frances Tiafoe,R,185,USA,27.192,17,2525,M0QL,5,,Alex Michelsen,R,193,USA,20.597,34,1445,7-5 6-1,3,QF,92,4,2,58,33,26,14,10,2,3,4,5,76,44,28,12,9,12,16
-2025-717,Houston,Clay,28,A,20250331,,N0AE,4,,Brandon Nakashima,R,188,USA,23.658,33,1570,E865,,,Christopher Eubanks,R,196,USA,28.903,117,515,6-4 6-4,3,QF,82,7,2,53,30,23,17,10,0,0,3,3,65,49,35,8,10,3,5
+2025-717,Houston,Clay,28,A,20250331,,N0AE,4,,Brandon Nakashima,R,188,USA,23.658,33,1570,E865,,,Christopher Eubanks,R,201,USA,28.903,117,515,6-4 6-4,3,QF,82,7,2,53,30,23,17,10,0,0,3,3,65,49,35,8,10,3,5
 2025-717,Houston,Clay,28,A,20250331,,B0CD,,Q,Jenson Brooksby,R,193,USA,24.427,507,77,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.587,79,780,2-6 6-3 6-4,3,QF,140,0,3,86,55,34,16,13,7,11,4,4,90,53,33,18,14,6,11
 2025-717,Houston,Clay,28,A,20250331,,B0CD,,Q,Jenson Brooksby,R,193,USA,24.427,507,77,PL56,1,,Tommy Paul,R,188,USA,27.871,13,3070,7-6(5) 3-6 7-6(6),3,SF,162,0,2,109,74,46,18,16,6,11,6,5,111,62,42,27,17,5,9
 2025-717,Houston,Clay,28,A,20250331,,TD51,2,,Frances Tiafoe,R,185,USA,27.192,17,2525,N0AE,4,,Brandon Nakashima,R,188,USA,23.658,33,1570,6-4 7-6(3),3,SF,101,4,1,60,36,25,13,11,1,5,6,1,81,53,33,9,11,5,10
@@ -934,8 +934,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-360,Marrakech,Clay,28,A,20250331,,D0FJ,7,,Luciano Darderi,R,183,ITA,23.123,57,989,B0EJ,,,Tristan Boyer,R,188,USA,23.942,121,491,6-4 6-4,3,R32,99,2,4,73,41,30,19,10,4,4,3,1,62,38,23,16,10,7,9
 2025-360,Marrakech,Clay,28,A,20250331,,KI82,,,Vit Kopriva,L,178,CZE,27.792,106,576,GH92,PR,,Borna Gojo,R,196,CRO,27.088,414,116,2-6 6-2 6-4,3,R32,118,3,3,84,53,34,16,13,5,9,5,4,73,45,29,13,13,0,5
 2025-360,Marrakech,Clay,28,A,20250331,,MQ75,,Q,Kamil Majchrzak,R,183,POL,29.211,122,482,MU94,6,,Jaume Munar,R,183,ESP,27.904,55,1029,6-4 6-3,3,R32,89,4,1,55,35,27,13,10,2,3,5,5,54,23,20,10,9,4,7
-2025-360,Marrakech,Clay,28,A,20250331,,B0GG,8,,Mattia Bellucci,R,175,ITA,23.83,71,842,K09F,,,Pavel Kotov,R,185,RUS,26.364,107,573,6-4 6-4,3,R32,103,9,3,56,32,26,15,10,1,2,3,2,64,46,31,7,10,4,7
-2025-360,Marrakech,Clay,28,A,20250331,,CD85,,,Pablo Carreno Busta,R,183,ESP,33.718,110,568,L0CK,,WC,Younes Lalami Laaroussi,R,188,MAR,23.951,,8,6-1 6-3,3,R32,77,2,1,44,26,22,13,8,1,1,1,5,58,35,23,6,8,5,9
+2025-360,Marrakech,Clay,28,A,20250331,,B0GG,8,,Mattia Bellucci,R,175,ITA,23.83,71,842,K09F,,,Pavel Kotov,R,191,RUS,26.364,107,573,6-4 6-4,3,R32,103,9,3,56,32,26,15,10,1,2,3,2,64,46,31,7,10,4,7
+2025-360,Marrakech,Clay,28,A,20250331,,CD85,,,Pablo Carreno Busta,R,188,ESP,33.718,110,568,L0CK,,WC,Younes Lalami Laaroussi,R,188,MAR,23.951,,8,6-1 6-3,3,R32,77,2,1,44,26,22,13,8,1,1,1,5,58,35,23,6,8,5,9
 2025-360,Marrakech,Clay,28,A,20250331,,D0C1,,,Jesper de Jong,R,180,NLD,31.789,98,609,BT68,,WC,Elliot Benchetrit,R,193,MAR,26.494,608,54,7-5 6-1,3,R32,92,3,1,45,25,23,17,10,0,0,3,2,74,42,28,12,9,7,10
 2025-360,Marrakech,Clay,28,A,20250331,,G09O,,,Hugo Gaston,L,173,FRA,24.51,84,751,C0C8,,Q,Juan Manuel Cerundolo,L,183,ARG,23.373,128,461,5-7 6-3 6-4,3,R32,138,5,4,95,49,34,21,16,3,8,6,4,108,60,34,24,15,11,17
 2025-360,Marrakech,Clay,28,A,20250331,,H996,,Q,Pierre-Hugues Herbert,R,188,FRA,23.83,169,335,CE77,,Q,Federico Coria,R,180,ARG,33.06,126,464,4-6 6-3 6-2,3,R32,129,7,12,87,51,39,13,14,4,8,1,7,84,57,36,7,13,4,10
@@ -943,7 +943,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-360,Marrakech,Clay,28,A,20250331,,CF59,5,,Roberto Carballes Baena,R,183,ESP,32.022,51,1051,B0D6,,WC,Taha Baadi,R,183,MAR,23.699,703,40,7-6(3) 6-3,3,R32,121,1,7,79,48,35,14,11,3,5,1,0,82,54,33,14,10,9,12
 2025-360,Marrakech,Clay,28,A,20250331,,C0JP,,,Raphael Collignon,R,191,BEL,23.211,92,644,F510,,,Fabio Fognini,R,178,ITA,37.854,99,607,6-3 6-3,3,R32,82,2,4,55,40,30,7,9,3,4,1,4,55,24,14,16,9,4,8
 2025-360,Marrakech,Clay,28,A,20250331,,DA31,,,Hugo Dellien,R,180,BOL,31.789,102,582,V832,,,Aleksandar Vukic,R,188,AUS,28.984,76,808,7-5 4-6 7-5,3,R32,152,5,0,110,85,57,17,17,3,5,11,0,116,72,53,19,17,11,14
-2025-360,Marrakech,Clay,28,A,20250331,,GJ37,1,,Tallon Griekspoor,R,191,NLD,28.745,37,1370,CD85,,,Pablo Carreno Busta,R,183,ESP,33.718,110,568,7-6(1) 3-6 6-3,3,R16,143,13,5,108,71,55,17,15,4,6,8,4,94,57,43,19,15,8,10
+2025-360,Marrakech,Clay,28,A,20250331,,GJ37,1,,Tallon Griekspoor,R,191,NLD,28.745,37,1370,CD85,,,Pablo Carreno Busta,R,188,ESP,33.718,110,568,7-6(1) 3-6 6-3,3,R16,143,13,5,108,71,55,17,15,4,6,8,4,94,57,43,19,15,8,10
 2025-360,Marrakech,Clay,28,A,20250331,,KI82,,,Vit Kopriva,L,178,CZE,27.792,106,576,SU87,2,,Lorenzo Sonego,R,191,ITA,29.888,38,1361,6-2 5-7 6-4,3,R16,162,2,5,104,67,42,18,15,6,10,3,2,88,55,34,14,15,9,15
 2025-360,Marrakech,Clay,28,A,20250331,,D0FJ,7,,Luciano Darderi,R,183,ITA,23.123,57,989,G09O,,,Hugo Gaston,L,173,FRA,24.51,84,751,2-6 6-2 6-3,3,R16,111,1,1,72,43,30,14,13,0,3,3,2,93,43,31,23,12,10,14
 2025-360,Marrakech,Clay,28,A,20250331,,B0GG,8,,Mattia Bellucci,R,175,ITA,23.83,71,842,H996,,Q,Pierre-Hugues Herbert,R,188,FRA,23.83,169,335,6-2 7-5,3,R16,84,4,0,50,28,21,16,10,0,1,2,4,63,39,26,9,10,4,8
@@ -961,7 +961,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-4462,Bucharest,Clay,28,A,20250331,,BD06,5,,Roberto Bautista Agut,R,180,ESP,36.962,52,1049,Y09V,,,Yunchaokete Bu,R,185,CHN,29.507,67,873,3-6 6-2 7-5,3,R32,172,2,5,113,62,34,28,15,12,17,5,1,94,55,32,19,14,4,10
 2025-4462,Bucharest,Clay,28,A,20250331,,U182,8,,Camilo Ugo Carabelli,R,185,ARG,25.786,63,918,A829,,,Radu Albot,R,183,MDA,35.384,223,248,6-4 6-3,3,R32,92,0,0,50,38,26,8,9,2,3,0,1,65,39,20,14,10,1,5
 2025-4462,Bucharest,Clay,28,A,20250331,,C0DF,,,Francisco Comesana,L,180,ARG,24.482,64,890,K966,,Q,Martin Klizan,L,191,SVK,35.721,316,165,4-6 7-5 7-5,3,R32,152,7,5,89,60,48,15,17,2,5,0,4,107,69,50,16,17,5,9
-2025-4462,Bucharest,Clay,28,A,20250331,,D0F6,,,Gabriel Diallo,R,203,CAN,23.515,81,770,T0AP,,,Chun-Hsin Tseng,R,180,TPE,,101,587,7-6(5) 7-6(2),3,R32,126,5,3,82,47,35,22,12,4,6,0,1,81,55,36,13,12,0,2
+2025-4462,Bucharest,Clay,28,A,20250331,,D0F6,,,Gabriel Diallo,R,203,CAN,23.515,81,770,T0AP,,,Chun-Hsin Tseng,R,175,TPE,,101,587,7-6(5) 7-6(2),3,R32,126,5,3,82,47,35,22,12,4,6,0,1,81,55,36,13,12,0,2
 2025-4462,Bucharest,Clay,28,A,20250331,,D923,,,Damir Dzumhur,R,175,BIH,32.863,65,874,VA25,,Q,Valentin Vacherot,R,193,FRA,26.371,259,208,6-2 6-1,3,R32,73,1,1,54,35,24,10,8,5,6,1,4,53,31,17,8,7,3,8
 2025-4462,Bucharest,Clay,28,A,20250331,,F724,,,Marton Fucsovics,R,188,HUN,33.142,90,655,N0BG,,,Luca Nardi,R,185,ITA,21.649,93,637,6-3 6-1,3,R32,67,1,1,46,28,22,11,8,2,2,0,1,48,33,18,5,8,2,6
 2025-4462,Bucharest,Clay,28,A,20250331,,M0JZ,,Q,Filip Misolic,R,180,AUT,23.644,232,235,S0H2,,,Alexander Shevchenko,R,188,KAZ,24.334,105,578,6-3 6-4,3,R32,76,1,3,60,43,31,9,10,4,6,1,1,54,34,22,8,9,0,4
@@ -986,7 +986,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-4462,Bucharest,Clay,28,A,20250331,,C0E9,3,,Flavio Cobolli,R,183,ITA,22.901,45,1260,D923,,,Damir Dzumhur,R,175,BIH,32.863,65,874,6-3 6-0,3,SF,63,3,2,47,28,22,12,8,0,0,1,1,50,33,16,7,7,8,12
 2025-4462,Bucharest,Clay,28,A,20250331,,C0E9,3,,Flavio Cobolli,R,183,ITA,22.901,45,1260,B0BI,1,,Sebastian Baez,R,178,ARG,24.255,36,1385,6-4 6-4,3,F,106,3,3,69,31,23,18,10,2,4,1,0,74,62,33,9,10,7,11
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,BT72,,,Nuno Borges,R,185,POR,28.129,43,1280,R0DG,10,,Holger Rune,R,188,DEN,21.94,12,3270,6-2 3-0,3,R64,42,6,0,37,27,22,4,6,2,2,0,2,30,16,11,3,5,1,4
-2025-410,Monte Carlo Masters,Clay,56,M,20250407,,F0F1,12,,Arthur Fils,R,188,FRA,20.819,15,2670,GJ37,,,Tallon Griekspoor,R,191,NLD,28.764,35,1525,6-7(3) 6-4 6-2,3,R64,159,7,6,111,69,54,23,15,5,5,6,7,120,75,55,18,15,13,16
+2025-410,Monte Carlo Masters,Clay,56,M,20250407,,F0F1,12,,Arthur Fils,R,185,FRA,20.819,15,2670,GJ37,,,Tallon Griekspoor,R,191,NLD,28.764,35,1525,6-7(3) 6-4 6-2,3,R64,159,7,6,111,69,54,23,15,5,5,6,7,120,75,55,18,15,13,16
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,TD51,14,,Frances Tiafoe,R,185,USA,27.211,17,2525,KI95,,,Miomir Kecmanovic,R,183,SRB,25.6,47,1166,6-2 5-7 7-6(5),3,R64,151,7,3,109,62,41,26,16,5,8,6,4,112,62,41,26,16,7,11
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,D875,15,,Grigor Dimitrov,R,191,BUL,33.893,18,2495,J551,,,Nicolas Jarry,R,201,CHI,29.488,58,965,6-3 6-4,3,R64,106,1,4,75,39,28,17,10,7,9,4,3,63,41,22,12,9,8,12
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,BD06,,,Roberto Bautista Agut,R,180,ESP,36.981,52,1049,N0AE,,,Brandon Nakashima,R,188,USA,23.677,31,1620,6-2 6-4,3,R64,86,3,2,58,42,31,8,9,3,4,1,0,53,35,19,7,9,4,8
@@ -1015,7 +1015,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,RE44,7,,Andrey Rublev,R,188,RUS,27.463,9,3440,MC65,,,Gael Monfils,R,193,FRA,38.597,44,1255,6-4 7-6(2),3,R32,103,5,1,66,36,26,19,11,3,5,10,6,77,41,33,12,11,5,8
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,DH58,8,,Alex de Minaur,R,183,AUS,29.003,10,3335,M0FH,,,Tomas Machac,R,185,CZE,24.482,21,2210,3-6 6-0 6-3,3,R32,108,3,2,80,42,33,20,12,4,5,5,3,75,47,33,10,12,1,5
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,MM58,9,,Daniil Medvedev,R,198,RUS,29.151,11,3290,MP20,,,Alexandre Muller,R,183,FRA,28.178,39,1344,7-6(6) 5-7 6-2,3,R32,168,7,8,103,58,42,19,16,2,6,1,4,122,69,42,26,16,5,10
-2025-410,Monte Carlo Masters,Clay,56,M,20250407,,F0F1,12,,Arthur Fils,R,188,FRA,20.819,15,2670,C0E9,,,Flavio Cobolli,R,183,ITA,22.921,36,1500,6-2 6-4,3,R32,70,1,1,53,32,24,14,9,2,2,0,2,54,28,15,15,9,5,8
+2025-410,Monte Carlo Masters,Clay,56,M,20250407,,F0F1,12,,Arthur Fils,R,185,FRA,20.819,15,2670,C0E9,,,Flavio Cobolli,R,183,ITA,22.921,36,1500,6-2 6-4,3,R32,70,1,1,53,32,24,14,9,2,2,0,2,54,28,15,15,9,5,8
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,M0EJ,13,,Lorenzo Musetti,R,185,ITA,23.096,16,2650,L0BV,,,Jiri Lehecka,R,185,CZE,23.411,28,1745,1-6 7-5 6-2,3,R32,139,3,0,76,53,32,16,14,2,6,4,8,105,60,40,17,13,14,18
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,P09Z,,,Alexei Popyrin,R,196,AUS,25.671,27,1760,TD51,14,,Frances Tiafoe,R,185,USA,27.211,17,2525,3-6 6-3 6-3,3,R32,124,7,6,79,52,35,9,13,4,8,7,2,99,51,32,23,14,10,16
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,D875,15,,Grigor Dimitrov,R,191,BUL,33.893,18,2495,VA25,,WC,Valentin Vacherot,R,193,FRA,26.39,256,214,4-6 6-3 6-1,3,R32,111,4,3,79,45,31,16,13,7,11,0,1,75,56,30,5,13,3,10
@@ -1029,11 +1029,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,P09Z,,,Alexei Popyrin,R,196,AUS,25.671,27,1760,RH16,4,,Casper Ruud,R,183,NOR,26.29,7,3765,6-4 3-6 7-5,3,R16,177,4,5,117,73,54,19,15,12,14,2,2,123,85,58,18,16,12,15
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.838,42,1305,D0CO,5,,Jack Draper,L,193,GBR,23.29,6,3780,6-3 6-7(6) 6-4,3,R16,166,1,0,118,74,44,26,16,12,16,5,10,98,47,30,25,15,7,13
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,TE51,6,,Stefanos Tsitsipas,R,193,GRC,26.652,8,3445,BT72,,,Nuno Borges,R,185,POR,28.129,43,1280,6-1 6-1,3,R16,67,3,2,56,32,23,11,7,5,6,0,2,46,29,12,6,7,1,7
-2025-410,Monte Carlo Masters,Clay,56,M,20250407,,F0F1,12,,Arthur Fils,R,188,FRA,20.819,15,2670,RE44,7,,Andrey Rublev,R,188,RUS,27.463,9,3440,6-2 6-3,3,R16,61,4,2,42,26,21,9,8,0,1,2,3,53,32,19,6,9,4,9
+2025-410,Monte Carlo Masters,Clay,56,M,20250407,,F0F1,12,,Arthur Fils,R,185,FRA,20.819,15,2670,RE44,7,,Andrey Rublev,R,188,RUS,27.463,9,3440,6-2 6-3,3,R16,61,4,2,42,26,21,9,8,0,1,2,3,53,32,19,6,9,4,9
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,DH58,8,,Alex de Minaur,R,183,AUS,29.003,10,3335,MM58,9,,Daniil Medvedev,R,198,RUS,29.151,11,3290,6-2 6-2,3,R16,72,3,3,46,24,14,12,8,1,4,3,3,52,29,13,6,8,5,12
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,M0EJ,13,,Lorenzo Musetti,R,185,ITA,23.096,16,2650,BK40,,,Matteo Berrettini,R,196,ITA,28.986,34,1530,6-3 6-3,3,R16,94,0,1,50,37,27,10,9,0,0,3,2,68,46,31,7,9,7,10
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,D875,15,,Grigor Dimitrov,R,191,BUL,33.893,18,2495,TE30,,,Alejandro Tabilo,L,188,CHI,27.847,32,1575,6-3 3-6 6-2,3,R16,116,7,1,68,47,36,11,13,2,5,0,5,106,68,37,18,13,11,16
-2025-410,Monte Carlo Masters,Clay,56,M,20250407,,A0E2,2,,Carlos Alcaraz,R,183,ESP,21.923,3,6720,F0F1,12,,Arthur Fils,R,188,FRA,20.819,15,2670,4-6 7-5 6-3,3,QF,143,3,7,101,62,43,19,16,7,11,0,5,103,62,45,13,15,9,14
+2025-410,Monte Carlo Masters,Clay,56,M,20250407,,A0E2,2,,Carlos Alcaraz,R,183,ESP,21.923,3,6720,F0F1,12,,Arthur Fils,R,185,FRA,20.819,15,2670,4-6 7-5 6-3,3,QF,143,3,7,101,62,43,19,16,7,11,0,5,103,62,45,13,15,9,14
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,M0EJ,13,,Lorenzo Musetti,R,185,ITA,23.096,16,2650,TE51,6,,Stefanos Tsitsipas,R,193,GRC,26.652,8,3445,1-6 6-3 6-4,3,QF,141,1,1,102,75,47,15,13,14,17,1,7,85,42,28,23,13,3,6
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,DH58,8,,Alex de Minaur,R,183,AUS,29.003,10,3335,D875,15,,Grigor Dimitrov,R,191,BUL,33.893,18,2495,6-0 6-0,3,QF,44,0,0,31,16,12,12,6,0,0,0,1,32,19,6,2,6,2,8
 2025-410,Monte Carlo Masters,Clay,56,M,20250407,,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.838,42,1305,P09Z,,,Alexei Popyrin,R,196,AUS,25.671,27,1760,6-3 6-2,3,QF,69,1,0,47,32,26,11,9,0,0,9,4,57,38,24,8,8,6,9
@@ -1044,7 +1044,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-425,Barcelona,Clay,32,A,20250414,,RH16,2,,Casper Ruud,R,183,NOR,26.31,10,3215,GE33,,Q,Daniel Elahi Galan,R,191,COL,28.821,117,521,6-4 6-3,3,R32,93,3,4,52,27,21,19,10,0,0,2,3,62,40,28,10,9,5,7
 2025-425,Barcelona,Clay,32,A,20250414,,TE51,3,,Stefanos Tsitsipas,R,193,GRC,26.671,16,2645,O522,PR,,Reilly Opelka,R,211,USA,27.627,105,579,6-2 6-2,3,R32,70,2,1,48,24,18,18,8,3,3,4,3,54,33,19,7,8,5,9
 2025-425,Barcelona,Clay,32,A,20250414,,DH58,5,,Alex de Minaur,R,183,AUS,29.022,7,3535,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.74,46,1185,6-4 6-4,3,R32,85,4,1,52,40,33,7,10,0,0,0,0,50,26,21,15,10,0,2
-2025-425,Barcelona,Clay,32,A,20250414,,F0F1,7,,Arthur Fils,R,188,FRA,20.838,14,2820,CD85,,WC,Pablo Carreno Busta,R,183,ESP,33.756,99,607,7-6(6) 6-3,3,R32,93,4,1,71,52,38,13,11,3,4,2,2,64,40,27,12,10,2,4
+2025-425,Barcelona,Clay,32,A,20250414,,F0F1,7,,Arthur Fils,R,185,FRA,20.838,14,2820,CD85,,WC,Pablo Carreno Busta,R,188,ESP,33.756,99,607,7-6(6) 6-3,3,R32,93,4,1,71,52,38,13,11,3,4,2,2,64,40,27,12,10,2,4
 2025-425,Barcelona,Clay,32,A,20250414,,MU94,,,Jaume Munar,R,183,ESP,27.942,57,977,TD51,9,,Frances Tiafoe,R,185,USA,27.23,18,2550,2-6 7-5 6-1,3,R32,161,3,4,93,53,35,20,13,6,9,0,2,94,52,33,17,14,9,14
 2025-425,Barcelona,Clay,32,A,20250414,,B0BI,,,Sebastian Baez,R,178,ARG,24.293,35,1540,D923,,LL,Damir Dzumhur,R,175,BIH,32.901,65,899,6-1 7-5,3,R32,86,1,0,61,51,31,5,10,4,6,0,1,69,46,19,14,9,4,9
 2025-425,Barcelona,Clay,32,A,20250414,,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.858,30,1680,W367,,WC,Stan Wawrinka,R,183,CHE,40.047,162,355,6-1 6-4,3,R32,71,3,4,48,28,22,10,8,4,5,0,4,57,23,15,13,9,2,7
@@ -1063,12 +1063,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-425,Barcelona,Clay,32,A,20250414,,RH16,2,,Casper Ruud,R,183,NOR,26.31,10,3215,M0JF,,Q,Hamad Medjedovic,R,188,SRB,21.741,72,843,7-5 7-5,3,R16,128,3,5,93,55,34,21,12,9,11,4,1,89,59,37,13,12,6,10
 2025-425,Barcelona,Clay,32,A,20250414,,TE51,3,,Stefanos Tsitsipas,R,193,GRC,26.671,16,2645,K0AH,,,Sebastian Korda,R,196,USA,24.775,24,1970,7-6(4) 6-4,3,R16,97,1,3,67,38,28,22,11,0,0,5,2,77,44,33,20,11,6,7
 2025-425,Barcelona,Clay,32,A,20250414,,R0DG,6,,Holger Rune,R,188,DEN,21.959,13,3080,B0BI,,,Sebastian Baez,R,178,ARG,24.293,35,1540,4-6 6-1 6-2,3,R16,108,1,2,80,53,33,14,13,7,10,1,1,73,55,32,7,12,5,11
-2025-425,Barcelona,Clay,32,A,20250414,,F0F1,7,,Arthur Fils,R,188,FRA,20.838,14,2820,MO44,,,Pedro Martinez,R,185,ESP,27.967,49,1130,6-3 6-2,3,R16,68,5,0,51,25,20,18,9,1,1,2,3,48,36,21,7,8,2,5
+2025-425,Barcelona,Clay,32,A,20250414,,F0F1,7,,Arthur Fils,R,185,FRA,20.838,14,2820,MO44,,,Pedro Martinez,R,185,ESP,27.967,49,1130,6-3 6-2,3,R16,68,5,0,51,25,20,18,9,1,1,2,3,48,36,21,7,8,2,5
 2025-425,Barcelona,Clay,32,A,20250414,,A0E2,1,,Carlos Alcaraz,R,183,ESP,21.942,2,7720,DH58,5,,Alex de Minaur,R,183,AUS,29.022,7,3535,7-5 6-3,3,QF,99,0,2,62,43,31,9,11,1,3,1,6,77,40,23,19,10,4,8
 2025-425,Barcelona,Clay,32,A,20250414,,R0DG,6,,Holger Rune,R,188,DEN,21.959,13,3080,RH16,2,,Casper Ruud,R,183,NOR,26.31,10,3215,6-4 6-2,3,QF,87,0,2,55,29,23,13,9,3,4,2,3,58,30,18,13,9,3,7
-2025-425,Barcelona,Clay,32,A,20250414,,F0F1,7,,Arthur Fils,R,188,FRA,20.838,14,2820,TE51,3,,Stefanos Tsitsipas,R,193,GRC,26.671,16,2645,2-0 RET,3,QF,17,0,0,6,4,3,1,1,0,0,0,1,10,5,2,1,1,1,2
+2025-425,Barcelona,Clay,32,A,20250414,,F0F1,7,,Arthur Fils,R,185,FRA,20.838,14,2820,TE51,3,,Stefanos Tsitsipas,R,193,GRC,26.671,16,2645,2-0 RET,3,QF,17,0,0,6,4,3,1,1,0,0,0,1,10,5,2,1,1,1,2
 2025-425,Barcelona,Clay,32,A,20250414,,KE29,,,Karen Khachanov,R,198,RUS,28.899,27,1760,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.858,30,1680,6-4 7-5,3,QF,105,6,1,71,45,30,12,11,7,10,4,1,68,40,25,14,11,7,12
-2025-425,Barcelona,Clay,32,A,20250414,,A0E2,1,,Carlos Alcaraz,R,183,ESP,21.942,2,7720,F0F1,7,,Arthur Fils,R,188,FRA,20.838,14,2820,6-2 6-4,3,SF,75,2,2,53,39,30,9,9,1,1,3,4,56,36,21,10,9,2,5
+2025-425,Barcelona,Clay,32,A,20250414,,A0E2,1,,Carlos Alcaraz,R,183,ESP,21.942,2,7720,F0F1,7,,Arthur Fils,R,185,FRA,20.838,14,2820,6-2 6-4,3,SF,75,2,2,53,39,30,9,9,1,1,3,4,56,36,21,10,9,2,5
 2025-425,Barcelona,Clay,32,A,20250414,,R0DG,6,,Holger Rune,R,188,DEN,21.959,13,3080,KE29,,,Karen Khachanov,R,198,RUS,28.899,27,1760,6-3 6-2,3,SF,67,2,1,43,30,22,11,8,0,0,0,2,47,28,13,11,9,2,6
 2025-425,Barcelona,Clay,32,A,20250414,,R0DG,6,,Holger Rune,R,188,DEN,21.959,13,3080,A0E2,1,,Carlos Alcaraz,R,183,ESP,21.942,2,7720,7-6(6) 6-2,3,F,100,0,1,72,52,36,11,10,4,5,1,0,57,40,26,9,10,2,5
 2025-308,Munich,Clay,32,A,20250414,,N0BS,,,Mariano Navone,R,180,ITA,24.126,70,865,AG37,3,,Felix Auger-Aliassime,R,193,CAN,33.099,19,2415,2-6 6-4 7-6(3),3,R32,182,0,3,121,79,43,26,15,14,19,2,5,104,69,45,18,15,6,10
@@ -1083,7 +1083,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-308,Munich,Clay,32,A,20250414,,V812,,LL,Botic van de Zandschulp,R,191,NED,28.414,89,705,BD06,,,Roberto Bautista Agut,R,180,ESP,37,53,1019,6-4 3-6 6-4,3,R32,152,11,4,83,60,46,10,15,1,3,0,1,97,64,42,19,14,9,11
 2025-308,Munich,Clay,32,A,20250414,,Z355,1,,Alexander Zverev,R,198,GER,27.984,3,7595,MP20,,,Alexandre Muller,R,183,FRA,28.197,40,1378,6-4 6-1,3,R32,80,4,2,42,20,15,13,8,0,1,1,1,72,52,28,6,9,6,11
 2025-308,Munich,Clay,32,A,20250414,,S0S1,2,,Ben Shelton,L,193,USA,22.512,15,2700,GH92,,Q,Borna Gojo,R,196,CRO,27.127,410,116,4-6 7-6(6) 7-6(3),3,R32,144,9,5,114,62,48,36,17,9,10,14,1,97,68,57,20,17,3,3
-2025-308,Munich,Clay,32,A,20250414,,AE14,,WC,Daniel Altmaier,R,188,GER,26.586,68,867,T0AP,,Q,Chun-Hsin Tseng,R,180,TPE,27.127,103,587,7-6(5) 7-6(5),3,R32,135,8,0,89,50,42,14,12,8,11,1,1,78,49,33,15,12,0,3
+2025-308,Munich,Clay,32,A,20250414,,AE14,,WC,Daniel Altmaier,R,188,GER,26.586,68,867,T0AP,,Q,Chun-Hsin Tseng,R,175,TPE,27.127,103,587,7-6(5) 7-6(5),3,R32,135,8,0,89,50,42,14,12,8,11,1,1,78,49,33,15,12,0,3
 2025-308,Munich,Clay,32,A,20250414,,GB88,,,David Goffin,R,180,BEL,34.351,52,1021,HD68,,LL,Billy Harris,R,193,GBR,30.218,106,576,6-2 6-7(2) 6-4,3,R32,149,6,3,99,49,39,26,15,6,8,1,3,102,56,38,21,15,10,15
 2025-308,Munich,Clay,32,A,20250414,,GJ37,,,Tallon Griekspoor,R,191,NLD,28.784,37,1485,T0HA,,Q,Learner Tien,L,180,USA,19.364,69,865,6-4 6-2,3,R32,71,7,1,52,37,29,9,9,4,4,0,3,63,39,24,13,9,4,7
 2025-308,Munich,Clay,32,A,20250414,,KI95,,,Miomir Kecmanovic,R,183,SRB,25.619,48,1141,GC88,,,Marcos Giron,R,180,USA,31.723,45,1240,6-2 6-7(2) 7-6(9),3,R32,174,4,2,121,78,55,26,16,4,5,8,3,126,75,54,26,16,10,13
@@ -1120,7 +1120,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-1536,Madrid Masters,Clay,96,M,20250421,,SL28,,,Jan-Lennard Struff,R,193,GER,33.247,79,790,V812,,LL,Botic van de Zandschulp,R,191,NED,28.433,88,743,7-5 2-6 4-1 RET,3,R128,102,5,0,66,37,26,17,12,3,6,9,5,77,42,33,12,13,4,8
 2025-1536,Madrid Masters,Clay,96,M,20250421,,BD06,,,Roberto Bautista Agut,R,180,ESP,37.019,55,979,MU94,,,Jaume Munar,R,183,ESP,27.962,53,1002,6-4 2-6 6-3,3,R128,137,2,0,85,55,35,13,14,7,12,6,1,73,48,33,8,13,1,6
 2025-1536,Madrid Masters,Clay,96,M,20250421,,BM95,,,Benjamin Bonzi,R,183,FRA,28.866,62,908,C977,,WC,Marin Cilic,R,198,CRO,36.561,109,563,6-3 6-2,3,R128,93,6,1,66,45,30,16,9,5,5,3,3,55,23,16,15,8,2,5
-2025-1536,Madrid Masters,Clay,96,M,20250421,,BT72,,,Nuno Borges,R,185,POR,28.167,41,1355,CD85,,WC,Pablo Carreno Busta,R,183,ESP,33.775,96,607,6-7(7) 7-6(3) 6-3,3,R128,152,10,2,106,63,50,28,17,2,2,3,2,99,56,43,28,16,3,4
+2025-1536,Madrid Masters,Clay,96,M,20250421,,BT72,,,Nuno Borges,R,185,POR,28.167,41,1355,CD85,,WC,Pablo Carreno Busta,R,188,ESP,33.775,96,607,6-7(7) 7-6(3) 6-3,3,R128,152,10,2,106,63,50,28,17,2,2,3,2,99,56,43,28,16,3,4
 2025-1536,Madrid Masters,Clay,96,M,20250421,,BK92,,,Alexander Bublik,R,196,KAZ,27.844,75,820,M0QL,,,Alex Michelsen,R,193,USA,20.655,38,1445,7-6(2) 7-6(4),3,R128,105,11,3,93,61,44,19,12,8,9,1,0,86,61,46,10,12,7,8
 2025-1536,Madrid Masters,Clay,96,M,20250421,,C0C8,,Q,Juan Manuel Cerundolo,L,183,ARG,23.431,126,469,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.645,77,805,3-6 7-5 6-2,3,R128,146,9,6,105,68,50,18,14,9,10,3,4,88,48,36,21,15,5,8
 2025-1536,Madrid Masters,Clay,96,M,20250421,,C0NB,,WC,Federico Cina,R,185,ITA,18.062,373,130,W0BH,,WC,Coleman Wong,R,191,HKG,20.873,169,322,7-6(5) 6-1,3,R128,78,1,0,63,42,32,15,10,2,2,2,0,58,41,28,10,9,2,4
@@ -1156,7 +1156,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-1536,Madrid Masters,Clay,96,M,20250421,,C0E9,,,Flavio Cobolli,R,183,ITA,22.959,36,1520,R0DG,8,,Holger Rune,R,188,DEN,21.978,9,3480,6-2 RET,3,R64,43,0,1,28,19,13,6,4,3,3,0,0,24,13,8,5,4,0,2
 2025-1536,Madrid Masters,Clay,96,M,20250421,,MM58,9,,Daniil Medvedev,R,198,RUS,29.189,10,3290,DB63,,,Laslo Djere,R,188,SRB,29.886,71,872,W/O,3,R64,,,,,,,,,,,,,,,,,,,
 2025-1536,Madrid Masters,Clay,96,M,20250421,,S0S1,12,,Ben Shelton,L,193,USA,22.532,13,3020,N0BS,,,Mariano Navone,R,180,ITA,24.145,85,750,4-6 7-6(5) 6-3,3,R64,139,8,5,97,65,50,18,15,9,11,0,2,97,77,54,9,16,2,5
-2025-1536,Madrid Masters,Clay,96,M,20250421,,C0DF,,,Francisco Comesana,L,180,ARG,24.54,70,872,F0F1,13,,Arthur Fils,R,188,FRA,20.858,14,2920,7-6(4) 6-4,3,R64,105,11,2,81,46,32,17,11,4,7,2,4,71,49,33,8,11,3,7
+2025-1536,Madrid Masters,Clay,96,M,20250421,,C0DF,,,Francisco Comesana,L,180,ARG,24.54,70,872,F0F1,13,,Arthur Fils,R,185,FRA,20.858,14,2920,7-6(4) 6-4,3,R64,105,11,2,81,46,32,17,11,4,7,2,4,71,49,33,8,11,3,7
 2025-1536,Madrid Masters,Clay,96,M,20250421,,RH16,14,,Casper Ruud,R,183,NOR,26.329,15,2815,RC91,,,Arthur Rinderknech,R,196,FRA,29.745,76,809,6-3 6-4,3,R64,73,2,2,54,37,28,11,10,1,2,2,0,48,32,23,8,9,0,3
 2025-1536,Madrid Masters,Clay,96,M,20250421,,C0C8,,Q,Juan Manuel Cerundolo,L,183,ARG,23.431,126,469,AG37,18,,Felix Auger-Aliassime,R,193,CAN,33.118,19,2375,7-6(5) 6-4,3,R64,113,5,0,77,57,45,11,11,5,5,8,3,67,50,37,12,11,5,6
 2025-1536,Madrid Masters,Clay,96,M,20250421,,C0AU,20,,Francisco Cerundolo,R,185,ARG,26.688,21,2225,M0G4,,Q,Harold Mayot,R,180,FRA,23.209,160,354,6-3 6-4,3,R64,89,3,1,58,35,23,18,10,2,3,1,1,67,47,31,8,9,6,9
@@ -1224,10 +1224,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-416,Rome Masters,Clay,96,M,20250505,,MW02,,,Corentin Moutet,L,180,FRA,26.044,83,752,H0BH,,,Rinky Hijikata,R,178,AUS,24.195,82,761,3-6 6-1 7-5,3,R128,153,1,6,101,62,38,23,14,9,12,1,1,87,53,32,19,14,6,11
 2025-416,Rome Masters,Clay,96,M,20250505,,MP20,,,Alexandre Muller,R,183,FRA,28.255,39,1403,L0BV,,,Jiri Lehecka,R,185,CZE,23.488,38,1405,2-6 6-3 7-6(5),3,R128,156,1,3,111,84,49,9,15,8,14,7,5,96,49,32,20,14,7,12
 2025-416,Rome Masters,Clay,96,M,20250505,,N771,,LL,Cameron Norrie,L,188,GBR,29.699,91,667,O483,,,Christopher O'Connell,R,183,AUS,26.367,81,765,6-3 6-2,3,R128,76,2,1,55,31,27,14,9,3,3,5,0,48,30,16,12,8,2,5
-2025-416,Rome Masters,Clay,96,M,20250505,,P0CT,,WC,Francesco Passaro,R,180,ITA,24.323,101,593,T0AP,,Q,Chun-Hsin Tseng,R,180,TPE,27.74,102,593,6-0 2-6 6-3,3,R128,117,8,2,84,56,42,11,12,3,5,1,4,77,44,26,15,11,9,13
+2025-416,Rome Masters,Clay,96,M,20250505,,P0CT,,WC,Francesco Passaro,R,180,ITA,24.323,101,593,T0AP,,Q,Chun-Hsin Tseng,R,175,TPE,27.74,102,593,6-0 2-6 6-3,3,R128,117,8,2,84,56,42,11,12,3,5,1,4,77,44,26,15,11,9,13
 2025-416,Rome Masters,Clay,96,M,20250505,,TE16,,Q,Carlos Taberner,R,183,ESP,27.74,139,417,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.683,80,785,6-3 1-6 7-5,3,R128,137,5,4,80,62,41,8,14,4,8,11,8,88,59,40,14,14,4,8
 2025-416,Rome Masters,Clay,96,M,20250505,,TC61,,,Jordan Thompson,R,183,AUS,31.041,41,1355,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.825,36,1464,3-6 6-3 7-6(5),3,R128,142,5,3,80,45,36,23,15,0,2,13,2,92,58,43,19,15,3,5
-2025-416,Rome Masters,Clay,96,M,20250505,,U182,,,Camilo Ugo Carabelli,R,185,ARG,25.882,60,944,CD85,,LL,Pablo Carreno Busta,R,183,ESP,33.814,98,601,6-2 1-6 6-3,3,R128,126,1,3,78,55,33,13,12,0,3,1,1,75,52,31,13,12,7,11
+2025-416,Rome Masters,Clay,96,M,20250505,,U182,,,Camilo Ugo Carabelli,R,185,ARG,25.882,60,944,CD85,,LL,Pablo Carreno Busta,R,188,ESP,33.814,98,601,6-2 1-6 6-3,3,R128,126,1,3,78,55,33,13,12,0,3,1,1,75,52,31,13,12,7,11
 2025-416,Rome Masters,Clay,96,M,20250505,,V0AM,,Q,Otto Virtanen,R,193,FIN,23.871,130,455,M0JF,,,Hamad Medjedovic,R,188,SRB,21.799,72,871,6-4 6-4,3,R128,99,8,3,79,39,26,25,10,8,9,2,5,55,33,26,7,10,2,5
 2025-416,Rome Masters,Clay,96,M,20250505,,S0AG,1,,Jannik Sinner,R,191,ITA,23.718,1,9730,N0BS,,,Mariano Navone,R,180,ITA,24.184,99,600,6-3 6-4,3,R64,98,1,1,63,38,24,17,10,2,3,0,1,60,45,26,8,9,4,7
 2025-416,Rome Masters,Clay,96,M,20250505,,GC88,,,Marcos Giron,R,180,USA,31.781,45,1245,FB98,4,,Taylor Fritz,R,196,USA,27.518,4,4815,7-6(4) 7-6(3),3,R64,102,4,3,77,44,34,16,12,4,7,4,2,71,43,31,12,12,0,3
@@ -1251,7 +1251,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-416,Rome Masters,Clay,96,M,20250505,,M0EJ,8,,Lorenzo Musetti,R,185,ITA,23.173,9,3550,V0AM,,Q,Otto Virtanen,R,193,FIN,23.871,130,455,6-3 6-2,3,R64,85,1,1,53,37,30,9,9,0,0,1,1,65,38,25,10,8,6,9
 2025-416,Rome Masters,Clay,96,M,20250505,,R0DG,9,,Holger Rune,R,188,DEN,22.016,10,3440,C0DF,,,Francisco Comesana,L,180,ARG,24.578,63,906,3-6 6-3 6-4,3,R64,177,3,2,136,93,59,21,14,18,20,4,4,96,59,40,19,14,7,10
 2025-416,Rome Masters,Clay,96,M,20250505,,MM58,10,,Daniil Medvedev,R,198,RUS,29.227,11,3290,N771,,LL,Cameron Norrie,L,188,GBR,29.699,91,667,6-4 6-2,3,R64,92,4,4,50,34,25,10,9,0,1,0,2,77,54,33,8,9,10,14
-2025-416,Rome Masters,Clay,96,M,20250505,,F0F1,13,,Arthur Fils,R,188,FRA,20.896,14,2920,GJ37,,,Tallon Griekspoor,R,191,NLD,28.841,35,1505,6-2 6-2,3,R64,67,2,1,45,25,19,15,8,1,1,2,1,53,33,18,10,8,3,7
+2025-416,Rome Masters,Clay,96,M,20250505,,F0F1,13,,Arthur Fils,R,185,FRA,20.896,14,2920,GJ37,,,Tallon Griekspoor,R,191,NLD,28.841,35,1505,6-2 6-2,3,R64,67,2,1,45,25,19,15,8,1,1,2,1,53,33,18,10,8,3,7
 2025-416,Rome Masters,Clay,96,M,20250505,,P0CT,,WC,Francesco Passaro,R,180,ITA,24.323,101,593,D875,14,,Grigor Dimitrov,R,191,BUL,33.97,15,2685,7-5 6-3,3,R64,104,1,2,58,41,34,7,11,1,3,6,7,77,41,27,16,10,10,14
 2025-416,Rome Masters,Clay,96,M,20250505,,TE51,18,,Stefanos Tsitsipas,R,193,GRC,26.729,19,2420,MP20,,,Alexandre Muller,R,183,FRA,28.255,39,1403,6-2 7-6(3),3,R64,91,8,3,57,36,29,12,10,0,1,2,3,73,55,32,8,10,4,7
 2025-416,Rome Masters,Clay,96,M,20250505,,MW02,,,Corentin Moutet,L,180,FRA,26.044,83,752,HH26,21,,Ugo Humbert,L,188,FRA,26.858,22,2145,6-3 4-0 RET,3,R64,69,1,1,39,21,14,11,6,5,6,0,2,51,34,14,8,7,3,8
@@ -1275,11 +1275,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-416,Rome Masters,Clay,96,M,20250505,,M0EJ,8,,Lorenzo Musetti,R,185,ITA,23.173,9,3550,N0AE,28,,Brandon Nakashima,R,188,USA,23.753,29,1675,6-4 6-3,3,R32,83,4,1,52,39,32,6,9,1,1,4,0,49,30,25,7,10,1,4
 2025-416,Rome Masters,Clay,96,M,20250505,,MW02,,,Corentin Moutet,L,180,FRA,26.044,83,752,R0DG,9,,Holger Rune,R,188,DEN,22.016,10,3440,7-5 5-7 7-6(4),3,R32,224,4,4,113,64,50,23,18,1,4,4,8,135,58,40,41,18,10,13
 2025-416,Rome Masters,Clay,96,M,20250505,,MM58,10,,Daniil Medvedev,R,198,RUS,29.227,11,3290,P09Z,24,,Alexei Popyrin,R,196,AUS,25.748,25,1860,6-4 6-1,3,R32,86,4,3,62,39,29,10,9,6,7,2,0,57,32,20,11,8,2,6
-2025-416,Rome Masters,Clay,96,M,20250505,,F0F1,13,,Arthur Fils,R,188,FRA,20.896,14,2920,TE51,18,,Stefanos Tsitsipas,R,193,GRC,26.729,19,2420,2-6 6-4 6-2,3,R32,113,3,0,73,46,29,19,13,2,4,5,4,76,46,32,14,13,0,3
+2025-416,Rome Masters,Clay,96,M,20250505,,F0F1,13,,Arthur Fils,R,185,FRA,20.896,14,2920,TE51,18,,Stefanos Tsitsipas,R,193,GRC,26.729,19,2420,2-6 6-4 6-2,3,R32,113,3,0,73,46,29,19,13,2,4,5,4,76,46,32,14,13,0,3
 2025-416,Rome Masters,Clay,96,M,20250505,,KE29,23,,Karen Khachanov,R,198,RUS,28.956,24,1910,P0CT,,WC,Francesco Passaro,R,180,ITA,24.323,101,593,6-3 6-0,3,R32,61,1,1,40,21,17,10,7,1,2,1,2,41,23,10,4,8,0,6
 2025-416,Rome Masters,Clay,96,M,20250505,,RH16,6,,Casper Ruud,R,183,NOR,26.367,7,3715,MU94,,,Jaume Munar,R,183,ESP,28,66,892,6-3 6-4,3,R16,97,1,1,54,32,25,17,10,2,2,3,3,61,34,23,16,9,3,5
 2025-416,Rome Masters,Clay,96,M,20250505,,S0AG,1,,Jannik Sinner,R,191,ITA,23.718,1,9730,C0AU,17,,Francisco Cerundolo,R,185,ARG,26.726,18,2425,7-6(2) 6-3,3,R16,137,2,0,91,60,40,15,11,6,8,2,3,86,60,36,11,10,9,12
-2025-416,Rome Masters,Clay,96,M,20250505,,Z355,2,,Alexander Zverev,R,198,GER,28.041,2,8085,F0F1,13,,Arthur Fils,R,188,FRA,20.896,14,2920,7-6(3) 6-1,3,R16,105,8,0,64,47,34,7,9,5,7,1,5,75,43,27,12,10,5,10
+2025-416,Rome Masters,Clay,96,M,20250505,,Z355,2,,Alexander Zverev,R,198,GER,28.041,2,8085,F0F1,13,,Arthur Fils,R,185,FRA,20.896,14,2920,7-6(3) 6-1,3,R16,105,8,0,64,47,34,7,9,5,7,1,5,75,43,27,12,10,5,10
 2025-416,Rome Masters,Clay,96,M,20250505,,A0E2,3,,Carlos Alcaraz,R,183,ESP,22,3,7850,KE29,23,,Karen Khachanov,R,198,RUS,28.956,24,1910,6-3 3-6 7-5,3,R16,148,1,2,105,69,45,15,15,5,9,3,3,88,58,40,13,15,5,10
 2025-416,Rome Masters,Clay,96,M,20250505,,D0CO,5,,Jack Draper,L,193,GBR,23.367,5,4440,MW02,,,Corentin Moutet,L,180,FRA,26.044,83,752,1-6 6-4 6-3,3,R16,140,2,2,72,45,32,15,13,1,4,2,3,79,43,29,21,13,5,8
 2025-416,Rome Masters,Clay,96,M,20250505,,PL56,11,,Tommy Paul,R,188,USA,27.967,12,3210,DH58,7,,Alex de Minaur,R,183,AUS,29.079,8,3635,7-5 6-3,3,R16,114,0,1,74,43,27,19,11,8,10,1,3,72,41,23,15,10,3,7
@@ -1375,7 +1375,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-520,Roland Garros,Clay,128,G,20250526,,AE14,,,Daniel Altmaier,R,188,GER,26.701,66,906,FB98,4,,Taylor Fritz,R,196,USA,27.575,4,4675,7-5 3-6 6-3 6-1,5,R128,,7,4,112,62,47,30,18,4,5,14,0,110,58,46,25,19,3,8
 2025-520,Roland Garros,Clay,128,G,20250526,,RH16,7,,Casper Ruud,R,183,NOR,26.425,8,3655,R772,,Q,Albert Ramos-Vinolas,L,188,ESP,,251,224,6-3 6-4 6-2,5,R128,,,,,,,,,,,,,,,,,,,
 2025-520,Roland Garros,Clay,128,G,20250526,,R0DG,10,,Holger Rune,R,188,DEN,22.074,10,3440,BD06,,,Roberto Bautista Agut,R,180,ESP,37.115,49,1064,6-7(4) 6-4 6-3 6-2,5,R128,,9,0,135,92,65,25,20,10,11,4,2,117,66,51,22,19,8,13
-2025-520,Roland Garros,Clay,128,G,20250526,,F0F1,14,,Arthur Fils,R,188,FRA,20.953,14,2845,J551,,,Nicolas Jarry,R,201,CHI,29.622,149,390,6-3 6-4 6-7(6) 6-3,5,R128,,8,2,126,83,63,29,21,3,3,4,8,162,106,67,29,19,13,16
+2025-520,Roland Garros,Clay,128,G,20250526,,F0F1,14,,Arthur Fils,R,185,FRA,20.953,14,2845,J551,,,Nicolas Jarry,R,201,CHI,29.622,149,390,6-3 6-4 6-7(6) 6-3,5,R128,,8,2,126,83,63,29,21,3,3,4,8,162,106,67,29,19,13,16
 2025-520,Roland Garros,Clay,128,G,20250526,,D0F6,,,Gabriel Diallo,R,203,CAN,23.668,54,997,C0AU,18,,Francisco Cerundolo,R,185,ARG,26.784,18,2475,7-5 6-3 6-4,5,R128,,4,2,94,59,46,21,16,0,1,4,3,88,56,37,18,15,7,11
 2025-520,Roland Garros,Clay,128,G,20250526,,TE51,20,,Stefanos Tsitsipas,R,193,GRC,26.786,20,2270,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.855,53,1025,7-5 6-3 6-4,5,R128,,12,3,93,53,41,25,16,1,2,8,6,108,58,39,23,15,9,13
 2025-520,Roland Garros,Clay,128,G,20250526,,HH26,22,,Ugo Humbert,L,188,FRA,26.915,21,2155,O483,,,Christopher O'Connell,R,183,AUS,26.425,82,762,7-5 6-3 7-6(3),5,R128,,8,2,116,64,40,36,17,12,15,4,6,118,69,44,20,16,12,17
@@ -1404,7 +1404,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-520,Roland Garros,Clay,128,G,20250526,,C0C8,,Q,Juan Manuel Cerundolo,L,183,ARG,23.526,109,530,M0QL,32,,Alex Michelsen,R,193,USA,20.751,33,1550,6-3 6-2 6-4,5,R128,,1,3,79,35,29,25,14,1,3,2,3,89,66,38,6,13,8,14
 2025-520,Roland Garros,Clay,128,G,20250526,,BT72,,,Nuno Borges,R,185,POR,28.263,41,1285,J0AZ,,Q,Kyrian Jacquet,R,178,FRA,24.041,150,388,3-6 6-7(3) 6-4 6-3 6-3,5,R128,,8,4,161,110,79,22,24,7,11,8,6,185,98,71,37,25,15,22
 2025-520,Roland Garros,Clay,128,G,20250526,,B0CD,,,Jenson Brooksby,R,193,USA,24.581,161,347,F0F2,,,Jaime Faria,R,188,POR,21.803,115,493,6-1 3-6 6-3 6-2,5,R128,,1,3,105,67,47,26,17,8,9,3,3,95,63,43,15,16,4,9
-2025-520,Roland Garros,Clay,128,G,20250526,,CD85,,,Pablo Carreno Busta,R,183,ESP,33.871,99,615,C0DF,,,Francisco Comesana,L,180,ARG,24.636,64,911,6-2 7-6(3) 7-5,5,R128,,0,3,118,78,56,20,16,5,7,7,3,106,59,39,19,16,3,8
+2025-520,Roland Garros,Clay,128,G,20250526,,CD85,,,Pablo Carreno Busta,R,188,ESP,33.871,99,615,C0DF,,,Francisco Comesana,L,180,ARG,24.636,64,911,6-2 7-6(3) 7-5,5,R128,,0,3,118,78,56,20,16,5,7,7,3,106,59,39,19,16,3,8
 2025-520,Roland Garros,Clay,128,G,20250526,,D923,,,Damir Dzumhur,R,175,BIH,33.016,69,875,T0A1,,LL,Thiago Agustin Tirante,R,185,ARG,24.126,132,453,3-6 6-4 6-3 7-5,5,R128,,1,2,137,100,68,21,20,12,14,4,2,148,89,55,33,20,11,15
 2025-520,Roland Garros,Clay,128,G,20250526,,F724,,,Marton Fucsovics,R,188,HUN,33.295,124,468,S0N0,,WC,Tristan Schoolkate,R,183,AUS,24.244,128,464,6-4 6-2 6-2,5,R128,,1,2,74,51,37,15,13,3,4,5,4,101,61,40,13,13,14,20
 2025-520,Roland Garros,Clay,128,G,20250526,,GE33,,LL,Daniel Elahi Galan,R,191,COL,28.936,122,477,R0EB,,WC,Valentin Royer,R,188,FRA,23.992,120,478,7-6(6) 6-3 3-6 6-7(4) 7-5,5,R128,,17,6,200,132,86,36,27,13,19,14,6,155,89,65,34,27,5,12
@@ -1419,7 +1419,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-520,Roland Garros,Clay,128,G,20250526,,D0CO,5,,Jack Draper,L,193,GBR,23.425,5,4610,MC65,,,Gael Monfils,R,193,FRA,38.732,42,1265,6-3 4-6 6-3 7-5,5,R64,,5,3,116,75,54,24,20,6,10,8,7,153,88,59,24,20,15,22
 2025-520,Roland Garros,Clay,128,G,20250526,,D643,6,,Novak Djokovic,R,188,SRB,38.011,6,4230,MW02,,,Corentin Moutet,L,180,FRA,26.101,73,812,6-3 6-2 7-6(1),5,R64,,5,2,107,70,51,18,15,3,5,4,3,106,68,41,14,14,9,14
 2025-520,Roland Garros,Clay,128,G,20250526,,BK92,,,Alexander Bublik,R,196,KAZ,27.94,62,915,DH58,9,,Alex de Minaur,R,183,AUS,29.137,9,3635,2-6 2-6 6-4 6-3 6-2,5,R64,,12,12,130,79,58,22,22,7,13,4,8,128,61,45,35,21,8,14
-2025-520,Roland Garros,Clay,128,G,20250526,,F0F1,14,,Arthur Fils,R,188,FRA,20.953,14,2845,MU94,,,Jaume Munar,R,183,ESP,28.058,57,962,7-6(3) 7-6(4) 2-6 0-6 6-4,5,R64,,2,7,173,110,67,28,24,13,22,9,13,158,100,73,22,24,8,13
+2025-520,Roland Garros,Clay,128,G,20250526,,F0F1,14,,Arthur Fils,R,185,FRA,20.953,14,2845,MU94,,,Jaume Munar,R,183,ESP,28.058,57,962,7-6(3) 7-6(4) 2-6 0-6 6-4,5,R64,,2,7,173,110,67,28,24,13,22,9,13,158,100,73,22,24,8,13
 2025-520,Roland Garros,Clay,128,G,20250526,,RE44,17,,Andrey Rublev,R,188,RUS,27.597,15,2820,W09E,,,Adam Walton,R,183,AUS,26.107,91,653,7-6(1) 6-1 7-6(5),5,R64,,18,4,101,58,49,26,16,1,2,7,1,115,68,48,20,15,11,14
 2025-520,Roland Garros,Clay,128,G,20250526,,R0GO,,Q,Henrique Rocha,R,180,POR,21.136,200,278,M0NI,19,,Jakub Mensik,R,193,CZE,19.732,19,2272,2-6 1-6 6-4 6-3 6-3,5,R64,,7,6,133,85,54,25,21,6,12,9,4,122,75,51,26,22,5,11
 2025-520,Roland Garros,Clay,128,G,20250526,,F0BY,,,Jacob Fearnley,R,183,GBR,23.863,55,991,HH26,22,,Ugo Humbert,L,188,FRA,26.915,21,2155,6-3 4-4 RET,5,R64,,3,5,50,28,20,12,8,3,5,3,5,77,47,27,13,9,8,12
@@ -1436,7 +1436,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-520,Roland Garros,Clay,128,G,20250526,,R0DG,10,,Holger Rune,R,188,DEN,22.074,10,3440,N0AM,,WC,Emilio Nava,R,185,USA,23.48,137,433,6-3 7-6(5) 6-3,5,R64,,4,3,97,64,47,21,16,7,9,5,6,102,69,45,14,14,8,12
 2025-520,Roland Garros,Clay,128,G,20250526,,PL56,12,,Tommy Paul,R,188,USA,28.025,12,3210,F724,,,Marton Fucsovics,R,188,HUN,33.295,124,468,4-6 2-6 6-3 7-5 6-4,5,R64,,6,3,138,98,75,17,25,6,11,7,3,141,94,69,23,24,9,14
 2025-520,Roland Garros,Clay,128,G,20250526,,S0S1,13,,Ben Shelton,L,193,USA,22.627,13,2980,G09O,,,Hugo Gaston,L,173,FRA,24.663,83,753,W/O,5,R64,,,,,,,,,,,,,,,,,,,
-2025-520,Roland Garros,Clay,128,G,20250526,,TD51,15,,Frances Tiafoe,R,185,USA,27.345,16,2665,CD85,,,Pablo Carreno Busta,R,183,ESP,33.871,99,615,6-4 6-3 6-1,5,R64,,9,2,66,40,33,19,13,0,0,2,3,85,52,35,13,13,8,13
+2025-520,Roland Garros,Clay,128,G,20250526,,TD51,15,,Frances Tiafoe,R,185,USA,27.345,16,2665,CD85,,,Pablo Carreno Busta,R,188,ESP,33.871,99,615,6-4 6-3 6-1,5,R64,,9,2,66,40,33,19,13,0,0,2,3,85,52,35,13,13,8,13
 2025-520,Roland Garros,Clay,128,G,20250526,,G0GD,,Q,Matteo Gigante,L,180,ITA,23.389,167,338,TE51,20,,Stefanos Tsitsipas,R,193,GRC,26.786,20,2270,6-4 5-7 6-2 6-4,5,R64,,9,2,123,76,60,24,20,11,13,4,6,119,77,57,18,20,9,14
 2025-520,Roland Garros,Clay,128,G,20250526,,K0AH,23,,Sebastian Korda,R,196,USA,24.89,23,2020,B0CD,,,Jenson Brooksby,R,193,USA,24.581,161,347,6-1 6-2 7-6(2),5,R64,,3,2,98,58,40,22,14,6,9,1,1,87,57,30,12,13,7,14
 2025-520,Roland Garros,Clay,128,G,20250526,,KE29,24,,Karen Khachanov,R,198,RUS,29.014,24,1960,O513,,,Sebastian Ofner,R,183,AUT,29.038,108,533,7-5 3-6 7-5 4-6 6-2,5,R64,,7,7,173,109,82,26,25,10,15,12,4,183,108,74,33,26,9,16
@@ -1450,7 +1450,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-520,Roland Garros,Clay,128,G,20250526,,Z355,3,,Alexander Zverev,R,198,GER,28.099,3,7285,C0E9,,,Flavio Cobolli,R,183,ITA,23.055,26,1920,6-2 7-6(4) 6-1,5,R32,,8,1,92,72,49,12,14,3,5,0,3,101,57,30,22,13,9,15
 2025-520,Roland Garros,Clay,128,G,20250526,,D0CO,5,,Jack Draper,L,193,GBR,23.425,5,4610,F0FV,,,Joao Fonseca,R,185,BRA,18.762,65,907,6-2 6-4 6-2,5,R32,,8,4,68,40,37,17,13,2,2,6,0,84,59,37,9,13,6,11
 2025-520,Roland Garros,Clay,128,G,20250526,,D643,6,,Novak Djokovic,R,188,SRB,38.011,6,4230,M0JZ,,Q,Filip Misolic,R,180,AUT,23.797,153,374,6-3 6-4 6-2,5,R32,,6,0,75,51,41,16,14,1,1,6,2,90,55,39,13,13,12,16
-2025-520,Roland Garros,Clay,128,G,20250526,,RE44,17,,Andrey Rublev,R,188,RUS,27.597,15,2820,F0F1,14,,Arthur Fils,R,188,FRA,20.953,14,2845,W/O,5,R32,,,,,,,,,,,,,,,,,,,
+2025-520,Roland Garros,Clay,128,G,20250526,,RE44,17,,Andrey Rublev,R,188,RUS,27.597,15,2820,F0F1,14,,Arthur Fils,R,185,FRA,20.953,14,2845,W/O,5,R32,,,,,,,,,,,,,,,,,,,
 2025-520,Roland Garros,Clay,128,G,20250526,,BK92,,,Alexander Bublik,R,196,KAZ,27.94,62,915,R0GO,,Q,Henrique Rocha,R,180,POR,21.136,200,278,7-5 6-1 6-2,5,R32,,9,6,68,47,41,17,14,2,2,9,8,68,45,29,17,13,6,11
 2025-520,Roland Garros,Clay,128,G,20250526,,GJ37,,,Tallon Griekspoor,R,191,NLD,28.899,35,1485,Q02L,,Q,Ethan Quinn,R,191,USA,21.205,106,538,4-6 6-1 6-7(2) 6-1 6-4,5,R32,,7,4,139,101,80,18,24,5,7,8,8,153,101,66,28,22,13,19
 2025-520,Roland Garros,Clay,128,G,20250526,,N771,,,Cameron Norrie,L,188,GBR,29.756,81,762,F0BY,,,Jacob Fearnley,R,183,GBR,23.863,55,991,6-3 7-6(1) 6-2,5,R32,,2,4,106,60,41,26,15,7,11,8,13,106,61,36,17,14,5,12
@@ -1627,7 +1627,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-741,Eastbourne,Grass,28,A,20250623,,GC88,,,Marcos Giron,R,180,USA,31.915,46,1175,D0FJ,,,Luciano Darderi,R,183,ITA,23.353,56,1004,6-4 7-5,3,R32,82,4,0,74,50,31,17,11,5,6,2,3,66,43,29,11,11,2,5
 2025-741,Eastbourne,Grass,28,A,20250623,,HD68,,LL,Billy Harris,R,193,GBR,30.409,142,426,N771,,WC,Cameron Norrie,L,188,GBR,29.833,61,952,6-4 6-4,3,R32,84,4,1,68,48,35,10,10,7,8,0,1,53,35,18,14,10,0,3
 2025-741,Eastbourne,Grass,28,A,20250623,,O522,PR,,Reilly Opelka,R,211,USA,27.819,72,858,L0CF,,Q,George Loffhagen,R,188,GBR,24.178,302,172,7-6(6) 3-6 7-6(1),3,R32,148,19,4,103,65,51,24,16,5,6,11,6,115,77,61,21,17,4,4
-2025-741,Eastbourne,Grass,28,A,20250623,,DH50,6,,Alejandro Davidovich Fokina,R,180,ESP,26.049,28,1770,T0AP,,LL,Chun-Hsin Tseng,R,180,TPE,30.409,96,648,7-6(6) 6-2,3,R32,93,2,3,60,40,35,13,10,2,2,3,4,79,48,31,17,10,7,9
+2025-741,Eastbourne,Grass,28,A,20250623,,DH50,6,,Alejandro Davidovich Fokina,R,180,ESP,26.049,28,1770,T0AP,,LL,Chun-Hsin Tseng,R,175,TPE,30.409,96,648,7-6(6) 6-2,3,R32,93,2,3,60,40,35,13,10,2,2,3,4,79,48,31,17,10,7,9
 2025-741,Eastbourne,Grass,28,A,20250623,,B0GG,,Q,Mattia Bellucci,R,175,ITA,24.06,74,836,HB64,,,Quentin Halys,R,183,FRA,28.658,47,1174,6-4 6-2,3,R32,68,1,2,49,28,23,16,9,1,1,5,3,49,30,22,7,9,1,4
 2025-741,Eastbourne,Grass,28,A,20250623,,E687,,WC,Daniel Evans,R,175,GBR,35.086,170,325,KI95,,,Miomir Kecmanovic,R,183,SRB,25.811,49,1146,3-6 6-4 6-4,3,R32,129,6,3,95,63,46,13,15,4,8,5,3,78,55,37,11,14,4,8
 2025-741,Eastbourne,Grass,28,A,20250623,,F0FV,,,Joao Fonseca,R,185,BRA,18.838,57,991,BU13,,,Zizou Bergs,R,185,BEL,26.055,50,1079,6-7(8) 6-0 6-3,3,R32,128,3,2,90,71,50,14,14,2,3,14,8,102,67,42,15,13,7,12
@@ -1665,12 +1665,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-540,Wimbledon,Grass,128,G,20250526,,KI95,,,Miomir Kecmanovic,R,183,SRB,25.734,57,880,M0QL,30,,Alex Michelsen,R,193,USA,20.751,60,835,6-2 3-6 6-3 3-6 7-6(6),5,R128,193,10,6,147,99,77,25,23,3,5,12,9,151,96,69,30,24,3,6
 2025-540,Wimbledon,Grass,128,G,20250526,,C0H0,,Q,Arthur Cazaux,R,183,FRA,22.756,77,725,W09E,,,Adam Walton,R,183,AUS,26.107,96,635,6-3 7-6(6) 4-6 6-7(5) 6-1,5,R128,254,24,8,163,116,98,17,25,6,7,12,2,176,111,73,40,25,13,17
 2025-540,Wimbledon,Grass,128,G,20250526,,C977,,,Marin Cilic,R,198,CRO,36.658,1063,10,C0JP,,,Raphael Collignon,R,191,BEL,23.364,458,96,6-3 6-4 6-3,5,R128,108,16,0,75,44,37,18,14,3,4,12,9,85,57,39,11,14,8,13
-2025-540,Wimbledon,Grass,128,G,20250526,,D0C1,,,Jesper de Jong,R,180,NLD,26.83,176,344,E865,,,Christopher Eubanks,R,196,USA,29.058,46,1028,6-3 6-7(5) 6-7(7) 6-3 7-6(3),5,R128,269,32,15,188,106,84,48,27,12,12,17,7,193,135,99,26,27,8,11
+2025-540,Wimbledon,Grass,128,G,20250526,,D0C1,,,Jesper de Jong,R,180,NLD,26.83,176,344,E865,,,Christopher Eubanks,R,201,USA,29.058,46,1028,6-3 6-7(5) 6-7(7) 6-3 7-6(3),5,R128,269,32,15,188,106,84,48,27,12,12,17,7,193,135,99,26,27,8,11
 2025-540,Wimbledon,Grass,128,G,20250526,,E687,,WC,Daniel Evans,R,175,GBR,35.008,62,831,CI14,,WC,Jay Clarke,R,183,GBR,26.83,356,140,6-1 7-5 6-2,5,R128,134,6,0,82,46,37,22,14,2,3,6,6,82,47,33,12,13,1,7
 2025-540,Wimbledon,Grass,128,G,20250526,,F724,,LL,Marton Fucsovics,R,188,HUN,33.293,54,922,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.74,87,681,6-3 6-7(5) 6-1 5-7 6-4,5,R128,217,18,7,161,101,84,32,26,8,10,6,4,146,85,64,31,24,5,10
 2025-540,Wimbledon,Grass,128,G,20250526,,GC88,,,Marcos Giron,R,180,USA,31.838,50,990,U182,,,Camilo Ugo Carabelli,R,185,ARG,25.94,110,580,7-6(6) 7-6(4) 6-3,5,R128,159,12,0,108,70,51,22,17,4,7,6,2,124,63,39,31,16,8,12
 2025-540,Wimbledon,Grass,128,G,20250526,,H0BH,,,Rinky Hijikata,R,178,AUS,24.252,78,723,GB88,,,David Goffin,R,180,BEL,34.466,115,543,6-3 6-1 6-1,5,R128,76,6,0,65,38,31,20,12,2,2,3,5,63,31,20,11,11,5,11
-2025-540,Wimbledon,Grass,128,G,20250526,,H09N,,Q,August Holmgren,,,,27.093,305,175,HB64,,,Quentin Halys,R,183,FRA,28.581,187,327,7-6(4) 6-3 6-4,5,R128,107,20,6,106,66,56,23,16,4,4,17,7,80,49,42,18,15,2,4
+2025-540,Wimbledon,Grass,128,G,20250526,,H09N,,Q,August Holmgren,R,188,DEN,27.093,305,175,HB64,,,Quentin Halys,R,183,FRA,28.581,187,327,7-6(4) 6-3 6-4,5,R128,107,20,6,106,66,56,23,16,4,4,17,7,80,49,42,18,15,2,4
 2025-540,Wimbledon,Grass,128,G,20250526,,M0CI,,,Fabian Marozsan,R,185,HUN,25.63,43,1083,M0OQ,,Q,James McCabe,R,188,AUS,33.342,342,149,6-1 6-4 6-3,5,R128,118,3,3,83,54,40,18,13,3,3,8,4,93,64,41,10,13,6,11
 2025-540,Wimbledon,Grass,128,G,20250526,,MO44,,,Pedro Martinez,R,185,ESP,28.082,48,995,L0CF,,WC,George Loffhagen,R,188,GBR,24.101,541,72,2-6 6-2 6-4 6-2,5,R128,159,0,4,99,70,41,17,17,6,12,16,5,95,47,30,17,17,5,14
 2025-540,Wimbledon,Grass,128,G,20250526,,MW02,,,Corentin Moutet,L,180,FRA,26.101,79,720,C0DF,,,Francisco Comesana,L,180,ARG,24.636,99,626,6-4 6-4 6-2,5,R128,136,6,7,87,52,44,16,14,4,5,8,10,98,58,38,16,14,11,16
@@ -1678,7 +1678,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-540,Wimbledon,Grass,128,G,20250526,,O522,,,Reilly Opelka,R,211,USA,27.742,1178,7,S0H2,,,Alexander Shevchenko,R,188,KAZ,24.488,59,855,6-3 7-5 7-6(4),5,R128,115,19,7,106,64,49,25,17,5,7,11,6,93,57,47,12,16,3,7
 2025-540,Wimbledon,Grass,128,G,20250526,,P0HT,,WC,Jack Pinnington Jones,R,180,GBR,22.156,769,31,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.855,29,1550,7-6(4) 6-3 7-5,5,R128,156,11,5,108,62,51,24,17,7,8,11,4,104,65,51,18,16,10,13
 2025-540,Wimbledon,Grass,128,G,20250526,,SU87,,,Lorenzo Sonego,R,191,ITA,30.041,49,991,F0F2,,Q,Jaime Faria,R,188,POR,21.803,183,336,6-3 6-4 6-2,5,R128,103,15,0,74,60,48,10,14,2,2,4,6,85,58,41,8,13,5,9
-2025-540,Wimbledon,Grass,128,G,20250526,,V832,,,Aleksandar Vukic,R,188,AUS,29.137,89,672,T0AP,,,Chun-Hsin Tseng,R,180,TPE,29.058,253,237,6-3 6-4 4-6 7-6(5),5,R128,184,11,3,126,67,54,30,21,3,7,12,9,144,85,61,23,20,9,14
+2025-540,Wimbledon,Grass,128,G,20250526,,V832,,,Aleksandar Vukic,R,188,AUS,29.137,89,672,T0AP,,,Chun-Hsin Tseng,R,175,TPE,29.058,253,237,6-3 6-4 4-6 7-6(5),5,R128,184,11,3,126,67,54,30,21,3,7,12,9,144,85,61,23,20,9,14
 2025-540,Wimbledon,Grass,128,G,20250526,,A0E2,2,,Carlos Alcaraz,R,183,ESP,22.058,3,7300,F510,,,Fabio Fognini,R,178,ITA,38.005,93,648,7-5 6-7(5) 7-5 2-6 6-1,5,R128,277,14,9,189,110,77,41,26,16,21,1,9,168,107,68,34,25,8,15
 2025-540,Wimbledon,Grass,128,G,20250526,,RC91,,,Arthur Rinderknech,R,196,FRA,29.841,69,772,Z355,3,,Alexander Zverev,R,198,GER,28.099,4,6305,7-6(3) 6-7(8) 6-3 6-7(5) 6-4,5,R128,280,25,3,174,124,98,32,27,9,9,31,5,189,144,110,24,28,9,12
 2025-540,Wimbledon,Grass,128,G,20250526,,FB98,5,,Taylor Fritz,R,196,USA,27.575,12,2980,M0GZ,,,Giovanni Mpetshi Perricard,R,203,BEL,21.882,66,786,6-7(6) 6-7(8) 6-4 7-6(6) 6-4,5,R128,205,29,2,160,108,92,37,28,0,0,37,13,185,123,101,31,28,4,6
@@ -1719,7 +1719,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-540,Wimbledon,Grass,128,G,20250526,,O513,,,Sebastian Ofner,R,183,AUT,29.038,45,1038,PL56,13,,Tommy Paul,R,188,USA,28.025,14,2655,1-6 7-5 6-4 7-5,5,R64,175,9,7,142,67,51,37,21,10,14,5,3,113,60,43,30,20,0,4
 2025-540,Wimbledon,Grass,128,G,20250526,,M0NI,15,,Jakub Mensik,R,193,CZE,19.732,76,728,GC88,,,Marcos Giron,R,180,USA,31.838,50,990,6-4 3-6 6-4 7-6(4),5,R64,171,26,6,129,80,64,20,20,9,12,5,3,129,96,64,17,21,4,8
 2025-540,Wimbledon,Grass,128,G,20250526,,D875,19,,Grigor Dimitrov,R,191,BUL,34.027,10,3555,MW02,,,Corentin Moutet,L,180,FRA,26.101,79,720,7-5 4-6 7-5 7-5,5,R64,218,11,7,138,79,58,33,23,5,9,11,4,149,103,66,22,23,8,14
-2025-540,Wimbledon,Grass,128,G,20250526,,H09N,,Q,August Holmgren,,,,27.093,305,175,M0FH,21,,Tomas Machac,R,185,CZE,24.616,34,1185,7-6(5) 6-7(8) 6-7(5) 7-5 7-6(5),5,R64,279,35,12,204,109,96,49,30,9,10,19,9,205,139,100,41,30,5,7
+2025-540,Wimbledon,Grass,128,G,20250526,,H09N,,Q,August Holmgren,R,188,DEN,27.093,305,175,M0FH,21,,Tomas Machac,R,185,CZE,24.616,34,1185,7-6(5) 6-7(8) 6-7(5) 7-5 7-6(5),5,R64,279,35,12,204,109,96,49,30,9,10,19,9,205,139,100,41,30,5,7
 2025-540,Wimbledon,Grass,128,G,20250526,,C0E9,22,,Flavio Cobolli,R,183,ITA,23.055,53,940,P0HT,,WC,Jack Pinnington Jones,R,180,GBR,22.156,769,31,6-1 7-6(6) 6-2,5,R64,115,2,4,96,54,35,29,13,2,3,4,4,90,55,33,13,14,3,9
 2025-540,Wimbledon,Grass,128,G,20250526,,N0AE,29,,Brandon Nakashima,R,188,USA,23.811,84,700,O522,,,Reilly Opelka,R,211,USA,27.742,1178,7,7-5 6-2 6-7(6) 6-3,5,R64,146,12,0,112,86,71,18,21,2,2,24,5,130,78,59,24,20,6,10
 2025-540,Wimbledon,Grass,128,G,20250526,,F724,,LL,Marton Fucsovics,R,188,HUN,33.293,54,922,MC65,,,Gael Monfils,R,193,FRA,38.732,37,1155,6-4 1-6 4-6 7-6(5) 6-4,5,R64,223,1,10,175,109,71,29,24,10,16,3,3,161,102,68,28,25,5,10
@@ -1746,7 +1746,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-540,Wimbledon,Grass,128,G,20250526,,S0AG,1,,Jannik Sinner,R,191,ITA,23.775,2,8770,MO44,,,Pedro Martinez,R,185,ESP,28.082,48,995,6-1 6-3 6-1,5,R32,115,11,3,74,43,34,19,12,4,4,0,0,79,60,32,7,11,8,14
 2025-540,Wimbledon,Grass,128,G,20250526,,D643,6,,Novak Djokovic,R,188,SRB,38.011,1,9960,KI95,,,Miomir Kecmanovic,R,183,SRB,25.734,57,880,6-3 6-0 6-4,5,R32,107,16,3,69,49,40,12,13,0,1,3,1,89,58,33,12,12,4,10
 2025-540,Wimbledon,Grass,128,G,20250526,,S0S1,10,,Ben Shelton,L,193,USA,22.627,15,2500,F724,,LL,Marton Fucsovics,R,188,HUN,33.293,54,922,6-3 7-6(4) 6-2,5,R32,120,9,0,91,67,54,12,15,3,4,7,2,86,56,39,14,14,3,7
-2025-540,Wimbledon,Grass,128,G,20250526,,DH58,11,,Alex de Minaur,R,183,AUS,29.137,11,3490,H09N,,Q,August Holmgren,,,,27.093,305,175,6-4 7-6(5) 6-3,5,R32,141,3,1,93,52,44,26,16,4,5,6,5,111,72,53,17,15,9,12
+2025-540,Wimbledon,Grass,128,G,20250526,,DH58,11,,Alex de Minaur,R,183,AUS,29.137,11,3490,H09N,,Q,August Holmgren,R,188,DEN,27.093,305,175,6-4 7-6(5) 6-3,5,R32,141,3,1,93,52,44,26,16,4,5,6,5,111,72,53,17,15,9,12
 2025-540,Wimbledon,Grass,128,G,20250526,,C0E9,22,,Flavio Cobolli,R,183,ITA,23.055,53,940,M0NI,15,,Jakub Mensik,R,193,CZE,19.732,76,728,6-2 6-4 6-2,5,R32,108,9,1,79,43,32,25,13,1,1,11,7,93,54,35,15,13,12,17
 2025-540,Wimbledon,Grass,128,G,20250526,,D875,19,,Grigor Dimitrov,R,191,BUL,34.027,10,3555,O513,,,Sebastian Ofner,R,183,AUT,29.038,45,1038,6-3 6-4 7-6(0),5,R32,145,15,7,97,57,46,24,16,2,3,7,4,91,49,33,24,15,3,6
 2025-540,Wimbledon,Grass,128,G,20250526,,SU87,,,Lorenzo Sonego,R,191,ITA,30.041,49,991,N0AE,29,,Brandon Nakashima,R,188,USA,23.811,84,700,6-7(5) 7-6(8) 7-6(2) 3-6 7-6(3),5,R32,304,16,1,188,143,101,30,28,7,10,16,1,199,145,106,32,29,10,12
@@ -1834,7 +1834,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-316,Bastad,Clay,28,A,20250714,,D923,7,,Damir Dzumhur,R,175,BIH,33.151,70,894,O513,,,Sebastian Ofner,R,183,AUT,29.173,141,433,6-4 6-4,3,R32,87,0,1,56,38,26,12,10,2,3,4,2,64,32,24,13,10,3,6
 2025-316,Bastad,Clay,28,A,20250714,,KI82,8,,Vit Kopriva,L,178,CZE,28.079,83,719,DA31,,,Hugo Dellien,R,180,BOL,32.077,94,661,6-1 3-0,3,R32,45,1,0,32,18,13,9,5,4,4,0,0,31,23,7,3,5,2,6
 2025-316,Bastad,Clay,28,A,20250714,,B0U4,,Q,Nicolai Budkov Kjaer,R,188,NOR,18.866,298,180,MJ08,,Q,Thiago Monteiro,L,180,BRA,31.121,152,375,5-7 6-3 7-6(2),3,R32,161,5,7,106,74,52,17,17,4,7,4,0,104,70,49,13,16,1,4
-2025-316,Bastad,Clay,28,A,20250714,,G09O,,,Hugo Gaston,L,173,FRA,24.797,91,663,T0AP,,,Chun-Hsin Tseng,R,180,TPE,29.192,98,631,6-4 6-3,3,R32,78,2,1,64,41,28,13,9,5,6,2,2,55,36,26,7,10,1,5
+2025-316,Bastad,Clay,28,A,20250714,,G09O,,,Hugo Gaston,L,173,FRA,24.797,91,663,T0AP,,,Chun-Hsin Tseng,R,175,TPE,29.192,98,631,6-4 6-3,3,R32,78,2,1,64,41,28,13,9,5,6,2,2,55,36,26,7,10,1,5
 2025-316,Bastad,Clay,28,A,20250714,,PH64,,Q,Andrea Pellegrino,R,185,ITA,28.309,139,437,F0F2,,,Jaime Faria,R,188,POR,21.937,115,543,2-6 6-3 6-3,3,R32,106,3,1,87,59,39,15,13,8,11,4,5,81,46,29,18,13,3,7
 2025-316,Bastad,Clay,28,A,20250714,,V812,,,Botic van de Zandschulp,R,191,NED,28.663,100,622,Y268,,WC,Mikael Ymer,R,185,SWE,26.844,618,53,6-4 6-1,3,R32,77,0,3,45,29,23,9,8,1,2,2,1,49,29,17,6,9,5,10
 2025-316,Bastad,Clay,28,A,20250714,,Y218,,WC,Elias Ymer,R,185,SWE,29.259,264,211,B0EJ,,,Tristan Boyer,R,188,USA,24.23,126,486,6-3 3-6 6-2,3,R32,134,2,1,73,52,40,11,13,5,7,3,0,77,48,28,17,13,2,6
