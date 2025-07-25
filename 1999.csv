@@ -814,10 +814,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D033,Davis Cup G1 QF: ROU vs CRO,Clay,4,D,19990402,2,P280,,,Andrei Pavel,R,183,ROU,25.166,49,869,K313,,,Zeljko Krajan,R,178,CRO,20.148,430,69,7-6(5) 6-2 6-0,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D033,Davis Cup G1 QF: ROU vs CRO,Clay,4,D,19990402,3,Z104,,,Lovro Zovko,R,190,CRO,18.029,586,32,M600,,,Ion Moldovan,R,188,ROU,21.194,337,101,5-7 6-1 6-2,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D033,Davis Cup G1 QF: ROU vs CRO,Clay,4,D,19990402,4,B692,,,Ivan Beros,R,,CRO,19.244,494,49,T199,,,Gabriel Trifu,R,193,ROU,23.956,233,189,6-3 6-2,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
-1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,1,N264,,,Lazaro Navarro Batles,R,,CUB,25.164,,,J0JO,,,Jerry Joseph,U,,HAI,18.899,,,7-5 7-5 6-4,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
+1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,1,N264,,,Lazaro Navarro Batles,R,,CUB,25.164,,,N/A,,,Jerry Joseph,U,,HAI,18.899,,,7-5 7-5 6-4,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,2,M886,,,Sandor Martinez Breijo,U,,CUB,18.021,,,K475,,,David Cardoza,U,,HAI,21.47,,,4-6 6-4 6-3 7-6(6),5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,3,C636,,,Jorge Catala,U,,CUB,20.775,,,K475,,,Jean Max Mangones,U,,HAI,23.414,,,6-2 6-3,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
-1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,4,J0JO,,,Jerry Joseph,U,,HAI,18.899,,,M886,,,Sandor Martinez Breijo,U,,CUB,18.021,,,6-4 4-6 7-5,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
+1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,4,N/A,,,Jerry Joseph,U,,HAI,18.899,,,M886,,,Sandor Martinez Breijo,U,,CUB,18.021,,,6-4 4-6 7-5,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,1,H390,,,Luis Horna,R,180,PER,18.535,256,158,D230,,,Genaro Deleon,U,,DOM,28.189,,,6-2 3-6 6-3 6-3,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,2,V157,,,Americo Venero Montes,U,,PER,27.097,,,V182,,,Rodrigo Vallejo,U,,DOM,25.043,,,7-5 2-6 7-6(3) 6-2,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,3,A172,,,Alejandro Aramburu,R,175,PER,30.116,,,G166,,,Jhonson Garcia,R,,DOM,18.489,,,6-3 4-6 7-5,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
@@ -1288,7 +1288,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D071,Davis Cup G2 R1: MAR vs YUG,Clay,4,D,19990430,2,A226,,,Hicham Arazi,L,175,MAR,25.517,31,1112,D245,,,Nebojsa Djordjevic,R,190,SRB,26.004,,,6-7(8) 1-6 6-0 6-1 6-1,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
 1999-D071,Davis Cup G2 R1: MAR vs YUG,Clay,4,D,19990430,3,E159,,,Mounir El Aarej,R,,MAR,21.859,523,42,G420,,,Nikola Gnjatovic,R,,SRB,19.611,765,15,6-2 6-2,3,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
 1999-D071,Davis Cup G2 R1: MAR vs YUG,Clay,4,D,19990430,4,T267,,,Zeljko Tosic,R,,YUG,20.832,683,20,A203,,,Karim Alami,R,185,MAR,25.922,45,910,W/O,5,RR,,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
-1999-D074,Davis Cup G2 R1: NOR vs TUR,Carpet,4,D,19990430,1,K307,,,Helge Koll Frafjord,U,,NOR,23.904,,,O130,,,Erhan Oral,R,,TUR,27.77,658,22,6-1 6-1 6-2,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
+1999-D074,Davis Cup G2 R1: NOR vs TUR,Carpet,4,D,19990430,1,K307,,,Helge Koll-Frafjord,U,,NOR,23.904,,,O130,,,Erhan Oral,R,,TUR,27.77,658,22,6-1 6-1 6-2,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
 1999-D074,Davis Cup G2 R1: NOR vs TUR,Carpet,4,D,19990430,2,A276,,,Jan Frode Andersen,L,190,NOR,26.656,137,339,G330,,,Efe Ustundag,R,,TUR,22.275,988,6,6-2 6-4 6-1,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
 1999-D074,Davis Cup G2 R1: NOR vs TUR,Carpet,4,D,19990430,3,A276,,,Jan Frode Andersen,L,190,NOR,26.656,137,339,O130,,,Erhan Oral,R,,TUR,27.77,658,22,6-2 6-4,3,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
 1999-D074,Davis Cup G2 R1: NOR vs TUR,Carpet,4,D,19990430,4,R355,,,Helge Rosjo,U,,NOR,23.792,,,G330,,,Efe Ustundag,R,,TUR,22.275,988,6,3-6 7-5 6-2,3,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6

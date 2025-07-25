@@ -2325,7 +2325,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-M-DC-2022-WG1-M-AUT-PAK-01,Davis Cup WG1 R1: AUT vs PAK,Clay,4,D,20220916,4,R09X,,,Jurij Rodionov,L,191,AUT,23.3,137,404,M0FS,,,Muzammil Murtaza,R,,PAK,22.8,,,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2022-M-DC-2022-WG1-M-BIH-MEX-01,Davis Cup WG1 R1: BIH vs MEX,Clay,4,D,20220916,1,F840,,,Nerman Fatic,U,191,BIH,27.8,257,195,LG87,,,Gerardo Lopez Villasenor,R,191,MEX,27.3,819,19,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 2022-M-DC-2022-WG1-M-BIH-MEX-01,Davis Cup WG1 R1: BIH vs MEX,Clay,4,D,20220916,2,D923,,,Damir Dzumhur,R,175,BIH,30.3,193,276,RH88,,,Alan Fernando Rubio Fierros,R,175,MEx,23.6,915,13,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
-2022-M-DC-2022-WG1-M-BIH-MEX-01,Davis Cup WG1 R1: BIH vs MEX,Clay,4,D,20220916,4,A0IY,,,Luis Carlos Alvarez Valdes,U,,MEX,,,,N0DB,,,Andrej Nedic,R,185,BIH,17.9,1194,5,6-2 5-7 [0-1],3,RR,,,,,,,,,,,,,,,,,,,
+2022-M-DC-2022-WG1-M-BIH-MEX-01,Davis Cup WG1 R1: BIH vs MEX,Clay,4,D,20220916,4,A0IY,,,Luis Carlos Alvarez,U,,MEX,,,,N0DB,,,Andrej Nedic,R,185,BIH,17.9,1194,5,6-2 5-7 [0-1],3,RR,,,,,,,,,,,,,,,,,,,
 2022-M-DC-2022-WG1-M-BRA-POR-01,Davis Cup WG1 R1: BRA vs POR,Hard,4,D,20220916,1,SH90,,,Joao Sousa,R,185,POR,33.4,56,816,MW75,,,Felipe Meligeni Alves,R,185,BRA,24.5,143,381,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 2022-M-DC-2022-WG1-M-BRA-POR-01,Davis Cup WG1 R1: BRA vs POR,Hard,4,D,20220916,2,BT72,,,Nuno Borges,R,185,POR,25.5,93,568,MJ08,,,Thiago Monteiro,L,183,BRA,28.2,65,748,6-7(5) 6-4 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,
 2022-M-DC-2022-WG1-M-BRA-POR-01,Davis Cup WG1 R1: BRA vs POR,Hard,4,D,20220916,4,SH90,,,Joao Sousa,R,185,POR,33.4,56,816,MJ08,,,Thiago Monteiro,L,183,BRA,28.2,65,748,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,
@@ -2477,7 +2477,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-9210,Laver Cup,Hard,8,A,20220923,299,TE51,,,Stefanos Tsitsipas,R,193,GRE,24.1,6,4810,SM37,,,Diego Schwartzman,R,170,ARG,30,17,2110,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2022-9210,Laver Cup,Hard,8,A,20220923,300,DH58,,,Alex de Minaur,R,183,AUS,23.5,22,1745,MC10,,,Andy Murray,R,191,GBR,35.3,43,1000,5-7 6-3 [10-7],3,RR,,,,,,,,,,,,,,,,,,,
 2022-4140,Seoul,Hard,32,A,20220926,271,U120,,WC,Kaichi Uchida,R,180,JPN,28,163,328,W857,,WC,Tung-Lin Wu,R,,KOR,25.2,471,77,6-4 6-2,3,R32,82,3,1,49,26,22,16,9,3,3,4,4,66,30,21,15,9,4,7
-2022-4140,Seoul,Hard,32,A,20220926,272,KF17,,,Soonwoo Kwon,R,180,KOR,24.8,121,441,CH90,,Q,Yunseong Chung,U,,KOR,24.5,426,96,7-6(5) 6-7(3) 6-1,3,R32,130,6,1,96,63,51,19,16,2,3,6,0,102,68,47,16,15,3,6
+2022-4140,Seoul,Hard,32,A,20220926,272,KF17,,,Soonwoo Kwon,R,180,KOR,24.8,121,441,CH90,,Q,Yun seong Chung,U,,KOR,24.5,426,96,7-6(5) 6-7(3) 6-1,3,R32,130,6,1,96,63,51,19,16,2,3,6,0,102,68,47,16,15,3,6
 2022-4140,Seoul,Hard,32,A,20220926,273,B0CD,8,,Jenson Brooksby,R,193,USA,21.9,46,982,W857,,Q,Tung-Lin Wu,R,188,TPE,24.3,212,243,7-6(5) 3-6 6-0,3,R32,139,11,1,112,76,55,15,14,9,11,6,3,83,53,34,18,13,4,7
 2022-4140,Seoul,Hard,32,A,20220926,275,MU94,,,Jaume Munar,R,183,ESP,25.3,59,814,WB08,,Q,Yosuke Watanuki,R,180,JPN,24.4,227,224,2-1 RET,3,R32,33,1,0,16,10,6,4,2,0,0,2,2,17,6,5,5,1,2,2
 2022-4140,Seoul,Hard,32,A,20220926,276,J386,,,Steve Johnson,R,188,USA,32.7,117,463,N652,,WC,Jisung Nam,U,,KOR,29.1,,,7-6(3) 6-4,3,R32,91,6,3,63,33,30,20,11,0,0,9,3,70,38,32,17,11,3,4

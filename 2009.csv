@@ -716,7 +716,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-D035,Davis Cup G2 R1: VEN vs AHO,Hard,4,D,20090306,1,L785,,,Piero Luisi,U,,VEN,21.971,601,74,V473,,,Martijn Van Haasteren,R,,AHO,28.468,1564,2,7-5 6-2 6-4,5,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
 2009-D035,Davis Cup G2 R1: VEN vs AHO,Hard,4,D,20090306,2,D353,,,Jose De Armas,R,,VEN,27.937,282,258,T838,,,Romano Tatuhey,U,,AHO,23.786,,,3-6 6-3 6-2 6-4,5,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
 2009-D035,Davis Cup G2 R1: VEN vs AHO,Hard,4,D,20090306,3,V473,,,Martijn Van Haasteren,R,,AHO,28.468,1564,2,MF70,,,Luis David Martinez,U,,VEN,19.806,790,38,6-3 6-3,3,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
-2009-D035,Davis Cup G2 R1: VEN vs AHO,Hard,4,D,20090306,4,L785,,,Piero Luisi,U,,VEN,21.971,601,74,108978,,,Nick Van Rosberg,U,,AHO,21.32,,,6-3 6-1,3,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
+2009-D035,Davis Cup G2 R1: VEN vs AHO,Hard,4,D,20090306,4,L785,,,Piero Luisi,U,,VEN,21.971,601,74,V605,,,Nick Van Rosberg,U,,AHO,21.32,,,6-3 6-1,3,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
 2009-D036,Davis Cup G2 R1: DOM vs GUA,Clay,4,D,20090306,1,G166,,,Jhonson Garcia,R,,DOM,28.416,1016,16,D868,,,Christopher Diaz-Figueroa,U,,GUA,18.968,1194,9,6-4 6-2 6-0,5,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
 2009-D036,Davis Cup G2 R1: DOM vs GUA,Clay,4,D,20090306,2,E224,,,Victor Estrella Burgos,R,173,DOM,28.58,235,321,U127,,,Julen Uriguen,U,,GUA,17.613,,,3-6 6-2 4-3 RET,5,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
 2009-D036,Davis Cup G2 R1: DOM vs GUA,Clay,4,D,20090306,3,H896,,,Jose Hernandez-Fernandez,U,,DOM,18.971,1102,12,D868,,,Christopher Diaz-Figueroa,U,,GUA,18.968,1194,9,3-6 6-0 6-3,3,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
@@ -739,7 +739,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-D043,Davis Cup G2 R1: INA vs KUW,Hard,4,D,20090306,4,SB29,,,Prima Simpatiaji,U,,INA,27.376,,,SB64,,,Muhammad Khaliq Siddiq,U,,KUW,32.66,,,6-4 6-0 6-2,5,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
 2009-D044,Davis Cup G2 R1: NZL vs MAS,Hard,4,D,20090306,1,SF89,,,Rubin Statham,R,183,NZL,21.854,425,145,R904,,,Razlan Rawi,U,,MAS,20.674,,,6-1 6-1 6-0,5,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
 2009-D044,Davis Cup G2 R1: NZL vs MAS,Hard,4,D,20090306,2,K688,,,Daniel King-Turner,R,190,NZL,24.797,453,126,SA86,,,Yew-Ming Si,U,,MAS,29.522,,,6-4 6-1 6-4,5,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
-2009-D044,Davis Cup G2 R1: NZL vs MAS,Hard,4,D,20090306,3,110685,,,Gd Jones,R,183,NZL,22.919,,,J265,,,Adam Jaya,U,,MAS,24.14,,,6-3 6-3,3,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
+2009-D044,Davis Cup G2 R1: NZL vs MAS,Hard,4,D,20090306,3,J284,,,Gd Jones,R,183,NZL,22.919,,,J265,,,Adam Jaya,U,,MAS,24.14,,,6-3 6-3,3,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
 2009-D044,Davis Cup G2 R1: NZL vs MAS,Hard,4,D,20090306,4,T389,,,Adam Thompson,U,,NZL,26.595,830,32,BI09,,,Abd Hazli Bin Zainuddin,U,,MAS,28.323,,,6-0 6-2,3,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
 2009-D048,Davis Cup G2 R1: LTU vs GEO,Hard,4,D,20090306,1,BE90,,,Ricardas Berankis,R,175,LTU,18.697,462,121,K878,,,George Khrikadze,U,,GEO,20.241,,,6-1 6-3 6-1,5,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
 2009-D048,Davis Cup G2 R1: LTU vs GEO,Hard,4,D,20090306,2,C879,,,Lado Chikhladze,U,,GEO,23.713,1012,17,SC33,,,Gvidas Sabeckis,U,,LTU,24.931,582,80,6-4 6-1 6-2,5,RR,77,5,2,51,29,23,15,10,0,1,7,2,59,35,27,9,10,5,8
@@ -1889,7 +1889,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-D045,Davis Cup G2 R2: PHI vs PAK,Clay,4,D,20090710,3,K425,,,Aqeel Khan,R,,PAK,29.432,735,36,T879,,,Patrick Tierro,U,,PHI,23.929,,,6-1 7-6(7),3,RR,122,12,4,110,67,54,18,17,5,7,13,7,96,54,41,21,16,3,7
 2009-D045,Davis Cup G2 R2: PHI vs PAK,Clay,4,D,20090710,4,K465,,,Jalil Khan,U,,PAK,27.4,,,AA19,,,Francis Casey Alcantara,U,,PHI,17.418,,,1-6 7-6(8) 6-3,3,RR,122,12,4,110,67,54,18,17,5,7,13,7,96,54,41,21,16,3,7
 2009-D046,Davis Cup G2 R2: NZL vs INA,Hard,4,D,20090710,1,K688,,,Daniel King-Turner,R,190,NZL,25.142,405,127,T860,,,Sunu-Wahyu Trijati,U,,INA,22.196,,,6-4 6-1 6-4,5,RR,122,12,4,110,67,54,18,17,5,7,13,7,96,54,41,21,16,3,7
-2009-D046,Davis Cup G2 R2: NZL vs INA,Hard,4,D,20090710,2,110685,,,Gd Jones,R,183,NZL,23.264,,,R862,,,Christopher Rungkat,R,175,INA,19.474,1271,6,7-5 4-6 6-3 6-2,5,RR,122,12,4,110,67,54,18,17,5,7,13,7,96,54,41,21,16,3,7
+2009-D046,Davis Cup G2 R2: NZL vs INA,Hard,4,D,20090710,2,J284,,,Gd Jones,R,183,NZL,23.264,,,R862,,,Christopher Rungkat,R,175,INA,19.474,1271,6,7-5 4-6 6-3 6-2,5,RR,122,12,4,110,67,54,18,17,5,7,13,7,96,54,41,21,16,3,7
 2009-D046,Davis Cup G2 R2: NZL vs INA,Hard,4,D,20090710,3,K688,,,Daniel King-Turner,R,190,NZL,25.142,405,127,W475,,,Ayrton Wibowo,U,,INA,20.884,1356,4,6-4 6-1,3,RR,122,12,4,110,67,54,18,17,5,7,13,7,96,54,41,21,16,3,7
 2009-D046,Davis Cup G2 R2: NZL vs INA,Hard,4,D,20090710,4,SG78,,,Mikal Statham,R,,NZL,22.198,820,27,T860,,,Sunu-Wahyu Trijati,U,,INA,22.196,,,6-1 6-0,3,RR,122,12,4,110,67,54,18,17,5,7,13,7,96,54,41,21,16,3,7
 2009-D056,Davis Cup G2 R2: SLO vs LTU,Clay,4,D,20090710,1,Z189,,,Grega Zemlja,R,183,SLO,22.768,194,362,BE90,,,Ricardas Berankis,R,175,LTU,19.042,512,86,6-1 6-4 6-3,5,RR,122,12,4,110,67,54,18,17,5,7,13,7,96,54,41,21,16,3,7

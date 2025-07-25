@@ -774,9 +774,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-D069,Davis Cup G2 R1: JAM vs DOM,Hard,4,D,20050304,3,R561,,,Ryan Russell,U,,JAM,21.651,914,9,G166,,,Jhonson Garcia,R,,DOM,24.411,1356,2,6-1 2-6 6-3 6-4,5,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
 2005-D069,Davis Cup G2 R1: JAM vs DOM,Hard,4,D,20050304,4,E224,,,Victor Estrella Burgos,R,173,DOM,24.575,1478,1,J239,,,Damar Johnson,U,,JAM,21.101,,,4-6 3-6 6-4 6-2 6-3,5,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
 2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,1,N267,,,Mark Nielsen,R,185,NZL,27.392,543,41,MB67,,,Dmitriy Makeyev,U,,KAZ,20.211,1478,1,6-0 6-2 6-3,5,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
-2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,2,110685,,,Gd Jones,R,183,NZL,18.913,,,K407,,,Alexey Kedryuk,R,193,KAZ,24.559,425,64,6-3 6-4 6-4,5,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
+2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,2,J284,,,Gd Jones,R,183,NZL,18.913,,,K407,,,Alexey Kedryuk,R,193,KAZ,24.559,425,64,6-3 6-4 6-4,5,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
 2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,3,K407,,,Alexey Kedryuk,R,193,KAZ,24.559,425,64,SF89,,,Rubin Statham,R,183,NZL,17.848,1067,6,6-4 7-5,3,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
-2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,4,110685,,,Gd Jones,R,183,NZL,18.913,,,BD64,,,Stanislav Bykov,U,,KAZ,16.537,,,6-1 6-0,3,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
+2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,4,D,20050304,4,J284,,,Gd Jones,R,183,NZL,18.913,,,BD64,,,Stanislav Bykov,U,,KAZ,16.537,,,6-1 6-0,3,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
 2005-D075,Davis Cup G2 R1: IRI vs KUW,Clay,4,D,20050304,1,MB94,,,Abdullah Maqdas,U,,KUW,17.916,1478,1,SD75,,,Ashkan Shokoofi,U,,IRI,23.641,877,10,7-6(7) 7-5 6-3,5,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
 2005-D075,Davis Cup G2 R1: IRI vs KUW,Clay,4,D,20050304,2,G531,,,Mohammad Ghareeb,R,,KUW,24.605,668,25,SB57,,,Anoosha Shahgholi,U,,IRI,23.302,1047,6,7-5 7-6(5) 6-3,5,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
 2005-D075,Davis Cup G2 R1: IRI vs KUW,Clay,4,D,20050304,3,H609,,,Shahab Hassani-Nafez,R,,IRI,27.452,974,7,R656,,,Ahmad Rabeea Muhammad,U,,KUW,17.919,,,6-2 7-5,3,RR,52,5,2,36,28,24,4,7,0,0,0,1,36,25,12,2,6,4,9
@@ -2032,7 +2032,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2005-D073,Davis Cup G2 PO: JAM vs CUB,Hard,4,D,20050715,2,J239,,,Damar Johnson,U,,JAM,21.465,,,C713,,,Ricardo Chile-Fonte,U,,CUB,23.507,,,6-3 7-6(6) 6-4,5,RR,120,1,1,71,51,32,12,13,5,9,1,0,86,47,26,19,13,2,7
 2005-D073,Davis Cup G2 PO: JAM vs CUB,Hard,4,D,20050715,3,R561,,,Ryan Russell,U,,JAM,22.015,736,19,C713,,,Ricardo Chile-Fonte,U,,CUB,23.507,,,3-6 7-6(2) 7-6(6) 2-3 RET,5,RR,120,1,1,71,51,32,12,13,5,9,1,0,86,47,26,19,13,2,7
 2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,4,D,20050715,1,N267,,,Mark Nielsen,R,185,NZL,27.756,414,68,MB94,,,Abdullah Maqdas,U,,KUW,18.281,1479,1,7-6(1) 1-6 6-4 6-1,5,RR,120,1,1,71,51,32,12,13,5,9,1,0,86,47,26,19,13,2,7
-2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,4,D,20050715,2,110685,,,Gd Jones,R,183,NZL,19.277,,,G531,,,Mohammad Ghareeb,R,,KUW,24.969,635,30,3-6 6-4 7-5 6-2,5,RR,120,1,1,71,51,32,12,13,5,9,1,0,86,47,26,19,13,2,7
+2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,4,D,20050715,2,J284,,,Gd Jones,R,183,NZL,19.277,,,G531,,,Mohammad Ghareeb,R,,KUW,24.969,635,30,3-6 6-4 7-5 6-2,5,RR,120,1,1,71,51,32,12,13,5,9,1,0,86,47,26,19,13,2,7
 2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,4,D,20050715,3,G531,,,Mohammad Ghareeb,R,,KUW,24.969,635,30,T389,,,Adam Thompson,U,,NZL,22.954,713,21,7-5 6-3,3,RR,120,1,1,71,51,32,12,13,5,9,1,0,86,47,26,19,13,2,7
 2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,4,D,20050715,4,MB94,,,Abdullah Maqdas,U,,KUW,18.281,1479,1,K688,,,Daniel King-Turner,R,190,NZL,21.155,722,20,7-6(4) 5-7 6-3,3,RR,120,1,1,71,51,32,12,13,5,9,1,0,86,47,26,19,13,2,7
 2005-D079,Davis Cup G2 R2: KOR vs POC,Hard,4,D,20050715,1,K675,,,Sun-Yong Kim Jr.,R,,KOR,18.127,848,12,L858,,,Michael Leong,U,,SOL,19.316,,,6-0 3-6 6-4 6-3,5,RR,120,1,1,71,51,32,12,13,5,9,1,0,86,47,26,19,13,2,7
