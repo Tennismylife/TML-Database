@@ -396,7 +396,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D042,Davis Cup G1 QF: ECU vs VEN,Clay,4,D,19990212,4,R361,,,Yohny Romero,R,,VEN,20.192,613,27,B759,,,Juan Barragan,U,,ECU,16.118,,,6-0 6-3,3,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,1,S537,,,Suwandi Suwandi,R,178,INA,22.467,,,A244,,,Nasser-Ghanim Al-Khulaifi,R,0,QAT,25.24,,,6-4 6-3 6-3,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,2,W269,,,Febi Widhiyanto,R,,INA,18.998,,,K346,,,Sultan Khalfan,R,,QAT,21.9,,,6-4 6-0 6-3,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
-1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,3,S537,,,Suwandi Suwandi,R,178,INA,22.467,,,ALTO,,,Mubarak Al Tobaishi,U,,QAT,16.405,,,6-1 6-4,3,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
+1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,3,S537,,,Suwandi Suwandi,R,178,INA,22.467,,,A447,,,Mubarak Al-Tobaishi,U,,QAT,16.405,,,6-1 6-4,3,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D055,Davis Cup G2 QF: QAT vs INA,Hard,4,D,19990212,4,W269,,,Febi Widhiyanto,R,,INA,18.998,,,A244,,,Nasser-Ghanim Al-Khulaifi,R,0,QAT,25.24,,,6-4 6-1,3,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19990212,1,T292,,,Seyed Akbar Taheri Rahaghi,U,,IRI,25.262,,,W407,,,Jayendra Wijeyesekera,U,,SRI,29.073,,,6-3 4-6 6-1 5-7 6-0,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
 1999-D057,Davis Cup G2 QF: SRI vs IRI,Clay,4,D,19990212,2,T268,,,Mohammed Reza Tavakoli,U,,IRI,27.159,,,D604,,,Rohan De Silva,U,,SRI,26.99,,,6-1 7-6(5) 6-0,5,RR,77,8,3,51,30,27,8,9,1,2,8,4,73,41,28,11,10,11,15
@@ -814,10 +814,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D033,Davis Cup G1 QF: ROU vs CRO,Clay,4,D,19990402,2,P280,,,Andrei Pavel,R,183,ROU,25.166,49,869,K313,,,Zeljko Krajan,R,178,CRO,20.148,430,69,7-6(5) 6-2 6-0,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D033,Davis Cup G1 QF: ROU vs CRO,Clay,4,D,19990402,3,Z104,,,Lovro Zovko,R,190,CRO,18.029,586,32,M600,,,Ion Moldovan,R,188,ROU,21.194,337,101,5-7 6-1 6-2,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D033,Davis Cup G1 QF: ROU vs CRO,Clay,4,D,19990402,4,B692,,,Ivan Beros,R,,CRO,19.244,494,49,T199,,,Gabriel Trifu,R,193,ROU,23.956,233,189,6-3 6-2,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
-1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,1,N264,,,Lazaro Navarro Batles,R,,CUB,25.164,,,N/A,,,Jerry Joseph,U,,HAI,18.899,,,7-5 7-5 6-4,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
+1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,1,N264,,,Lazaro Navarro Batles,R,,CUB,25.164,,,J240,,,Jerry Joseph,U,,HAI,18.899,,,7-5 7-5 6-4,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,2,M886,,,Sandor Martinez Breijo,U,,CUB,18.021,,,K475,,,David Cardoza,U,,HAI,21.47,,,4-6 6-4 6-3 7-6(6),5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,3,C636,,,Jorge Catala,U,,CUB,20.775,,,K475,,,Jean Max Mangones,U,,HAI,23.414,,,6-2 6-3,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
-1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,4,N/A,,,Jerry Joseph,U,,HAI,18.899,,,M886,,,Sandor Martinez Breijo,U,,CUB,18.021,,,6-4 4-6 7-5,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
+1999-D034,Davis Cup G2 QF: CUB vs HAI,Hard,4,D,19990402,4,J240,,,Jerry Joseph,U,,HAI,18.899,,,M886,,,Sandor Martinez Breijo,U,,CUB,18.021,,,6-4 4-6 7-5,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,1,H390,,,Luis Horna,R,180,PER,18.535,256,158,D230,,,Genaro Deleon,U,,DOM,28.189,,,6-2 3-6 6-3 6-3,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,2,V157,,,Americo Venero Montes,U,,PER,27.097,,,V182,,,Rodrigo Vallejo,U,,DOM,25.043,,,7-5 2-6 7-6(3) 6-2,5,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
 1999-D040,Davis Cup G2 QF: DOM vs PER,Hard,4,D,19990402,3,A172,,,Alejandro Aramburu,R,175,PER,30.116,,,G166,,,Jhonson Garcia,R,,DOM,18.489,,,6-3 4-6 7-5,3,RR,78,1,2,59,43,28,9,10,3,5,1,3,70,52,31,6,9,7,11
@@ -1280,7 +1280,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D059,Davis Cup G2 R1: IRL vs SLO,Carpet,4,D,19990430,2,C454,,,Robert Collins,U,,IRL,22.064,,,B414,,,Iztok Bozic,R,,SLO,27.578,211,209,4-6 6-3 6-4 6-3,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
 1999-D059,Davis Cup G2 R1: IRL vs SLO,Carpet,4,D,19990430,3,C289,,,Owen Casey,R,,IRL,29.509,811,12,B414,,,Iztok Bozic,R,,SLO,27.578,211,209,2-6 6-3 3-6 7-5 6-3,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
 1999-D059,Davis Cup G2 R1: IRL vs SLO,Carpet,4,D,19990430,4,T264,,,Marko Tkalec,R,178,SLO,22.108,555,36,C454,,,Robert Collins,U,,IRL,22.064,,,6-7(8) 6-1 6-4,3,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
-1999-D067,Davis Cup G2 R1: LAT vs POL,Carpet,4,D,19990430,1,D239,,,Bartlomiej Dabrowski,R,,POL,26.68,278,135,ZTAB,,,Alvis Tabors,U,,LAT,31.187,,,6-4 6-2 6-2,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
+1999-D067,Davis Cup G2 R1: LAT vs POL,Carpet,4,D,19990430,1,D239,,,Bartlomiej Dabrowski,R,,POL,26.68,278,135,108863,,,Alvis Tabors,U,,LAT,31.187,,,6-4 6-2 6-2,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
 1999-D067,Davis Cup G2 R1: LAT vs POL,Carpet,4,D,19990430,2,F172,,,Andres Filimonov,R,,LAT,30.99,,,G326,,,Michal Gawlowski,R,,POL,23.745,999,6,7-6(3) 6-7(6) 7-5 3-6 6-3,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
 1999-D067,Davis Cup G2 R1: LAT vs POL,Carpet,4,D,19990430,3,F172,,,Andres Filimonov,R,,LAT,30.99,,,S683,,,Piotr Szczepanik,R,,POL,20.339,504,46,6-3 6-0 4-6 7-5,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
 1999-D067,Davis Cup G2 R1: LAT vs POL,Carpet,4,D,19990430,4,G326,,,Michal Gawlowski,R,,POL,23.745,999,6,L507,,,Ivo Lagzdins,U,,LAT,18.645,,,6-2 7-6(3) 3-6 6-3,5,RR,56,2,2,48,30,23,12,8,1,1,0,1,44,25,14,7,7,2,6
@@ -2090,7 +2090,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1999-D081,Davis Cup G2 PO: SLO vs SEN,Clay,4,D,19990716,1,T264,,,Marko Tkalec,R,178,SLO,22.319,600,32,N339,,,Daouda Ndiaye,R,,SEN,21.52,,,6-4 6-1 6-4,5,RR,119,3,2,100,53,33,25,11,13,16,2,2,78,50,30,13,10,8,12
 1999-D081,Davis Cup G2 PO: SLO vs SEN,Clay,4,D,19990716,2,K408,,,Andrej Kracman,R,,SLO,16.887,929,8,L184,,,Thierno Ly,R,,SEN,,,,6-1 6-1 5-7 6-3,5,RR,119,3,2,100,53,33,25,11,13,16,2,2,78,50,30,13,10,8,12
 1999-D081,Davis Cup G2 PO: SLO vs SEN,Clay,4,D,19990716,3,T264,,,Marko Tkalec,R,178,SLO,22.319,600,32,L184,,,Thierno Ly,R,,SEN,,,,6-2 6-0,3,RR,119,3,2,100,53,33,25,11,13,16,2,2,78,50,30,13,10,8,12
-1999-D081,Davis Cup G2 PO: SLO vs SEN,Clay,4,D,19990716,4,K408,,,Andrej Kracman,R,,SLO,16.887,929,8,ZD01,,,Wael Zeidan,U,,SEN,17.897,,,6-2 6-3,3,RR,119,3,2,100,53,33,25,11,13,16,2,2,78,50,30,13,10,8,12
+1999-D081,Davis Cup G2 PO: SLO vs SEN,Clay,4,D,19990716,4,K408,,,Andrej Kracman,R,,SLO,16.887,929,8,108887,,,Wael Zeidan,U,,SEN,17.897,,,6-2 6-3,3,RR,119,3,2,100,53,33,25,11,13,16,2,2,78,50,30,13,10,8,12
 1999-D083,Davis Cup G2 PO: TUR vs YUG,Hard,4,D,19990716,1,V205,,,Dusan Vemic,R,190,SRB,23.066,287,134,G330,,,Efe Ustundag,R,,TUR,22.486,1088,4,6-3 6-7(3) 6-4 6-3,5,RR,119,3,2,100,53,33,25,11,13,16,2,2,78,50,30,13,10,8,12
 1999-D083,Davis Cup G2 PO: TUR vs YUG,Hard,4,D,19990716,2,O130,,,Erhan Oral,R,,TUR,27.981,560,39,D245,,,Nebojsa Djordjevic,R,190,SRB,26.215,,,3-6 7-6(2) 6-4 6-2,5,RR,119,3,2,100,53,33,25,11,13,16,2,2,78,50,30,13,10,8,12
 1999-D083,Davis Cup G2 PO: TUR vs YUG,Hard,4,D,19990716,3,V205,,,Dusan Vemic,R,190,SRB,23.066,287,134,O130,,,Erhan Oral,R,,TUR,27.981,560,39,6-1 6-1 6-1,5,RR,119,3,2,100,53,33,25,11,13,16,2,2,78,50,30,13,10,8,12
