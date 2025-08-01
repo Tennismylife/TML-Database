@@ -382,6 +382,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-M-DC-2023-WG2-PO-EST-JAM-01,Davis Cup WG2 PO: EST vs JAM,,4,D,20230204,5,S0B0,,,Johannes Seeman,U,,EST,22.5,,,B0PB,,,Jacob Bicknell,U,,JAM,23.6,,,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-PO-INA-VIE-01,Davis Cup WG2 PO: INA vs VIE,,4,D,20230204,5,R862,,,Christopher Rungkat,R,175,INA,33,,,N0A0,,,Dac Tien Nguyen,R,,VIE,24,1859,1,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 2023-M-DC-2023-WG2-PO-RSA-LUX-01,Davis Cup WG2 PO: RSA vs LUX,,4,D,20230204,5,CN80,,,Raphael Calzi,R,180,LUX,25.5,,,B0IZ,,,Devin Badenhorst,R,,RSA,18.6,1717,1,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+2023-M-DC-2023-WG1-PO-GRE-ECU-01,Davis Cup WG1 PO: GRE vs ECU,Hard,4,D,20230204,1,TE51,,,Stefanos Tsitsipas,,,,,,,G0DH,,,Alvaro Guillen Meza,,,,,,,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+2023-M-DC-2023-WG1-PO-GRE-ECU-01,Davis Cup WG1 PO: GRE vs ECU,Hard,4,D,20230204,2,T0EI,,,Aristotelis Thanos,,,,,,,AG08,,,Andres Andrade,,,,,,,7-6(4) 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+2023-M-DC-2023-WG1-PO-GRE-ECU-01,Davis Cup WG1 PO: GRE vs ECU,Hard,4,D,20230204,3,TE51,,,Stefanos Tsitsipas,,,,,,,AG08,,,Andres Andrade,,,,,,,7-6(1) 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 2023-9158,Cordoba,Clay,32,A,20230206,271,D874,,Q,Federico Delbonis,L,193,ARG,32.3,131,426,TE30,,,Alejandro Tabilo,L,188,CHI,25.6,146,394,6-7(8) 6-2 7-6(6),3,R32,183,4,4,107,70,51,21,16,4,6,13,6,128,72,53,26,16,7,11
 2023-9158,Cordoba,Clay,32,A,20230206,272,CF01,,,Marco Cecchinato,R,185,ITA,30.3,93,572,BF23,,,Facundo Bagnis,L,183,ARG,32.9,88,595,6-2 7-6(4),3,R32,92,6,2,64,41,32,12,10,2,3,5,4,70,49,33,5,10,3,6
 2023-9158,Cordoba,Clay,32,A,20230206,273,CE77,6,,Federico Coria,R,180,ARG,30.9,67,775,MJ08,,,Thiago Monteiro,L,183,BRA,28.6,78,690,6-7(5) 6-1 6-2,3,R32,163,12,1,98,67,45,18,14,6,8,4,6,94,59,40,13,13,4,10

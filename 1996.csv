@@ -2478,6 +2478,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-319,Kitzbuhel,Clay,48,A,19960722,37,B484,,,Lars Burgsmuller,R,183,GER,20.627,162,246,C375,,Q,Marcelo Charpentier,L,180,ARG,23.031,198,200,6-3 6-2,3,R64,65,5,0,54,40,29,9,9,1,1,0,4,52,27,14,14,8,3,6
 1996-319,Kitzbuhel,Clay,48,A,19960722,40,M197,,,Nuno Marques,L,190,POR,26.286,128,350,V166,,,Adrian Voinea,R,185,ROU,21.96,75,643,6-2 5-7 7-6(3),3,R64,140,6,8,116,65,47,26,16,7,10,4,8,112,65,44,24,16,4,8
 1996-319,Kitzbuhel,Clay,48,A,19960722,43,V161,,Q,Juan Albert Viloca-Puig,R,185,ESP,23.51,163,243,W200,,WC,Herbert Wiltschnig,R,185,AUT,20.668,236,159,6-3 6-3,3,R64,89,4,1,53,34,25,12,9,4,5,2,2,70,42,27,10,9,5,9
+1996-319,Kitzbuhel,Clay,64,A,19960722,,K316,,WC,Nicolas Kiefer,R,183,GER,19.05,147,,T168,,,Laurence Tieleman,R,180,ITA,23.69,177,,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,
 1996-319,Kitzbuhel,Clay,48,A,19960722,3,M099,1,,Thomas Muster,L,180,AUT,28.805,2,3712,S014,,,Emilio Sanchez,R,180,ESP,31.149,123,372,6-3 6-3,3,R32,70,4,0,57,28,23,18,9,4,4,3,1,52,35,25,6,9,0,3
 1996-319,Kitzbuhel,Clay,48,A,19960722,8,Z073,,,Mariano Zabaleta,R,183,ARG,18.396,122,372,B429,15,,Jordi Burillo,R,188,ESP,23.622,60,777,3-6 6-2 7-6(6),3,R32,113,6,7,92,46,38,22,14,11,13,5,8,104,46,34,26,15,6,9
 1996-319,Kitzbuhel,Clay,48,A,19960722,9,M475,9,,Andrei Medvedev,R,193,UKR,21.892,39,1013,V037,,,Alexander Volkov,L,188,RUS,29.388,77,637,6-4 7-6(8),3,R32,93,8,14,80,34,27,20,11,3,6,2,4,83,34,21,23,11,8,12
@@ -2501,9 +2502,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-319,Kitzbuhel,Clay,48,A,19960722,28,C344,11,,Alex Corretja,R,180,ESP,22.281,42,986,U032,6,,Bohdan Ulihrach,R,188,CZE,21.41,32,1116,6-3 6-2,3,R16,66,0,0,55,38,25,12,9,2,3,0,5,56,27,15,13,8,2,6
 1996-319,Kitzbuhel,Clay,48,A,19960722,35,D228,13,,Filip Dewulf,R,190,BEL,24.353,49,848,M535,3,,Felix Mantilla,R,180,ESP,21.829,22,1300,6-3 6-2,3,R16,56,1,4,52,33,21,11,8,2,4,0,0,51,33,17,6,9,3,9
 1996-319,Kitzbuhel,Clay,48,A,19960722,44,V161,,Q,Juan Albert Viloca-Puig,R,185,ESP,23.51,163,243,R286,2,,Marcelo Rios,L,175,CHI,20.572,12,2165,6-1 7-6(4),3,R16,77,1,2,61,38,29,8,10,2,6,4,6,68,32,19,12,9,6,12
+1996-319,Kitzbuhel,Clay,64,A,19960722,,K316,,WC,Nicolas Kiefer,R,183,DEU,19.05,147,,M197,,,Nuno Marques,L,191,PRT,26.29,128,,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,
 1996-319,Kitzbuhel,Clay,48,A,19960722,5,A190,,LL,Emilio Benfele Alvarez,R,183,ESP,23.682,160,255,M099,1,,Thomas Muster,L,180,AUT,28.805,2,3712,6-1 7-5,3,QF,82,9,3,72,41,28,18,10,2,3,3,1,55,28,16,14,9,1,5
 1996-319,Kitzbuhel,Clay,48,A,19960722,18,B428,5,,Alberto Berasategui,R,173,ESP,23.066,25,1241,S568,,Q,Franco Squillari,L,183,ARG,20.917,173,232,6-3 1-6 6-2,3,QF,75,0,4,68,49,27,7,12,4,10,3,6,78,49,27,9,12,5,12
 1996-319,Kitzbuhel,Clay,48,A,19960722,32,C344,11,,Alex Corretja,R,180,ESP,22.281,42,986,D228,13,,Filip Dewulf,R,190,BEL,24.353,49,848,6-4 6-1,3,QF,64,2,1,60,46,29,9,9,4,5,2,6,45,22,16,8,8,3,7
+1996-319,Kitzbuhel,Clay,64,A,1996-07-22,,V161,,Q,Juan Albert Viloca-Puig,R,185,ESP,23.51,163,,K316,,WC,Nicolas Kiefer,R,183,DEU,19.05,147,,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,
 1996-319,Kitzbuhel,Clay,48,A,19960722,14,B428,5,,Alberto Berasategui,R,173,ESP,23.066,25,1241,A190,,LL,Emilio Benfele Alvarez,R,183,ESP,23.682,160,255,4-6 6-1 6-3,3,SF,104,6,1,79,60,42,10,13,4,6,5,3,87,57,38,9,13,7,12
 1996-319,Kitzbuhel,Clay,48,A,19960722,33,C344,11,,Alex Corretja,R,180,ESP,22.281,42,986,V161,,Q,Juan Albert Viloca-Puig,R,185,ESP,23.51,163,243,7-6(4) 6-1,3,SF,81,2,3,61,37,30,13,10,1,2,1,3,58,40,26,7,9,4,7
 1996-319,Kitzbuhel,Clay,48,A,19960722,26,B428,5,,Alberto Berasategui,R,173,ESP,23.066,25,1241,C344,11,,Alex Corretja,R,180,ESP,22.281,42,986,6-2 6-4 6-4,5,F,116,2,3,87,51,37,20,14,2,4,3,2,74,48,27,11,14,4,10
