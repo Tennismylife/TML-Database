@@ -1,8 +1,8 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced
-1978-D016,Davis Cup EUR SF: RSA vs COL,,4,D,19771215,1,B130,,,Byron Bertram,R,,RSA,25.128,86,165,V294,,,Jairo Velasco Sr.,R,173,ESP,30.604,,,0-6 3-6 6-4 12-10 6-1,5,RR,,,,,,,,,,,,,,,,,,,
-1978-D016,Davis Cup EUR SF: RSA vs COL,,4,D,19771215,2,M152,,,Ivan Molina,L,,COL,31.499,91,105,M118,,,Raymond Moore,R,183,RSA,31.31,36,343,7-5 6-2 4-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
-1978-D016,Davis Cup EUR SF: RSA vs COL,,4,D,19771215,3,B130,,,Byron Bertram,R,,RSA,25.128,86,165,M152,,,Ivan Molina,L,,COL,31.499,91,105,3-6 6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
-1978-D016,Davis Cup EUR SF: RSA vs COL,,4,D,19771215,4,M118,,,Raymond Moore,R,183,RSA,31.31,36,343,B131,,,Alvaro Betancur,R,,COL,27.948,132,81,6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1978-D016,Davis Cup EUR SF: RSA vs COL,Hard,4,D,19771215,1,B130,,,Byron Bertram,R,,RSA,25.128,86,165,V294,,,Jairo Velasco Sr.,R,173,ESP,30.604,,,0-6 3-6 6-4 12-10 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1978-D016,Davis Cup EUR SF: RSA vs COL,Hard,4,D,19771215,2,M152,,,Ivan Molina,L,,COL,31.499,91,105,M118,,,Raymond Moore,R,183,RSA,31.31,36,343,7-5 6-2 4-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1978-D016,Davis Cup EUR SF: RSA vs COL,Hard,4,D,19771215,3,B130,,,Byron Bertram,R,,RSA,25.128,86,165,M152,,,Ivan Molina,L,,COL,31.499,91,105,3-6 6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1978-D016,Davis Cup EUR SF: RSA vs COL,Hard,4,D,19771215,4,M118,,,Raymond Moore,R,183,RSA,31.31,36,343,B131,,,Alvaro Betancur,R,,COL,27.948,132,81,6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
 1978-D015,Davis Cup SAM SF: CHI vs URU,,4,D,19771218,1,F024,,,Jaime Fillol Sr.,U,180,CHI,31.542779,17,460,R045,,,Hugo Roverano,R,,URU,19.956,,,9-7 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,
 1978-D015,Davis Cup SAM SF: CHI vs URU,,4,D,19771218,2,G015,,,Hans Gildemeister,R,180,CHI,21.856,42,231,D069,,,Jose Luis Damiani,R,185,URU,21.073,,,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
 1978-D015,Davis Cup SAM SF: CHI vs URU,,4,D,19771218,3,F024,,,Jaime Fillol Sr.,U,180,CHI,31.542779,17,460,D069,,,Jose Luis Damiani,R,185,URU,21.073,,,8-6 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
