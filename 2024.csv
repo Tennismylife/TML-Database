@@ -1380,7 +1380,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-322,Geneva,Clay,32,A,20240520,286,RH16,2,,Casper Ruud,R,183,NOR,25.4,7,4185,O513,,Q,Sebastian Ofner,R,191,AUT,28,45,1010,4-6 6-2 6-2,3,R16,107,4,1,70,42,29,19,13,0,2,1,0,81,39,28,19,13,7,12
 2024-322,Geneva,Clay,32,A,20240520,287,B0BI,5,,Sebastian Baez,R,170,ARG,23.3,20,1985,CF59,,,Roberto Carballes Baena,R,183,ESP,31.1,62,811,6-3 6-0,3,R16,71,1,1,52,42,29,6,7,6,6,0,1,49,38,19,4,8,4,9
 2024-322,Geneva,Clay,32,A,20240520,288,C0E9,,,Flavio Cobolli,R,183,ITA,22,56,860,S0S1,4,,Ben Shelton,L,193,USA,21.6,15,2500,4-6 7-6(1) 6-2,3,R16,121,6,4,86,60,47,13,15,3,5,8,9,101,61,46,14,15,4,7
-2024-322,Geneva,Clay,32,A,20240520,289,S0H2,,,Alexander Shevchenko,R,188,KAZ,23.4,61,825,RH24,,,Emil Ruusuvuori,R,188,FIN,25.1,66,768,W/O,3,R16,0,,,,,,,,,,,,,,,,,,
+2024-322,Geneva,Clay,32,A,20240520,289,S0H2,,,Alexander Shevchenko,R,188,KAZ,23.4,61,825,RH24,,,Emil Ruusuvuori,R,188,FIN,25.1,66,768,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2024-322,Geneva,Clay,32,A,20240520,290,M0FH,,,Tomas Machac,R,185,CZE,23.6,44,1029,MW18,,Q,Nicolas Moreno De Alboran,R,,USA,26.8,140,462,4-6 7-5 6-0,3,R16,116,10,2,86,61,47,13,14,3,4,12,2,81,48,34,14,14,1,5
 2024-322,Geneva,Clay,32,A,20240520,291,M0QL,,,Alex Michelsen,R,193,USA,19.7,65,795,FB98,3,,Taylor Fritz,R,193,USA,26.5,12,3025,6-4 4-6 7-5,3,R16,159,2,2,95,70,44,15,16,4,8,10,3,118,67,42,22,16,8,13
 2024-322,Geneva,Clay,32,A,20240520,292,GJ37,6,,Tallon Griekspoor,R,188,NLD,27.8,27,1605,SU55,,WC,Denis Shapovalov,L,185,CAN,25,123,515,6-7(7) 7-6(4) 6-3,3,R16,142,5,6,104,59,50,28,17,0,1,10,4,97,62,51,20,16,0,2
@@ -1535,7 +1535,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-520,Roland Garros,Clay,128,G,20240526,,A0E2,,,Carlos Alcaraz,R,183,ESP,21.1,3,7300,AG37,,,Felix Auger-Aliassime,R,193,CAN,26.3,21,1885,6-3 6-3 6-1,5,R16,,1,2,79,53,40,14,13,4,5,0,5,84,48,29,14,12,10,16
 2024-520,Roland Garros,Clay,128,G,20240526,,D875,10,,Grigor Dimitrov,R,191,BUL,33,10,3555,HB71,8,,Hubert Hurkacz,R,196,POL,27.3,8,3885,7-6 6-4 7-6,5,R16,,4,4,114,71,55,26,17,6,7,20,1,120,77,56,21,17,6,8
 2024-520,Roland Garros,Clay,128,G,20240526,,S0AG,2,,Jannik Sinner,R,191,ITA,22.8,2,8770,MW02,,,Corentin Moutet,L,180,FRA,25.1,79,720,2-6 6-3 6-2 6-1,5,R16,,5,5,95,62,45,14,16,2,6,1,2,99,71,39,8,16,6,14
-2024-520,Roland Garros,Clay,128,G,20240526,,DH58,,,Alex de Minaur,R,183,AUS,31.4,11,3490,MM58,,,Daniil Medvedev,R,198,RUS,28.3,5,6295,4-6 6-2 6-1 6-3,5,R16,,,,,,,,,,,,,,,,,,,
+2024-520,Roland Garros,Clay,128,G,20240526,390,DH58,11,,Alex de Minaur,R,183,AUS,25.2,11,3490,MM58,5,,Daniil Medvedev,R,198,RUS,28.2,5,6295,4-6 6-2 6-1 6-3,5,R16,,7,3,101,55,42,26,17,8,10,7,2,114,65,40,22,17,7,14
 2024-520,Roland Garros,Clay,128,G,20240526,,D643,1,,Novak Djokovic,R,188,SRB,37,1,9960,C0AU,23,,Francisco Cerundolo,R,185,ARG,25.8,27,1590,6-1 5-7 3-6 7-5 6-3,5,R16,,6,2,183,123,85,30,25,15,19,3,2,146,95,58,32,24,5,11
 2024-520,Roland Garros,Clay,128,G,20240526,,RH16,7,,Casper Ruud,R,183,NOR,25.4,7,4425,FB98,12,,Taylor Fritz,R,193,USA,26.6,12,2980,7-6 3-6 6-4 6-2,5,R16,,11,7,128,75,52,32,19,8,12,19,4,163,91,65,27,20,21,27
 2024-520,Roland Garros,Clay,128,G,20240526,,Z355,4,,Alexander Zverev,R,198,GER,27.1,4,6305,R0DG,13,,Holger Rune,R,188,DEN,21.1,13,2700,4-6 6-1 5-7 7-6 6-2,5,R16,,16,3,137,96,74,17,25,4,10,10,3,168,96,63,33,24,15,23
@@ -1668,7 +1668,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-741,Eastbourne,Grass,28,A,20240624,,S0RE,,Q,Juncheng Shang,L,180,CHN,19.4,104,595,EA24,7,,Tomas Martin Etcheverry,R,196,ARG,24.9,31,1290,7-5 3-6 7-6,3,R32,145,11,1,99,73,52,17,16,2,3,14,5,97,71,59,13,17,3,4
 2024-741,Eastbourne,Grass,28,A,20240624,,GC88,,,Marcos Giron,R,180,USA,30.9,46,1005,C0AU,5,,Francisco Cerundolo,R,185,ARG,25.9,27,1565,7-6 7-6,3,R32,100,4,0,73,46,41,19,12,0,0,5,1,83,52,41,20,12,1,1
 2024-741,Eastbourne,Grass,28,A,20240624,,RH24,,,Emil Ruusuvuori,R,188,FIN,25.2,88,668,N771,,,Cameron Norrie,L,188,GBR,28.8,44,1070,7-6 6-3,3,R32,95,5,1,73,55,39,16,11,7,7,3,2,67,44,37,11,10,1,2
-2024-741,Eastbourne,Grass,28,A,20240624,,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.3,74,750,M0OQ,,,James McCabe,R,188,AUS,32.4,342,149,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,
+2024-741,Eastbourne,Grass,32,A,20240624,,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.2,74,750,M0OQ,,Q,James McCabe,R,188,AUS,20.9,342,149,6-4 6-4,3,R32,100,5,2,75,51,35,12,10,5,6,3,2,64,50,35,4,10,4,7
 2024-741,Eastbourne,Grass,28,A,20240624,,N732,,Q,Yoshihito Nishioka,L,170,JPN,28.7,102,603,BI23,,WC,Liam Broady,L,183,GBR,30.5,146,404,6-3 6-4,3,R32,105,3,1,48,27,19,16,9,3,4,6,8,100,54,34,19,10,10,14
 2024-741,Eastbourne,Grass,28,A,20240624,,KI95,,,Miomir Kecmanovic,R,183,SRB,24.8,53,920,Z371,,,Zhizhen Zhang,R,193,CHN,27.7,33,1256,6-2 7-6,3,R32,85,9,2,77,48,37,16,10,4,4,9,3,61,46,30,8,10,0,2
 2024-741,Eastbourne,Grass,28,A,20240624,,H0DC,,LL,Giles Hussey,R,185,GBR,27.1,359,141,N0BS,6,,Mariano Navone,R,178,ARG,23.3,32,1282,6-4 6-2,3,R32,63,2,2,40,27,24,8,9,0,1,1,1,49,28,16,9,9,2,6
@@ -1843,64 +1843,64 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-540,Wimbledon,Grass,128,G,20240701,,A0E2,3,,Carlos Alcaraz,R,183,ESP,21.2,3,8130,MM58,5,,Daniil Medvedev,R,198,RUS,28.4,5,6445,6-7 6-3 6-4 6-4,5,SF,175,6,2,113,64,47,30,21,0,3,5,6,131,90,59,22,20,9,15
 2024-540,Wimbledon,Grass,128,G,20240701,,D643,2,,Novak Djokovic,R,188,SRB,37.1,2,8360,M0EJ,25,,Lorenzo Musetti,R,185,ITA,22.3,25,1620,6-4 7-6 6-4,5,SF,168,6,4,103,69,52,15,16,2,4,2,1,111,82,50,12,16,9,13
 2024-540,Wimbledon,Grass,128,G,20240701,,A0E2,3,,Carlos Alcaraz,R,183,ESP,21.2,3,8130,D643,2,,Novak Djokovic,R,188,SRB,37.1,2,8360,6-2 6-2 7-6,5,F,147,5,6,95,56,47,20,14,2,3,8,4,101,71,47,12,14,9,14
-2024-414,Hamburg,Clay,32,A,20240715,,C0E9,,,Flavio Cobolli,R,183,ITA,22.2,48,1000,AE14,,,Daniel Altmaier,R,188,GER,25.8,71,766,6-4 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,BV16,,,Ugo Blanchet,R,175,FRA,25.5,161,370,P09Z,,,Alexei Popyrin,R,196,AUS,24.9,43,1071,4-6 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,MN13,,,Maximilian Marterer,L,188,GER,29.1,108,587,KF17,,,Soonwoo Kwon,R,180,KOR,29.8,349,145,6-4 6-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,DB63,,,Laslo Djere,R,188,SRB,29.1,57,856,BU13,,,Zizou Bergs,R,185,BEL,25.1,73,754,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,S0H2,,,Alexander Shevchenko,R,188,KAZ,23.6,56,860,M0AC,,,Rudolf Molleker,R,188,GER,23.7,197,309,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,C0AU,,,Francisco Cerundolo,R,185,ARG,25.9,33,1280,C0DF,,,Francisco Comesana,R,178,ARG,23.8,100,612,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,MO44,,,Pedro Martinez,R,185,ESP,27.2,49,974,A0FC,,,Matteo Arnaldi,R,185,ITA,23.4,39,1220,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,D0FJ,,,Luciano Darderi,R,183,ITA,22.4,35,1256,H0A4,,,Nick Hardt,R,185,DOM,23.8,191,313,6-1 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,F0F1,,,Arthur Fils,R,185,FRA,20.1,28,1450,MU94,,,Jaume Munar,R,183,ESP,27.2,59,840,5-7 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,L987,,,Dusan Lajovic,R,183,SRB,34,55,871,MW75,,,Felipe Meligeni Alves,R,185,BRA,26.4,144,427,6-2 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,Z371,,,Zhizhen Zhang,R,193,CHN,27.7,34,1261,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.3,72,755,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,TA29,,,Marco Trungelliti,R,178,ARG,34.5,151,393,O513,,,Sebastian Ofner,R,183,AUT,28.2,50,939,6-1 4-3,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,B0BI,,,Sebastian Baez,R,170,ARG,23.5,19,2020,KE73,,,Dominik Koepfer,L,180,GER,30.2,62,811,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,R0DG,,,Holger Rune,R,188,DEN,21.2,17,2210,M0CI,,,Fabian Marozsan,R,193,HUN,24.8,45,1031,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,G09O,,,Hugo Gaston,L,173,FRA,23.8,81,715,D0CG,,,Facundo Diaz Acosta,L,183,ARG,23.6,77,743,7-6 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,Z355,,,Alexander Zverev,R,198,GER,27.2,4,7015,D0C1,,,Jesper de Jong,R,180,NLD,21.4,114,533,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,D0FJ,,,Luciano Darderi,R,183,ITA,22.4,35,1256,S0H2,,,Alexander Shevchenko,R,188,KAZ,23.6,56,860,6-3 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,MO44,,,Pedro Martinez,R,185,ESP,27.2,49,974,BV16,,,Ugo Blanchet,R,175,FRA,25.5,161,370,6-4 0-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,C0AU,,,Francisco Cerundolo,R,185,ARG,25.9,33,1280,MN13,,,Maximilian Marterer,L,188,GER,29.1,108,587,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,B0BI,,,Sebastian Baez,R,170,ARG,23.5,19,2020,L987,,,Dusan Lajovic,R,183,SRB,34,55,871,4-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,F0F1,,,Arthur Fils,R,185,FRA,20.1,28,1450,DB63,,,Laslo Djere,R,188,SRB,29.1,57,856,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,Z371,,,Zhizhen Zhang,R,193,CHN,27.7,34,1261,C0E9,,,Flavio Cobolli,R,183,ITA,22.2,48,1000,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,R0DG,,,Holger Rune,R,188,DEN,21.2,17,2210,TA29,,,Marco Trungelliti,R,178,ARG,34.5,151,393,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,Z355,,,Alexander Zverev,R,198,GER,27.2,4,7015,G09O,,,Hugo Gaston,L,173,FRA,23.8,81,715,4-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,B0BI,,,Sebastian Baez,R,170,ARG,23.5,19,2020,D0FJ,,,Luciano Darderi,R,183,ITA,22.4,35,1256,2-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,F0F1,,,Arthur Fils,R,185,FRA,20.1,28,1450,R0DG,,,Holger Rune,R,188,DEN,21.2,17,2210,6-4 4-1,3,QF,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,MO44,,,Pedro Martinez,R,185,ESP,27.2,49,974,C0AU,,,Francisco Cerundolo,R,185,ARG,25.9,33,1280,1-6 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,Z355,,,Alexander Zverev,R,198,GER,27.2,4,7015,Z371,,,Zhizhen Zhang,R,193,CHN,27.7,34,1261,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,F0F1,,,Arthur Fils,R,185,FRA,20.1,28,1450,B0BI,,,Sebastian Baez,R,170,ARG,23.5,19,2020,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,Z355,,,Alexander Zverev,R,198,GER,27.2,4,7015,MO44,,,Pedro Martinez,R,185,ESP,27.2,49,974,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,
-2024-414,Hamburg,Clay,32,A,20240715,,F0F1,,,Arthur Fils,R,185,FRA,20.1,28,1450,Z355,,,Alexander Zverev,R,198,GER,27.2,4,7015,6-3 3-6 7-6,3,F,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,K0AZ,,,Aleksandar Kovacevic,R,183,USA,25.9,91,668,M0G4,,,Harold Mayot,R,180,FRA,22.4,124,499,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,C0BC,,,Maxime Cressy,R,201,USA,27.2,180,333,A829,,,Radu Albot,R,183,MDA,34.7,149,411,6-4 4-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,V832,,,Aleksandar Vukic,R,188,AUS,28.3,65,794,W0BH,,,Coleman Wong,R,191,HKG,20.1,179,333,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,O522,,,Reilly Opelka,R,211,USA,26.9,1187,7,LB66,,,Constant Lestienne,R,180,FRA,32.1,94,650,6-1 2-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,RC91,,,Arthur Rinderknech,R,196,FRA,29,66,794,M0HU,,,Shintaro Mochizuki,R,175,JPN,21.1,156,385,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,MK66,,,Mackenzie McDonald,R,178,USA,21.9,99,626,H0BH,,,Rinky Hijikata,R,178,AUS,23.4,74,751,4-6 7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,HD68,,,Billy Harris,R,193,GBR,29.5,116,529,D0F6,,,Gabriel Diallo,R,203,CAN,22.8,165,355,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,PD31,,,Benoit Paire,R,196,FRA,35.2,227,261,S0K7,,,Zachary Svajda,R,175,USA,21.6,113,541,6-3 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,Q02L,,,Ethan Quinn,R,191,USA,20.3,254,225,PG94,,,Marc Polmans,R,188,AUS,27.2,217,278,6-3 6-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,BI81,,,Alex Bolt,L,183,AUS,31.5,210,292,M0NI,,,Jakub Mensik,R,193,CZE,18.9,79,728,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,S0JA,,,Eliot Spizzirri,R,183,USA,22.6,393,123,TC01,,,Li Tu,R,183,AUS,28.1,208,294,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,N0AE,,,Brandon Nakashima,R,188,USA,22.9,53,915,N0AM,,,Emilio Nava,R,185,USA,22.6,148,415,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,K0AZ,,,Aleksandar Kovacevic,R,183,USA,25.9,91,668,RC91,,,Arthur Rinderknech,R,196,FRA,29,66,794,6-3 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,M0QL,,,Alex Michelsen,R,193,USA,19.9,61,816,C0BC,,,Maxime Cressy,R,201,USA,27.2,180,333,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,O522,,,Reilly Opelka,R,211,USA,26.9,1187,7,ME82,,,Adrian Mannarino,L,180,FRA,36,25,1590,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,MK66,,,Mackenzie McDonald,R,178,USA,21.9,99,626,HD68,,,Billy Harris,R,193,GBR,29.5,116,529,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,E865,,,Christopher Eubanks,R,201,USA,28.2,128,485,Q02L,,,Ethan Quinn,R,191,USA,20.3,254,225,7-6 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,V832,,,Aleksandar Vukic,R,188,AUS,28.3,65,794,S0JA,,,Eliot Spizzirri,R,183,USA,22.6,393,123,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,BI81,,,Alex Bolt,L,183,AUS,31.5,210,292,N0AE,,,Brandon Nakashima,R,188,USA,22.9,53,915,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,GC88,,,Marcos Giron,R,180,USA,31,46,1025,PD31,,,Benoit Paire,R,196,FRA,35.2,227,261,4-6 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,M0QL,,,Alex Michelsen,R,193,USA,19.9,61,816,K0AZ,,,Aleksandar Kovacevic,R,183,USA,25.9,91,668,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,O522,,,Reilly Opelka,R,211,USA,26.9,1187,7,MK66,,,Mackenzie McDonald,R,178,USA,21.9,99,626,4-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,E865,,,Christopher Eubanks,R,201,USA,28.2,128,485,V832,,,Aleksandar Vukic,R,188,AUS,28.3,65,794,6-2 4-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,GC88,,,Marcos Giron,R,180,USA,31,46,1025,BI81,,,Alex Bolt,L,183,AUS,31.5,210,292,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,M0QL,,,Alex Michelsen,R,193,USA,19.9,61,816,O522,,,Reilly Opelka,R,211,USA,26.9,1187,7,6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,GC88,,,Marcos Giron,R,180,USA,31,46,1025,E865,,,Christopher Eubanks,R,201,USA,28.2,128,485,6-4 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,
-2024-315,Newport,Grass,28,A,20240715,,GC88,,,Marcos Giron,R,180,USA,31,46,1025,M0QL,,,Alex Michelsen,R,193,USA,19.9,61,816,6-7 6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,
+2024-414,Hamburg,Clay,32,A,20240715,270,R0DG,2,,Holger Rune,R,188,DEN,21.2,17,2210,M0CI,,,Fabian Marozsan,R,193,HUN,24.7,45,1031,6-4 6-4,3,R32,80,6,3,56,36,32,11,10,4,4,2,1,69,47,31,13,10,3,5
+2024-414,Hamburg,Clay,32,A,20240715,271,TA29,,Q,Marco Trungelliti,R,178,ARG,34.4,151,393,O513,,,Sebastian Ofner,R,191,AUT,28.1,50,939,6-1 4-3 RET,3,R32,68,2,2,54,32,21,14,7,8,8,3,1,48,27,16,11,7,7,10
+2024-414,Hamburg,Clay,32,A,20240715,272,DB63,,,Laslo Djere,R,188,SRB,29.1,57,856,BU13,,,Zizou Bergs,R,185,BEL,25.1,73,754,6-3 7-6(4),3,R32,107,5,2,80,49,38,14,11,5,6,4,0,64,44,30,10,10,1,3
+2024-414,Hamburg,Clay,32,A,20240715,273,F0F1,5,,Arthur Fils,R,185,FRA,20,28,1450,MU94,,,Jaume Munar,R,183,ESP,27.1,59,840,5-7 6-3 6-1,3,R32,131,2,1,81,54,38,17,14,3,5,2,3,79,43,27,18,14,5,10
+2024-414,Hamburg,Clay,32,A,20240715,274,B0BI,3,,Sebastian Baez,R,170,ARG,23.5,19,2020,KE73,,,Dominik Koepfer,L,180,GER,30.2,62,811,6-2 6-3,3,R32,64,4,0,44,29,24,9,8,0,0,2,4,49,25,14,13,9,4,8
+2024-414,Hamburg,Clay,32,A,20240715,275,L987,,,Dusan Lajovic,R,183,SRB,34,55,871,MW75,,Q,Felipe Meligeni Alves,R,185,BRA,26.4,144,427,6-2 6-7(5) 6-3,3,R32,146,9,2,123,81,60,21,15,5,5,6,2,94,64,43,13,14,3,6
+2024-414,Hamburg,Clay,32,A,20240715,276,S0H2,,,Alexander Shevchenko,R,185,KAZ,23.6,56,860,M0AC,,WC,Rudolf Molleker,R,188,GER,23.7,197,309,6-4 4-6 6-4,3,R32,123,10,3,93,53,37,20,15,6,10,6,3,102,63,40,18,15,5,10
+2024-414,Hamburg,Clay,32,A,20240715,277,D0FJ,7,,Luciano Darderi,R,183,ITA,22.4,35,1256,H0A4,,LL,Nick Hardt,R,185,DOM,23.8,191,313,6-1 2-6 6-0,3,R32,97,8,2,74,43,32,14,11,5,7,0,1,58,37,22,8,10,1,6
+2024-414,Hamburg,Clay,32,A,20240715,278,MO44,,,Pedro Martinez,R,185,ESP,27.2,49,974,A0FC,6,,Matteo Arnaldi,R,185,ITA,23.3,39,1220,7-6(4) 6-1,3,R32,100,1,3,68,49,33,7,10,1,4,7,4,58,30,20,7,9,3,8
+2024-414,Hamburg,Clay,32,A,20240715,279,BV16,,Q,Ugo Blanchet,R,175,FRA,25.5,161,370,P09Z,,,Alexei Popyrin,R,196,AUS,24.9,43,1071,4-6 7-6(6) 6-2,3,R32,153,7,5,101,47,34,31,15,4,7,14,4,101,67,48,13,15,6,10
+2024-414,Hamburg,Clay,32,A,20240715,280,MN13,,WC,Maximilian Marterer,L,188,GER,29,108,587,KF17,,PR,Soonwoo Kwon,R,180,KOR,26.6,349,145,6-4 6-7(6) 7-5,3,R32,169,10,3,104,60,49,24,17,3,4,8,1,119,69,48,28,17,9,12
+2024-414,Hamburg,Clay,32,A,20240715,281,C0AU,4,,Francisco Cerundolo,R,185,ARG,25.9,33,1280,C0DF,,LL,Francisco Comesana,R,178,ARG,23.7,100,612,7-5 6-4,3,R32,99,4,4,67,44,29,12,11,4,7,3,0,68,53,29,9,11,7,12
+2024-414,Hamburg,Clay,32,A,20240715,282,Z371,8,,Zhizhen Zhang,R,193,CHN,27.7,34,1261,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.3,72,755,7-6(6) 6-0,3,R32,99,6,2,64,36,28,16,9,2,3,1,2,70,42,23,13,9,5,9
+2024-414,Hamburg,Clay,32,A,20240715,283,C0E9,,,Flavio Cobolli,R,183,ITA,22.1,48,1000,AE14,,,Daniel Altmaier,R,188,GER,25.8,71,766,6-4 6-7(6) 6-3,3,R32,158,8,4,99,56,44,26,16,2,3,10,4,110,66,46,24,15,8,11
+2024-414,Hamburg,Clay,32,A,20240715,284,G09O,,,Hugo Gaston,L,173,FRA,23.8,81,715,D0CG,,,Facundo Diaz Acosta,L,183,ARG,23.5,77,743,7-6(4) 1-6 6-4,3,R32,153,3,4,109,60,32,30,15,10,15,3,3,97,63,39,19,14,3,6
+2024-414,Hamburg,Clay,32,A,20240715,285,Z355,1,,Alexander Zverev,R,198,GER,27.2,4,7015,D0C1,,Q,Jesper de Jong,R,180,NED,24.1,114,533,6-2 6-2,3,R32,77,4,1,48,33,26,9,8,0,0,1,1,54,24,16,12,8,1,5
+2024-414,Hamburg,Clay,32,A,20240715,286,R0DG,2,,Holger Rune,R,188,DEN,21.2,17,2210,TA29,,Q,Marco Trungelliti,R,178,ARG,34.4,151,393,6-4 6-3,3,R16,79,8,0,58,41,30,10,10,3,4,0,3,49,25,17,12,9,3,6
+2024-414,Hamburg,Clay,32,A,20240715,287,F0F1,5,,Arthur Fils,R,185,FRA,20,28,1450,DB63,,,Laslo Djere,R,188,SRB,29.1,57,856,7-6(3) 6-2,3,R16,106,3,2,68,45,34,13,10,6,7,2,1,70,51,30,10,10,6,9
+2024-414,Hamburg,Clay,32,A,20240715,288,B0BI,3,,Sebastian Baez,R,170,ARG,23.5,19,2020,L987,,,Dusan Lajovic,R,183,SRB,34,55,871,4-6 7-5 6-2,3,R16,160,3,3,99,66,44,20,15,9,11,3,0,130,99,60,13,15,15,19
+2024-414,Hamburg,Clay,32,A,20240715,289,D0FJ,7,,Luciano Darderi,R,183,ITA,22.4,35,1256,S0H2,,,Alexander Shevchenko,R,185,KAZ,23.6,56,860,6-3 2-6 6-3,3,R16,113,4,2,79,43,28,18,13,4,8,1,4,75,39,22,18,13,3,8
+2024-414,Hamburg,Clay,32,A,20240715,290,MO44,,,Pedro Martinez,R,185,ESP,27.2,49,974,BV16,,Q,Ugo Blanchet,R,175,FRA,25.5,161,370,6-4 0-6 7-5,3,R16,132,1,2,76,60,40,4,14,2,7,8,4,85,49,33,20,14,7,11
+2024-414,Hamburg,Clay,32,A,20240715,291,C0AU,4,,Francisco Cerundolo,R,185,ARG,25.9,33,1280,MN13,,WC,Maximilian Marterer,L,188,GER,29,108,587,6-0 6-2,3,R16,68,3,2,52,31,23,11,7,3,3,0,2,41,29,11,5,7,5,10
+2024-414,Hamburg,Clay,32,A,20240715,292,Z371,8,,Zhizhen Zhang,R,193,CHN,27.7,34,1261,C0E9,,,Flavio Cobolli,R,183,ITA,22.1,48,1000,6-1 7-6(5),3,R16,75,3,1,50,30,27,10,9,1,2,6,2,67,45,28,10,10,3,7
+2024-414,Hamburg,Clay,32,A,20240715,293,Z355,1,,Alexander Zverev,R,198,GER,27.2,4,7015,G09O,,,Hugo Gaston,L,173,FRA,23.8,81,715,4-6 6-2 7-5,3,R16,157,8,1,107,72,54,13,15,11,15,4,1,91,49,31,19,15,8,14
+2024-414,Hamburg,Clay,32,A,20240715,294,F0F1,5,,Arthur Fils,R,185,FRA,20,28,1450,R0DG,2,,Holger Rune,R,188,DEN,21.2,17,2210,6-4 4-1 RET,3,QF,65,2,2,38,24,19,10,7,0,0,2,1,46,32,19,7,8,0,3
+2024-414,Hamburg,Clay,32,A,20240715,295,B0BI,3,,Sebastian Baez,R,170,ARG,23.5,19,2020,D0FJ,7,,Luciano Darderi,R,183,ITA,22.4,35,1256,2-6 6-4 6-4,3,QF,137,6,4,90,67,46,5,14,5,10,6,3,98,66,41,14,14,8,13
+2024-414,Hamburg,Clay,32,A,20240715,296,MO44,,,Pedro Martinez,R,185,ESP,27.2,49,974,C0AU,4,,Francisco Cerundolo,R,185,ARG,25.9,33,1280,1-6 6-1 6-4,3,QF,116,0,0,66,50,29,9,12,1,5,2,3,70,40,24,12,12,5,10
+2024-414,Hamburg,Clay,32,A,20240715,297,Z355,1,,Alexander Zverev,R,198,GER,27.2,4,7015,Z371,8,,Zhizhen Zhang,R,193,CHN,27.7,34,1261,6-4 6-3,3,QF,66,10,2,45,33,29,7,9,0,0,3,0,54,35,25,9,10,1,4
+2024-414,Hamburg,Clay,32,A,20240715,298,F0F1,5,,Arthur Fils,R,185,FRA,20,28,1450,B0BI,3,,Sebastian Baez,R,170,ARG,23.5,19,2020,6-2 6-2,3,SF,66,6,0,45,33,25,8,8,1,1,1,0,48,34,20,5,8,3,7
+2024-414,Hamburg,Clay,32,A,20240715,299,Z355,1,,Alexander Zverev,R,198,GER,27.2,4,7015,MO44,,,Pedro Martinez,R,185,ESP,27.2,49,974,6-2 6-4,3,SF,84,13,3,51,35,31,8,9,1,1,1,2,65,45,25,11,9,5,8
+2024-414,Hamburg,Clay,32,A,20240715,300,F0F1,5,,Arthur Fils,R,185,FRA,20,28,1450,Z355,1,,Alexander Zverev,R,198,GER,27.2,4,7015,6-3 3-6 7-6(1),3,F,213,0,2,147,97,67,23,15,21,22,8,2,111,74,49,20,15,3,4
+2024-315,Newport,Grass,32,A,20240715,300,GC88,2,,Marcos Giron,R,180,USA,30.9,46,1025,M0QL,3,,Alex Michelsen,R,193,USA,19.8,61,816,6-7(4) 6-3 7-5,3,F,157,13,2,107,67,55,18,17,8,9,0,2,123,86,58,16,16,10,13
+2024-315,Newport,Grass,32,A,20240715,299,M0QL,3,,Alex Michelsen,R,193,USA,19.8,61,816,O522,,WC,Reilly Opelka,R,211,USA,26.8,1187,7,6-2 6-0,3,SF,59,1,0,41,27,23,7,7,3,3,8,1,48,26,13,8,7,4,9
+2024-315,Newport,Grass,32,A,20240715,298,GC88,2,,Marcos Giron,R,180,USA,30.9,46,1025,E865,4,,Christopher Eubanks,R,201,USA,28.1,128,485,6-4 3-6 6-2,3,SF,100,6,1,81,44,36,17,13,1,3,5,4,76,41,30,18,14,6,10
+2024-315,Newport,Grass,32,A,20240715,297,O522,,WC,Reilly Opelka,R,211,USA,26.8,1187,7,MK66,,,Mackenzie McDonald,R,178,USA,29.2,99,626,4-6 6-3 6-4,3,QF,108,27,8,79,50,44,16,15,1,2,4,5,77,41,33,20,14,1,3
+2024-315,Newport,Grass,32,A,20240715,296,M0QL,3,,Alex Michelsen,R,193,USA,19.8,61,816,K0AZ,,,Aleksandar Kovacevic,R,183,USA,25.8,91,668,6-4 6-4,3,QF,85,5,3,59,40,28,14,10,1,1,12,0,68,46,31,11,10,4,6
+2024-315,Newport,Grass,32,A,20240715,295,E865,4,,Christopher Eubanks,R,201,USA,28.1,128,485,V832,6,,Aleksandar Vukic,R,188,AUS,28.2,65,794,6-2 4-6 7-6(3),3,QF,125,13,7,95,66,53,12,15,6,8,13,5,103,61,47,18,15,4,7
+2024-315,Newport,Grass,32,A,20240715,294,GC88,2,,Marcos Giron,R,180,USA,30.9,46,1025,BI81,,Q,Alex Bolt,L,183,AUS,31.5,210,292,6-4 6-1,3,QF,74,2,0,50,31,21,14,8,3,3,3,3,63,37,23,10,9,6,10
+2024-315,Newport,Grass,32,A,20240715,293,O522,,WC,Reilly Opelka,R,211,USA,26.8,1187,7,ME82,1,,Adrian Mannarino,L,180,FRA,36,25,1590,6-4 3-6 6-4,3,R16,114,19,1,78,48,42,14,15,1,3,3,2,77,53,36,17,14,2,4
+2024-315,Newport,Grass,32,A,20240715,292,MK66,,,Mackenzie McDonald,R,178,USA,29.2,99,626,HD68,,Q,Billy Harris,R,193,GBR,29.4,116,529,6-3 6-4,3,R16,82,6,0,40,28,26,10,9,0,0,6,8,79,44,28,16,10,6,9
+2024-315,Newport,Grass,32,A,20240715,291,M0QL,3,,Alex Michelsen,R,193,USA,19.8,61,816,C0BC,,,Maxime Cressy,R,201,USA,27.1,180,333,6-4 6-4,3,R16,82,1,1,56,35,27,16,10,2,2,6,6,54,29,25,10,10,1,3
+2024-315,Newport,Grass,32,A,20240715,290,K0AZ,,,Aleksandar Kovacevic,R,183,USA,25.8,91,668,RC91,7,,Arthur Rinderknech,R,196,FRA,28.9,66,794,6-3 3-6 7-5,3,R16,136,6,2,84,50,36,20,15,1,3,14,8,99,59,40,23,15,6,9
+2024-315,Newport,Grass,32,A,20240715,289,V832,6,,Aleksandar Vukic,R,188,AUS,28.2,65,794,S0JA,,WC,Eliot Spizzirri,R,183,USA,22.5,393,123,6-2 7-6(3),3,R16,88,5,0,55,39,31,11,10,1,2,6,3,66,40,27,11,10,3,6
+2024-315,Newport,Grass,32,A,20240715,288,E865,4,,Christopher Eubanks,R,201,USA,28.1,128,485,Q02L,,WC,Ethan Quinn,R,191,USA,20.3,254,225,7-6(4) 3-6 6-3,3,R16,145,16,8,113,76,53,20,15,9,11,4,2,104,66,47,19,15,4,6
+2024-315,Newport,Grass,32,A,20240715,287,BI81,,Q,Alex Bolt,L,183,AUS,31.5,210,292,N0AE,5,,Brandon Nakashima,R,188,USA,22.9,53,915,7-6(2) 6-4,3,R16,95,9,2,71,47,35,13,11,4,6,3,2,71,46,28,14,11,9,12
+2024-315,Newport,Grass,32,A,20240715,286,GC88,2,,Marcos Giron,R,180,USA,30.9,46,1025,PD31,,,Benoit Paire,R,196,FRA,35.1,227,261,4-6 7-5 6-4,3,R16,132,8,4,101,54,40,21,16,3,7,2,9,96,50,36,21,16,5,10
+2024-315,Newport,Grass,32,A,20240715,284,O522,,WC,Reilly Opelka,R,211,USA,26.8,1187,7,LB66,,,Constant Lestienne,R,180,FRA,32.1,94,650,6-1 2-6 7-6(2),3,R32,125,16,6,81,47,42,16,14,2,4,3,3,89,50,38,18,13,8,10
+2024-315,Newport,Grass,32,A,20240715,283,HD68,,Q,Billy Harris,R,193,GBR,29.4,116,529,D0F6,,,Gabriel Diallo,R,203,CAN,22.8,165,355,7-6(4) 7-5,3,R32,145,4,2,89,56,39,20,12,7,8,7,6,98,52,36,23,12,6,8
+2024-315,Newport,Grass,32,A,20240715,282,MK66,,,Mackenzie McDonald,R,178,USA,29.2,99,626,H0BH,8,,Rinky Hijikata,R,178,AUS,23.3,74,751,4-6 7-6(4) 6-2,3,R32,132,3,4,96,66,46,9,15,6,12,2,4,95,54,32,17,15,6,13
+2024-315,Newport,Grass,32,A,20240715,280,C0BC,,,Maxime Cressy,R,201,USA,27.1,180,333,A829,,,Radu Albot,R,175,MDA,34.6,149,411,6-4 4-6 7-6(4),3,R32,171,14,23,108,53,39,21,16,8,14,3,4,122,71,43,24,16,9,15
+2024-315,Newport,Grass,32,A,20240715,279,K0AZ,,,Aleksandar Kovacevic,R,183,USA,25.8,91,668,M0G4,,,Harold Mayot,R,180,FRA,22.4,124,499,7-6(1) 6-4,3,R32,89,7,2,60,35,31,17,11,0,0,10,4,69,40,28,17,11,2,3
+2024-315,Newport,Grass,32,A,20240715,278,RC91,7,,Arthur Rinderknech,R,196,FRA,28.9,66,794,M0HU,,,Shintaro Mochizuki,R,175,JPN,21.1,156,385,6-3 7-6(5),3,R32,111,9,9,87,47,41,13,11,5,7,3,3,65,29,17,21,10,4,7
+2024-315,Newport,Grass,32,A,20240715,277,V832,6,,Aleksandar Vukic,R,188,AUS,28.2,65,794,W0BH,,,Coleman Wong,R,191,HKG,20.1,179,333,6-1 6-2,3,R32,66,4,0,56,28,22,16,8,6,6,5,5,53,20,15,10,7,2,6
+2024-315,Newport,Grass,32,A,20240715,276,S0JA,,WC,Eliot Spizzirri,R,183,USA,22.5,393,123,TC01,,Q,Li Tu,R,183,AUS,28.1,208,294,6-1 7-6(4),3,R32,80,5,3,64,41,33,12,9,4,5,1,1,73,46,27,13,10,5,9
+2024-315,Newport,Grass,32,A,20240715,275,Q02L,,WC,Ethan Quinn,R,191,USA,20.3,254,225,PG94,,Q,Marc Polmans,R,188,AUS,27.2,217,278,6-3 6-7(3) 6-1,3,R32,137,4,3,93,59,40,17,13,6,8,0,9,97,63,41,13,15,7,14
+2024-315,Newport,Grass,32,A,20240715,273,N0AE,5,,Brandon Nakashima,R,188,USA,22.9,53,915,N0AM,,,Emilio Nava,R,185,USA,22.6,148,415,7-5 6-2,3,R32,77,0,1,51,30,25,13,10,1,2,3,2,60,36,22,11,10,1,5
+2024-315,Newport,Grass,32,A,20240715,272,BI81,,Q,Alex Bolt,L,183,AUS,31.5,210,292,M0NI,,,Jakub Mensik,R,193,CZE,18.8,79,728,6-2 6-4,3,R32,101,4,2,52,31,26,9,9,0,1,4,6,52,26,18,9,9,2,6
+2024-315,Newport,Grass,32,A,20240715,271,PD31,,,Benoit Paire,R,196,FRA,35.1,227,261,S0K7,,,Zachary Svajda,R,175,USA,21.6,113,541,6-3 3-6 7-6(4),3,R32,109,9,12,97,55,42,16,15,8,13,1,7,96,65,45,12,15,3,8
 2024-316,Bastad,Clay,28,A,20240715,,K09F,8,,Pavel Kotov,R,191,RUS,25.7,60,821,GD64,,,Cristian Garin,R,185,CHI,28.1,106,590,6-4 6-7 6-1,3,R32,153,5,1,102,66,42,25,15,4,5,1,7,94,63,44,14,14,3,7
 2024-316,Bastad,Clay,28,A,20240715,,N771,5,,Cameron Norrie,L,188,GBR,28.9,42,1125,KC04,,,Jozef Kovalik,R,183,SVK,31.7,102,607,7-6 6-4,3,R32,95,7,2,66,45,37,14,11,0,0,4,1,76,59,39,9,11,5,6
 2024-316,Bastad,Clay,28,A,20240715,,CF59,,,Roberto Carballes Baena,R,180,ESP,36.3,54,906,SX50,6,,Roman Safiullin,R,188,RUS,26.9,67,785,5-7 7-6 6-3,3,R32,176,4,0,105,71,47,22,17,2,6,11,1,108,64,41,23,16,6,10
@@ -2009,33 +2009,33 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-439,Umag,Clay,28,A,20240722,,C0AU,4,,Francisco Cerundolo,R,185,ARG,25.9,37,1290,RE44,1,,Andrey Rublev,R,188,RUS,26.8,9,3830,7-6 6-4,3,SF,113,4,6,79,43,34,19,11,5,6,3,5,74,43,31,14,11,3,5
 2024-439,Umag,Clay,28,A,20240722,,M0EJ,2,,Lorenzo Musetti,R,185,ITA,22.4,17,2265,M0NI,,,Jakub Mensik,R,193,CZE,18.9,81,721,6-4 6-1,3,SF,76,1,0,42,25,19,10,8,0,1,1,2,45,20,11,9,9,0,5
 2024-439,Umag,Clay,28,A,20240722,,C0AU,4,,Francisco Cerundolo,R,185,ARG,25.9,37,1290,M0EJ,2,,Lorenzo Musetti,R,185,ITA,22.4,17,2265,2-6 6-4 7-6,3,F,180,1,4,126,91,57,16,15,7,11,3,1,98,62,41,18,15,2,5
-2024-6116,Atlanta,Hard,28,A,20240722,,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.1,43,1150,C0H0,,,Arthur Cazaux,R,183,FRA,21.9,92,657,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,N732,,,Yoshihito Nishioka,L,170,JPN,28.8,86,699,S0K7,,,Zachary Svajda,R,175,USA,21.6,115,541,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,GB88,,,David Goffin,R,180,BEL,33.6,98,630,SU55,,,Denis Shapovalov,L,185,CAN,25.3,140,450,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,KC56,,,Aslan Karatsev,R,185,RUS,30.9,107,580,HD68,,,Billy Harris,R,193,GBR,29.5,114,551,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,RC91,,,Arthur Rinderknech,R,196,FRA,29,64,806,W09G,,,J.J. Wolf,R,183,USA,23.2,120,519,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,W09E,,,Adam Walton,R,183,AUS,25.3,95,648,KI95,,,Miomir Kecmanovic,R,183,SRB,24.9,52,935,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,MK66,,,Mackenzie McDonald,R,178,USA,21.9,97,631,N0AE,,,Brandon Nakashima,R,188,USA,23,55,915,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,B0GG,,,Mattia Bellucci,R,175,ITA,23.1,146,418,V832,,,Aleksandar Vukic,R,188,AUS,28.3,60,834,1-6 6-4 3-1,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,M0G4,,,Harold Mayot,R,180,FRA,22.5,122,499,CG80,,,Borna Coric,R,188,CRO,27.7,84,704,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,PH71,,,Max Purcell,R,185,AUS,26.3,66,795,O483,,,Christopher O'Connell,R,183,AUS,28.2,93,653,4-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,O522,,,Reilly Opelka,R,211,USA,26.9,430,107,K0AZ,,,Aleksandar Kovacevic,R,183,USA,25.9,82,718,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,S0RE,,,Juncheng Shang,L,180,CHN,19.5,89,678,MF35,,,Andrej Martin,R,183,SVK,34.8,483,86,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,RC91,,,Arthur Rinderknech,R,196,FRA,29,64,806,W09E,,,Adam Walton,R,183,AUS,25.3,95,648,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,B0GG,,,Mattia Bellucci,R,175,ITA,23.1,146,418,ME82,,,Adrian Mannarino,L,180,FRA,36.1,32,1340,7-6 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,N732,,,Yoshihito Nishioka,L,170,JPN,28.8,86,699,MK66,,,Mackenzie McDonald,R,178,USA,21.9,97,631,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,TC61,,,Jordan Thompson,R,183,AUS,30.3,41,1191,M0G4,,,Harold Mayot,R,180,FRA,22.5,122,499,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,TD51,,,Frances Tiafoe,R,188,USA,26.5,29,1365,KC56,,,Aslan Karatsev,R,185,RUS,30.9,107,580,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.1,43,1150,O522,,,Reilly Opelka,R,211,USA,26.9,430,107,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,PH71,,,Max Purcell,R,185,AUS,26.3,66,795,GB88,,,David Goffin,R,180,BEL,33.6,98,630,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,S0RE,,,Juncheng Shang,L,180,CHN,19.5,89,678,S0S1,,,Ben Shelton,L,193,USA,21.8,14,2750,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,TC61,,,Jordan Thompson,R,183,AUS,30.3,41,1191,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.1,43,1150,7-6 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,S0RE,,,Juncheng Shang,L,180,CHN,19.5,89,678,PH71,,,Max Purcell,R,185,AUS,26.3,66,795,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,N732,,,Yoshihito Nishioka,L,170,JPN,28.8,86,699,TD51,,,Frances Tiafoe,R,188,USA,26.5,29,1365,7-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,RC91,,,Arthur Rinderknech,R,196,FRA,29,64,806,B0GG,,,Mattia Bellucci,R,175,ITA,23.1,146,418,7-6 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,TC61,,,Jordan Thompson,R,183,AUS,30.3,41,1191,S0RE,,,Juncheng Shang,L,180,CHN,19.5,89,678,6-3 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,N732,,,Yoshihito Nishioka,L,170,JPN,28.8,86,699,RC91,,,Arthur Rinderknech,R,196,FRA,29,64,806,6-3 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,
-2024-6116,Atlanta,Hard,28,A,20240722,,N732,,,Yoshihito Nishioka,L,170,JPN,28.8,86,699,TC61,,,Jordan Thompson,R,183,AUS,30.3,41,1191,4-6 7-6 6-2,3,F,,,,,,,,,,,,,,,,,,,
+2024-6116,Atlanta,Hard,32,A,20240722,271,B0GG,,Q,Mattia Bellucci,L,175,ITA,23.1,146,418,V832,,,Aleksandar Vukic,R,188,AUS,28.2,60,834,1-6 6-4 3-1 RET,3,R32,108,8,1,54,41,27,7,10,1,4,10,1,79,55,36,12,11,5,8
+2024-6116,Atlanta,Hard,32,A,20240722,272,RC91,,,Arthur Rinderknech,R,196,FRA,28.9,64,806,W09G,,LL,J.J. Wolf,R,183,USA,25.5,120,519,6-3 6-2,3,R32,72,11,0,41,33,29,3,8,0,0,3,2,50,28,19,7,9,0,4
+2024-6116,Atlanta,Hard,32,A,20240722,273,W09E,,LL,Adam Walton,R,183,AUS,25.2,95,648,KI95,6,,Miomir Kecmanovic,R,183,SRB,24.8,52,935,6-4 6-4,3,R32,78,6,4,59,39,33,11,10,3,3,4,0,51,33,25,8,10,1,3
+2024-6116,Atlanta,Hard,32,A,20240722,275,KC56,,,Aslan Karatsev,R,185,RUS,30.8,107,580,HD68,,Q,Billy Harris,R,193,GBR,29.4,114,551,6-2 6-2,3,R32,70,6,0,40,28,23,10,8,0,0,3,4,50,32,20,5,8,3,7
+2024-6116,Atlanta,Hard,32,A,20240722,276,N732,,,Yoshihito Nishioka,L,170,JPN,28.8,86,699,S0K7,,Q,Zachary Svajda,R,175,USA,21.6,115,541,7-6(4) 6-3,3,R32,85,9,0,65,44,35,12,11,0,1,5,0,63,49,29,12,10,4,6
+2024-6116,Atlanta,Hard,32,A,20240722,277,MK66,,,Mackenzie McDonald,R,178,USA,29.2,97,631,N0AE,7,,Brandon Nakashima,R,188,USA,22.9,55,915,6-2 6-4,3,R32,72,5,0,57,39,26,15,9,3,3,9,1,48,34,23,5,9,0,3
+2024-6116,Atlanta,Hard,32,A,20240722,278,DH50,5,,Alejandro Davidovich Fokina,R,183,ESP,25.1,43,1150,C0H0,,,Arthur Cazaux,R,183,FRA,21.9,92,657,6-2 7-6(4),3,R32,111,11,0,70,47,39,12,10,5,5,8,1,73,37,28,18,10,1,3
+2024-6116,Atlanta,Hard,32,A,20240722,279,O522,,SE,Reilly Opelka,R,211,USA,26.8,430,107,K0AZ,,,Aleksandar Kovacevic,R,183,USA,25.8,82,718,6-3 7-6(5),3,R32,83,19,1,65,44,38,14,11,2,2,9,3,59,43,37,8,10,3,4
+2024-6116,Atlanta,Hard,32,A,20240722,280,M0G4,,LL,Harold Mayot,R,180,FRA,22.4,122,499,CG80,,,Borna Coric,R,188,CRO,27.6,84,704,7-6(9) 6-3,3,R32,123,8,3,70,51,41,13,10,6,6,15,2,84,54,41,13,11,5,7
+2024-6116,Atlanta,Hard,32,A,20240722,282,PH71,8,,Max Purcell,R,185,AUS,26.3,66,795,O483,,,Christopher O'Connell,R,183,AUS,30.1,93,653,4-6 7-5 6-2,3,R32,136,17,1,81,48,40,20,15,2,3,7,4,91,54,36,21,15,4,7
+2024-6116,Atlanta,Hard,32,A,20240722,283,GB88,,,David Goffin,R,180,BEL,33.6,98,630,SU55,,WC,Denis Shapovalov,L,185,CAN,25.2,140,450,6-4 3-6 6-1,3,R32,124,0,2,94,64,44,14,13,7,9,7,4,87,48,33,18,13,7,11
+2024-6116,Atlanta,Hard,32,A,20240722,284,S0RE,,Q,Juncheng Shang,L,180,CHN,19.4,89,678,M0NP,,WC,Andres Martin,R,183,USA,23,483,86,6-1 6-1,3,R32,55,3,1,43,28,24,7,7,2,2,4,1,35,20,10,2,7,4,9
+2024-6116,Atlanta,Hard,32,A,20240722,286,B0GG,,Q,Mattia Bellucci,L,175,ITA,23.1,146,418,ME82,2,,Adrian Mannarino,L,180,FRA,36,32,1340,7-6(6) 4-6 6-3,3,R16,161,17,2,111,80,62,17,16,10,11,10,1,94,61,46,19,15,5,6
+2024-6116,Atlanta,Hard,32,A,20240722,287,RC91,,,Arthur Rinderknech,R,196,FRA,28.9,64,806,W09E,,LL,Adam Walton,R,183,AUS,25.2,95,648,7-6(4) 6-3,3,R16,92,17,0,57,43,40,8,11,0,0,8,0,56,38,33,8,10,3,4
+2024-6116,Atlanta,Hard,32,A,20240722,288,TD51,3,,Frances Tiafoe,R,188,USA,26.5,29,1365,KC56,,,Aslan Karatsev,R,185,RUS,30.8,107,580,6-4 3-6 6-3,3,R16,125,18,3,84,55,46,12,14,3,4,14,4,91,60,41,19,14,4,6
+2024-6116,Atlanta,Hard,32,A,20240722,289,N732,,,Yoshihito Nishioka,L,170,JPN,28.8,86,699,MK66,,,Mackenzie McDonald,R,178,USA,29.2,97,631,6-3 6-4,3,R16,87,0,1,63,37,26,15,10,0,1,4,3,64,41,25,11,9,4,7
+2024-6116,Atlanta,Hard,32,A,20240722,290,DH50,5,,Alejandro Davidovich Fokina,R,183,ESP,25.1,43,1150,O522,,SE,Reilly Opelka,R,211,USA,26.8,430,107,7-5 7-5,3,R16,106,3,1,75,55,41,14,12,4,4,16,3,70,43,35,13,12,8,10
+2024-6116,Atlanta,Hard,32,A,20240722,291,TC61,4,,Jordan Thompson,R,183,AUS,30.2,41,1191,M0G4,,LL,Harold Mayot,R,180,FRA,22.4,122,499,6-2 7-5,3,R16,85,9,1,50,37,31,10,10,0,0,1,3,60,39,24,11,10,0,3
+2024-6116,Atlanta,Hard,32,A,20240722,292,PH71,8,,Max Purcell,R,185,AUS,26.3,66,795,GB88,,,David Goffin,R,180,BEL,33.6,98,630,6-3 6-3,3,R16,61,8,0,47,29,24,12,9,0,0,4,1,47,36,24,4,9,0,3
+2024-6116,Atlanta,Hard,32,A,20240722,293,S0RE,,Q,Juncheng Shang,L,180,CHN,19.4,89,678,S0S1,1,,Ben Shelton,L,193,USA,21.7,14,2750,7-6(6) 6-4,3,R16,98,2,1,65,36,26,21,11,0,1,13,1,66,48,36,8,11,2,4
+2024-6116,Atlanta,Hard,32,A,20240722,294,RC91,,,Arthur Rinderknech,R,196,FRA,28.9,64,806,B0GG,,Q,Mattia Bellucci,L,175,ITA,23.1,146,418,7-6(5) 3-6 6-1,3,QF,143,21,1,98,64,47,18,14,7,9,6,2,85,47,31,24,14,4,7
+2024-6116,Atlanta,Hard,32,A,20240722,295,N732,,,Yoshihito Nishioka,L,170,JPN,28.8,86,699,TD51,3,,Frances Tiafoe,R,188,USA,26.5,29,1365,7-6(2) 6-2,3,QF,84,9,0,58,39,33,12,10,1,1,11,1,65,43,30,10,10,4,6
+2024-6116,Atlanta,Hard,32,A,20240722,296,TC61,4,,Jordan Thompson,R,183,AUS,30.2,41,1191,DH50,5,,Alejandro Davidovich Fokina,R,183,ESP,25.1,43,1150,7-6(5) 4-6 6-3,3,QF,183,21,0,96,61,44,22,16,1,3,4,5,113,76,49,22,15,12,14
+2024-6116,Atlanta,Hard,32,A,20240722,297,S0RE,,Q,Juncheng Shang,L,180,CHN,19.4,89,678,PH71,8,,Max Purcell,R,185,AUS,26.3,66,795,7-6(3) 6-4,3,QF,121,4,3,75,45,33,18,11,2,3,12,2,79,41,32,17,11,8,10
+2024-6116,Atlanta,Hard,32,A,20240722,298,N732,,,Yoshihito Nishioka,L,170,JPN,28.8,86,699,RC91,,,Arthur Rinderknech,R,196,FRA,28.9,64,806,6-3 4-6 6-4,3,SF,139,2,0,90,60,41,17,14,4,6,12,5,89,51,38,18,15,4,8
+2024-6116,Atlanta,Hard,32,A,20240722,299,TC61,4,,Jordan Thompson,R,183,AUS,30.2,41,1191,S0RE,,Q,Juncheng Shang,L,180,CHN,19.4,89,678,6-3 4-6 6-3,3,SF,141,13,1,85,64,50,10,14,2,3,6,5,97,59,43,17,14,9,12
+2024-6116,Atlanta,Hard,32,A,20240722,300,N732,,,Yoshihito Nishioka,L,170,JPN,28.8,86,699,TC61,4,,Jordan Thompson,R,183,AUS,30.2,41,1191,4-6 7-6(2) 6-2,3,F,160,1,1,110,74,54,21,15,10,11,16,0,86,61,47,12,15,4,6
 2024-96,Paris Olympics,Clay,64,O,20240729,,D643,1,,Novak Djokovic,R,188,SRB,37.2,2,,E690,,ALT,Matthew Ebden,R,188,AUS,36.7,,,6-0 6-1,3,R64,,4,0,30,25,20,5,6,0,0,0,3,46,38,14,2,7,4,10
 2024-96,Paris Olympics,Clay,64,O,20240729,,N409,,PR,Rafael Nadal,L,185,ESP,38.2,161,,F724,,,Marton Fucsovics,R,188,HUN,32.5,86,,1-6 6-4 4-6,3,R64,,1,3,92,66,46,15,14,8,10,1,1,83,53,33,14,13,4,8
 2024-96,Paris Olympics,Clay,64,O,20240729,,KE73,,,Dominik Koepfer,L,180,GER,30.3,70,,R975,,PR,Milos Raonic,R,196,CAN,33.6,177,,6-7 7-6 7-6,3,R64,,12,6,107,67,59,24,18,0,0,29,10,126,83,69,19,18,3,3
@@ -2260,7 +2260,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-6242,Winston-Salem,Hard,48,A,20240818,,V832,,,Aleksandar Vukic,R,188,AUS,28.4,94,604,E687,,,Daniel Evans,R,175,GBR,34.2,187,324,2-6 6-4 6-1,3,R64,118,11,1,56,38,34,9,12,1,3,5,6,96,45,30,25,13,11,15
 2024-6242,Winston-Salem,Hard,48,A,20240818,,CG80,,,Borna Coric,R,188,CRO,27.8,87,647,N897,,,Sumit Nagal,R,183,IND,27,72,747,6-4 6-2,3,R64,70,7,2,48,27,24,11,9,0,1,3,1,50,35,17,11,9,1,5
 2024-6242,Winston-Salem,Hard,48,A,20240818,,F724,,,Marton Fucsovics,R,188,HUN,32.5,79,701,DA81,,,Taro Daniel,R,191,JPN,31.6,88,639,4-6 6-1 6-2,3,R64,114,5,3,69,43,36,14,13,1,2,0,3,79,40,26,19,12,6,10
-2024-6242,Winston-Salem,Hard,48,A,20240818,,C0H0,,,Arthur Cazaux,R,183,FRA,22,97,596,V812,,,Botic van de Zandschulp,R,191,NED,26.5,73,739,6-1 7-6,3,R64,,,,,,,,,,,,,,,,,,,
+2024-6242,Winston-Salem,Hard,64,A,20240819,,C0H0,,,Arthur Cazaux,R,183,FRA,21.9,97,596,V812,,,Botic van de Zandschulp,R,191,NED,28.8,73,739,6-1 7-6(3),3,R64,100,4,4,62,33,26,15,10,1,3,3,4,64,39,20,13,9,7,11
 2024-6242,Winston-Salem,Hard,48,A,20240818,,BU13,,,Zizou Bergs,R,185,BEL,25.2,85,672,O522,,WC,Reilly Opelka,R,211,USA,27,323,157,6-4 3-6 7-6,3,R64,140,6,4,92,61,45,22,15,3,4,14,7,97,59,47,21,16,1,2
 2024-6242,Winston-Salem,Hard,48,A,20240818,,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.4,69,765,D994,,,James Duckworth,R,183,AUS,32.6,70,764,3-6 6-3 6-4,3,R64,121,5,2,79,52,40,17,14,2,3,5,1,83,48,33,22,14,3,5
 2024-6242,Winston-Salem,Hard,48,A,20240818,,E865,,WC,Christopher Eubanks,R,201,USA,28.3,120,495,W09E,,,Adam Walton,R,183,AUS,25.3,96,601,2-6 7-5 6-4,3,R64,124,14,6,89,47,38,23,15,2,4,7,2,91,56,41,18,15,4,6
@@ -2268,8 +2268,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-6242,Winston-Salem,Hard,48,A,20240818,,S0RE,,,Juncheng Shang,L,180,CHN,19.5,77,729,C0DF,,,Francisco Comesana,R,178,ARG,23.9,108,532,6-2 6-1,3,R64,68,4,2,46,30,24,10,8,1,1,2,2,48,31,19,5,7,3,7
 2024-6242,Winston-Salem,Hard,48,A,20240818,,S0LA,,PR,Dominic Stricker,L,183,SUI,22,182,332,CE77,,,Federico Coria,R,180,ARG,32.4,78,714,7-5 6-2,3,R64,84,10,4,60,36,30,13,10,1,1,5,2,70,47,28,12,10,3,6
 2024-6242,Winston-Salem,Hard,48,A,20240818,,S0K7,,LL,Zachary Svajda,R,175,USA,21.7,107,533,DB63,,,Laslo Djere,R,188,SRB,29.2,100,566,6-4 6-1,3,R64,65,3,0,57,38,26,13,9,2,3,5,1,43,31,20,2,8,0,4
-2024-6242,Winston-Salem,Hard,48,A,20240818,,O483,,,Christopher O'Connell,R,183,AUS,28.3,86,668,KG27,,,Strong Kirchheimer,R,185,USA,29.3,512,77,7-5 6-4,3,R64,,,,,,,,,,,,,,,,,,,
-2024-6242,Winston-Salem,Hard,48,A,20240818,,T0HA,,,Learn Tien,R,180,USA,22.6,231,251,S0N0,,,Tristan Schoolkate,R,183,AUS,23.5,196,306,3-6 6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,
+2024-6242,Winston-Salem,Hard,64,A,20240819,264,O483,,,Christopher O'Connell,R,183,AUS,30.2,86,668,KG27,,Q,Strong Kirchheimer,R,185,USA,29.3,511,77,7-5 6-4,3,R64,98,5,3,62,37,32,15,11,3,3,5,2,70,40,27,18,11,2,4
+2024-6242,Winston-Salem,Hard,64,A,20240819,251,T0HA,,Q,Learner Tien,L,180,USA,18.7,230,251,S0N0,,Q,Tristan Schoolkate,R,183,AUS,23.4,195,306,3-6 6-2 6-3,3,R64,116,4,3,82,52,34,18,13,6,8,13,1,81,49,36,13,13,7,11
 2024-6242,Winston-Salem,Hard,48,A,20240818,,GB88,,,David Goffin,R,180,BEL,33.7,90,635,MU94,,,Jaume Munar,R,183,ESP,27.3,82,682,7-5 4-6 6-3,3,R64,154,5,3,100,56,37,26,15,9,12,9,1,97,63,44,14,16,6,11
 2024-6242,Winston-Salem,Hard,48,A,20240818,,CD85,,WC,Pablo Carreno Busta,R,188,ESP,33.1,300,177,K0EE,,Q,Omni Kumar,L,173,USA,22.9,434,101,6-2 6-0,3,R64,57,6,3,47,26,20,12,7,4,4,1,4,40,24,13,4,7,2,7
 2024-6242,Winston-Salem,Hard,48,A,20240818,,MW02,,,Corentin Moutet,L,180,FRA,25.3,68,767,M0AW,,,Nicolas Mejia,R,183,COL,24.5,236,245,7-6 6-1,3,R64,100,3,1,67,47,29,10,10,3,6,1,2,64,40,22,7,9,3,8
@@ -2277,12 +2277,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-6242,Winston-Salem,Hard,48,A,20240818,,V832,,,Aleksandar Vukic,R,188,AUS,28.4,94,604,ME82,4,,Adrian Mannarino,L,180,FRA,36.1,42,1170,7-6 2-6 6-1,3,R32,119,15,2,82,44,37,19,14,2,5,9,3,83,51,39,14,13,3,6
 2024-6242,Winston-Salem,Hard,48,A,20240818,,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.4,69,765,BT72,8,,Nuno Borges,R,185,POR,27.5,35,1325,7-6 6-2,3,R32,88,3,1,62,42,29,11,10,3,5,4,2,58,35,23,8,10,0,4
 2024-6242,Winston-Salem,Hard,48,A,20240818,,S0K7,,LL,Zachary Svajda,R,175,USA,21.7,107,533,C0AU,3,,Francisco Cerundolo,R,185,ARG,26,29,1495,6-4 6-4,3,R32,94,2,0,69,46,34,14,10,7,8,1,5,67,34,24,16,10,5,8
-2024-6242,Winston-Salem,Hard,48,A,20240818,,RC91,,,Arthur Rinderknech,R,196,FRA,29.1,56,903,O483,,,Christopher O'Connell,R,183,AUS,28.3,86,668,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,
+2024-6242,Winston-Salem,Hard,64,A,20240819,283,RC91,12,,Arthur Rinderknech,R,196,FRA,29,56,903,O483,,,Christopher O'Connell,R,183,AUS,30.2,86,668,6-3 6-4,3,R32,88,7,0,49,33,25,9,9,3,4,3,3,67,39,26,11,10,5,9
 2024-6242,Winston-Salem,Hard,48,A,20240818,,K09F,15,,Pavel Kotov,R,191,RUS,25.7,63,814,MP20,,Alt,Alexandre Muller,R,183,FRA,27.5,76,732,6-4 5-7 6-2,3,R32,150,12,5,92,51,43,16,15,8,11,1,3,97,66,43,12,15,8,13
 2024-6242,Winston-Salem,Hard,48,A,20240818,,GB88,,,David Goffin,R,180,BEL,33.7,90,635,D0FJ,5,,Luciano Darderi,R,183,ITA,22.5,38,1291,6-2 6-4,3,R32,77,9,3,58,35,26,11,9,4,6,5,6,57,31,21,6,9,3,8
 2024-6242,Winston-Salem,Hard,48,A,20240818,,SU87,10,,Lorenzo Sonego,R,191,ITA,29.3,58,886,S0LA,,PR,Dominic Stricker,L,183,SUI,22,182,332,6-4 6-1,3,R32,80,7,1,67,41,32,12,9,8,8,3,2,42,23,16,7,8,1,4
 2024-6242,Winston-Salem,Hard,48,A,20240818,,CG80,,,Borna Coric,R,188,CRO,27.8,87,647,B0BI,1,,Sebastian Baez,R,170,ARG,23.6,21,2040,6-3 6-4,3,R32,81,7,2,61,34,30,10,10,2,3,1,0,49,39,24,6,9,1,4
-2024-6242,Winston-Salem,Hard,48,A,20240818,,T0HA,,,Learn Tien,R,180,USA,22.6,231,251,M0CI,,,Fabian Marozsan,R,193,HUN,24.9,49,1090,6-2 6-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,
+2024-6242,Winston-Salem,Hard,64,A,20240819,276,T0HA,,Q,Learner Tien,L,180,USA,18.7,230,251,M0CI,9,,Fabian Marozsan,R,193,HUN,24.8,49,1090,6-2 6-7(1) 7-6(2),3,R32,129,3,0,97,70,44,16,16,5,9,5,7,113,74,49,13,16,8,14
 2024-6242,Winston-Salem,Hard,48,A,20240818,,CD85,,WC,Pablo Carreno Busta,R,188,ESP,33.1,300,177,S0H2,13,,Alexander Shevchenko,R,188,KAZ,23.7,60,855,6-2 6-2,3,R32,69,2,3,53,23,20,15,8,3,4,2,3,50,24,15,8,8,4,9
 2024-6242,Winston-Salem,Hard,48,A,20240818,,S0RE,,,Juncheng Shang,L,180,CHN,19.5,77,729,N0BS,7,,Mariano Navone,R,178,ARG,23.5,37,1303,7-5 6-3,3,R32,92,1,4,60,36,23,15,10,2,4,3,4,70,38,25,11,11,5,10
 2024-6242,Winston-Salem,Hard,48,A,20240818,,E865,,WC,Christopher Eubanks,R,201,USA,28.3,120,495,G09O,14,,Hugo Gaston,L,173,FRA,23.9,61,830,6-1 6-4,3,R32,56,6,2,49,33,29,10,9,1,1,2,1,49,29,18,9,8,4,7
@@ -2293,14 +2293,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-6242,Winston-Salem,Hard,48,A,20240818,,GB88,,,David Goffin,R,180,BEL,33.7,90,635,RC91,12,,Arthur Rinderknech,R,196,FRA,29.1,56,903,6-3 6-3,3,R16,81,2,1,47,31,26,11,9,0,0,8,2,66,40,30,8,9,9,12
 2024-6242,Winston-Salem,Hard,48,A,20240818,,SU87,10,,Lorenzo Sonego,R,191,ITA,29.3,58,886,S0RE,,,Juncheng Shang,L,180,CHN,19.5,77,729,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2024-6242,Winston-Salem,Hard,48,A,20240818,,H0BH,16,,Rinky Hijikata,R,178,AUS,23.5,65,811,CG80,,,Borna Coric,R,188,CRO,27.8,87,647,3-6 6-3 7-5,3,R16,157,7,3,104,66,47,22,15,6,8,8,1,95,63,40,20,15,2,5
-2024-6242,Winston-Salem,Hard,48,A,20240818,,T0HA,,,Learn Tien,R,180,USA,22.6,231,251,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.4,69,765,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,
+2024-6242,Winston-Salem,Hard,64,A,20240819,289,T0HA,,Q,Learner Tien,L,180,USA,18.7,230,251,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.4,69,765,6-4 6-3,3,R16,88,1,1,63,49,33,10,10,2,3,0,1,63,40,25,11,9,7,10
 2024-6242,Winston-Salem,Hard,48,A,20240818,,E865,,WC,Christopher Eubanks,R,201,USA,28.3,120,495,SX50,17,,Roman Safiullin,R,188,RUS,27,59,885,6-3 1-6 7-6,3,R16,126,16,5,103,74,53,15,14,9,11,7,5,94,60,48,18,14,3,4
 2024-6242,Winston-Salem,Hard,48,A,20240818,,M0QL,11,,Alex Michelsen,R,193,USA,20,52,960,BU13,,,Zizou Bergs,R,185,BEL,25.2,85,672,6-1 6-2,3,R16,76,2,2,53,37,28,8,8,3,3,0,5,52,21,15,11,7,5,9
 2024-6242,Winston-Salem,Hard,48,A,20240818,,CD85,,WC,Pablo Carreno Busta,R,188,ESP,33.1,300,177,V832,,,Aleksandar Vukic,R,188,AUS,28.4,94,604,6-3 4-6 6-3,3,R16,116,3,3,80,56,42,13,14,4,7,10,6,87,39,29,19,14,3,8
 2024-6242,Winston-Salem,Hard,48,A,20240818,,SU87,10,,Lorenzo Sonego,R,191,ITA,29.3,58,886,K09F,15,,Pavel Kotov,R,191,RUS,25.7,63,814,6-3 7-5,3,QF,102,6,1,62,48,37,7,11,5,6,3,1,77,51,33,10,10,11,14
 2024-6242,Winston-Salem,Hard,48,A,20240818,,GB88,,,David Goffin,R,180,BEL,33.7,90,635,H0BH,16,,Rinky Hijikata,R,178,AUS,23.5,65,811,6-1 6-3,3,QF,63,6,1,45,28,21,14,8,1,1,1,1,46,21,13,10,8,4,8
 2024-6242,Winston-Salem,Hard,48,A,20240818,,M0QL,11,,Alex Michelsen,R,193,USA,20,52,960,E865,,WC,Christopher Eubanks,R,201,USA,28.3,120,495,7-5 6-7 7-6,3,QF,149,8,2,111,79,61,16,18,3,6,7,5,109,69,50,21,18,1,5
-2024-6242,Winston-Salem,Hard,48,A,20240818,,CD85,,,Pablo Carreno Busta,R,188,ESP,33.1,300,177,T0HA,,,Learn Tien,R,180,USA,22.6,231,251,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,
+2024-6242,Winston-Salem,Hard,64,A,20240819,295,CD85,,WC,Pablo Carreno Busta,R,188,ESP,33.1,299,177,T0HA,,Q,Learner Tien,L,180,USA,18.7,230,251,6-4 6-2,3,QF,85,2,0,67,47,30,13,9,4,5,4,0,54,39,21,8,9,5,9
 2024-6242,Winston-Salem,Hard,48,A,20240818,,SU87,10,,Lorenzo Sonego,R,191,ITA,29.3,58,886,GB88,,,David Goffin,R,180,BEL,33.7,90,635,6-3 6-2,3,SF,79,2,0,51,32,24,13,9,0,0,0,3,50,22,17,11,8,3,6
 2024-6242,Winston-Salem,Hard,48,A,20240818,,M0QL,11,,Alex Michelsen,R,193,USA,20,52,960,CD85,,WC,Pablo Carreno Busta,R,188,ESP,33.1,300,177,7-6 2-1,3,SF,74,2,0,46,31,22,6,7,0,2,0,5,60,38,24,9,8,4,7
 2024-6242,Winston-Salem,Hard,48,A,20240818,,SU87,10,,Lorenzo Sonego,R,191,ITA,29.3,58,886,M0QL,11,,Alex Michelsen,R,193,USA,20,52,960,6-0 6-3,3,F,63,4,2,41,31,27,5,8,0,0,1,1,43,27,12,9,7,4,8
@@ -2563,11 +2563,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-7581,Chengdu,Hard,28,A,20240918,,DA81,,,Taro Daniel,R,191,JPN,31.6,90,614,SU87,6,,Lorenzo Sonego,R,191,ITA,29.4,50,1081,6-4 7-5,3,R32,89,1,0,56,45,36,9,11,1,1,5,3,56,40,33,7,11,0,2
 2024-7581,Chengdu,Hard,28,A,20240918,,M0GZ,7,,Giovanni Mpetshi Perricard,R,203,FRA,21.2,51,1048,SX90,,WC,Fajing Sun,R,178,CHN,28,359,139,6-7 7-5 6-4,3,R32,148,34,10,106,73,61,17,17,2,2,10,2,98,71,55,15,17,0,2
 2024-7581,Chengdu,Hard,28,A,20240918,,V832,,,Aleksandar Vukic,R,188,AUS,28.5,92,609,CG80,,,Borna Coric,R,188,CRO,27.8,97,582,3-6 7-6 6-4,3,R32,156,21,3,94,51,44,24,15,3,4,9,3,100,62,50,22,16,2,3
-2024-7581,Chengdu,Hard,28,A,20240918,,Z0CQ,,,Yi Zhou,L,183,CHN,19.5,531,72,T0AP,,,Chun-Hsin Tseng,R,175,TPE,28.4,121,489,2-6 6-1 3-1,3,R32,,,,,,,,,,,,,,,,,,,
+2024-7581,Chengdu,Hard,28,A,20240918,374,Z0CQ,,WC,Yi Zhou,R,193,CHN,19.5,531,72,T0AP,,,Chun-Hsin Tseng,R,175,TPE,23.1,121,489,2-6 6-1 3-1 RET,3,R32,86,4,1,51,30,24,12,10,2,4,5,3,63,30,21,13,9,3,6
 2024-7581,Chengdu,Hard,28,A,20240918,,K0E6,,Q,Alibek Kachmazov,R,185,RUS,22.1,252,226,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.1,72,740,6-4 7-6,3,R32,120,8,5,75,41,30,19,11,3,4,12,5,80,38,28,21,11,7,9
 2024-7581,Chengdu,Hard,28,A,20240918,,S0RE,,,Juncheng Shang,L,180,CHN,19.6,67,795,N552,,WC,Kei Nishikori,R,178,JPN,34.7,201,288,6-4 6-4,3,R32,103,5,3,71,42,33,13,10,8,9,8,3,64,39,26,12,10,5,8
 2024-7581,Chengdu,Hard,28,A,20240918,,H997,,,Yannick Hanfmann,R,193,GER,32.8,95,594,M0HU,,Q,Shintaro Mochizuki,R,175,JPN,21.3,147,395,6-4 7-6,3,R32,106,10,1,73,47,34,16,11,2,3,2,3,74,44,32,15,11,5,7
-2024-7581,Chengdu,Hard,28,A,20240918,,O483,,,Christopher O'Connell,R,183,AUS,28.4,75,720,K09F,,,Pavel Kotov,R,191,RUS,25.8,61,864,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,
+2024-7581,Chengdu,Hard,28,A,20240918,377,O483,,,Christopher O'Connell,R,183,AUS,30.2,75,720,K09F,,,Pavel Kotov,R,191,RUS,25.8,61,864,6-4 7-5,3,R32,98,8,1,56,34,29,15,11,0,0,7,4,71,39,31,14,11,3,5
 2024-7581,Chengdu,Hard,28,A,20240918,,SX50,8,,Roman Safiullin,R,188,RUS,27.1,56,915,F510,,,Fabio Fognini,R,178,ITA,37.3,79,694,6-3 4-6 6-4,3,R32,128,13,6,88,45,36,22,15,2,5,9,5,90,61,38,14,14,7,11
 2024-7581,Chengdu,Hard,28,A,20240918,,GJ16,,Q,Federico Agustin Gomez,R,191,ARG,27.8,174,346,MP20,,,Alexandre Muller,R,183,FRA,27.6,70,755,6-4 7-5,3,R32,92,13,3,57,30,27,15,11,1,2,6,4,73,42,31,14,11,8,11
 2024-7581,Chengdu,Hard,28,A,20240918,,ME82,5,,Adrian Mannarino,L,180,FRA,36.2,46,1144,A0GC,,Q,Terence Atmane,R,193,FRA,22.7,164,363,6-7 6-1 6-3,3,R32,151,6,3,105,64,51,14,14,7,9,10,9,104,52,33,21,14,5,11
@@ -2576,7 +2576,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-7581,Chengdu,Hard,28,A,20240918,,J551,3,,Nicolas Jarry,R,201,CHI,28.9,28,1595,KI63,,,Lukas Klein,R,193,SVK,26.5,127,468,7-6 3-6 6-4,3,R16,138,19,2,93,63,50,13,15,5,7,8,1,93,68,50,13,16,5,7
 2024-7581,Chengdu,Hard,28,A,20240918,,MO44,4,,Pedro Martinez,R,185,ESP,27.4,42,1167,V832,,,Aleksandar Vukic,R,188,AUS,28.5,92,609,6-3 6-4,3,R16,84,8,2,52,38,31,8,10,1,2,12,1,61,39,26,9,9,8,11
 2024-7581,Chengdu,Hard,28,A,20240918,,ME82,5,,Adrian Mannarino,L,180,FRA,36.2,46,1144,Z0CQ,,WC,Yi Zhou,L,183,CHN,19.5,531,72,7-6 2-6 6-4,3,R16,165,8,1,112,63,39,27,15,8,12,11,2,90,55,42,18,15,9,12
-2024-7581,Chengdu,Hard,28,A,20240918,,M0EJ,,,Lorenzo Musetti,R,185,ITA,22.5,19,2345,O483,,,Christopher O'Connell,R,183,AUS,28.4,75,720,6-7 6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,
+2024-7581,Chengdu,Hard,28,A,20240918,,M0EJ,1,,Lorenzo Musetti,R,185,ITA,22.5,19,2345,O483,,,Christopher O'Connell,R,183,AUS,30.2,75,720,6-7(5) 6-4 7-6(4),3,R16,157,7,2,107,81,61,11,17,0,3,6,1,103,70,55,15,17,6,10
 2024-7581,Chengdu,Hard,28,A,20240918,,BK92,2,,Alexander Bublik,R,196,KAZ,27.3,27,1650,GJ16,,Q,Federico Agustin Gomez,R,191,ARG,27.8,174,346,6-4 6-4,3,R16,87,8,9,65,41,32,10,10,4,5,8,4,69,36,26,14,10,3,6
 2024-7581,Chengdu,Hard,28,A,20240918,,S0RE,,,Juncheng Shang,L,180,CHN,19.6,67,795,SX50,8,,Roman Safiullin,R,188,RUS,27.1,56,915,5-7 6-3 6-3,3,R16,138,7,3,98,70,48,13,15,6,9,12,3,80,43,33,17,15,3,8
 2024-7581,Chengdu,Hard,28,A,20240918,,K0E6,,Q,Alibek Kachmazov,R,185,RUS,22.1,252,226,J551,3,,Nicolas Jarry,R,201,CHI,28.9,28,1595,6-3 6-4,3,QF,93,3,0,56,22,21,21,10,0,0,11,1,57,32,25,9,9,4,6
@@ -2591,27 +2591,27 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-4713,Hangzhou,Hard,28,A,20240918,,C977,,WC,Marin Cilic,R,198,CRO,36,777,28,S0K7,,,Zachary Svajda,R,175,USA,21.8,135,452,5-7 6-3 6-0,3,R32,119,14,7,78,40,35,12,14,1,5,1,4,77,46,26,13,13,5,12
 2024-4713,Hangzhou,Hard,28,A,20240918,,N732,8,,Yoshihito Nishioka,L,170,JPN,29,54,974,MN13,,,Maximilian Marterer,L,188,GER,29.3,105,543,6-4 6-2,3,R32,76,1,0,50,33,25,13,9,0,0,8,3,45,26,17,8,9,0,3
 2024-4713,Hangzhou,Hard,28,A,20240918,,H0BH,,,Rinky Hijikata,R,178,AUS,23.6,81,681,D923,,,Damir Dzumhur,R,175,BIH,32.3,86,655,2-6 7-6 6-2,3,R32,150,7,2,96,60,41,18,14,4,8,1,2,99,66,43,14,14,5,9
-2024-4713,Hangzhou,Hard,28,A,20240918,,Y09V,,,Yunchaokete Bu,R,185,CHN,24.7,124,484,G09O,,,Hugo Gaston,L,173,FRA,24,77,714,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,
+2024-4713,Hangzhou,Hard,28,A,20240918,,Y09V,,WC,Yunchaokete Bu,R,185,CHN,22.6,124,484,G09O,,,Hugo Gaston,L,173,FRA,23.9,77,714,7-5 6-3,3,R32,101,9,1,60,38,31,14,11,2,3,4,1,66,35,23,16,10,5,8
 2024-4713,Hangzhou,Hard,28,A,20240918,,S0H2,,,Alexander Shevchenko,R,188,KAZ,23.8,58,870,TA29,,Q,Marco Trungelliti,R,178,ARG,34.6,138,423,6-1 6-1,3,R32,46,4,0,29,18,17,11,7,0,0,2,3,45,25,15,5,7,1,6
 2024-4713,Hangzhou,Hard,28,A,20240918,,CF59,,,Roberto Carballes Baena,R,180,ESP,36.4,55,921,MW02,,,Corentin Moutet,L,180,FRA,25.4,69,771,7-6 6-1,3,R32,129,3,1,71,53,38,8,10,2,4,3,3,67,36,24,11,9,5,9
-2024-4713,Hangzhou,Hard,28,A,20240918,,U134,,,Yasutaka Uchiyama,R,180,JPN,32.1,160,370,M0OQ,,,James McCabe,R,188,AUS,32.7,302,172,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,
+2024-4713,Hangzhou,Hard,28,A,20240918,,U134,,Q,Yasutaka Uchiyama,R,183,JPN,32.1,160,370,M0OQ,,LL,James McCabe,R,188,AUS,21.2,302,172,6-4 6-4,3,R32,101,2,0,61,35,26,20,10,3,3,8,1,74,38,29,16,10,6,8
 2024-4713,Hangzhou,Hard,28,A,20240918,,W0BH,,Q,Coleman Wong,R,191,HKG,20.3,141,409,WB32,,WC,Yibing Wu,R,183,CHN,24.9,566,63,6-3 RET,3,R32,38,8,0,21,15,14,3,4,0,0,0,0,35,21,13,5,5,3,5
 2024-4713,Hangzhou,Hard,28,A,20240918,,B0GG,,,Mattia Bellucci,R,175,ITA,23.3,108,529,KC56,,,Aslan Karatsev,R,185,RUS,31,115,508,6-4 6-0,3,R32,69,7,1,37,24,20,9,8,1,2,3,1,57,33,16,10,8,6,11
 2024-4713,Hangzhou,Hard,28,A,20240918,,Z371,6,,Zhizhen Zhang,R,193,CHN,27.9,48,1105,Y171,,Q,Denis Yevseyev,R,188,KAZ,31.3,207,282,6-2 1-6 6-4,3,R32,121,7,1,84,55,33,17,13,2,5,6,6,93,57,40,13,12,11,14
 2024-4713,Hangzhou,Hard,28,A,20240918,,K926,,,Mikhail Kukushkin,R,183,KAZ,36.7,112,515,S0H2,,,Alexander Shevchenko,R,188,KAZ,23.8,58,870,6-4 7-6,3,R16,103,2,1,65,43,33,12,11,1,3,11,4,62,39,30,8,11,2,5
 2024-4713,Hangzhou,Hard,28,A,20240918,,H0BH,,,Rinky Hijikata,R,178,AUS,23.6,81,681,M0CI,7,,Fabian Marozsan,R,193,HUN,24.9,49,1095,W/O,3,R16,,,,,,,,,,,,,,,,,,,
 2024-4713,Hangzhou,Hard,28,A,20240918,,N0AE,4,,Brandon Nakashima,R,188,USA,23.1,39,1295,W0BH,,Q,Coleman Wong,R,191,HKG,20.3,141,409,6-7 7-6 6-1,3,R16,160,21,0,101,67,56,23,16,4,4,10,0,94,59,46,19,15,5,7
-2024-4713,Hangzhou,Hard,28,A,20240918,,Y09V,,,Yunchaokete Bu,R,185,CHN,24.7,124,484,KE29,,,Karen Khachanov,R,198,RUS,28.3,23,1930,7-6 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,
+2024-4713,Hangzhou,Hard,28,A,20240918,392,Y09V,,WC,Yunchaokete Bu,R,185,CHN,22.6,124,484,KE29,2,,Karen Khachanov,R,198,RUS,28.3,23,1930,7-6(7) 4-6 6-3,3,R16,147,13,2,91,58,47,17,16,1,4,18,2,92,61,47,15,15,2,5
 2024-4713,Hangzhou,Hard,28,A,20240918,,C977,,WC,Marin Cilic,R,198,CRO,36,777,28,N732,8,,Yoshihito Nishioka,L,170,JPN,29,54,974,6-4 6-1,3,R16,69,15,2,45,28,26,8,9,0,1,1,0,46,29,16,9,8,2,6
 2024-4713,Hangzhou,Hard,28,A,20240918,,CF59,,,Roberto Carballes Baena,R,180,ESP,36.4,55,921,KC12,,LL,Mitchell Krueger,R,188,USA,30.7,140,409,3-6 6-3 6-4,3,R16,150,3,4,85,59,45,16,14,2,3,5,3,106,67,45,20,14,3,5
 2024-4713,Hangzhou,Hard,28,A,20240918,,U134,,Q,Yasutaka Uchiyama,R,180,JPN,32.1,160,370,R0DG,1,,Holger Rune,R,188,DEN,21.4,14,2780,7-5 6-4,3,R16,100,8,1,64,43,33,10,11,2,4,7,5,88,63,39,8,11,10,14
 2024-4713,Hangzhou,Hard,28,A,20240918,,Z371,6,,Zhizhen Zhang,R,193,CHN,27.9,48,1105,B0GG,,,Mattia Bellucci,R,175,ITA,23.3,108,529,6-3 6-0,3,R16,77,6,0,41,32,26,6,8,0,0,5,4,68,36,20,13,7,7,11
 2024-4713,Hangzhou,Hard,28,A,20240918,,N0AE,4,,Brandon Nakashima,R,188,USA,23.1,39,1295,H0BH,,,Rinky Hijikata,R,178,AUS,23.6,81,681,7-5 6-3,3,QF,89,8,2,57,32,26,17,11,1,2,1,1,56,32,21,11,10,0,3
 2024-4713,Hangzhou,Hard,28,A,20240918,,C977,,WC,Marin Cilic,R,198,CRO,36,777,28,U134,,Q,Yasutaka Uchiyama,R,180,JPN,32.1,160,370,6-2 6-7 7-6,3,QF,165,19,5,102,59,49,25,16,8,9,9,3,105,63,50,20,16,3,6
-2024-4713,Hangzhou,Hard,28,A,20240918,,Y09V,,,Yunchaokete Bu,R,185,CHN,24.7,124,484,K926,,,Mikhail Kukushkin,R,183,KAZ,36.7,112,515,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,
+2024-4713,Hangzhou,Hard,28,A,20240918,395,Y09V,,WC,Yunchaokete Bu,R,185,CHN,22.6,124,484,K926,,,Mikhail Kukushkin,R,183,KAZ,36.7,112,515,6-4 6-2,3,QF,83,8,1,52,29,23,13,9,3,4,1,2,50,33,19,7,9,3,7
 2024-4713,Hangzhou,Hard,28,A,20240918,,Z371,6,,Zhizhen Zhang,R,193,CHN,27.9,48,1105,CF59,,,Roberto Carballes Baena,R,180,ESP,36.4,55,921,6-3 6-3,3,QF,72,7,0,48,35,27,10,9,0,0,3,3,50,32,20,9,9,3,6
 2024-4713,Hangzhou,Hard,28,A,20240918,,C977,,WC,Marin Cilic,R,198,CRO,36,777,28,N0AE,4,,Brandon Nakashima,R,188,USA,23.1,39,1295,6-4 7-6,3,SF,104,8,1,71,41,34,17,11,2,2,8,0,69,48,35,10,11,0,1
-2024-4713,Hangzhou,Hard,28,A,20240918,,Z371,,,Zhizhen Zhang,R,193,CHN,27.9,48,1105,Y09V,,,Yunchaokete Bu,R,185,CHN,24.7,124,484,7-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,
+2024-4713,Hangzhou,Hard,28,A,20240918,,Z371,6,,Zhizhen Zhang,R,193,CHN,27.9,48,1105,Y09V,,WC,Yunchaokete Bu,R,185,CHN,22.6,124,484,7-6(3) 6-4,3,SF,101,10,0,78,59,44,12,11,4,4,8,1,61,34,25,19,11,1,2
 2024-4713,Hangzhou,Hard,28,A,20240918,,C977,,W,Marin Cilic,R,198,CRO,36,777,28,Z371,6,,Zhizhen Zhang,R,193,CHN,27.9,48,1105,7-6 7-6,3,F,110,18,2,83,50,42,22,12,2,2,14,2,78,55,45,15,12,2,2
 2024-9210,Laver Cup,Hard,12,A,20240920,400,A0E2,,,Carlos Alcaraz,R,183,ESP,21.3,3,6690,FB98,,,Taylor Fritz,R,196,USA,26.8,7,4060,6-2 7-5,3,RR,89,1,1,56,41,33,7,10,3,4,7,4,65,44,28,10,10,2,6
 2024-9210,Laver Cup,Hard,12,A,20240920,399,S0S1,,,Ben Shelton,L,193,USA,21.9,17,2490,MM58,,,Daniil Medvedev,R,198,RUS,28.5,5,5475,6-7(6) 7-5 [10-7],3,RR,123,5,1,91,66,46,19,12,4,4,9,3,87,61,47,12,12,1,2
@@ -2630,7 +2630,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-747,Beijing,Hard,32,A,20240926,,C0E9,,,Flavio Cobolli,R,183,ITA,22.4,32,1482,BK92,8,,Alexander Bublik,R,196,KAZ,27.3,26,1690,4-6 6-1 7-6,3,R32,123,6,4,109,62,50,21,15,3,5,8,4,83,57,42,12,14,2,5
 2024-747,Beijing,Hard,32,A,20240926,,C0AU,,,Francisco Cerundolo,R,185,ARG,26.1,31,1500,M0NI,,Q,Jakub Mensik,R,193,CZE,19.1,66,797,7-6 6-1,3,R32,100,7,5,89,56,39,15,10,5,7,1,5,56,27,15,12,9,3,7
 2024-747,Beijing,Hard,32,A,20240926,,SX50,,LL,Roman Safiullin,R,188,RUS,27.1,69,790,W367,,WC,Stan Wawrinka,R,183,CHE,39.5,233,243,6-3 6-4,3,R32,80,11,2,63,37,31,13,10,2,2,5,3,61,29,19,20,9,1,3
-2024-747,Beijing,Hard,32,A,20240926,,Y09V,,,Yunchaokete Bu,R,185,CHN,24.7,96,584,S0RE,,,Juncheng Shang,L,180,CHN,19.6,55,895,6-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,
+2024-747,Beijing,Hard,32,A,20240926,377,Y09V,,WC,Yunchaokete Bu,R,185,CHN,22.6,96,584,S0RE,,SE,Juncheng Shang,L,180,CHN,19.6,55,895,6-7(3) 6-2 6-4,3,R32,149,8,2,84,45,31,23,15,2,6,5,4,106,67,40,19,15,11,18
 2024-747,Beijing,Hard,32,A,20240926,,M0EJ,6,,Lorenzo Musetti,R,185,ITA,22.6,19,2355,BU13,,Q,Zizou Bergs,R,185,BEL,25.3,74,738,7-5 4-6 6-3,3,R32,131,5,2,90,55,42,25,16,3,4,6,4,84,49,41,17,15,4,6
 2024-747,Beijing,Hard,32,A,20240926,,MM58,3,,Daniil Medvedev,R,198,RUS,28.6,5,5475,MC65,,,Gael Monfils,R,193,FRA,38.1,46,1160,6-3 6-4,3,R32,92,2,6,64,32,23,18,9,4,6,1,8,69,43,24,8,10,5,10
 2024-747,Beijing,Hard,32,A,20240926,,BD06,,Q,Roberto Bautista Agut,R,183,ESP,36.5,61,841,RC91,,LL,Arthur Rinderknech,R,196,FRA,29.2,60,843,6-3 6-4,3,R32,83,5,2,63,45,34,11,10,5,5,6,3,44,25,21,10,9,2,4
@@ -2642,29 +2642,29 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-747,Beijing,Hard,32,A,20240926,,L0BV,,,Jiri Lehecka,R,185,CZE,22.9,37,1345,BD06,,Q,Roberto Bautista Agut,R,183,ESP,36.5,61,841,3-6 6-2 6-1,3,R16,100,12,1,70,36,30,21,12,5,6,3,2,64,42,28,13,12,2,6
 2024-747,Beijing,Hard,32,A,20240926,,S0AG,1,,Jannik Sinner,R,191,ITA,23.1,1,11180,SX50,,LL,Roman Safiullin,R,188,RUS,27.1,69,790,3-6 6-2 6-3,3,R16,141,4,3,77,45,36,15,13,4,6,6,2,93,51,34,19,13,9,13
 2024-747,Beijing,Hard,32,A,20240926,,MM58,3,,Daniil Medvedev,R,198,RUS,28.6,5,5475,ME82,,,Adrian Mannarino,L,180,FRA,36.2,44,1184,7-6 6-2,3,R16,101,8,6,68,45,36,10,10,5,7,1,3,68,41,23,15,10,2,6
-2024-747,Beijing,Hard,32,A,20240926,,Y09V,,,Yunchaokete Bu,R,185,CHN,24.7,96,584,M0EJ,,,Lorenzo Musetti,R,185,ITA,22.6,19,2355,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,
+2024-747,Beijing,Hard,32,A,20240926,,Y09V,,WC,Yunchaokete Bu,R,185,CHN,22.6,96,584,M0EJ,6,,Lorenzo Musetti,R,185,ITA,22.5,19,2355,6-2 6-4,3,R16,89,5,1,55,29,23,13,9,3,5,0,3,56,30,14,12,9,3,8
 2024-747,Beijing,Hard,32,A,20240926,,KE29,7,,Karen Khachanov,R,198,RUS,28.4,27,1680,C0AU,,,Francisco Cerundolo,R,185,ARG,26.1,31,1500,7-6 7-6,3,R16,129,3,5,85,49,40,17,12,3,6,2,3,80,45,33,19,12,2,5
 2024-747,Beijing,Hard,32,A,20240926,,A0E2,2,,Carlos Alcaraz,R,183,ESP,21.4,3,6690,GJ37,,,Tallon Griekspoor,R,188,NLD,28.2,39,1300,6-1 6-2,3,R16,56,4,0,41,23,23,9,8,0,0,0,1,43,25,15,5,7,3,7
 2024-747,Beijing,Hard,32,A,20240926,,RE44,4,,Andrey Rublev,R,188,RUS,26.9,6,4645,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.3,64,820,6-4 7-5,3,R16,103,6,4,67,43,30,10,11,1,4,1,1,77,56,28,11,11,6,11
 2024-747,Beijing,Hard,32,A,20240926,,A0E2,2,,Carlos Alcaraz,R,183,ESP,21.4,3,6690,KE29,7,,Karen Khachanov,R,198,RUS,28.4,27,1680,7-5 6-2,3,QF,96,2,2,52,33,25,13,10,1,2,3,1,82,53,34,11,10,8,12
 2024-747,Beijing,Hard,32,A,20240926,,MM58,3,,Daniil Medvedev,R,198,RUS,28.6,5,5475,C0E9,,,Flavio Cobolli,R,183,ITA,22.4,32,1482,6-2 6-4,3,QF,88,5,4,71,37,29,16,9,10,11,1,5,54,28,20,6,9,4,8
 2024-747,Beijing,Hard,32,A,20240926,,S0AG,1,,Jannik Sinner,R,191,ITA,23.1,1,11180,L0BV,,,Jiri Lehecka,R,185,CZE,22.9,37,1345,6-2 7-6,3,QF,104,7,3,67,40,35,15,10,2,2,2,0,67,29,19,23,10,2,4
-2024-747,Beijing,Hard,32,A,20240926,,Y09V,,,Yunchaokete Bu,R,185,CHN,24.7,96,584,RE44,,,Andrey Rublev,R,188,RUS,26.9,6,4645,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,
+2024-747,Beijing,Hard,32,A,20240926,,Y09V,,WC,Yunchaokete Bu,R,185,CHN,22.6,96,584,RE44,4,,Andrey Rublev,R,188,RUS,26.9,6,4645,7-5 6-4,3,QF,93,6,1,71,40,32,19,11,4,4,6,0,60,37,28,12,11,1,3
 2024-747,Beijing,Hard,32,A,20240926,,A0E2,2,,Carlos Alcaraz,R,183,ESP,21.4,3,6690,MM58,3,,Daniil Medvedev,R,198,RUS,28.6,5,5475,7-5 6-3,3,SF,87,3,1,53,36,27,9,10,0,2,3,2,66,42,23,12,11,6,11
-2024-747,Beijing,Hard,32,A,20240926,,S0AG,,,Jannik Sinner,R,191,ITA,23.1,1,11180,Y09V,,,Yunchaokete Bu,R,185,CHN,24.7,96,584,6-3 7-6,3,SF,,,,,,,,,,,,,,,,,,,
+2024-747,Beijing,Hard,32,A,20240926,399,S0AG,1,,Jannik Sinner,R,191,ITA,23.1,1,11180,Y09V,,WC,Yunchaokete Bu,R,185,CHN,22.6,96,584,6-3 7-6(3),3,SF,125,11,0,77,52,38,17,11,3,3,3,3,79,41,28,20,10,8,9
 2024-747,Beijing,Hard,32,A,20240926,,A0E2,2,,Carlos Alcaraz,R,183,ESP,21.4,3,6690,S0AG,1,,Jannik Sinner,R,191,ITA,23.1,1,11180,6-7 6-4 7-6,3,F,201,6,2,123,74,54,27,17,4,6,6,4,129,71,47,31,17,12,15
 2024-329,Tokyo,Hard,32,A,20240925,,N0BS,,,Mariano Navone,R,178,ARG,23.6,40,1278,D0FJ,,,Luciano Darderi,R,183,ITA,22.6,41,1265,6-4 6-4,3,R32,107,6,2,60,40,30,12,10,8,9,4,2,88,60,35,13,10,3,6
-2024-329,Tokyo,Hard,32,A,20240925,,BK40,,,Matteo Berrettini,R,196,ITA,28.5,45,1165,V812,,,Botic van de Zandschulp,R,191,NED,26.6,67,794,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,
+2024-329,Tokyo,Hard,32,A,20240925,,BK40,,,Matteo Berrettini,R,196,ITA,28.4,45,1165,V812,,Q,Botic van de Zandschulp,R,191,NED,28.9,67,794,6-3 6-4,3,R32,90,7,0,58,42,30,7,10,1,3,5,4,65,41,27,8,9,4,8
 2024-329,Tokyo,Hard,32,A,20240925,,HB71,2,,Hubert Hurkacz,R,196,POL,27.6,8,4060,GC88,,,Marcos Giron,R,180,USA,31.2,47,1150,6-4 6-7 6-4,3,R32,125,17,3,89,56,46,21,16,2,3,4,1,93,56,42,21,16,3,6
 2024-329,Tokyo,Hard,32,A,20240925,,HH26,,,Ugo Humbert,L,188,FRA,26.3,18,2370,M0HU,,WC,Shintaro Mochizuki,R,175,JPN,21.3,146,408,6-1 6-2,3,R32,76,2,1,48,28,21,12,8,2,2,2,2,55,27,15,12,7,4,8
-2024-329,Tokyo,Hard,32,A,20240925,,N732,,,Yoshihito Nishioka,L,170,JPN,29,59,849,AG37,,,Felix Auger-Aliassime,R,193,CAN,26.6,21,2170,7-6 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,
+2024-329,Tokyo,Hard,32,A,20240925,,N732,,WC,Yoshihito Nishioka,L,170,JPN,28.9,59,849,AG37,,,Felix Auger-Aliassime,R,193,CAN,24.1,21,2170,7-6(5) 3-6 7-6(5),3,R32,192,1,4,126,81,57,23,17,9,12,13,3,110,68,52,21,16,4,5
 2024-329,Tokyo,Hard,32,A,20240925,,D0CO,,,Jack Draper,L,193,GBR,22.8,20,2315,B0GG,,Q,Mattia Bellucci,R,175,ITA,23.3,103,554,6-4 6-2,3,R32,70,9,1,45,30,27,10,9,0,0,6,1,54,35,21,10,9,3,6
 2024-329,Tokyo,Hard,32,A,20240925,,PL56,5,,Tommy Paul,R,188,USA,27.4,13,3005,A0FC,,,Matteo Arnaldi,R,185,ITA,23.6,33,1390,6-3 6-2,3,R32,68,3,0,41,24,17,15,8,0,0,0,2,54,33,16,11,9,2,6
 2024-329,Tokyo,Hard,32,A,20240925,,M0FH,,,Tomas Machac,R,185,CZE,24,34,1374,P09Z,,,Alexei Popyrin,R,196,AUS,25.1,23,1825,6-3 6-7 7-5,3,R32,149,10,1,101,71,60,18,17,4,4,21,2,112,76,58,18,16,4,6
 2024-329,Tokyo,Hard,32,A,20240925,,M0QL,,Q,Alex Michelsen,R,193,USA,20.1,49,1115,TE51,4,,Stefanos Tsitsipas,R,193,GRC,26.1,12,3390,4-6 6-1 6-2,3,R32,108,9,0,71,46,32,17,13,1,3,5,4,66,45,25,10,12,0,5
 2024-329,Tokyo,Hard,32,A,20240925,,S0S1,8,,Ben Shelton,L,193,USA,22,17,2490,O522,,PR,Reilly Opelka,R,211,USA,27.1,306,167,3-6 6-1 6-4,3,R32,106,8,3,72,52,40,10,13,3,5,12,2,84,49,39,14,13,9,13
 2024-329,Tokyo,Hard,32,A,20240925,,N0AE,,SE,Brandon Nakashima,R,188,USA,23.1,36,1360,TD51,7,,Frances Tiafoe,R,188,USA,26.7,15,2560,7-5 6-3,3,R32,81,12,1,61,50,36,8,11,0,1,8,1,57,38,25,12,10,4,7
-2024-329,Tokyo,Hard,32,A,20240925,,O483,,,Christopher O'Connell,R,183,AUS,28.4,79,700,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.2,35,1370,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,
+2024-329,Tokyo,Hard,32,A,20240925,,O483,,Q,Christopher O'Connell,R,183,AUS,30.3,79,700,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.1,35,1370,6-4 7-6(5),3,R32,145,8,2,101,56,45,15,11,9,10,3,5,85,51,37,14,11,6,8
 2024-329,Tokyo,Hard,32,A,20240925,,R0DG,6,,Holger Rune,R,188,DEN,21.4,14,2780,TE30,,,Alejandro Tabilo,L,188,CHI,27.3,22,1963,6-2 5-7 6-4,3,R32,135,10,2,92,60,47,15,15,3,5,7,3,96,66,44,16,15,5,9
 2024-329,Tokyo,Hard,32,A,20240925,,F0F1,,,Arthur Fils,R,185,FRA,20.3,24,1775,FB98,1,,Taylor Fritz,R,193,USA,26.9,7,4060,6-4 3-6 6-3,3,R32,123,10,1,81,54,40,18,14,3,4,15,6,86,53,41,15,14,3,5
 2024-329,Tokyo,Hard,32,A,20240925,,N552,,WC,Kei Nishikori,R,178,JPN,34.7,200,288,C977,,PR,Marin Cilic,R,198,CRO,36,373,128,6-4 3-6 6-3,3,R32,124,7,2,81,57,43,10,14,2,4,9,4,76,43,35,16,14,4,7
@@ -2674,7 +2674,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-329,Tokyo,Hard,32,A,20240925,,F0F1,,,Arthur Fils,R,185,FRA,20.3,24,1775,BK40,,,Matteo Berrettini,R,196,ITA,28.5,45,1165,6-7 RET,3,R16,77,2,1,39,20,17,8,6,2,3,3,0,49,34,21,8,6,2,3
 2024-329,Tokyo,Hard,32,A,20240925,,HH26,,,Ugo Humbert,L,188,FRA,26.3,18,2370,N0AE,,SE,Brandon Nakashima,R,188,USA,23.1,36,1360,6-3 6-2,3,R16,67,7,0,48,35,31,8,9,3,3,2,1,44,32,22,3,8,2,5
 2024-329,Tokyo,Hard,32,A,20240925,,M0FH,,,Tomas Machac,R,185,CZE,24,34,1374,PL56,5,,Tommy Paul,R,188,USA,27.4,13,3005,2-6 6-3 7-6,3,R16,155,4,3,118,68,44,26,15,11,15,5,0,95,56,39,23,14,7,10
-2024-329,Tokyo,Hard,32,A,20240925,,M0QL,,,Alex Michelsen,R,193,USA,20.1,49,1115,O483,,,Christopher O'Connell,R,183,AUS,28.4,79,700,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,
+2024-329,Tokyo,Hard,32,A,20240925,,M0QL,,Q,Alex Michelsen,R,193,USA,20,49,1115,O483,,Q,Christopher O'Connell,R,183,AUS,30.3,79,700,6-1 6-4,3,R16,79,4,2,62,48,35,9,9,3,3,2,1,48,28,15,11,8,2,5
 2024-329,Tokyo,Hard,32,A,20240925,,N552,,WC,Kei Nishikori,R,178,JPN,34.7,200,288,TC61,,,Jordan Thompson,R,183,AUS,30.4,29,1566,6-2 6-3,3,R16,82,1,3,50,32,21,13,8,1,2,5,2,48,27,17,7,9,2,7
 2024-329,Tokyo,Hard,32,A,20240925,,R0DG,6,,Holger Rune,R,188,DEN,21.4,14,2780,N732,,WC,Yoshihito Nishioka,L,170,JPN,29,59,849,6-2 6-4,3,R16,67,11,1,43,34,30,4,9,0,1,2,3,52,33,17,9,9,4,8
 2024-329,Tokyo,Hard,32,A,20240925,,M0FH,,,Tomas Machac,R,185,CZE,24,34,1374,M0QL,,Q,Alex Michelsen,R,193,USA,20.1,49,1115,7-6 6-3,3,QF,95,8,3,66,43,38,9,11,0,1,6,3,71,51,32,9,10,8,10
@@ -2687,7 +2687,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,MP20,,,Alexandre Muller,R,183,FRA,27.7,74,748,N0BG,,,Luca Nardi,R,185,ITA,21.2,89,649,4-6 6-1 6-1,3,R128,95,6,2,69,53,42,6,12,5,7,1,2,67,38,25,7,12,0,6
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,RC91,,,Arthur Rinderknech,R,196,FRA,29.2,62,843,O522,,PR,Reilly Opelka,R,211,USA,27.1,309,167,6-4 7-6,3,R128,112,6,0,71,51,40,12,11,1,1,13,2,86,51,37,18,11,11,12
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,WB32,,WC,Yibing Wu,R,183,CHN,25,560,63,N897,,,Sumit Nagal,R,183,IND,27.1,83,681,6-3 6-3,3,R128,79,7,4,52,28,22,14,9,1,2,0,1,57,40,22,7,9,3,7
-2024-5014,Shanghai Masters,Hard,96,M,20241002,,V812,,,Botic van de Zandschulp,R,191,NED,26.6,67,799,CD85,,,Pablo Carreno Busta,R,188,ESP,33.2,203,287,7-6 6-2,3,R128,,,,,,,,,,,,,,,,,,,
+2024-5014,Shanghai Masters,Hard,96,M,20241002,305,V812,,,Botic van de Zandschulp,R,191,NED,28.9,67,799,CD85,,PR,Pablo Carreno Busta,R,188,ESP,33.2,203,287,7-6(5) 6-2,3,R128,101,5,0,68,43,33,15,10,1,1,4,1,60,43,29,12,10,1,3
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,MC65,,,Gael Monfils,R,193,FRA,38.1,46,1160,D923,,,Damir Dzumhur,R,175,BIH,32.4,96,599,6-4 6-3,3,R128,81,4,2,63,46,31,10,9,7,8,0,2,62,37,24,11,10,3,7
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,CF59,,,Roberto Carballes Baena,R,180,ESP,36.5,54,955,BD06,,,Roberto Bautista Agut,R,183,ESP,36.5,57,896,3-6 6-3 6-2,3,R128,157,6,2,87,59,43,10,13,2,5,2,2,96,66,39,12,13,9,14
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,C0H0,,,Arthur Cazaux,R,183,FRA,22.1,92,622,C977,,PR,Marin Cilic,R,198,CRO,36,211,278,6-4 6-4,3,R128,96,6,1,65,34,29,16,10,2,3,8,5,53,27,21,13,10,6,9
@@ -2704,7 +2704,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,MU94,,,Jaume Munar,R,183,ESP,27.4,63,839,G09O,,,Hugo Gaston,L,173,FRA,24,80,703,6-3 6-3,3,R128,106,1,4,80,58,37,10,9,10,12,0,4,60,34,21,10,9,6,11
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,GB88,,,David Goffin,R,180,BEL,33.8,66,800,D994,,,James Duckworth,R,183,AUS,32.7,75,748,6-4 6-2,3,R128,87,6,2,76,44,31,17,9,3,4,4,1,54,36,23,5,9,3,7
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,Z0CQ,,WC,Yi Zhou,L,183,CHN,19.6,440,97,N732,,,Yoshihito Nishioka,L,170,JPN,29,60,854,2-4 RET,3,R128,32,0,1,23,13,8,3,3,0,2,1,0,17,12,7,4,3,1,2
-2024-5014,Shanghai Masters,Hard,96,M,20241002,,BK40,,,Matteo Berrettini,R,196,ITA,28.5,44,1215,O483,,,Christopher O'Connell,R,183,AUS,28.4,71,765,7-6 7-6,3,R128,,,,,,,,,,,,,,,,,,,
+2024-5014,Shanghai Masters,Hard,96,M,20241002,,BK40,,,Matteo Berrettini,R,196,ITA,28.4,44,1215,O483,,,Christopher O'Connell,R,183,AUS,30.3,71,765,7-6(9) 7-6(6),3,R128,133,11,0,84,53,40,19,12,2,4,5,1,85,51,35,23,12,3,5
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,M0NI,,,Jakub Mensik,R,193,CZE,19.1,65,822,MO44,,,Pedro Martinez,R,185,ESP,27.4,45,1207,6-1 5-7 6-4,3,R128,118,14,4,81,53,41,16,15,2,4,3,3,81,58,35,12,14,2,6
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,GJ37,,,Tallon Griekspoor,R,188,NLD,28.3,40,1305,D0CG,,,Facundo Diaz Acosta,L,183,ARG,23.8,59,865,6-4 6-7 6-3,3,R128,134,2,4,100,75,58,12,16,3,4,6,4,89,63,45,16,15,3,6
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,GC88,,,Marcos Giron,R,180,USA,31.2,47,1140,TC01,,Q,Li Tu,R,183,AUS,28.4,191,304,6-1 7-6,3,R128,87,1,1,53,36,25,9,9,1,3,4,2,73,45,29,9,10,6,11
@@ -2715,17 +2715,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,B0GG,,Q,Mattia Bellucci,R,175,ITA,23.3,101,574,HD68,,LL,Billy Harris,R,193,GBR,29.7,106,552,6-3 6-4,3,R128,78,3,1,57,35,26,13,10,1,2,4,0,51,33,20,10,9,5,8
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,A0GC,,Q,Terence Atmane,R,193,FRA,22.7,161,369,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.1,76,740,6-4 7-6,3,R128,98,8,4,68,40,28,17,11,1,3,7,3,75,40,26,19,11,9,12
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,W367,,WC,Stan Wawrinka,R,183,CHE,39.5,236,243,M0GZ,,,Giovanni Mpetshi Perricard,R,203,FRA,21.2,50,1073,7-6 7-6,3,R128,108,13,4,81,40,36,26,12,3,3,10,4,86,52,45,17,12,6,6
-2024-5014,Shanghai Masters,Hard,96,M,20241002,,M0QL,,,Alex Michelsen,R,193,USA,20.1,43,1215,Y09V,,,Yunchaokete Bu,R,185,CHN,24.7,69,780,6-3 6-4,3,R128,,,,,,,,,,,,,,,,,,,
+2024-5014,Shanghai Masters,Hard,96,M,20241002,,M0QL,,,Alex Michelsen,R,193,USA,20,43,1215,Y09V,,SE,Yunchaokete Bu,R,185,CHN,22.6,69,780,6-3 6-4,3,R128,77,6,2,53,34,28,13,10,2,2,2,3,50,24,18,14,9,3,5
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,PL56,11,,Tommy Paul,R,188,USA,27.4,13,3045,F510,,,Fabio Fognini,R,178,ITA,37.4,81,691,6-1 6-3,3,R64,60,7,0,42,26,20,13,8,0,0,0,4,50,30,17,7,8,0,4
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,TE30,19,,Alejandro Tabilo,L,188,CHI,27.3,23,1963,RC91,,,Arthur Rinderknech,R,196,FRA,29.2,62,843,6-3 6-2,3,R64,76,3,1,46,25,20,13,9,1,2,4,2,61,37,21,10,8,8,12
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,S0S1,14,,Ben Shelton,L,193,USA,22,16,2580,SU55,,Q,Denis Shapovalov,L,185,CAN,25.5,102,568,6-3 7-5,3,R64,77,11,1,55,42,32,12,11,0,0,2,5,57,40,28,9,10,3,5
-2024-5014,Shanghai Masters,Hard,96,M,20241002,,MP20,,,Alexandre Muller,R,183,FRA,27.7,74,748,AG37,,,Felix Auger-Aliassime,R,193,CAN,26.6,22,2170,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,
+2024-5014,Shanghai Masters,Hard,96,M,20241002,,MP20,,,Alexandre Muller,R,183,FRA,27.6,74,748,AG37,18,,Felix Auger-Aliassime,R,193,CAN,24.1,22,2170,6-3 6-2,3,R64,79,2,0,61,39,27,15,9,3,3,6,4,43,30,20,7,8,5,8
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,MC65,,,Gael Monfils,R,193,FRA,38.1,46,1160,B0BI,22,,Sebastian Baez,R,170,ARG,23.8,26,1760,6-3 4-6 6-4,3,R64,132,15,6,95,63,45,15,15,10,13,2,2,93,75,50,5,14,11,15
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,A0FC,29,,Matteo Arnaldi,R,185,ITA,23.6,36,1350,S0K7,,Q,Zachary Svajda,R,175,USA,21.8,131,452,6-7 6-2 6-4,3,R64,155,11,3,99,55,45,23,15,4,5,3,4,117,75,50,20,15,9,13
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,TE51,10,,Stefanos Tsitsipas,R,193,GRC,26.1,12,3390,N552,,WC,Kei Nishikori,R,178,JPN,34.8,153,388,7-6 6-4,3,R64,105,14,3,75,43,37,18,11,3,3,1,0,67,43,35,14,11,5,6
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,HH26,16,,Ugo Humbert,L,188,FRA,26.3,15,2645,C0H0,,,Arthur Cazaux,R,183,FRA,22.1,92,622,6-3 6-2,3,R64,82,7,4,57,37,31,9,9,1,1,8,2,58,31,23,10,8,5,8
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,CF59,,,Roberto Carballes Baena,R,180,ESP,36.5,54,955,F0F1,21,,Arthur Fils,R,185,FRA,20.3,21,2250,7-6 7-6,3,R64,126,3,2,78,52,43,14,12,1,3,7,3,86,54,43,13,12,7,9
-2024-5014,Shanghai Masters,Hard,96,M,20241002,,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.2,37,1335,V812,,,Botic van de Zandschulp,R,191,NED,26.6,67,799,7-6 3-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,
+2024-5014,Shanghai Masters,Hard,96,M,20241002,,EA24,31,,Tomas Martin Etcheverry,R,196,ARG,25.2,37,1335,V812,,,Botic van de Zandschulp,R,191,NED,28.9,67,799,7-6(5) 3-6 7-5,3,R64,223,9,2,133,83,57,27,16,13,16,6,5,124,75,59,20,17,7,10
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,M0FH,30,,Tomas Machac,R,185,CZE,24,33,1449,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.3,64,825,1-6 7-6 6-4,3,R64,125,10,6,91,45,32,22,14,3,7,6,1,84,65,44,10,15,0,3
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,MM58,5,,Daniil Medvedev,R,198,RUS,28.6,5,5375,SX91,,,Thiago Seyboth Wild,R,185,BRA,24.6,88,656,7-5 7-5,3,R64,116,6,3,68,44,32,11,12,1,3,2,1,91,62,37,12,12,8,12
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,WB32,,WC,Yibing Wu,R,183,CHN,25,560,63,J551,25,,Nicolas Jarry,R,201,CHI,29,29,1555,6-2 6-1,3,R64,61,2,1,49,31,29,7,8,2,2,2,3,43,29,17,3,7,4,8
@@ -2779,10 +2779,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,S0AG,1,,Jannik Sinner,R,191,ITA,23.1,1,11010,M0FH,30,,Tomas Machac,R,185,CZE,24,33,1449,6-4 7-5,3,SF,103,10,1,69,46,34,14,11,2,3,5,1,69,45,29,12,11,4,7
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,D643,4,,Novak Djokovic,R,188,SRB,37.4,4,5560,FB98,7,,Taylor Fritz,R,193,USA,26.9,7,4060,6-4 7-6,3,SF,116,7,0,71,50,39,13,11,2,2,6,5,84,49,35,19,11,8,9
 2024-5014,Shanghai Masters,Hard,96,M,20241002,,S0AG,1,,Jannik Sinner,R,191,ITA,23.1,1,11010,D643,4,,Novak Djokovic,R,188,SRB,37.4,4,5560,7-6 6-3,3,F,97,8,0,67,41,31,17,11,0,0,4,0,58,38,29,12,10,1,2
-2024-9410,Almaty,Hard,28,A,20241014,,E225,,,Jason Engelhardt,,,ANT,23.2,458,91,W0BH,,,Coleman Wong,R,191,HKG,20.4,133,452,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,
+2024-9410,Almaty,Hard,28,A,20241014,,E0DD,,WC,Justin Engel,R,185,GER,17,458,91,W0BH,,,Coleman Wong,R,191,HKG,20.3,133,452,7-5 6-4,3,R32,94,5,2,74,56,40,8,11,9,10,10,2,81,51,34,13,11,6,9
 2024-9410,Almaty,Hard,28,A,20241014,,MN13,,,Maximilian Marterer,L,188,GER,29.3,114,507,D923,,,Damir Dzumhur,R,175,BIH,32.4,100,584,7-5 6-4,3,R32,81,4,3,57,25,20,19,11,0,2,1,4,58,33,22,10,11,0,4
 2024-9410,Almaty,Hard,28,A,20241014,,CG80,,,Borna Coric,R,188,CRO,27.9,96,595,M0CI,7,,Fabian Marozsan,R,193,HUN,25,57,940,6-4 7-6,3,R32,111,5,4,65,39,28,15,11,1,4,1,1,89,53,32,16,11,5,9
-2024-9410,Almaty,Hard,28,A,20241014,,D0F6,,,Gabriel Diallo,R,203,CAN,23.1,118,497,O483,,,Christopher O'Connell,R,183,AUS,28.4,72,762,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,
+2024-9410,Almaty,Hard,28,A,20241014,,D0F6,,,Gabriel Diallo,R,203,CAN,23,118,497,O483,,,Christopher O'Connell,R,183,AUS,30.3,72,762,7-6(5) 6-2,3,R32,96,9,3,62,52,43,4,10,1,1,2,1,68,38,27,18,10,4,6
 2024-9410,Almaty,Hard,28,A,20241014,,ME82,8,,Adrian Mannarino,L,180,FRA,36.3,56,949,SX50,,,Roman Safiullin,R,188,RUS,27.2,58,908,5-7 7-6 6-3,3,R32,165,2,5,112,61,41,29,17,7,10,9,2,95,62,43,17,16,3,6
 2024-9410,Almaty,Hard,28,A,20241014,,V0AM,,,Otto Virtanen,R,193,FIN,23.3,116,499,F510,,,Fabio Fognini,R,178,ITA,37.4,76,721,6-3 7-6,3,R32,83,9,3,61,31,25,21,11,1,2,2,1,70,53,34,8,10,1,3
 2024-9410,Almaty,Hard,28,A,20241014,,Z09Z,,WC,Beibit Zhukayev,R,198,KAZ,24,213,272,HG94,,Q,Benjamin Hassan,R,183,LBN,29.7,245,227,6-4 6-1,3,R32,65,8,2,50,33,28,10,9,0,0,1,1,50,27,20,10,8,5,8
@@ -2791,7 +2791,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-9410,Almaty,Hard,28,A,20241014,,S0H2,,,Alexander Shevchenko,R,188,KAZ,23.9,61,900,K926,,Q,Mikhail Kukushkin,R,183,KAZ,36.8,111,524,7-6 7-6,3,R32,142,9,1,75,48,36,15,12,2,4,4,1,112,74,49,17,12,8,10
 2024-9410,Almaty,Hard,28,A,20241014,,V832,,,Aleksandar Vukic,R,188,AUS,28.5,85,669,D994,,,James Duckworth,R,183,AUS,32.7,63,848,6-4 7-5,3,R32,82,14,2,68,49,39,10,11,3,3,4,2,67,44,33,11,11,2,4
 2024-9410,Almaty,Hard,28,A,20241014,,M0FH,5,,Tomas Machac,R,185,CZE,24,25,1749,S0GR,,WC,Timofey Skatov,R,175,KAZ,23.7,192,299,6-3 6-4,3,R32,79,8,4,54,29,26,12,10,2,3,3,2,51,25,16,14,9,1,4
-2024-9410,Almaty,Hard,28,A,20241014,,C0AU,,,Francisco Cerundolo,R,185,ARG,26.2,31,1470,E225,,,Jason Engelhardt,,,ANT,23.2,458,91,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,
+2024-9410,Almaty,Hard,28,A,20241014,,C0AU,4,,Francisco Cerundolo,R,185,ARG,26.1,31,1470,E0DD,,WC,Justin Engel,R,185,GER,17,458,91,6-4 7-6(3),3,R16,89,6,2,62,36,29,17,11,0,1,4,1,73,46,33,14,11,2,4
 2024-9410,Almaty,Hard,28,A,20241014,,D0F6,,,Gabriel Diallo,R,203,CAN,23.1,118,497,CG80,,,Borna Coric,R,188,CRO,27.9,96,595,7-6 6-4,3,R16,104,8,2,67,48,40,9,11,2,2,3,1,70,47,29,18,11,3,4
 2024-9410,Almaty,Hard,28,A,20241014,,TE30,2,,Alejandro Tabilo,L,188,CHI,27.4,23,1983,MN13,,,Maximilian Marterer,L,188,GER,29.3,114,507,6-2 6-4,3,R16,65,4,2,43,27,24,12,9,0,0,8,3,58,44,28,8,9,3,6
 2024-9410,Almaty,Hard,28,A,20241014,,S0H2,,,Alexander Shevchenko,R,188,KAZ,23.9,61,900,KC56,,Q,Aslan Karatsev,R,185,RUS,31.1,139,425,6-1 6-7 7-5,3,R16,140,7,0,93,60,47,20,16,1,2,3,1,89,57,40,19,15,3,7
@@ -2812,7 +2812,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-7485,Antwerp,Hard,28,A,20241014,,F724,,,Marton Fucsovics,R,188,HUN,32.7,93,614,C0JP,,WC,Raphael Collignon,R,191,BEL,22.8,164,358,6-2 6-0,3,R32,62,7,1,46,34,29,4,7,2,2,1,12,39,17,10,4,7,1,6
 2024-7485,Antwerp,Hard,28,A,20241014,,L0BV,5,,Jiri Lehecka,R,185,CZE,22.9,33,1440,MU94,,,Jaume Munar,R,183,ESP,27.4,65,844,6-1 6-4,3,R32,85,6,2,50,28,21,14,8,2,2,1,4,60,38,22,8,9,5,9
 2024-7485,Antwerp,Hard,28,A,20241014,,G09O,,,Hugo Gaston,L,173,FRA,24,77,693,V717,,Q,Alexey Vatutin,R,178,RUS,32,336,148,3-6 6-3 6-3,3,R32,107,7,0,99,61,42,16,14,9,12,1,2,72,47,24,18,13,2,6
-2024-7485,Antwerp,Hard,28,A,20241014,,GC88,,,Marcos Giron,R,180,USA,31.2,47,1165,V812,,,Botic van de Zandschulp,R,191,NED,26.6,68,804,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,
+2024-7485,Antwerp,Hard,28,A,20241014,,GC88,8,,Marcos Giron,R,180,USA,31.2,47,1165,V812,,,Botic van de Zandschulp,R,191,NED,29,68,804,6-4 6-1,3,R32,79,4,1,46,27,25,10,8,0,0,4,2,71,37,24,13,9,4,8
 2024-7485,Antwerp,Hard,28,A,20241014,,BD06,,,Roberto Bautista Agut,R,183,ESP,36.5,60,906,V0DZ,,Q,Luca Van Assche,R,178,FRA,20.4,119,496,6-2 6-1,3,R32,73,5,0,48,36,29,6,8,3,3,2,1,41,21,13,8,7,3,7
 2024-7485,Antwerp,Hard,28,A,20241014,,SX91,,Q,Thiago Seyboth Wild,R,185,BRA,24.6,80,686,M0GZ,,,Giovanni Mpetshi Perricard,R,203,FRA,21.3,48,1076,7-6 6-3,3,R32,78,11,1,68,46,39,14,11,0,0,12,0,60,43,31,12,10,2,3
 2024-7485,Antwerp,Hard,28,A,20241014,,BU13,,,Zizou Bergs,R,185,BEL,25.4,69,793,D0CG,,,Facundo Diaz Acosta,L,183,ARG,23.8,67,830,7-5 6-4,3,R32,105,7,2,64,39,31,13,11,2,3,4,1,72,48,36,6,11,5,8
@@ -2820,21 +2820,21 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-7485,Antwerp,Hard,28,A,20241014,,AE14,,,Daniel Altmaier,R,188,GER,26.1,84,672,B0QC,,Q,Gilles Arnaud Bailly,R,180,BEL,19.1,869,21,6-4 6-3,3,R32,76,16,2,58,39,34,12,10,4,4,1,0,52,42,27,8,9,3,5
 2024-7485,Antwerp,Hard,28,A,20241014,,BD06,,,Roberto Bautista Agut,R,183,ESP,36.5,60,906,EA24,6,,Tomas Martin Etcheverry,R,196,ARG,25.2,35,1375,7-6 6-4,3,R16,110,2,0,57,38,34,12,11,0,1,17,2,74,42,35,11,11,2,4
 2024-7485,Antwerp,Hard,28,A,20241014,,G09O,,,Hugo Gaston,L,173,FRA,24,77,693,N0BS,7,,Mariano Navone,R,178,ARG,23.6,43,1238,6-4 6-7 7-6,3,R16,169,3,2,111,67,48,22,17,4,8,4,3,115,69,48,26,17,8,13
-2024-7485,Antwerp,Hard,28,A,20241014,,DH58,,,Alex de Minaur,R,183,AUS,31.8,9,3610,CF59,,,Roberto Carballes Baena,R,180,ESP,36.5,54,980,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,
-2024-7485,Antwerp,Hard,28,A,20241014,,AG37,,,Felix Auger-Aliassime,R,193,CAN,26.7,21,2155,F724,,,Marton Fucsovics,R,188,HUN,32.7,93,614,6-7 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,
+2024-7485,Antwerp,Hard,28,A,20241014,,DH58,1,,Alex de Minaur,R,183,AUS,25.6,9,3610,CF59,,,Roberto Carballes Baena,R,183,ESP,31.5,54,980,2-6 6-4 6-2,3,R16,138,1,1,85,46,34,17,13,2,5,7,2,80,38,28,21,13,3,7
+2024-7485,Antwerp,Hard,28,A,20241014,,AG37,3,,Felix Auger-Aliassime,R,193,CAN,24.1,21,2155,F724,,,Marton Fucsovics,R,188,HUN,32.6,93,614,6-7(4) 6-4 6-2,3,R16,154,13,2,96,66,51,17,15,3,3,9,4,111,72,51,20,15,10,13
 2024-7485,Antwerp,Hard,28,A,20241014,,L0BV,5,,Jiri Lehecka,R,185,CZE,22.9,33,1440,AE14,,,Daniel Altmaier,R,188,GER,26.1,84,672,6-4 6-3,3,R16,73,6,4,57,33,30,10,9,3,3,9,1,54,33,28,8,10,2,5
 2024-7485,Antwerp,Hard,28,A,20241014,,GC88,8,,Marcos Giron,R,180,USA,31.2,47,1165,RC91,,,Arthur Rinderknech,R,196,FRA,29.2,62,860,7-6 7-6,3,R16,114,12,0,82,56,49,14,12,1,1,9,0,86,63,50,11,12,4,4
 2024-7485,Antwerp,Hard,28,A,20241014,,TE51,2,,Stefanos Tsitsipas,R,193,GRC,26.2,11,3445,SX91,,Q,Thiago Seyboth Wild,R,185,BRA,24.6,80,686,7-6 4-6 7-5,3,R16,140,5,6,104,66,53,21,17,3,4,14,2,97,57,46,25,17,1,2
 2024-7485,Antwerp,Hard,28,A,20241014,,BU13,,,Zizou Bergs,R,185,BEL,25.4,69,793,B0BI,4,,Sebastian Baez,R,170,ARG,23.8,27,1725,6-3 6-4,3,R16,93,8,0,60,43,29,7,9,4,6,1,4,75,52,27,11,10,5,10
-2024-7485,Antwerp,Hard,28,A,20241014,,BD06,,,Roberto Bautista Agut,R,183,ESP,36.5,60,906,AG37,,,Felix Auger-Aliassime,R,193,CAN,26.7,21,2155,3-6 6-2 7-6,3,QF,,,,,,,,,,,,,,,,,,,
-2024-7485,Antwerp,Hard,28,A,20241014,,G09O,,,Hugo Gaston,L,173,FRA,24,77,693,DH58,,,Alex de Minaur,R,183,AUS,31.8,9,3610,6-3 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,
+2024-7485,Antwerp,Hard,28,A,20241014,,BD06,,,Roberto Bautista Agut,R,183,ESP,36.5,60,906,AG37,3,,Felix Auger-Aliassime,R,193,CAN,24.1,21,2155,3-6 6-2 7-6(6),3,QF,162,2,5,102,64,43,20,14,4,6,19,5,108,71,49,17,15,8,11
+2024-7485,Antwerp,Hard,28,A,20241014,,G09O,,,Hugo Gaston,L,173,FRA,24,77,693,DH58,1,,Alex de Minaur,R,183,AUS,25.6,9,3610,6-3 3-6 7-5,3,QF,129,6,0,98,64,42,19,15,2,4,8,3,81,53,41,12,15,1,4
 2024-7485,Antwerp,Hard,28,A,20241014,,L0BV,5,,Jiri Lehecka,R,185,CZE,22.9,33,1440,TE51,2,,Stefanos Tsitsipas,R,193,GRC,26.2,11,3445,6-4 6-4,3,QF,84,8,0,52,32,29,12,10,0,0,8,1,72,41,27,18,10,5,7
 2024-7485,Antwerp,Hard,28,A,20241014,,GC88,8,,Marcos Giron,R,180,USA,31.2,47,1165,BU13,,,Zizou Bergs,R,185,BEL,25.4,69,793,6-2 6-2,3,QF,74,3,0,45,32,30,5,8,2,2,3,2,63,39,24,8,8,7,11
 2024-7485,Antwerp,Hard,28,A,20241014,,BD06,,,Roberto Bautista Agut,R,183,ESP,36.5,60,906,G09O,,,Hugo Gaston,L,173,FRA,24,77,693,6-3 6-4,3,SF,88,1,0,53,33,25,15,10,0,0,5,2,65,40,27,13,9,6,8
 2024-7485,Antwerp,Hard,28,A,20241014,,L0BV,5,,Jiri Lehecka,R,185,CZE,22.9,33,1440,GC88,8,,Marcos Giron,R,180,USA,31.2,47,1165,6-3 4-6 6-2,3,SF,116,7,1,81,55,39,19,14,3,4,8,0,89,62,43,12,13,3,6
 2024-7485,Antwerp,Hard,28,A,20241014,,BD06,,,Roberto Bautista Agut,R,183,ESP,36.5,60,906,L0BV,5,,Jiri Lehecka,R,185,CZE,22.9,33,1440,7-5 6-1,3,F,75,1,1,50,38,30,9,10,1,2,12,2,57,41,25,5,9,2,6
 2024-429,Stockholm,Hard,28,A,20241014,,S0LA,,PR,Dominic Stricker,L,183,SUI,22.2,317,162,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.1,90,624,6-4 5-7 6-4,3,R32,139,16,1,85,46,41,21,16,1,2,8,3,120,75,58,18,16,9,11
-2024-429,Stockholm,Hard,28,A,20241014,,SU87,,,Lorenzo Sonego,R,191,ITA,29.4,50,1046,HH06,,,Marc-Andrea Huesler,L,196,SUI,28.9,152,383,7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,
+2024-429,Stockholm,Hard,28,A,20241014,,SU87,,,Lorenzo Sonego,R,191,ITA,29.4,50,1046,HH06,,Q,Marc-Andrea Huesler,L,196,SUI,28.3,152,383,7-6(1) 7-5,3,R32,110,8,1,67,40,33,20,12,1,1,3,1,76,49,33,17,12,0,1
 2024-429,Stockholm,Hard,28,A,20241014,,GJ37,7,,Tallon Griekspoor,R,188,NLD,28.3,37,1345,K09F,,,Pavel Kotov,R,191,RUS,25.9,59,907,6-4 6-3,3,R32,72,8,1,47,28,25,13,10,1,2,1,1,58,37,26,7,9,6,9
 2024-429,Stockholm,Hard,28,A,20241014,,BK40,,,Matteo Berrettini,R,196,ITA,28.5,42,1245,D0FJ,8,,Luciano Darderi,R,183,ITA,22.7,44,1228,6-4 6-3,3,R32,77,11,1,51,35,31,8,10,0,1,0,1,48,31,20,8,9,2,5
 2024-429,Stockholm,Hard,28,A,20241014,,F0BY,,Q,Jacob Fearnley,R,183,GBR,23.2,99,588,MW02,,,Corentin Moutet,L,180,FRA,25.5,71,764,6-2 7-6,3,R32,111,4,5,76,43,30,15,10,4,7,3,3,77,47,27,14,10,8,13
@@ -2842,7 +2842,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-429,Stockholm,Hard,28,A,20241014,,DB63,,Q,Laslo Djere,R,188,SRB,29.4,113,516,MO44,,,Pedro Martinez,R,185,ESP,27.5,39,1321,6-2 6-0,3,R32,51,6,1,33,20,18,10,7,0,0,0,2,37,21,12,3,7,3,8
 2024-429,Stockholm,Hard,28,A,20241014,,J551,5,,Nicolas Jarry,R,201,CHI,29,34,1385,Y218,,WC,Elias Ymer,R,185,SWE,28.5,252,219,2-6 6-4 7-6,3,R32,146,8,4,96,66,49,18,15,6,9,12,3,97,67,46,18,15,2,4
 2024-429,Stockholm,Hard,28,A,20241014,,MP20,,,Alexandre Muller,R,183,FRA,27.7,70,785,B0JG,,WC,Leo Borg,R,183,SWE,21.4,590,57,6-3 7-6,3,R32,90,4,1,53,32,27,15,10,0,1,5,3,76,51,36,9,11,4,7
-2024-429,Stockholm,Hard,28,A,20241014,,DH50,,,Alejandro Davidovich Fokina,R,180,ESP,25.4,64,845,T0A1,,,Thiago Agustín Tirante,R,185,ARG,18.8,121,484,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,
+2024-429,Stockholm,Hard,28,A,20241014,,DH50,,,Alejandro Davidovich Fokina,R,183,ESP,25.3,64,845,T0A1,,Q,Thiago Agustin Tirante,R,185,ARG,23.5,121,484,7-6(2) 6-2,3,R32,102,3,0,69,50,38,12,10,3,3,10,1,76,45,32,13,10,7,9
 2024-429,Stockholm,Hard,28,A,20241014,,W367,,WC,Stan Wawrinka,R,183,SUI,39.5,217,263,N0AE,6,,Brandon Nakashima,R,188,USA,23.2,38,1340,6-4 6-4,3,R32,80,4,1,54,32,28,13,10,1,1,6,1,61,44,33,6,10,5,7
 2024-429,Stockholm,Hard,28,A,20241014,,HB64,,,Quentin Halys,R,183,FRA,28,95,603,N897,,,Sumit Nagal,R,183,IND,27.2,78,691,6-0 6-4,3,R32,63,14,1,47,25,21,15,8,3,3,1,2,54,38,20,6,8,3,7
 2024-429,Stockholm,Hard,28,A,20241014,,GJ37,7,,Tallon Griekspoor,R,188,NLD,28.3,37,1345,F0BY,,Q,Jacob Fearnley,R,183,GBR,23.2,99,588,7-6 6-3,3,R16,89,9,1,55,38,32,8,10,0,1,1,6,77,42,27,15,11,7,10
@@ -2867,23 +2867,23 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-328,Basel,Hard,32,A,20241021,,RE44,1,,Andrey Rublev,R,188,RUS,27,7,4150,BT72,,,Nuno Borges,R,185,POR,27.7,33,1446,6-3 6-2,3,R32,64,4,0,47,26,25,10,9,0,1,5,3,56,30,19,11,8,6,10
 2024-328,Basel,Hard,32,A,20241021,,SU55,,WC,Denis Shapovalov,L,185,CAN,25.5,95,618,S0RE,,,Juncheng Shang,L,180,CHN,19.7,47,1075,6-1 6-4,3,R32,68,11,3,55,28,25,16,9,1,1,4,2,52,35,23,6,8,3,6
 2024-328,Basel,Hard,32,A,20241021,,S0LA,,WC,Dominic Stricker,L,183,SUI,22.2,258,212,GJ37,,,Tallon Griekspoor,R,188,NLD,28.3,35,1400,6-4 6-4,3,R32,66,14,1,53,35,31,10,10,2,2,8,3,57,39,30,8,10,2,4
-2024-328,Basel,Hard,32,A,20241021,,V812,,,Botic van de Zandschulp,R,191,NED,26.6,67,804,BK92,,,Alexander Bublik,R,196,KAZ,27.3,32,1460,3-6 6-4 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,
+2024-328,Basel,Hard,32,A,20241021,,V812,,Q,Botic van de Zandschulp,R,191,NED,29,67,804,BK92,,,Alexander Bublik,R,196,KAZ,27.3,32,1460,3-6 6-4 4-0 RET,3,R32,106,5,2,81,57,42,10,11,3,4,16,11,86,42,32,18,12,5,8
 2024-328,Basel,Hard,32,A,20241021,,S0S1,6,,Ben Shelton,L,193,USA,22,23,2010,EA24,,,Tomas Martin Etcheverry,R,196,ARG,25.3,36,1375,6-3 6-4,3,R32,73,8,0,52,38,32,9,10,1,1,7,2,51,26,23,10,9,0,2
 2024-328,Basel,Hard,32,A,20241021,,TE30,,,Alejandro Tabilo,L,188,CHI,27.4,21,2023,C977,,PR,Marin Cilic,R,198,CRO,36.1,202,288,7-6 7-6,3,R32,125,11,3,78,52,41,11,12,0,2,7,2,95,53,34,24,12,7,9
 2024-328,Basel,Hard,32,A,20241021,,R0DG,4,,Holger Rune,R,188,DEN,21.5,14,2985,J551,,,Nicolas Jarry,R,201,CHI,29,34,1400,6-4 7-6,3,R32,86,9,4,60,38,34,14,11,0,0,11,4,62,38,33,11,11,1,2
 2024-328,Basel,Hard,32,A,20241021,,TE51,3,,Stefanos Tsitsipas,R,193,GRC,26.2,11,3405,C0AU,,,Francisco Cerundolo,R,185,ARG,26.2,30,1570,6-3 6-7 7-6,3,R32,152,6,1,120,73,56,22,17,5,7,9,3,111,70,43,26,16,9,12
-2024-328,Basel,Hard,32,A,20241021,,AG37,,,Felix Auger-Aliassime,R,193,CAN,26.7,19,2130,B0BI,,,Sebastian Baez,R,170,ARG,23.8,26,1725,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,
+2024-328,Basel,Hard,32,A,20241021,,AG37,8,,Felix Auger-Aliassime,R,193,CAN,24.2,19,2130,B0BI,,,Sebastian Baez,R,170,ARG,23.8,26,1725,7-5 6-1,3,R32,74,8,1,51,36,31,11,10,2,2,2,0,55,43,30,4,9,1,4
 2024-328,Basel,Hard,32,A,20241021,,MO44,,,Pedro Martinez,R,185,ESP,27.5,39,1320,L0BV,,,Jiri Lehecka,R,185,CZE,23,28,1605,6-2 6-2,3,R32,67,4,0,46,31,26,8,8,1,1,3,3,47,31,20,5,8,4,8
 2024-328,Basel,Hard,32,A,20241021,,BD06,,SE,Roberto Bautista Agut,R,183,ESP,36.5,45,1146,RH16,2,,Casper Ruud,R,183,NOR,25.8,8,3890,6-3 3-6 6-3,3,R32,123,5,0,71,51,41,14,14,3,4,11,5,87,51,42,13,13,4,6
 2024-328,Basel,Hard,32,A,20241021,,W367,,WC,Stan Wawrinka,R,183,CHE,39.6,169,343,ME82,,,Adrian Mannarino,L,180,FRA,36.3,57,929,6-3 3-6 7-5,3,R32,121,13,1,83,51,44,15,15,1,3,6,3,86,46,31,24,15,1,4
 2024-328,Basel,Hard,32,A,20241021,,GB88,,LL,David Goffin,R,180,BEL,33.9,54,980,HH26,5,,Ugo Humbert,L,188,FRA,26.3,16,2515,3-6 6-1 7-6,3,R16,147,5,3,97,57,42,22,14,4,5,9,2,101,56,40,26,14,6,8
 2024-328,Basel,Hard,32,A,20241021,,RE44,1,,Andrey Rublev,R,188,RUS,27,7,4150,TE30,,,Alejandro Tabilo,L,188,CHI,27.4,21,2023,7-6 6-1,3,R16,73,14,4,66,47,39,8,10,1,1,12,3,57,42,31,5,9,1,3
-2024-328,Basel,Hard,32,A,20241021,,TE51,,,Stefanos Tsitsipas,R,193,GRC,26.2,11,3405,V812,,,Botic van de Zandschulp,R,191,NED,26.6,67,804,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,
+2024-328,Basel,Hard,32,A,20241021,,TE51,3,,Stefanos Tsitsipas,R,193,GRE,26.1,11,3405,V812,,Q,Botic van de Zandschulp,R,191,NED,29,67,804,7-6(3) 7-5,3,R16,106,8,2,79,51,37,16,12,4,5,5,3,77,54,39,11,12,2,4
 2024-328,Basel,Hard,32,A,20241021,,F0F1,7,,Arthur Fils,R,185,FRA,20.4,20,2090,MO44,,,Pedro Martinez,R,185,ESP,27.5,39,1320,7-5 6-3,3,R16,90,13,1,64,42,36,8,11,2,3,5,4,60,37,27,8,10,4,7
 2024-328,Basel,Hard,32,A,20241021,,S0S1,6,,Ben Shelton,L,193,USA,22,23,2010,W367,,WC,Stan Wawrinka,R,183,CHE,39.6,169,343,7-6 7-5,3,R16,95,9,1,73,54,45,13,12,5,5,4,2,65,34,29,18,12,0,1
 2024-328,Basel,Hard,32,A,20241021,,SU55,,WC,Denis Shapovalov,L,185,CAN,25.5,95,618,BD06,,SE,Roberto Bautista Agut,R,183,ESP,36.5,45,1146,6-3 7-6,3,R16,99,18,2,66,39,31,17,11,1,2,2,4,80,62,39,6,10,6,8
 2024-328,Basel,Hard,32,A,20241021,,R0DG,4,,Holger Rune,R,188,DEN,21.5,14,2985,S0LA,,WC,Dominic Stricker,L,183,SUI,22.2,258,212,6-3 7-6,3,R16,87,10,2,74,48,39,13,11,1,2,7,0,62,36,25,14,10,2,4
-2024-328,Basel,Hard,32,A,20241021,,M0GZ,,,Giovanni Mpetshi Perricard,R,203,FRA,21.3,50,1026,AG37,,,Felix Auger-Aliassime,R,193,CAN,26.7,19,2130,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,
+2024-328,Basel,Hard,32,A,20241021,,M0GZ,,,Giovanni Mpetshi Perricard,R,203,FRA,21.2,50,1026,AG37,8,,Felix Auger-Aliassime,R,193,CAN,24.2,19,2130,6-1 7-6(6),3,R16,82,22,2,56,39,32,14,10,0,0,8,3,61,38,28,12,9,5,7
 2024-328,Basel,Hard,32,A,20241021,,F0F1,7,,Arthur Fils,R,185,FRA,20.4,20,2090,TE51,3,,Stefanos Tsitsipas,R,193,GRC,26.2,11,3405,7-6 6-3,3,QF,83,10,3,54,33,29,16,10,0,0,9,2,73,46,37,12,11,4,6
 2024-328,Basel,Hard,32,A,20241021,,S0S1,6,,Ben Shelton,L,193,USA,22,23,2010,RE44,1,,Andrey Rublev,R,188,RUS,27,7,4150,7-5 6-7 6-4,3,QF,135,13,2,111,79,58,22,17,6,6,12,3,87,63,55,15,17,0,2
 2024-328,Basel,Hard,32,A,20241021,,R0DG,4,,Holger Rune,R,188,DEN,21.5,14,2985,GB88,,LL,David Goffin,R,180,BEL,33.9,54,980,6-2 6-4,3,QF,80,6,5,57,31,24,15,9,1,2,5,3,63,33,22,9,9,7,11
@@ -2896,7 +2896,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-337,Vienna,Hard,32,A,20241021,,Z355,1,,Alexander Zverev,R,198,GER,27.5,3,6795,S0WT,,WC,Joel Schwaerzler,L,188,AUT,18.7,347,141,6-2 6-2,3,R32,68,6,1,38,24,23,9,8,0,0,1,1,54,33,20,6,8,4,8
 2024-337,Vienna,Hard,32,A,20241021,,M0NI,,Q,Jakub Mensik,R,193,CZE,19.1,51,1022,P09Z,8,,Alexei Popyrin,R,196,AUS,25.2,25,1775,7-6 6-2,3,R32,102,5,3,63,35,29,17,10,5,5,4,2,83,48,29,18,10,4,6
 2024-337,Vienna,Hard,32,A,20241021,,KI95,,,Miomir Kecmanovic,R,183,SRB,25.1,58,925,N0BS,,,Mariano Navone,R,178,ARG,23.6,44,1188,6-2 6-4,3,R32,73,8,1,48,32,27,10,9,1,1,7,3,59,30,23,11,9,4,7
-2024-337,Vienna,Hard,32,A,20241021,,DH58,,,Alex de Minaur,R,183,AUS,31.8,10,3570,SL28,,,Jan-Lennard Struff,R,193,GER,32.8,40,1285,2-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,
+2024-337,Vienna,Hard,32,A,20241021,,DH58,2,,Alex de Minaur,R,183,AUS,25.6,10,3570,SL28,,,Jan-Lennard Struff,R,193,GER,34.4,40,1285,2-6 6-2 6-2,3,R32,101,7,3,77,36,27,22,12,4,6,5,6,68,36,26,14,12,2,6
 2024-337,Vienna,Hard,32,A,20241021,,GC88,,,Marcos Giron,R,180,USA,31.2,48,1065,M0QL,,,Alex Michelsen,R,193,USA,20.2,43,1220,7-6 6-3,3,R32,112,1,0,79,53,36,15,11,5,7,2,4,83,57,36,12,10,3,6
 2024-337,Vienna,Hard,32,A,20241021,,TD51,5,,Frances Tiafoe,R,188,USA,26.8,15,2625,N771,,,Cameron Norrie,L,188,GBR,29.2,53,989,6-4 7-6,3,R32,87,11,0,63,38,31,18,11,2,3,11,3,65,44,36,8,11,0,2
 2024-337,Vienna,Hard,32,A,20241021,,MC65,,,Gael Monfils,R,193,FRA,38.1,52,1010,HB64,,Q,Quentin Halys,R,183,FRA,28,90,628,7-6 6-3,3,R32,86,4,1,54,31,24,17,10,0,1,6,4,75,43,31,15,11,4,7
@@ -2918,9 +2918,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-337,Vienna,Hard,32,A,20241021,,D0CO,7,,Jack Draper,L,193,GBR,22.8,18,2310,M0FH,,,Tomas Machac,R,185,CZE,24,27,1723,6-3 3-6 6-1,3,QF,127,11,2,88,61,48,12,13,7,8,7,2,92,53,33,21,12,5,8
 2024-337,Vienna,Hard,32,A,20241021,,M0EJ,6,,Lorenzo Musetti,R,185,ITA,22.6,17,2425,Z355,1,,Alexander Zverev,R,198,GER,27.5,3,6795,2-6 7-6 6-4,3,QF,157,2,1,101,71,46,14,15,8,12,10,5,99,69,49,14,15,6,9
 2024-337,Vienna,Hard,32,A,20241021,,KE29,,,Karen Khachanov,R,198,RUS,28.4,24,1985,BK40,,,Matteo Berrettini,R,196,ITA,28.5,41,1270,6-1 6-4,3,QF,78,5,0,52,33,26,13,9,2,2,6,0,51,37,25,5,8,9,12
-2024-337,Vienna,Hard,32,A,20241021,,DH58,,,Alex de Minaur,R,183,AUS,31.8,10,3570,M0NI,,,Jakub Mensik,R,193,CZE,19.1,51,1022,6-7 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,
+2024-337,Vienna,Hard,32,A,20241021,,DH58,2,,Alex de Minaur,R,183,AUS,25.6,10,3570,M0NI,,Q,Jakub Mensik,R,193,CZE,19.1,51,1022,6-7(2) 6-3 6-4,3,QF,154,3,6,114,69,54,24,16,4,4,15,2,101,64,49,17,15,3,5
 2024-337,Vienna,Hard,32,A,20241021,,D0CO,7,,Jack Draper,L,193,GBR,22.8,18,2310,M0EJ,6,,Lorenzo Musetti,R,185,ITA,22.6,17,2425,6-2 6-4,3,SF,108,8,5,92,62,44,9,9,8,10,2,2,60,40,22,6,9,6,11
-2024-337,Vienna,Hard,32,A,20241021,,KE29,,,Karen Khachanov,R,198,RUS,28.4,24,1985,DH58,,,Alex de Minaur,R,183,AUS,31.8,10,3570,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,
+2024-337,Vienna,Hard,32,A,20241021,,KE29,,,Karen Khachanov,R,198,RUS,28.4,24,1985,DH58,2,,Alex de Minaur,R,183,AUS,25.6,10,3570,6-2 6-4,3,SF,90,9,0,52,36,28,9,9,2,3,4,2,58,35,21,9,9,2,6
 2024-337,Vienna,Hard,32,A,20241021,,D0CO,7,,Jack Draper,L,193,GBR,22.8,18,2310,KE29,,,Karen Khachanov,R,198,RUS,28.4,24,1985,6-4 7-5,3,F,95,6,2,58,40,32,7,11,3,5,6,3,67,45,29,9,11,4,8
 2024-352,Paris Masters,Hard,56,M,20241028,,RC91,,WC,Arthur Rinderknech,R,196,FRA,29.3,60,872,M0FH,,,Tomas Machac,R,185,CZE,24,25,1758,6-7 5-3,3,R64,96,11,1,58,37,29,14,10,1,2,2,2,73,47,32,14,10,5,7
 2024-352,Paris Masters,Hard,56,M,20241028,,GJ37,,,Tallon Griekspoor,R,188,NLD,28.3,39,1320,D0FJ,,,Luciano Darderi,R,183,ITA,22.7,43,1263,6-3 6-4,3,R64,57,19,6,49,36,35,5,10,0,0,5,2,51,23,20,14,9,1,3
@@ -2935,15 +2935,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-352,Paris Masters,Hard,56,M,20241028,,J551,,,Nicolas Jarry,R,201,CHI,29,37,1365,SU87,,Q,Lorenzo Sonego,R,191,ITA,29.5,52,1022,7-6 6-3,3,R64,100,7,2,73,46,35,20,11,8,8,9,1,53,35,29,12,10,1,2
 2024-352,Paris Masters,Hard,56,M,20241028,,TE30,,,Alejandro Tabilo,L,188,CHI,27.4,22,2043,BT72,,,Nuno Borges,R,185,POR,27.7,34,1446,3-6 7-6 6-3,3,R64,130,10,6,111,64,48,21,16,5,7,9,2,93,59,46,15,14,1,2
 2024-352,Paris Masters,Hard,56,M,20241028,,ME82,,WC,Adrian Mannarino,L,180,FRA,36.3,58,929,PL56,11,,Tommy Paul,R,188,USA,27.4,12,3180,6-3 7-5,3,R64,102,4,0,58,41,27,10,10,2,4,5,1,69,39,26,10,11,6,11
-2024-352,Paris Masters,Hard,56,M,20241028,,SL28,,,Jan-Lennard Struff,R,193,GER,32.8,42,1265,M0EJ,,,Lorenzo Musetti,R,185,ITA,22.7,16,2600,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,
+2024-352,Paris Masters,Hard,56,M,20241028,,SL28,,,Jan-Lennard Struff,R,193,GER,34.5,42,1265,M0EJ,16,,Lorenzo Musetti,R,185,ITA,22.6,16,2600,6-4 6-2,3,R64,76,9,4,72,45,37,6,9,3,4,5,2,52,36,21,7,9,1,5
 2024-352,Paris Masters,Hard,56,M,20241028,,M0QL,,,Alex Michelsen,R,193,USA,20.2,44,1220,HB71,12,,Hubert Hurkacz,R,196,POL,27.7,14,2810,6-1 6-3,3,R64,51,5,1,41,28,24,8,8,0,0,6,2,53,35,21,4,8,9,13
 2024-352,Paris Masters,Hard,56,M,20241028,,F0F1,,,Arthur Fils,R,185,FRA,20.4,20,2265,C977,,PR,Marin Cilic,R,198,CRO,36.1,201,288,7-6 6-4,3,R64,94,8,3,63,34,31,12,11,2,4,7,2,64,34,22,17,11,0,3
 2024-352,Paris Masters,Hard,56,M,20241028,,P09Z,,,Alexei Popyrin,R,196,AUS,25.2,24,1775,BK40,,,Matteo Berrettini,R,196,ITA,28.5,36,1370,7-5 7-6,3,R64,116,11,2,86,53,42,18,12,5,6,7,1,80,52,35,17,12,11,13
 2024-352,Paris Masters,Hard,56,M,20241028,,M0GZ,,WC,Giovanni Mpetshi Perricard,R,203,FRA,21.3,31,1519,TD51,14,,Frances Tiafoe,R,188,USA,26.8,17,2585,6-7 7-6 6-3,3,R64,121,28,13,110,61,56,23,17,2,2,10,1,87,57,45,23,16,0,1
-2024-352,Paris Masters,Hard,56,M,20241028,,KE29,,,Karen Khachanov,R,198,RUS,28.4,21,2225,O483,,,Christopher O'Connell,R,183,AUS,28.5,71,755,6-4 3-6 7-6,3,R64,,,,,,,,,,,,,,,,,,,
+2024-352,Paris Masters,Hard,56,M,20241028,,KE29,,,Karen Khachanov,R,198,RUS,28.4,21,2225,O483,,LL,Christopher O'Connell,R,183,AUS,30.4,71,755,6-4 3-6 7-6(6),3,R64,142,10,3,98,60,48,17,15,5,7,17,1,94,54,45,21,16,4,6
 2024-352,Paris Masters,Hard,56,M,20241028,,R0DG,13,,Holger Rune,R,188,DEN,21.5,13,3005,A0FC,,,Matteo Arnaldi,R,185,ITA,23.7,38,1335,6-4 6-4,3,R64,89,7,3,77,48,34,18,10,5,5,4,5,57,25,22,16,10,1,3
 2024-352,Paris Masters,Hard,56,M,20241028,,BU13,,LL,Zizou Bergs,R,185,BEL,25.4,65,833,G628,,WC,Richard Gasquet,R,185,FRA,38.4,133,452,6-3 6-4,3,R64,80,8,5,67,38,31,16,10,5,5,0,3,46,22,15,16,9,2,4
-2024-352,Paris Masters,Hard,56,M,20241028,,DH58,,,Alex de Minaur,R,183,AUS,31.8,10,3725,N0BS,,,Mariano Navone,R,178,ARG,23.7,45,1188,7-5 6-1,3,R64,,,,,,,,,,,,,,,,,,,
+2024-352,Paris Masters,Hard,56,M,20241028,,DH58,9,,Alex de Minaur,R,183,AUS,25.6,10,3725,N0BS,,,Mariano Navone,R,178,ARG,23.6,45,1188,7-5 6-1,3,R64,79,7,1,64,30,22,22,10,5,6,4,3,49,27,19,6,9,3,7
 2024-352,Paris Masters,Hard,56,M,20241028,,S0S1,,,Ben Shelton,L,193,USA,22.1,19,2330,MW02,,Q,Corentin Moutet,L,180,FRA,25.5,70,764,6-3 6-7 6-3,3,R64,150,4,2,96,72,56,16,16,2,2,0,4,106,71,52,17,14,4,6
 2024-352,Paris Masters,Hard,56,M,20241028,,D0CO,,,Jack Draper,L,193,GBR,22.9,15,2800,L0BV,,,Jiri Lehecka,R,185,CZE,23,30,1560,7-5 6-2,3,R64,68,6,4,49,26,25,15,10,0,0,5,4,55,27,22,12,10,4,7
 2024-352,Paris Masters,Hard,56,M,20241028,,C0AU,,,Francisco Cerundolo,R,185,ARG,26.2,29,1570,RE44,6,,Andrey Rublev,R,188,RUS,27,7,4070,7-6 7-6,3,R32,138,8,4,99,54,36,20,12,9,13,4,4,112,72,46,14,12,12,16
@@ -2954,11 +2954,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-352,Paris Masters,Hard,56,M,20241028,,RC91,,WC,Arthur Rinderknech,R,196,FRA,29.3,60,872,M0QL,,,Alex Michelsen,R,193,USA,20.2,44,1220,7-6 7-6,3,R32,134,4,3,92,58,41,17,12,3,5,2,3,94,51,37,20,12,5,7
 2024-352,Paris Masters,Hard,56,M,20241028,,P09Z,,,Alexei Popyrin,R,196,AUS,25.2,24,1775,MM58,4,,Daniil Medvedev,R,198,RUS,28.7,5,5230,6-4 2-6 7-6,3,R32,150,5,2,116,77,54,16,15,9,13,11,14,101,58,44,20,15,7,10
 2024-352,Paris Masters,Hard,56,M,20241028,,ME82,,WC,Adrian Mannarino,L,180,FRA,36.3,58,929,BU13,,LL,Zizou Bergs,R,185,BEL,25.4,65,833,3-6 6-2 6-4,3,R32,132,5,3,84,41,32,25,14,4,6,5,4,86,47,31,23,13,9,12
-2024-352,Paris Masters,Hard,56,M,20241028,,F0F1,,,Arthur Fils,R,185,FRA,20.4,20,2265,SL28,,,Jan-Lennard Struff,R,193,GER,32.8,42,1265,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,
+2024-352,Paris Masters,Hard,56,M,20241028,,F0F1,,,Arthur Fils,R,185,FRA,20.3,20,2265,SL28,,,Jan-Lennard Struff,R,193,GER,34.5,42,1265,6-3 6-4,3,R32,93,11,3,81,51,39,14,10,8,8,10,4,66,35,29,12,9,2,4
 2024-352,Paris Masters,Hard,56,M,20241028,,HH26,15,,Ugo Humbert,L,188,FRA,26.3,18,2385,GC88,,Q,Marcos Giron,R,180,USA,31.3,49,1105,6-3 6-2,3,R32,59,9,0,48,31,24,10,9,0,1,3,3,48,29,20,3,8,1,5
 2024-352,Paris Masters,Hard,56,M,20241028,,R0DG,13,,Holger Rune,R,188,DEN,21.5,13,3005,BK92,,,Alexander Bublik,R,196,KAZ,27.4,33,1460,6-4 6-2,3,R32,71,3,1,53,35,29,10,9,2,2,9,10,68,45,32,8,9,4,7
 2024-352,Paris Masters,Hard,56,M,20241028,,KE29,,,Karen Khachanov,R,198,RUS,28.4,21,2225,M0GZ,,WC,Giovanni Mpetshi Perricard,R,203,FRA,21.3,31,1519,6-7 6-1 6-4,3,R32,114,6,0,81,56,52,19,15,0,0,20,8,92,52,45,19,14,0,3
-2024-352,Paris Masters,Hard,56,M,20241028,,DH58,,,Alex de Minaur,R,183,AUS,31.8,10,3725,KI95,,,Miomir Kecmanovic,R,183,SRB,25.2,55,965,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,
+2024-352,Paris Masters,Hard,56,M,20241028,,DH58,9,,Alex de Minaur,R,183,AUS,25.6,10,3725,KI95,,LL,Miomir Kecmanovic,R,183,SRB,25.1,55,965,6-4 7-6(5),3,R32,104,6,5,82,49,36,15,11,4,7,1,3,71,36,23,18,11,0,4
 2024-352,Paris Masters,Hard,56,M,20241028,,Z355,3,,Alexander Zverev,R,198,GER,27.5,3,6805,GJ37,,,Tallon Griekspoor,R,188,NLD,28.3,39,1320,7-6 6-3,3,R32,92,9,2,68,42,36,16,11,3,3,8,4,62,40,33,10,10,0,1
 2024-352,Paris Masters,Hard,56,M,20241028,,D0CO,,,Jack Draper,L,193,GBR,22.9,15,2800,FB98,5,,Taylor Fritz,R,193,USA,27,6,4335,7-6 4-6 6-4,3,R32,142,14,3,90,52,40,23,16,0,2,8,4,120,63,43,34,16,8,10
 2024-352,Paris Masters,Hard,56,M,20241028,,C0H0,,LL,Arthur Cazaux,R,183,FRA,22.2,85,678,S0S1,,,Ben Shelton,L,193,USA,22.1,19,2330,6-3 7-6,3,R32,81,9,0,60,40,36,14,11,1,1,5,1,54,41,33,8,10,0,1
@@ -2966,71 +2966,71 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2024-352,Paris Masters,Hard,56,M,20241028,,TE51,10,,Stefanos Tsitsipas,R,193,GRC,26.2,11,3325,C0AU,,,Francisco Cerundolo,R,185,ARG,26.2,29,1570,6-7 6-4 6-2,3,R16,141,9,3,92,58,49,17,15,3,3,3,2,101,55,40,24,15,8,11
 2024-352,Paris Masters,Hard,56,M,20241028,,KE29,,,Karen Khachanov,R,198,RUS,28.4,21,2225,P09Z,,,Alexei Popyrin,R,196,AUS,25.2,24,1775,7-6 6-4,3,R16,116,10,2,68,51,38,11,11,3,5,10,2,89,52,38,16,11,8,11
 2024-352,Paris Masters,Hard,56,M,20241028,,Z355,3,,Alexander Zverev,R,198,GER,27.5,3,6805,F0F1,,,Arthur Fils,R,185,FRA,20.4,20,2265,6-4 3-6 6-3,3,R16,129,16,2,86,58,43,16,14,4,5,9,6,89,52,46,13,14,4,6
-2024-352,Paris Masters,Hard,56,M,20241028,,DH58,,,Alex de Minaur,R,183,AUS,31.8,10,3725,D0CO,,,Jack Draper,L,193,GBR,22.9,15,2800,5-7 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,
+2024-352,Paris Masters,Hard,56,M,20241028,,DH58,9,,Alex de Minaur,R,183,AUS,25.6,10,3725,D0CO,,,Jack Draper,L,193,GBR,22.8,15,2800,5-7 6-2 6-3,3,R16,125,4,1,79,39,30,20,14,1,4,10,5,85,46,31,15,15,3,9
 2024-352,Paris Masters,Hard,56,M,20241028,,HH26,15,,Ugo Humbert,L,188,FRA,26.3,18,2385,A0E2,2,,Carlos Alcaraz,R,183,ESP,21.5,2,7120,6-1 3-6 7-5,3,R16,136,8,3,96,54,39,25,14,3,4,7,5,75,46,38,12,14,3,6
 2024-352,Paris Masters,Hard,56,M,20241028,,R0DG,13,,Holger Rune,R,188,DEN,21.5,13,3005,C0H0,,LL,Arthur Cazaux,R,183,FRA,22.2,85,678,3-6 6-3 6-4,3,R16,125,14,5,84,55,40,16,14,2,4,9,1,83,53,37,16,14,2,5
 2024-352,Paris Masters,Hard,56,M,20241028,,D875,8,,Grigor Dimitrov,R,191,BUL,33.5,9,3740,RC91,,WC,Arthur Rinderknech,R,196,FRA,29.3,60,872,6-2 4-6 7-6,3,R16,123,17,1,79,51,47,18,15,0,1,13,0,93,62,46,19,15,2,4
 2024-352,Paris Masters,Hard,56,M,20241028,,Z355,3,,Alexander Zverev,R,198,GER,27.5,3,6805,TE51,10,,Stefanos Tsitsipas,R,193,GRC,26.2,11,3325,7-5 6-4,3,QF,101,9,2,61,43,34,13,11,1,1,3,2,70,34,24,22,11,5,7
-2024-352,Paris Masters,Hard,56,M,20241028,,R0DG,,,Holger Rune,R,188,DEN,21.5,13,3005,DH58,,,Alex de Minaur,R,183,AUS,31.8,10,3725,6-4 4-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,
+2024-352,Paris Masters,Hard,56,M,20241028,,R0DG,13,,Holger Rune,R,188,DEN,21.5,13,3005,DH58,9,,Alex de Minaur,R,183,AUS,25.6,10,3725,6-4 4-6 7-5,3,QF,146,5,1,87,58,46,15,16,2,4,5,5,94,44,34,27,16,6,9
 2024-352,Paris Masters,Hard,56,M,20241028,,HH26,15,,Ugo Humbert,L,188,FRA,26.3,18,2385,TC61,,,Jordan Thompson,R,183,AUS,30.5,28,1571,6-2 7-6,3,QF,96,8,2,61,43,34,10,10,1,2,4,0,58,35,25,10,10,4,7
 2024-352,Paris Masters,Hard,56,M,20241028,,KE29,,,Karen Khachanov,R,198,RUS,28.4,21,2225,D875,8,,Grigor Dimitrov,R,191,BUL,33.5,9,3740,6-2 6-3,3,QF,68,6,0,45,34,27,7,8,0,0,4,2,50,24,21,6,9,2,6
 2024-352,Paris Masters,Hard,56,M,20241028,,Z355,3,,Alexander Zverev,R,198,GER,27.5,3,6805,R0DG,13,,Holger Rune,R,188,DEN,21.5,13,3005,6-3 7-6,3,SF,106,9,3,67,45,37,13,11,2,3,9,2,75,46,33,14,10,3,5
 2024-352,Paris Masters,Hard,56,M,20241028,,HH26,15,,Ugo Humbert,L,188,FRA,26.3,18,2385,KE29,,,Karen Khachanov,R,198,RUS,28.4,21,2225,6-7 6-4 6-3,3,SF,165,9,4,98,65,45,18,15,2,4,11,1,100,65,44,14,16,5,10
 2024-352,Paris Masters,Hard,56,M,20241028,,Z355,3,,Alexander Zverev,R,198,GER,27.5,3,6805,HH26,15,,Ugo Humbert,L,188,FRA,26.3,18,2385,6-2 6-2,3,F,75,4,0,37,23,21,11,8,0,0,3,4,52,27,17,9,8,2,6
-2024-4787,Belgrade Open,Hard,28,A,20241103,,M0CI,,,Fabian Marozsan,R,193,HUN,25.1,59,930,S0RE,,,Juncheng Shang,L,180,CHN,19.8,50,1115,2-6 7-6 7-5,3,R32,127,6,1,116,82,53,18,16,5,8,5,2,90,58,47,15,16,1,3
-2024-4787,Belgrade Open,Hard,28,A,20241103,,M0JF,,WC,Hamad Medjedovic,R,188,SRB,21.3,156,378,N0AE,6,,Brandon Nakashima,R,188,USA,23.3,37,1350,3-6 7-5 6-3,3,R32,119,16,3,81,59,46,14,15,2,3,14,0,93,69,49,13,15,3,5
-2024-4787,Belgrade Open,Hard,28,A,20241103,,AE14,,,Daniel Altmaier,R,188,GER,26.1,93,625,D0FJ,8,,Luciano Darderi,R,183,ITA,22.7,43,1248,7-6 6-3,3,R32,76,10,1,60,43,35,12,11,0,0,2,0,52,29,21,15,10,0,1
-2024-4787,Belgrade Open,Hard,28,A,20241103,,C977,,PR,Marin Cilic,R,198,CRO,36.1,196,298,MP20,,,Alexandre Muller,R,183,FRA,27.8,68,790,7-6 6-3,3,R32,93,11,2,65,40,31,14,10,2,3,1,2,70,47,31,11,11,5,8
-2024-4787,Belgrade Open,Hard,28,A,20241103,,EA24,7,,Tomas Martin Etcheverry,R,196,ARG,25.3,39,1315,K09F,,,Pavel Kotov,R,191,RUS,26,75,745,6-3 6-4,3,R32,84,5,1,58,46,37,6,10,4,4,3,3,56,40,26,7,9,5,7
-2024-4787,Belgrade Open,Hard,28,A,20241103,,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.2,101,607,D0HJ,,Q,Branko Djuric,L,183,SRB,19.7,781,30,6-2 6-2,3,R32,62,11,1,38,26,22,10,8,0,0,9,2,53,32,20,8,8,3,7
-2024-4787,Belgrade Open,Hard,28,A,20241103,,KI63,,Q,Lukas Klein,R,193,SVK,26.6,153,380,D994,,,James Duckworth,R,183,AUS,32.8,77,731,6-4 6-2,3,R32,77,5,2,45,27,19,11,9,2,4,4,3,73,44,27,7,9,16,21
-2024-4787,Belgrade Open,Hard,28,A,20241103,,L987,,,Dusan Lajovic,R,183,SRB,34.3,86,685,N0BS,9,,Mariano Navone,R,178,ARG,23.7,45,1198,6-0 7-6,3,R32,84,5,0,60,38,29,14,9,4,4,2,2,62,36,23,12,9,4,7
-2024-4787,Belgrade Open,Hard,28,A,20241103,,SU55,,Q,Denis Shapovalov,L,185,CAN,25.6,78,718,F724,,Q,Marton Fucsovics,R,188,HUN,32.7,91,629,6-7 7-5 6-1,3,R32,156,8,9,116,72,52,20,15,6,7,4,1,99,70,45,16,16,3,8
-2024-4787,Belgrade Open,Hard,28,A,20241103,,O483,,,Christopher O'Connell,R,183,AUS,28.5,71,765,KI95,,,Miomir Kecmanovic,R,183,SRB,25.2,53,1021,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,
-2024-4787,Belgrade Open,Hard,28,A,20241103,,SX50,,,Roman Safiullin,R,188,RUS,27.2,60,898,F510,,,Fabio Fognini,R,178,ITA,37.4,74,745,6-3 6-3,3,R32,74,9,2,47,29,28,7,9,0,1,2,0,59,35,21,10,9,3,7
-2024-4787,Belgrade Open,Hard,28,A,20241103,,DB63,,WC,Laslo Djere,R,188,SRB,29.4,141,419,W367,,WC,Stan Wawrinka,R,183,CHE,39.6,148,391,6-4 6-4,3,R32,83,10,0,56,41,32,10,10,3,3,10,0,74,47,34,10,10,6,8
-2024-4787,Belgrade Open,Hard,28,A,20241103,,M0JF,,WC,Hamad Medjedovic,R,188,SRB,21.3,156,378,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.2,101,607,7-6 6-4,3,R16,80,10,1,57,46,39,9,11,0,0,16,2,69,52,40,8,11,1,2
-2024-4787,Belgrade Open,Hard,28,A,20241103,,KI63,,Q,Lukas Klein,R,193,SVK,26.6,153,380,EA24,7,,Tomas Martin Etcheverry,R,196,ARG,25.3,39,1315,6-4 7-6,3,R16,106,7,2,66,47,35,13,11,0,1,8,1,83,56,38,13,11,5,7
-2024-4787,Belgrade Open,Hard,28,A,20241103,,L0BV,4,,Jiri Lehecka,R,185,CZE,23,31,1560,C977,,PR,Marin Cilic,R,198,CRO,36.1,196,298,6-4 7-6,3,R16,103,5,0,60,37,33,16,11,0,0,15,2,77,47,40,12,11,4,5
-2024-4787,Belgrade Open,Hard,28,A,20241103,,C0AU,3,,Francisco Cerundolo,R,185,ARG,26.2,29,1580,SX50,,,Roman Safiullin,R,188,RUS,27.2,60,898,6-4 6-4,3,R16,91,6,1,59,33,28,13,10,2,2,4,1,63,42,29,11,10,2,4
-2024-4787,Belgrade Open,Hard,28,A,20241103,,O483,,,Christopher O'Connell,R,183,AUS,28.5,71,765,AE14,,,Daniel Altmaier,R,188,GER,26.1,93,625,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,
-2024-4787,Belgrade Open,Hard,28,A,20241103,,SU55,,Q,Denis Shapovalov,L,185,CAN,25.6,78,718,BT72,5,,Nuno Borges,R,185,POR,27.7,33,1446,6-2 6-4,3,R16,64,9,4,47,34,31,7,9,1,1,1,2,52,37,21,8,9,2,5
-2024-4787,Belgrade Open,Hard,28,A,20241103,,M0CI,,,Fabian Marozsan,R,193,HUN,25.1,59,930,L987,,,Dusan Lajovic,R,183,SRB,34.3,86,685,6-3 7-5,3,R16,73,6,1,60,51,39,6,11,0,0,9,2,65,49,35,6,10,3,5
-2024-4787,Belgrade Open,Hard,28,A,20241103,,DB63,,WC,Laslo Djere,R,188,SRB,29.4,141,419,A0CJ,,LL,Duje Ajdukovic,R,188,CRO,23.7,115,506,6-1 7-6,3,R16,85,12,2,66,41,32,13,10,1,2,5,0,59,39,26,10,9,4,7
-2024-4787,Belgrade Open,Hard,28,A,20241103,,L0BV,4,,Jiri Lehecka,R,185,CZE,23,31,1560,KI63,,Q,Lukas Klein,R,193,SVK,26.6,153,380,3-6 7-6 6-3,3,QF,120,11,2,99,63,49,16,16,3,6,12,1,96,70,48,13,14,8,10
-2024-4787,Belgrade Open,Hard,28,A,20241103,,SU55,,,Denis Shapovalov,L,185,CAN,25.6,78,718,O483,,,Christopher O'Connell,R,183,AUS,28.5,71,765,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,
-2024-4787,Belgrade Open,Hard,28,A,20241103,,DB63,,WC,Laslo Djere,R,188,SRB,29.4,141,419,M0CI,,,Fabian Marozsan,R,193,HUN,25.1,59,930,6-4 6-2,3,QF,68,12,1,53,36,29,10,9,1,1,2,0,58,46,31,4,9,4,7
-2024-4787,Belgrade Open,Hard,28,A,20241103,,M0JF,,WC,Hamad Medjedovic,R,188,SRB,21.3,156,378,C0AU,3,,Francisco Cerundolo,R,185,ARG,26.2,29,1580,6-4 6-2,3,QF,73,5,1,44,29,23,11,9,3,4,1,4,58,34,21,10,9,6,10
-2024-4787,Belgrade Open,Hard,28,A,20241103,,SU55,,Q,Denis Shapovalov,L,185,CAN,25.6,78,718,L0BV,4,,Jiri Lehecka,R,185,CZE,23,31,1560,6-2 6-1,3,SF,56,4,4,38,26,25,7,8,0,0,3,2,51,33,20,3,7,7,11
-2024-4787,Belgrade Open,Hard,28,A,20241103,,M0JF,,WC,Hamad Medjedovic,R,188,SRB,21.3,156,378,DB63,,WC,Laslo Djere,R,188,SRB,29.4,141,419,6-2 3-6 7-6,3,SF,147,9,2,101,71,51,18,14,9,10,14,3,104,73,49,17,15,5,7
-2024-4787,Belgrade Open,Hard,28,A,20241103,,SU55,,Q,Denis Shapovalov,L,185,CAN,25.6,78,718,M0JF,,W,Hamad Medjedovic,R,188,SRB,21.3,156,378,6-4 6-4,3,F,74,13,3,54,34,28,13,10,2,2,3,2,61,46,30,8,10,0,2
-2024-341,Open de Moselle,Hard,28,A,20241103,,MW02,,,Corentin Moutet,L,180,FRA,25.5,66,804,N897,,,Sumit Nagal,R,183,IND,27.2,83,697,7-5 4-0,3,R32,97,1,1,65,44,26,13,8,4,6,3,2,66,43,20,11,8,9,14
-2024-341,Open de Moselle,Hard,28,A,20241103,,M0QL,8,,Alex Michelsen,R,193,USA,20.2,44,1245,M0G4,,WC,Harold Mayot,R,180,FRA,22.7,107,567,6-3 6-1,3,R32,76,7,2,68,47,35,9,8,9,9,2,1,49,23,11,15,8,1,5
-2024-341,Open de Moselle,Hard,28,A,20241103,,SU87,,,Lorenzo Sonego,R,191,ITA,29.5,51,1046,BK24,,LL,Gregoire Barrere,R,183,FRA,30.7,166,362,6-4 7-5,3,R32,95,7,0,61,45,32,10,11,4,5,3,0,71,53,31,11,11,3,6
-2024-341,Open de Moselle,Hard,28,A,20241103,,SL28,,,Jan-Lennard Struff,R,193,GER,32.8,40,1290,S0H2,,,Alexander Shevchenko,R,188,KAZ,23.9,64,840,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2024-341,Open de Moselle,Hard,28,A,20241103,,H996,,,Pierre-Hugues Herbert,R,188,FRA,25.7,127,471,MO44,,,Pedro Martinez,R,185,ESP,27.5,42,1270,6-3 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,
-2024-341,Open de Moselle,Hard,28,A,20241103,,HB64,,Q,Quentin Halys,R,183,FRA,28,84,693,P0K5,,LL,Theo Papamalamis,R,183,FRA,18.8,721,37,6-3 6-1,3,R32,64,3,0,37,21,20,12,8,0,0,1,2,58,27,13,14,8,6,10
-2024-341,Open de Moselle,Hard,28,A,20241103,,G628,,WC,Richard Gasquet,R,185,FRA,38.4,133,445,MJ08,,,Thiago Monteiro,L,183,BRA,30.4,100,609,4-6 6-4 7-6,3,R32,139,14,4,90,55,49,20,16,1,2,10,2,97,63,52,18,16,2,3
-2024-341,Open de Moselle,Hard,28,A,20241103,,N771,,,Cameron Norrie,L,188,GBR,29.2,57,962,CF59,,,Roberto Carballes Baena,R,180,ESP,36.6,56,981,3-6 6-4 6-3,3,R32,136,9,2,112,81,49,16,14,12,15,4,1,79,58,38,10,14,4,8
-2024-341,Open de Moselle,Hard,28,A,20241103,,BU13,,,Zizou Bergs,R,185,BEL,25.4,61,886,GH33,,LL,Manuel Guinard,L,198,FRA,29,264,204,6-4 6-4,3,R32,82,4,2,56,36,27,15,10,0,0,5,1,72,47,35,10,10,6,8
-2024-341,Open de Moselle,Hard,28,A,20241103,,G09O,,,Hugo Gaston,L,173,FRA,24.1,81,712,D0DW,,LL,Titouan Droguet,R,187,FRA,23.4,174,338,7-6 4-6 6-3,3,R32,122,4,1,97,51,37,26,16,1,5,16,3,98,65,45,15,15,4,8
-2024-341,Open de Moselle,Hard,28,A,20241103,,Y09V,,,Yunchaokete Bu,R,185,CHN,24.8,72,749,ME82,,,Adrian Mannarino,L,180,FRA,36.3,54,1019,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,
-2024-341,Open de Moselle,Hard,28,A,20241103,,BM95,,Q,Benjamin Bonzi,R,183,FRA,28.4,124,473,BD06,,,Roberto Bautista Agut,R,183,ESP,36.6,47,1151,7-6 6-3,3,R32,98,9,3,68,43,35,12,11,0,2,3,2,74,54,34,10,10,5,8
-2024-341,Open de Moselle,Hard,28,A,20241103,,RE44,1,,Andrey Rublev,R,188,RUS,27,9,3720,SU87,,,Lorenzo Sonego,R,191,ITA,29.5,51,1046,7-6 7-5,3,R16,112,6,1,82,50,38,20,12,5,5,12,0,84,63,44,10,12,5,6
-2024-341,Open de Moselle,Hard,28,A,20241103,,M0QL,8,,Alex Michelsen,R,193,USA,20.2,44,1245,G628,,WC,Richard Gasquet,R,185,FRA,38.4,133,445,6-7 7-6 7-6,3,R16,164,13,2,124,98,71,14,18,2,3,4,3,125,74,57,26,18,5,6
-2024-341,Open de Moselle,Hard,28,A,20241103,,MW02,,,Corentin Moutet,L,180,FRA,25.5,66,804,SL28,,,Jan-Lennard Struff,R,193,GER,32.8,40,1290,7-6 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,
-2024-341,Open de Moselle,Hard,28,A,20241103,,HB64,,,Quentin Halys,R,183,FRA,28,84,693,H996,,,Pierre-Hugues Herbert,R,188,FRA,25.7,127,471,6-1 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,
-2024-341,Open de Moselle,Hard,28,A,20241103,,BU13,,,Zizou Bergs,R,185,BEL,25.4,61,886,G09O,,,Hugo Gaston,L,173,FRA,24.1,81,712,6-4 7-5,3,R16,78,3,1,55,30,24,17,11,0,1,1,2,64,41,30,9,11,1,4
-2024-341,Open de Moselle,Hard,28,A,20241103,,N771,,,Cameron Norrie,L,188,GBR,29.2,57,962,V0DZ,,LL,Luca Van Assche,R,178,FRA,20.5,112,509,6-3 3-6 6-1,3,R16,112,5,2,75,53,39,15,13,3,4,6,3,77,51,36,10,12,3,6
-2024-341,Open de Moselle,Hard,28,A,20241103,,BM95,,Q,Benjamin Bonzi,R,183,FRA,28.4,124,473,RH16,2,,Casper Ruud,R,183,NOR,25.9,7,3855,6-4 6-4,3,R16,77,7,0,55,39,33,9,10,1,1,6,4,62,44,30,9,10,3,5
-2024-341,Open de Moselle,Hard,28,A,20241103,,Y09V,,,Yunchaokete Bu,R,185,CHN,24.8,72,749,D0C1,,,Jesper de Jong,R,180,NLD,21.7,109,541,6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,
-2024-341,Open de Moselle,Hard,28,A,20241103,,MW02,,,Corentin Moutet,L,180,FRA,25.5,66,804,RE44,1,,Andrey Rublev,R,188,RUS,27,9,3720,W/O,3,QF,,,,,,,,,,,,,,,,,,,
-2024-341,Open de Moselle,Hard,28,A,20241103,,N771,,,Cameron Norrie,L,188,GBR,29.2,57,962,BU13,,,Zizou Bergs,R,185,BEL,25.4,61,886,6-3 6-7 6-1,3,QF,128,3,1,90,63,47,16,15,3,4,5,2,81,61,40,11,13,4,8
-2024-341,Open de Moselle,Hard,28,A,20241103,,BM95,,Q,Benjamin Bonzi,R,183,FRA,28.4,124,473,HB64,,Q,Quentin Halys,R,183,FRA,28,84,693,6-3 7-6,3,QF,78,0,1,55,35,30,15,10,2,2,13,0,65,35,29,14,11,4,6
-2024-341,Open de Moselle,Hard,28,A,20241103,,M0QL,,,Alex Michelsen,R,193,USA,20.2,44,1245,Y09V,,,Yunchaokete Bu,R,185,CHN,24.8,72,749,6-7 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,
-2024-341,Open de Moselle,Hard,28,A,20241103,,N771,,,Cameron Norrie,L,188,GBR,29.2,57,962,MW02,,,Corentin Moutet,L,180,FRA,25.5,66,804,6-2 7-6,3,SF,92,3,0,65,49,30,12,10,2,4,0,0,56,42,24,6,10,1,5
-2024-341,Open de Moselle,Hard,28,A,20241103,,BM95,,Q,Benjamin Bonzi,R,183,FRA,28.4,124,473,M0QL,8,,Alex Michelsen,R,193,USA,20.2,44,1245,4-6 6-0 7-5,3,SF,121,9,0,81,57,37,16,14,7,10,2,2,104,71,40,15,14,8,14
-2024-341,Open de Moselle,Hard,28,A,20241103,,BM95,,Q,Benjamin Bonzi,R,183,FRA,28.4,124,473,N771,,,Cameron Norrie,L,188,GBR,29.2,57,962,7-6 6-4,3,F,114,10,0,89,60,45,15,11,13,14,5,2,68,47,34,13,11,4,6
+2024-4787,Belgrade,Hard,28,A,20241103,,M0CI,,,Fabian Marozsan,R,193,HUN,25.1,59,930,S0RE,,,Juncheng Shang,L,180,CHN,19.8,50,1115,2-6 7-6 7-5,3,R32,127,6,1,116,82,53,18,16,5,8,5,2,90,58,47,15,16,1,3
+2024-4787,Belgrade,Hard,28,A,20241103,,M0JF,,WC,Hamad Medjedovic,R,188,SRB,21.3,156,378,N0AE,6,,Brandon Nakashima,R,188,USA,23.3,37,1350,3-6 7-5 6-3,3,R32,119,16,3,81,59,46,14,15,2,3,14,0,93,69,49,13,15,3,5
+2024-4787,Belgrade,Hard,28,A,20241103,,AE14,,,Daniel Altmaier,R,188,GER,26.1,93,625,D0FJ,8,,Luciano Darderi,R,183,ITA,22.7,43,1248,7-6 6-3,3,R32,76,10,1,60,43,35,12,11,0,0,2,0,52,29,21,15,10,0,1
+2024-4787,Belgrade,Hard,28,A,20241103,,C977,,PR,Marin Cilic,R,198,CRO,36.1,196,298,MP20,,,Alexandre Muller,R,183,FRA,27.8,68,790,7-6 6-3,3,R32,93,11,2,65,40,31,14,10,2,3,1,2,70,47,31,11,11,5,8
+2024-4787,Belgrade,Hard,28,A,20241103,,EA24,7,,Tomas Martin Etcheverry,R,196,ARG,25.3,39,1315,K09F,,,Pavel Kotov,R,191,RUS,26,75,745,6-3 6-4,3,R32,84,5,1,58,46,37,6,10,4,4,3,3,56,40,26,7,9,5,7
+2024-4787,Belgrade,Hard,28,A,20241103,,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.2,101,607,D0HJ,,Q,Branko Djuric,L,183,SRB,19.7,781,30,6-2 6-2,3,R32,62,11,1,38,26,22,10,8,0,0,9,2,53,32,20,8,8,3,7
+2024-4787,Belgrade,Hard,28,A,20241103,,KI63,,Q,Lukas Klein,R,193,SVK,26.6,153,380,D994,,,James Duckworth,R,183,AUS,32.8,77,731,6-4 6-2,3,R32,77,5,2,45,27,19,11,9,2,4,4,3,73,44,27,7,9,16,21
+2024-4787,Belgrade,Hard,28,A,20241103,,L987,,,Dusan Lajovic,R,183,SRB,34.3,86,685,N0BS,9,,Mariano Navone,R,178,ARG,23.7,45,1198,6-0 7-6,3,R32,84,5,0,60,38,29,14,9,4,4,2,2,62,36,23,12,9,4,7
+2024-4787,Belgrade,Hard,28,A,20241103,,SU55,,Q,Denis Shapovalov,L,185,CAN,25.6,78,718,F724,,Q,Marton Fucsovics,R,188,HUN,32.7,91,629,6-7 7-5 6-1,3,R32,156,8,9,116,72,52,20,15,6,7,4,1,99,70,45,16,16,3,8
+2024-4787,Belgrade,Hard,28,A,20241104,,O483,,,Christopher O'Connell,R,183,AUS,30.4,71,765,KI95,,,Miomir Kecmanovic,R,183,SRB,25.1,53,1021,6-1 6-1,3,R32,62,8,2,47,30,25,8,7,5,5,0,0,50,29,16,6,7,5,10
+2024-4787,Belgrade,Hard,28,A,20241103,,SX50,,,Roman Safiullin,R,188,RUS,27.2,60,898,F510,,,Fabio Fognini,R,178,ITA,37.4,74,745,6-3 6-3,3,R32,74,9,2,47,29,28,7,9,0,1,2,0,59,35,21,10,9,3,7
+2024-4787,Belgrade,Hard,28,A,20241103,,DB63,,WC,Laslo Djere,R,188,SRB,29.4,141,419,W367,,WC,Stan Wawrinka,R,183,CHE,39.6,148,391,6-4 6-4,3,R32,83,10,0,56,41,32,10,10,3,3,10,0,74,47,34,10,10,6,8
+2024-4787,Belgrade,Hard,28,A,20241103,,M0JF,,WC,Hamad Medjedovic,R,188,SRB,21.3,156,378,K0AZ,,,Aleksandar Kovacevic,R,183,USA,26.2,101,607,7-6 6-4,3,R16,80,10,1,57,46,39,9,11,0,0,16,2,69,52,40,8,11,1,2
+2024-4787,Belgrade,Hard,28,A,20241103,,KI63,,Q,Lukas Klein,R,193,SVK,26.6,153,380,EA24,7,,Tomas Martin Etcheverry,R,196,ARG,25.3,39,1315,6-4 7-6,3,R16,106,7,2,66,47,35,13,11,0,1,8,1,83,56,38,13,11,5,7
+2024-4787,Belgrade,Hard,28,A,20241103,,L0BV,4,,Jiri Lehecka,R,185,CZE,23,31,1560,C977,,PR,Marin Cilic,R,198,CRO,36.1,196,298,6-4 7-6,3,R16,103,5,0,60,37,33,16,11,0,0,15,2,77,47,40,12,11,4,5
+2024-4787,Belgrade,Hard,28,A,20241103,,C0AU,3,,Francisco Cerundolo,R,185,ARG,26.2,29,1580,SX50,,,Roman Safiullin,R,188,RUS,27.2,60,898,6-4 6-4,3,R16,91,6,1,59,33,28,13,10,2,2,4,1,63,42,29,11,10,2,4
+2024-4787,Belgrade,Hard,28,A,20241104,,O483,,,Christopher O'Connell,R,183,AUS,30.4,71,765,AE14,,,Daniel Altmaier,R,188,GER,26.1,93,625,6-3 6-1,3,R16,78,2,0,50,30,24,13,8,1,1,5,1,65,36,22,10,8,7,11
+2024-4787,Belgrade,Hard,28,A,20241103,,SU55,,Q,Denis Shapovalov,L,185,CAN,25.6,78,718,BT72,5,,Nuno Borges,R,185,POR,27.7,33,1446,6-2 6-4,3,R16,64,9,4,47,34,31,7,9,1,1,1,2,52,37,21,8,9,2,5
+2024-4787,Belgrade,Hard,28,A,20241103,,M0CI,,,Fabian Marozsan,R,193,HUN,25.1,59,930,L987,,,Dusan Lajovic,R,183,SRB,34.3,86,685,6-3 7-5,3,R16,73,6,1,60,51,39,6,11,0,0,9,2,65,49,35,6,10,3,5
+2024-4787,Belgrade,Hard,28,A,20241103,,DB63,,WC,Laslo Djere,R,188,SRB,29.4,141,419,A0CJ,,LL,Duje Ajdukovic,R,188,CRO,23.7,115,506,6-1 7-6,3,R16,85,12,2,66,41,32,13,10,1,2,5,0,59,39,26,10,9,4,7
+2024-4787,Belgrade,Hard,28,A,20241103,,L0BV,4,,Jiri Lehecka,R,185,CZE,23,31,1560,KI63,,Q,Lukas Klein,R,193,SVK,26.6,153,380,3-6 7-6 6-3,3,QF,120,11,2,99,63,49,16,16,3,6,12,1,96,70,48,13,14,8,10
+2024-4787,Belgrade,Hard,28,A,20241104,,SU55,,Q,Denis Shapovalov,L,185,CAN,25.5,78,718,O483,,,Christopher O'Connell,R,183,AUS,30.4,71,765,6-2 6-2,3,QF,71,12,2,43,32,29,5,8,2,2,2,1,62,42,23,9,8,2,6
+2024-4787,Belgrade,Hard,28,A,20241103,,DB63,,WC,Laslo Djere,R,188,SRB,29.4,141,419,M0CI,,,Fabian Marozsan,R,193,HUN,25.1,59,930,6-4 6-2,3,QF,68,12,1,53,36,29,10,9,1,1,2,0,58,46,31,4,9,4,7
+2024-4787,Belgrade,Hard,28,A,20241103,,M0JF,,WC,Hamad Medjedovic,R,188,SRB,21.3,156,378,C0AU,3,,Francisco Cerundolo,R,185,ARG,26.2,29,1580,6-4 6-2,3,QF,73,5,1,44,29,23,11,9,3,4,1,4,58,34,21,10,9,6,10
+2024-4787,Belgrade,Hard,28,A,20241103,,SU55,,Q,Denis Shapovalov,L,185,CAN,25.6,78,718,L0BV,4,,Jiri Lehecka,R,185,CZE,23,31,1560,6-2 6-1,3,SF,56,4,4,38,26,25,7,8,0,0,3,2,51,33,20,3,7,7,11
+2024-4787,Belgrade,Hard,28,A,20241103,,M0JF,,WC,Hamad Medjedovic,R,188,SRB,21.3,156,378,DB63,,WC,Laslo Djere,R,188,SRB,29.4,141,419,6-2 3-6 7-6,3,SF,147,9,2,101,71,51,18,14,9,10,14,3,104,73,49,17,15,5,7
+2024-4787,Belgrade,Hard,28,A,20241103,,SU55,,Q,Denis Shapovalov,L,185,CAN,25.6,78,718,M0JF,,W,Hamad Medjedovic,R,188,SRB,21.3,156,378,6-4 6-4,3,F,74,13,3,54,34,28,13,10,2,2,3,2,61,46,30,8,10,0,2
+2024-341,Metz,Hard,28,A,20241103,,MW02,,,Corentin Moutet,L,180,FRA,25.5,66,804,N897,,,Sumit Nagal,R,183,IND,27.2,83,697,7-5 4-0,3,R32,97,1,1,65,44,26,13,8,4,6,3,2,66,43,20,11,8,9,14
+2024-341,Metz,Hard,28,A,20241103,,M0QL,8,,Alex Michelsen,R,193,USA,20.2,44,1245,M0G4,,WC,Harold Mayot,R,180,FRA,22.7,107,567,6-3 6-1,3,R32,76,7,2,68,47,35,9,8,9,9,2,1,49,23,11,15,8,1,5
+2024-341,Metz,Hard,28,A,20241103,,SU87,,,Lorenzo Sonego,R,191,ITA,29.5,51,1046,BK24,,LL,Gregoire Barrere,R,183,FRA,30.7,166,362,6-4 7-5,3,R32,95,7,0,61,45,32,10,11,4,5,3,0,71,53,31,11,11,3,6
+2024-341,Metz,Hard,28,A,20241104,,SL28,7,,Jan-Lennard Struff,R,193,GER,34.5,40,1290,S0H2,,,Alexander Shevchenko,R,185,KAZ,23.9,64,840,3-6 6-4 6-4,3,R32,101,10,3,82,57,44,11,15,5,8,8,7,106,54,37,26,14,6,9
+2024-341,Metz,Hard,28,A,20241104,,H996,,LL,Pierre-Hugues Herbert,R,188,FRA,33.6,127,471,MO44,6,,Pedro Martinez,R,185,ESP,27.5,42,1270,6-3 3-6 7-6(4),3,R32,151,12,5,97,61,46,12,15,5,9,4,5,106,82,51,10,15,10,14
+2024-341,Metz,Hard,28,A,20241103,,HB64,,Q,Quentin Halys,R,183,FRA,28,84,693,P0K5,,LL,Theo Papamalamis,R,183,FRA,18.8,721,37,6-3 6-1,3,R32,64,3,0,37,21,20,12,8,0,0,1,2,58,27,13,14,8,6,10
+2024-341,Metz,Hard,28,A,20241103,,G628,,WC,Richard Gasquet,R,185,FRA,38.4,133,445,MJ08,,,Thiago Monteiro,L,183,BRA,30.4,100,609,4-6 6-4 7-6,3,R32,139,14,4,90,55,49,20,16,1,2,10,2,97,63,52,18,16,2,3
+2024-341,Metz,Hard,28,A,20241103,,N771,,,Cameron Norrie,L,188,GBR,29.2,57,962,CF59,,,Roberto Carballes Baena,R,180,ESP,36.6,56,981,3-6 6-4 6-3,3,R32,136,9,2,112,81,49,16,14,12,15,4,1,79,58,38,10,14,4,8
+2024-341,Metz,Hard,28,A,20241103,,BU13,,,Zizou Bergs,R,185,BEL,25.4,61,886,GH33,,LL,Manuel Guinard,L,198,FRA,29,264,204,6-4 6-4,3,R32,82,4,2,56,36,27,15,10,0,0,5,1,72,47,35,10,10,6,8
+2024-341,Metz,Hard,28,A,20241103,,G09O,,,Hugo Gaston,L,173,FRA,24.1,81,712,D0DW,,LL,Titouan Droguet,R,187,FRA,23.4,174,338,7-6 4-6 6-3,3,R32,122,4,1,97,51,37,26,16,1,5,16,3,98,65,45,15,15,4,8
+2024-341,Metz,Hard,28,A,20241104,,Y09V,,,Yunchaokete Bu,R,185,CHN,22.7,72,749,ME82,,,Adrian Mannarino,L,180,FRA,36.3,54,1019,7-6(4) 6-4,3,R32,95,8,0,66,43,32,17,11,3,3,9,0,63,37,28,15,11,0,1
+2024-341,Metz,Hard,28,A,20241103,,BM95,,Q,Benjamin Bonzi,R,183,FRA,28.4,124,473,BD06,,,Roberto Bautista Agut,R,183,ESP,36.6,47,1151,7-6 6-3,3,R32,98,9,3,68,43,35,12,11,0,2,3,2,74,54,34,10,10,5,8
+2024-341,Metz,Hard,28,A,20241103,,RE44,1,,Andrey Rublev,R,188,RUS,27,9,3720,SU87,,,Lorenzo Sonego,R,191,ITA,29.5,51,1046,7-6 7-5,3,R16,112,6,1,82,50,38,20,12,5,5,12,0,84,63,44,10,12,5,6
+2024-341,Metz,Hard,28,A,20241103,,M0QL,8,,Alex Michelsen,R,193,USA,20.2,44,1245,G628,,WC,Richard Gasquet,R,185,FRA,38.4,133,445,6-7 7-6 7-6,3,R16,164,13,2,124,98,71,14,18,2,3,4,3,125,74,57,26,18,5,6
+2024-341,Metz,Hard,28,A,20241104,,MW02,,,Corentin Moutet,L,180,FRA,25.5,66,804,SL28,7,,Jan-Lennard Struff,R,193,GER,34.5,40,1290,7-6(2) 5-7 6-3,3,R16,154,4,2,106,78,57,11,17,6,9,9,4,115,66,45,28,16,11,14
+2024-341,Metz,Hard,28,A,20241104,,HB64,,Q,Quentin Halys,R,191,FRA,28,84,693,H996,,LL,Pierre-Hugues Herbert,R,188,FRA,33.6,127,471,6-1 4-6 6-4,3,R16,128,10,7,100,57,45,19,14,6,7,11,3,93,64,45,14,13,2,5
+2024-341,Metz,Hard,28,A,20241103,,BU13,,,Zizou Bergs,R,185,BEL,25.4,61,886,G09O,,,Hugo Gaston,L,173,FRA,24.1,81,712,6-4 7-5,3,R16,78,3,1,55,30,24,17,11,0,1,1,2,64,41,30,9,11,1,4
+2024-341,Metz,Hard,28,A,20241103,,N771,,,Cameron Norrie,L,188,GBR,29.2,57,962,V0DZ,,LL,Luca Van Assche,R,178,FRA,20.5,112,509,6-3 3-6 6-1,3,R16,112,5,2,75,53,39,15,13,3,4,6,3,77,51,36,10,12,3,6
+2024-341,Metz,Hard,28,A,20241103,,BM95,,Q,Benjamin Bonzi,R,183,FRA,28.4,124,473,RH16,2,,Casper Ruud,R,183,NOR,25.9,7,3855,6-4 6-4,3,R16,77,7,0,55,39,33,9,10,1,1,6,4,62,44,30,9,10,3,5
+2024-0341,Metz,Hard,28,A,20241104,373,Y09V,,,Yunchaokete Bu,R,185,CHN,22.7,72,749,D0C1,,Q,Jesper de Jong,R,180,NED,24.4,109,541,6-4 7-6(1),3,R16,100,7,1,61,40,31,17,11,0,0,11,2,74,45,34,14,11,5,6
+2024-341,Metz,Hard,28,A,20241103,,MW02,,,Corentin Moutet,L,180,FRA,25.5,66,804,RE44,1,,Andrey Rublev,R,188,RUS,27,9,3720,W/O,3,QF,,,,,,,,,,,,,,,,,,,
+2024-341,Metz,Hard,28,A,20241103,,N771,,,Cameron Norrie,L,188,GBR,29.2,57,962,BU13,,,Zizou Bergs,R,185,BEL,25.4,61,886,6-3 6-7 6-1,3,QF,128,3,1,90,63,47,16,15,3,4,5,2,81,61,40,11,13,4,8
+2024-341,Metz,Hard,28,A,20241103,,BM95,,Q,Benjamin Bonzi,R,183,FRA,28.4,124,473,HB64,,Q,Quentin Halys,R,183,FRA,28,84,693,6-3 7-6,3,QF,78,0,1,55,35,30,15,10,2,2,13,0,65,35,29,14,11,4,6
+2024-341,Metz,Hard,28,A,20241104,,M0QL,8,,Alex Michelsen,R,193,USA,20.1,44,1245,Y09V,,,Yunchaokete Bu,R,185,CHN,22.7,72,749,6-7(6) 6-2 6-4,3,QF,142,10,4,96,72,52,13,15,7,9,8,3,110,75,50,15,15,9,14
+2024-341,Metz,Hard,28,A,20241103,,N771,,,Cameron Norrie,L,188,GBR,29.2,57,962,MW02,,,Corentin Moutet,L,180,FRA,25.5,66,804,6-2 7-6,3,SF,92,3,0,65,49,30,12,10,2,4,0,0,56,42,24,6,10,1,5
+2024-341,Metz,Hard,28,A,20241103,,BM95,,Q,Benjamin Bonzi,R,183,FRA,28.4,124,473,M0QL,8,,Alex Michelsen,R,193,USA,20.2,44,1245,4-6 6-0 7-5,3,SF,121,9,0,81,57,37,16,14,7,10,2,2,104,71,40,15,14,8,14
+2024-341,Metz,Hard,28,A,20241103,,BM95,,Q,Benjamin Bonzi,R,183,FRA,28.4,124,473,N771,,,Cameron Norrie,L,188,GBR,29.2,57,962,7-6 6-4,3,F,114,10,0,89,60,45,15,11,13,14,5,2,68,47,34,13,11,4,6
 2024-605,ATP Tour Finals,Hard,8,F,20241111,4,S0AG,1,,Jannik Sinner,R,191,ITA,23.2,1,10330,MM58,4,,Daniil Medvedev,R,198,RUS,28.7,4,4830,6-3 6-4,3,RR,73,4,0,49,28,23,15,10,1,2,6,0,52,33,24,8,9,2,5
 2024-605,ATP Tour Finals,Hard,8,F,20241111,5,S0AG,1,,Jannik Sinner,R,191,ITA,23.2,1,10330,FB98,5,,Taylor Fritz,R,196,USA,27,5,4300,6-4 6-4,3,RR,100,6,0,66,39,30,16,10,1,1,7,0,64,38,30,10,10,4,6
 2024-605,ATP Tour Finals,Hard,8,F,20241111,6,S0AG,1,,Jannik Sinner,R,191,ITA,23.2,1,10330,DH58,7,,Alex de Minaur,R,183,AUS,25.7,9,3745,6-3 6-4,3,RR,85,8,1,49,32,26,13,10,0,1,3,2,55,36,24,7,9,4,7
