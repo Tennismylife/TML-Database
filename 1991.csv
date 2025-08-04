@@ -250,85 +250,85 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-580,Australian Open,Hard,128,G,19910114,125,L018,3,,Ivan Lendl,R,188,USA,30.856,3,2541,E004,1,,Stefan Edberg,R,188,SWE,24.986,1,3889,6-4 5-7 3-6 7-6(3) 6-4,5,SF,242,12,4,165,95,70,34,26,6,12,6,10,161,97,68,35,27,4,10
 1991-580,Australian Open,Hard,128,G,19910114,126,B028,2,,Boris Becker,R,191,GER,23.146,2,3528,M048,,,Patrick McEnroe,R,183,USA,24.539,114,303,6-7(2) 6-4 6-1 6-4,5,SF,190,23,5,126,83,63,22,19,6,8,5,2,135,76,45,33,20,7,14
 1991-580,Australian Open,Hard,128,G,19910114,127,B028,2,,Boris Becker,R,191,GER,23.146,2,3528,L018,3,,Ivan Lendl,R,188,USA,30.856,3,2541,1-6 6-4 6-4 6-4,5,F,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D003,Davis Cup WG R1: NZL vs ARG,Grass,4,D,19910201,1,J004,,,Martin Jaite,R,178,ARG,26.303,34,808,S321,,,Brett Steven,R,185,NZL,21.755,233,103,7-5 6-2 6-2,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D003,Davis Cup WG R1: NZL vs ARG,Grass,4,D,19910201,2,F041,,,Javier Frana,L,185,ARG,24.093,175,162,E025,,,Kelly Evernden,R,175,NZL,29.352,102,348,7-6(4) 6-4 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D003,Davis Cup WG R1: NZL vs ARG,Grass,4,D,19910201,3,E025,,,Kelly Evernden,R,175,NZL,29.352,102,348,M069,,,Christian Miniussi,R,185,ARG,23.567,164,195,6-7(4) 6-3 8-6,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D003,Davis Cup WG R1: NZL vs ARG,Grass,4,D,19910201,4,F041,,,Javier Frana,L,185,ARG,24.093,175,162,S321,,,Brett Steven,R,185,NZL,21.755,233,103,6-3 6-3,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D004,Davis Cup WG R1: AUS vs BEL,Grass,4,D,19910201,1,F164,,,Richard Fromberg,R,196,AUS,20.753,27,876,D228,,,Filip Dewulf,R,190,BEL,18.872,518,19,6-4 6-3 1-6 6-4,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D004,Davis Cup WG R1: AUS vs BEL,Grass,4,D,19910201,2,M030,,,Wally Masur,R,180,AUS,27.713,52,573,M031,,,Eduardo Masso,L,178,BEL,27.047,119,295,6-3 6-3 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D004,Davis Cup WG R1: AUS vs BEL,Grass,4,D,19910201,3,F164,,,Richard Fromberg,R,196,AUS,20.753,27,876,M031,,,Eduardo Masso,L,178,BEL,27.047,119,295,6-3 1-6 6-3,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D004,Davis Cup WG R1: AUS vs BEL,Grass,4,D,19910201,4,M030,,,Wally Masur,R,180,AUS,27.713,52,573,D228,,,Filip Dewulf,R,190,BEL,18.872,518,19,6-1 6-2,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D007,Davis Cup WG R1: TCH vs AUT,Carpet,4,D,19910201,1,K148,,,Petr Korda,L,191,CZE,23.014,38,708,S055,,,Horst Skoff,R,175,AUT,22.434,28,876,6-3 3-6 6-7(9) 6-1 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D007,Davis Cup WG R1: TCH vs AUT,Carpet,4,D,19910201,2,N025,,,Karel Novacek,R,190,CZE,25.832,32,836,A028,,,Alex Antonitsch,R,188,AUT,24.969,65,509,7-6(5) 6-4 1-6 1-6 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D007,Davis Cup WG R1: TCH vs AUT,Carpet,4,D,19910201,3,B317,,,Thomas Buchmayer,L,185,AUT,19.953,324,55,N025,,,Karel Novacek,R,190,CZE,25.832,32,836,7-6(7) 7-5,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D007,Davis Cup WG R1: TCH vs AUT,Carpet,4,D,19910201,4,S072,,,Milan Srejber,R,203,CZE,27.08,92,398,A028,,,Alex Antonitsch,R,188,AUT,24.969,65,509,7-6(5) 7-6(3),3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D010,Davis Cup G2 R1: BAH vs CRC,Hard,4,D,19910201,1,B448,,,Rafael Avalos-Brenes,R,,CRC,29.604,,,F209,,,John Farrington,R,,BAH,,,,6-7(4) 6-4 3-6 7-5 7-5,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D010,Davis Cup G2 R1: BAH vs CRC,Hard,4,D,19910201,2,S340,,,Roger Smith,R,185,BAH,27.023,258,87,110811,,,Carlos Roberto Paez,U,,CRC,18.604,,,6-0 6-2 6-2,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D010,Davis Cup G2 R1: BAH vs CRC,Hard,4,D,19910201,3,S340,,,Roger Smith,R,185,BAH,27.023,258,87,D176,,,Mario Delgado,R,,CRC,35.699,,,6-0 6-4 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D010,Davis Cup G2 R1: BAH vs CRC,Hard,4,D,19910201,4,F209,,,John Farrington,R,,BAH,,,,110811,,,Carlos Roberto Paez,U,,CRC,18.604,,,6-4 6-4,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D013,Davis Cup G2 R1: BOL vs BAR,Clay,4,D,19910201,1,A037,,,Richard Ashby,R,,USA,26.037,,,MF96,,,Jose Medrano,U,,BOL,18.259,,,4-6 7-6(4) 6-3 5-7 20-18,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D013,Davis Cup G2 R1: BOL vs BAR,Clay,4,D,19910201,2,N206,,,Rodrigo Navarro,R,,BOL,17.016,834,4,Y218,,,Lionel Eli,U,,BAR,30.467,,,7-6(1) 6-4 6-7(1) 3-6 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D013,Davis Cup G2 R1: BOL vs BAR,Clay,4,D,19910201,3,A037,,,Richard Ashby,R,,USA,26.037,,,N206,,,Rodrigo Navarro,R,,BOL,17.016,834,4,7-6(4) 6-3 6-4,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D013,Davis Cup G2 R1: BOL vs BAR,Clay,4,D,19910201,4,MF96,,,Jose Medrano,U,,BOL,18.259,,,Y218,,,Lionel Eli,U,,BAR,30.467,,,7-5 6-7(4) 8-6,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D016,Davis Cup G1 QF: BRA vs PER,Hard,4,D,19910201,1,M035,,,Luiz Mattar,R,183,BRA,27.447,42,691,D029,,,Carlos Di Laura,L,175,PER,26.275,,,6-7(3) 6-3 6-2 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D016,Davis Cup G1 QF: BRA vs PER,Hard,4,D,19910201,2,O076,,,Jaime Oncins,R,196,BRA,20.619,104,345,N241,,,Jose-Luis Noriega,R,178,PER,21.372,,,6-3 6-2 6-2,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D016,Davis Cup G1 QF: BRA vs PER,Hard,4,D,19910201,3,M035,,,Luiz Mattar,R,183,BRA,27.447,42,691,N241,,,Jose-Luis Noriega,R,178,PER,21.372,,,6-2 6-1 7-5,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D020,Davis Cup WG R1: ESP vs CAN,Clay,4,D,19910201,1,B350,,,Sergi Bruguera,R,188,ESP,20.033,31,852,S102,,,Andrew Sznajder,R,175,CAN,23.68,100,352,6-4 6-2 1-6 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D020,Davis Cup WG R1: ESP vs CAN,Clay,4,D,19910201,2,S014,,,Emilio Sanchez,R,180,ESP,25.667,9,1487,W038,,,Martin Wostenholme,R,183,CAN,28.298,160,204,6-3 3-6 6-1 6-4,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D020,Davis Cup WG R1: ESP vs CAN,Clay,4,D,19910201,3,S102,,,Andrew Sznajder,R,175,CAN,23.68,100,352,S014,,,Emilio Sanchez,R,180,ESP,25.667,9,1487,7-5 5-7 6-3,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D020,Davis Cup WG R1: ESP vs CAN,Clay,4,D,19910201,4,B350,,,Sergi Bruguera,R,188,ESP,20.033,31,852,W038,,,Martin Wostenholme,R,183,CAN,28.298,160,204,6-1 7-6(5),3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D021,Davis Cup G2 R1: KEN vs CGO,Clay,4,D,19910201,1,P216,,,Eno Polo,R,,KEN,,588,14,110874,,,Crepin Ossombi,U,,CGO,21.196,,,6-1 6-2 6-0,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D021,Davis Cup G2 R1: KEN vs CGO,Clay,4,D,19910201,2,B427,,,Kush Bhardwaj,R,,KEN,,784,5,110875,,,Christian Bemba,U,,CGO,23.184,,,6-0 6-2 6-4,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D021,Davis Cup G2 R1: KEN vs CGO,Clay,4,D,19910201,3,110876,,,Norbert Oduor,U,,KEN,26.746,,,110875,,,Christian Bemba,U,,CGO,23.184,,,6-4 6-4,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D021,Davis Cup G2 R1: KEN vs CGO,Clay,4,D,19910201,4,B427,,,Kush Bhardwaj,R,,KEN,,784,5,110874,,,Crepin Ossombi,U,,CGO,21.196,,,6-1 6-2,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D029,Davis Cup G2 R1: ZAM vs CMR,Clay,4,D,19910201,1,110905,,,Fred Kangwa,U,,ZAM,28.2,,,110890,,,Lionel Kemajou,U,,CMR,20.569,,,2-6 6-3 6-2 6-2,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D029,Davis Cup G2 R1: ZAM vs CMR,Clay,4,D,19910201,2,K208,,,Steven Kangwa,R,,ZAM,24.175,1008,1,110906,,,Luc Ondobo,U,,CMR,18.215,,,6-2 2-6 6-0 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D029,Davis Cup G2 R1: ZAM vs CMR,Clay,4,D,19910201,3,110890,,,Lionel Kemajou,U,,CMR,20.569,,,K208,,,Steven Kangwa,R,,ZAM,24.175,1008,1,6-2 6-4 2-6 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D029,Davis Cup G2 R1: ZAM vs CMR,Clay,4,D,19910201,4,110905,,,Fred Kangwa,U,,ZAM,28.2,,,110906,,,Luc Ondobo,U,,CMR,18.215,,,6-4 6-4 4-6 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D031,Davis Cup G2 R1: JAM vs COL,Hard,4,D,19910201,1,B083,,,Doug Burke,R,180,JAM,27.513,730,7,R159,,,Mario Rincon,R,,COL,23.154,300,64,5-7 7-6(2) 6-3 6-2,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D031,Davis Cup G2 R1: JAM vs COL,Hard,4,D,19910201,2,J020,,,Alvaro Jordan,R,185,COL,29.054,288,70,R229,,,Noel Rutherford,U,,JAM,25.826,,,5-7 7-6(6) 7-5 6-2,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D031,Davis Cup G2 R1: JAM vs COL,Hard,4,D,19910201,3,R159,,,Mario Rincon,R,,COL,23.154,300,64,R229,,,Noel Rutherford,U,,JAM,25.826,,,6-4 6-7(7) 7-5 4-6 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D031,Davis Cup G2 R1: JAM vs COL,Hard,4,D,19910201,4,J020,,,Alvaro Jordan,R,185,COL,29.054,288,70,B083,,,Doug Burke,R,180,JAM,27.513,730,7,6-3 6-2 6-4,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D036,Davis Cup G1 QF: DEN vs MAR,Carpet,4,D,19910201,1,F206,,,Frederik Fetterlein,R,190,DEN,20.55,263,82,A203,,,Karim Alami,R,185,MAR,17.681,339,50,6-4 6-3 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D036,Davis Cup G1 QF: DEN vs MAR,Carpet,4,D,19910201,2,T010,,,Michael Tauson,R,193,DEN,24.594,132,260,E121,,,Younes El Aynaoui,R,193,MAR,19.379,348,48,6-1 6-3 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D036,Davis Cup G1 QF: DEN vs MAR,Carpet,4,D,19910201,3,T010,,,Michael Tauson,R,193,DEN,24.594,132,260,A203,,,Karim Alami,R,185,MAR,17.681,339,50,6-3 6-4,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D036,Davis Cup G1 QF: DEN vs MAR,Carpet,4,D,19910201,4,F206,,,Frederik Fetterlein,R,190,DEN,20.55,263,82,E121,,,Younes El Aynaoui,R,193,MAR,19.379,348,48,6-3 6-1,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D037,Davis Cup G2 R1: ESA vs DOM,Clay,4,D,19910201,1,MQ10,,,Rafael Moreno,U,,DOM,30.535,,,T192,,,Manuel Tejada,R,,ESA,20.172,,,4-6 5-7 6-4 6-4 6-4,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D037,Davis Cup G2 R1: ESA vs DOM,Clay,4,D,19910201,2,M481,,,Miguel Merz,R,,ESA,,,,D230,,,Genaro Deleon,U,,DOM,20.025,,,6-7(5) 6-3 7-6(5) 1-6 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D037,Davis Cup G2 R1: ESA vs DOM,Clay,4,D,19910201,3,D230,,,Genaro Deleon,U,,DOM,20.025,,,T192,,,Manuel Tejada,R,,ESA,20.172,,,6-4 6-3 3-6 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D037,Davis Cup G2 R1: ESA vs DOM,Clay,4,D,19910201,4,MQ10,,,Rafael Moreno,U,,DOM,30.535,,,M481,,,Miguel Merz,R,,ESA,,,,6-4 7-5,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D038,Davis Cup G2 R1: ECA vs GUA,Hard,4,D,19910201,1,L294,,,Vernon Lewis,U,,ECA,25.246,,,C428,,,Daniel Chavez Morales,U,,GUA,25.002,,,6-1 6-7(1) 6-3 7-6(5),5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D038,Davis Cup G2 R1: ECA vs GUA,Hard,4,D,19910201,2,M361,,,John Maginley,U,,CAR,31.042,,,110924,,,Carlos Chavez,U,,GUA,27.187,,,4-6 3-6 7-5 6-4 9-7,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D038,Davis Cup G2 R1: ECA vs GUA,Hard,4,D,19910201,3,L294,,,Vernon Lewis,U,,ECA,25.246,,,110909,,,Fabio Sical,U,,GUA,31.756,,,6-1 6-3 6-0,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D038,Davis Cup G2 R1: ECA vs GUA,Hard,4,D,19910201,4,C428,,,Daniel Chavez Morales,U,,GUA,25.002,,,M361,,,John Maginley,U,,CAR,31.042,,,4-6 6-1 6-4,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D039,Davis Cup G2 R1: TRI vs ECU,Hard,4,D,19910201,1,M506,,,Luis Adrian Morejon,R,178,ECU,17.837,,,110925,,,Orville Adams,U,,TRI,29.588,,,6-2 6-2 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D039,Davis Cup G2 R1: TRI vs ECU,Hard,4,D,19910201,2,C329,,,Pablo Campana,R,180,ECU,18.116,834,4,110926,,,Mark Webster,U,,TRI,29.06,,,6-2 6-2 6-2,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D039,Davis Cup G2 R1: TRI vs ECU,Hard,4,D,19910201,3,C329,,,Pablo Campana,R,180,ECU,18.116,834,4,110925,,,Orville Adams,U,,TRI,29.588,,,6-4 7-6(7),3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D039,Davis Cup G2 R1: TRI vs ECU,Hard,4,D,19910201,4,M506,,,Luis Adrian Morejon,R,178,ECU,17.837,,,110926,,,Mark Webster,U,,TRI,29.06,,,6-4 6-2,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D048,Davis Cup WG R1: GER vs ITA,Carpet,4,D,19910201,1,B028,,,Boris Becker,R,191,GER,23.184,1,3935,C012,,,Paolo Cane,R,180,ITA,25.804,130,261,3-6 6-1 6-4 6-4,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D048,Davis Cup WG R1: GER vs ITA,Carpet,4,D,19910201,2,C009,,,Omar Camporese,R,188,ITA,22.724,45,661,S351,,,Michael Stich,R,193,GER,22.278,30,856,7-6(2) 6-1 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D048,Davis Cup WG R1: GER vs ITA,Carpet,4,D,19910201,3,B028,,,Boris Becker,R,191,GER,23.184,1,3935,C009,,,Omar Camporese,R,188,ITA,22.724,45,661,3-6 4-6 6-3 6-4 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D048,Davis Cup WG R1: GER vs ITA,Carpet,4,D,19910201,4,S351,,,Michael Stich,R,193,GER,22.278,30,856,C012,,,Paolo Cane,R,180,ITA,25.804,130,261,7-6(4) 6-7(1) 7-5 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D051,Davis Cup G2 R1: HAI vs VEN,Clay,4,D,19910201,1,R224,,,Maurice Ruah,R,178,VEN,19.94,199,131,L162,,,Bertrand Lacombe,R,,HAI,,750,6,6-2 4-6 6-3 6-1,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D051,Davis Cup G2 R1: HAI vs VEN,Clay,4,D,19910201,2,M451,,,Bertrand Madsen,R,,HAI,18.697,395,38,C931,,,Salvador Colvee,U,,VEN,22.776,,,6-2 1-6 6-3 6-7(0) 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D051,Davis Cup G2 R1: HAI vs VEN,Clay,4,D,19910201,3,R224,,,Maurice Ruah,R,178,VEN,19.94,199,131,M451,,,Bertrand Madsen,R,,HAI,18.697,395,38,4-6 6-4 7-6(8) 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D051,Davis Cup G2 R1: HAI vs VEN,Clay,4,D,19910201,4,C931,,,Salvador Colvee,U,,VEN,22.776,,,L162,,,Bertrand Lacombe,R,,HAI,,750,6,7-6(4) 6-3,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D056,Davis Cup G1 QF: HUN vs URS,Carpet,4,D,19910201,1,C260,,,Andrei Cherkasov,R,180,RUS,20.569,25,913,L170,,,Andras Lanyi,R,,HUN,21.172,1008,1,6-3 6-3 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D056,Davis Cup G1 QF: HUN vs URS,Carpet,4,D,19910201,2,V037,,,Alexander Volkov,L,188,RUS,23.907,23,929,M370,,,Laszlo Markovits,R,180,HUN,20.819,834,4,6-3 6-4 6-4,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D056,Davis Cup G1 QF: HUN vs URS,Carpet,4,D,19910201,3,C260,,,Andrei Cherkasov,R,180,RUS,20.569,25,913,M370,,,Laszlo Markovits,R,180,HUN,20.819,834,4,7-6(2) 7-5 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D056,Davis Cup G1 QF: HUN vs URS,Carpet,4,D,19910201,4,V037,,,Alexander Volkov,L,188,RUS,23.907,23,929,N112,,,Sandor Noszaly,R,193,HUN,18.869,326,54,6-3 6-3,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D060,Davis Cup G1 QF: POR vs IRL,Clay,4,D,19910201,1,C113,,,Joao Cunha-Silva,R,173,POR,23.17,117,299,C289,,,Owen Casey,R,,IRL,21.268,937,3,5-7 6-1 6-2 6-3,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D060,Davis Cup G1 QF: POR vs IRL,Clay,4,D,19910201,2,M197,,,Nuno Marques,L,190,POR,20.805,101,349,W039,,,Peter Wright,R,185,USA,27.14,,,6-3 7-5 6-2,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D060,Davis Cup G1 QF: POR vs IRL,Clay,4,D,19910201,3,M197,,,Nuno Marques,L,190,POR,20.805,101,349,C289,,,Owen Casey,R,,IRL,21.268,937,3,7-5 6-4,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D060,Davis Cup G1 QF: POR vs IRL,Clay,4,D,19910201,4,M406,,,Bernardo Mota,R,178,POR,19.543,663,10,D254,,,Stewart Doyle,U,,IRL,16.983,,,6-1 6-1,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D081,Davis Cup G1 QF: POL vs ROU,Carpet,4,D,19910201,1,K067,,,Wojtek Kowalski,R,183,POL,23.302,282,73,M020,,,Adrian Marcu,R,190,ROU,29.153,457,27,3-6 6-3 6-7(1) 7-6(3) 7-5,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D081,Davis Cup G1 QF: POL vs ROU,Carpet,4,D,19910201,2,N242,,,Darek Nowicki,R,,POL,20.441,,,P254,,,Dinu Pescariu,R,185,ROU,16.797,411,35,6-3 6-3 5-7 7-6(5),5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D081,Davis Cup G1 QF: POL vs ROU,Carpet,4,D,19910201,3,I036,,,Tomasz Iwanski,R,,POL,22.146,806,4,P254,,,Dinu Pescariu,R,185,ROU,16.797,411,35,7-6(4) 1-6 6-2,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D081,Davis Cup G1 QF: POL vs ROU,Carpet,4,D,19910201,4,N242,,,Darek Nowicki,R,,POL,20.441,,,M020,,,Adrian Marcu,R,190,ROU,29.153,457,27,6-7(1) 6-4 11-9,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D084,Davis Cup WG R1: YUG vs SWE,Clay,4,D,19910201,1,I034,,,Goran Ivanisevic,L,193,CRO,19.376,7,1527,S101,,,Jonas Svensson,R,188,SWE,24.271,12,1335,6-2 4-6 6-3 6-4,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D084,Davis Cup WG R1: YUG vs SWE,Clay,4,D,19910201,2,P050,,,Goran Prpic,R,180,CRO,26.735,39,703,E004,,,Stefan Edberg,R,188,SWE,25.024,2,3802,6-4 6-3 6-2,5,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D084,Davis Cup WG R1: YUG vs SWE,Clay,4,D,19910201,3,I034,,,Goran Ivanisevic,L,193,CRO,19.376,7,1527,E004,,,Stefan Edberg,R,188,SWE,25.024,2,3802,6-4 6-2,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
-1991-D084,Davis Cup WG R1: YUG vs SWE,Clay,4,D,19910201,4,G182,,,Magnus Gustafsson,R,185,SWE,24.068,24,915,P050,,,Goran Prpic,R,180,CRO,26.735,39,703,6-2 6-3,3,RR,170,9,4,121,86,60,16,18,9,12,9,3,115,72,49,25,19,4,8
+1991-D003,Davis Cup WG R1: NZL vs ARG,Grass,4,D,19910201,1,J004,,,Martin Jaite,R,178,ARG,26.303,34,808,S321,,,Brett Steven,R,185,NZL,21.755,233,103,7-5 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D003,Davis Cup WG R1: NZL vs ARG,Grass,4,D,19910201,2,F041,,,Javier Frana,L,185,ARG,24.093,175,162,E025,,,Kelly Evernden,R,175,NZL,29.352,102,348,7-6(4) 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D003,Davis Cup WG R1: NZL vs ARG,Grass,4,D,19910201,3,E025,,,Kelly Evernden,R,175,NZL,29.352,102,348,M069,,,Christian Miniussi,R,185,ARG,23.567,164,195,6-7(4) 6-3 8-6,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D003,Davis Cup WG R1: NZL vs ARG,Grass,4,D,19910201,4,F041,,,Javier Frana,L,185,ARG,24.093,175,162,S321,,,Brett Steven,R,185,NZL,21.755,233,103,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D004,Davis Cup WG R1: AUS vs BEL,Grass,4,D,19910201,1,F164,,,Richard Fromberg,R,196,AUS,20.753,27,876,D228,,,Filip Dewulf,R,190,BEL,18.872,518,19,6-4 6-3 1-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D004,Davis Cup WG R1: AUS vs BEL,Grass,4,D,19910201,2,M030,,,Wally Masur,R,180,AUS,27.713,52,573,M031,,,Eduardo Masso,L,178,BEL,27.047,119,295,6-3 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D004,Davis Cup WG R1: AUS vs BEL,Grass,4,D,19910201,3,F164,,,Richard Fromberg,R,196,AUS,20.753,27,876,M031,,,Eduardo Masso,L,178,BEL,27.047,119,295,6-3 1-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D004,Davis Cup WG R1: AUS vs BEL,Grass,4,D,19910201,4,M030,,,Wally Masur,R,180,AUS,27.713,52,573,D228,,,Filip Dewulf,R,190,BEL,18.872,518,19,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D007,Davis Cup WG R1: TCH vs AUT,Carpet,4,D,19910201,1,K148,,,Petr Korda,L,191,CZE,23.014,38,708,S055,,,Horst Skoff,R,175,AUT,22.434,28,876,6-3 3-6 6-7(9) 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D007,Davis Cup WG R1: TCH vs AUT,Carpet,4,D,19910201,2,N025,,,Karel Novacek,R,190,CZE,25.832,32,836,A028,,,Alex Antonitsch,R,188,AUT,24.969,65,509,7-6(5) 6-4 1-6 1-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D007,Davis Cup WG R1: TCH vs AUT,Carpet,4,D,19910201,3,B317,,,Thomas Buchmayer,L,185,AUT,19.953,324,55,N025,,,Karel Novacek,R,190,CZE,25.832,32,836,7-6(7) 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D007,Davis Cup WG R1: TCH vs AUT,Carpet,4,D,19910201,4,S072,,,Milan Srejber,R,203,CZE,27.08,92,398,A028,,,Alex Antonitsch,R,188,AUT,24.969,65,509,7-6(5) 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,
+1991-D010,Davis Cup G2 R1: BAH vs CRC,Hard,4,D,19910201,1,B448,,,Rafael Avalos-Brenes,R,,CRC,29.604,,,F209,,,John Farrington,R,,BAH,,,,6-7(4) 6-4 3-6 7-5 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D010,Davis Cup G2 R1: BAH vs CRC,Hard,4,D,19910201,2,S340,,,Roger Smith,R,185,BAH,27.023,258,87,110811,,,Carlos Roberto Paez,U,,CRC,18.604,,,6-0 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D010,Davis Cup G2 R1: BAH vs CRC,Hard,4,D,19910201,3,S340,,,Roger Smith,R,185,BAH,27.023,258,87,D176,,,Mario Delgado,R,,CRC,35.699,,,6-0 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D010,Davis Cup G2 R1: BAH vs CRC,Hard,4,D,19910201,4,F209,,,John Farrington,R,,BAH,,,,110811,,,Carlos Roberto Paez,U,,CRC,18.604,,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D013,Davis Cup G2 R1: BOL vs BAR,Clay,4,D,19910201,1,A037,,,Richard Ashby,R,,USA,26.037,,,MF96,,,Jose Medrano,U,,BOL,18.259,,,4-6 7-6(4) 6-3 5-7 20-18,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D013,Davis Cup G2 R1: BOL vs BAR,Clay,4,D,19910201,2,N206,,,Rodrigo Navarro,R,,BOL,17.016,834,4,Y218,,,Lionel Eli,U,,BAR,30.467,,,7-6(1) 6-4 6-7(1) 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D013,Davis Cup G2 R1: BOL vs BAR,Clay,4,D,19910201,3,A037,,,Richard Ashby,R,,USA,26.037,,,N206,,,Rodrigo Navarro,R,,BOL,17.016,834,4,7-6(4) 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D013,Davis Cup G2 R1: BOL vs BAR,Clay,4,D,19910201,4,MF96,,,Jose Medrano,U,,BOL,18.259,,,Y218,,,Lionel Eli,U,,BAR,30.467,,,7-5 6-7(4) 8-6,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D016,Davis Cup G1 QF: BRA vs PER,Hard,4,D,19910201,1,M035,,,Luiz Mattar,R,183,BRA,27.447,42,691,D029,,,Carlos Di Laura,L,175,PER,26.275,,,6-7(3) 6-3 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D016,Davis Cup G1 QF: BRA vs PER,Hard,4,D,19910201,2,O076,,,Jaime Oncins,R,196,BRA,20.619,104,345,N241,,,Jose-Luis Noriega,R,178,PER,21.372,,,6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D016,Davis Cup G1 QF: BRA vs PER,Hard,4,D,19910201,3,M035,,,Luiz Mattar,R,183,BRA,27.447,42,691,N241,,,Jose-Luis Noriega,R,178,PER,21.372,,,6-2 6-1 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D020,Davis Cup WG R1: ESP vs CAN,Clay,4,D,19910201,1,B350,,,Sergi Bruguera,R,188,ESP,20.033,31,852,S102,,,Andrew Sznajder,R,175,CAN,23.68,100,352,6-4 6-2 1-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D020,Davis Cup WG R1: ESP vs CAN,Clay,4,D,19910201,2,S014,,,Emilio Sanchez,R,180,ESP,25.667,9,1487,W038,,,Martin Wostenholme,R,183,CAN,28.298,160,204,6-3 3-6 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D020,Davis Cup WG R1: ESP vs CAN,Clay,4,D,19910201,3,S102,,,Andrew Sznajder,R,175,CAN,23.68,100,352,S014,,,Emilio Sanchez,R,180,ESP,25.667,9,1487,7-5 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D020,Davis Cup WG R1: ESP vs CAN,Clay,4,D,19910201,4,B350,,,Sergi Bruguera,R,188,ESP,20.033,31,852,W038,,,Martin Wostenholme,R,183,CAN,28.298,160,204,6-1 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
+1991-D021,Davis Cup G2 R1: KEN vs CGO,Clay,4,D,19910201,1,P216,,,Eno Polo,R,,KEN,,588,14,110874,,,Crepin Ossombi,U,,CGO,21.196,,,6-1 6-2 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D021,Davis Cup G2 R1: KEN vs CGO,Clay,4,D,19910201,2,B427,,,Kush Bhardwaj,R,,KEN,,784,5,110875,,,Christian Bemba,U,,CGO,23.184,,,6-0 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D021,Davis Cup G2 R1: KEN vs CGO,Clay,4,D,19910201,3,110876,,,Norbert Oduor,U,,KEN,26.746,,,110875,,,Christian Bemba,U,,CGO,23.184,,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D021,Davis Cup G2 R1: KEN vs CGO,Clay,4,D,19910201,4,B427,,,Kush Bhardwaj,R,,KEN,,784,5,110874,,,Crepin Ossombi,U,,CGO,21.196,,,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D029,Davis Cup G2 R1: ZAM vs CMR,Clay,4,D,19910201,1,110905,,,Fred Kangwa,U,,ZAM,28.2,,,110890,,,Lionel Kemajou,U,,CMR,20.569,,,2-6 6-3 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D029,Davis Cup G2 R1: ZAM vs CMR,Clay,4,D,19910201,2,K208,,,Steven Kangwa,R,,ZAM,24.175,1008,1,110906,,,Luc Ondobo,U,,CMR,18.215,,,6-2 2-6 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D029,Davis Cup G2 R1: ZAM vs CMR,Clay,4,D,19910201,3,110890,,,Lionel Kemajou,U,,CMR,20.569,,,K208,,,Steven Kangwa,R,,ZAM,24.175,1008,1,6-2 6-4 2-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D029,Davis Cup G2 R1: ZAM vs CMR,Clay,4,D,19910201,4,110905,,,Fred Kangwa,U,,ZAM,28.2,,,110906,,,Luc Ondobo,U,,CMR,18.215,,,6-4 6-4 4-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D031,Davis Cup G2 R1: JAM vs COL,Hard,4,D,19910201,1,B083,,,Doug Burke,R,180,JAM,27.513,730,7,R159,,,Mario Rincon,R,,COL,23.154,300,64,5-7 7-6(2) 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D031,Davis Cup G2 R1: JAM vs COL,Hard,4,D,19910201,2,J020,,,Alvaro Jordan,R,185,COL,29.054,288,70,R229,,,Noel Rutherford,U,,JAM,25.826,,,5-7 7-6(6) 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D031,Davis Cup G2 R1: JAM vs COL,Hard,4,D,19910201,3,R159,,,Mario Rincon,R,,COL,23.154,300,64,R229,,,Noel Rutherford,U,,JAM,25.826,,,6-4 6-7(7) 7-5 4-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D031,Davis Cup G2 R1: JAM vs COL,Hard,4,D,19910201,4,J020,,,Alvaro Jordan,R,185,COL,29.054,288,70,B083,,,Doug Burke,R,180,JAM,27.513,730,7,6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D036,Davis Cup G1 QF: DEN vs MAR,Carpet,4,D,19910201,1,F206,,,Frederik Fetterlein,R,190,DEN,20.55,263,82,A203,,,Karim Alami,R,185,MAR,17.681,339,50,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D036,Davis Cup G1 QF: DEN vs MAR,Carpet,4,D,19910201,2,T010,,,Michael Tauson,R,193,DEN,24.594,132,260,E121,,,Younes El Aynaoui,R,193,MAR,19.379,348,48,6-1 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D036,Davis Cup G1 QF: DEN vs MAR,Carpet,4,D,19910201,3,T010,,,Michael Tauson,R,193,DEN,24.594,132,260,A203,,,Karim Alami,R,185,MAR,17.681,339,50,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D036,Davis Cup G1 QF: DEN vs MAR,Carpet,4,D,19910201,4,F206,,,Frederik Fetterlein,R,190,DEN,20.55,263,82,E121,,,Younes El Aynaoui,R,193,MAR,19.379,348,48,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D037,Davis Cup G2 R1: ESA vs DOM,Clay,4,D,19910201,1,MQ10,,,Rafael Moreno,U,,DOM,30.535,,,T192,,,Manuel Tejada,R,,ESA,20.172,,,4-6 5-7 6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D037,Davis Cup G2 R1: ESA vs DOM,Clay,4,D,19910201,2,M481,,,Miguel Merz,R,,ESA,,,,D230,,,Genaro Deleon,U,,DOM,20.025,,,6-7(5) 6-3 7-6(5) 1-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D037,Davis Cup G2 R1: ESA vs DOM,Clay,4,D,19910201,3,D230,,,Genaro Deleon,U,,DOM,20.025,,,T192,,,Manuel Tejada,R,,ESA,20.172,,,6-4 6-3 3-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D037,Davis Cup G2 R1: ESA vs DOM,Clay,4,D,19910201,4,MQ10,,,Rafael Moreno,U,,DOM,30.535,,,M481,,,Miguel Merz,R,,ESA,,,,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D038,Davis Cup G2 R1: ECA vs GUA,Hard,4,D,19910201,1,L294,,,Vernon Lewis,U,,ECA,25.246,,,C428,,,Daniel Chavez Morales,U,,GUA,25.002,,,6-1 6-7(1) 6-3 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D038,Davis Cup G2 R1: ECA vs GUA,Hard,4,D,19910201,2,M361,,,John Maginley,U,,CAR,31.042,,,110924,,,Carlos Chavez,U,,GUA,27.187,,,4-6 3-6 7-5 6-4 9-7,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D038,Davis Cup G2 R1: ECA vs GUA,Hard,4,D,19910201,3,L294,,,Vernon Lewis,U,,ECA,25.246,,,110909,,,Fabio Sical,U,,GUA,31.756,,,6-1 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D038,Davis Cup G2 R1: ECA vs GUA,Hard,4,D,19910201,4,C428,,,Daniel Chavez Morales,U,,GUA,25.002,,,M361,,,John Maginley,U,,CAR,31.042,,,4-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D039,Davis Cup G2 R1: TRI vs ECU,Hard,4,D,19910201,1,M506,,,Luis Adrian Morejon,R,178,ECU,17.837,,,110925,,,Orville Adams,U,,TRI,29.588,,,6-2 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D039,Davis Cup G2 R1: TRI vs ECU,Hard,4,D,19910201,2,C329,,,Pablo Campana,R,180,ECU,18.116,834,4,110926,,,Mark Webster,U,,TRI,29.06,,,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D039,Davis Cup G2 R1: TRI vs ECU,Hard,4,D,19910201,3,C329,,,Pablo Campana,R,180,ECU,18.116,834,4,110925,,,Orville Adams,U,,TRI,29.588,,,6-4 7-6(7),3,RR,,,,,,,,,,,,,,,,,,,
+1991-D039,Davis Cup G2 R1: TRI vs ECU,Hard,4,D,19910201,4,M506,,,Luis Adrian Morejon,R,178,ECU,17.837,,,110926,,,Mark Webster,U,,TRI,29.06,,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D048,Davis Cup WG R1: GER vs ITA,Carpet,4,D,19910201,1,B028,,,Boris Becker,R,191,GER,23.184,1,3935,C012,,,Paolo Cane,R,180,ITA,25.804,130,261,3-6 6-1 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D048,Davis Cup WG R1: GER vs ITA,Carpet,4,D,19910201,2,C009,,,Omar Camporese,R,188,ITA,22.724,45,661,S351,,,Michael Stich,R,193,GER,22.278,30,856,7-6(2) 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D048,Davis Cup WG R1: GER vs ITA,Carpet,4,D,19910201,3,B028,,,Boris Becker,R,191,GER,23.184,1,3935,C009,,,Omar Camporese,R,188,ITA,22.724,45,661,3-6 4-6 6-3 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D048,Davis Cup WG R1: GER vs ITA,Carpet,4,D,19910201,4,S351,,,Michael Stich,R,193,GER,22.278,30,856,C012,,,Paolo Cane,R,180,ITA,25.804,130,261,7-6(4) 6-7(1) 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D051,Davis Cup G2 R1: HAI vs VEN,Clay,4,D,19910201,1,R224,,,Maurice Ruah,R,178,VEN,19.94,199,131,L162,,,Bertrand Lacombe,R,,HAI,,750,6,6-2 4-6 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D051,Davis Cup G2 R1: HAI vs VEN,Clay,4,D,19910201,2,M451,,,Bertrand Madsen,R,,HAI,18.697,395,38,C931,,,Salvador Colvee,U,,VEN,22.776,,,6-2 1-6 6-3 6-7(0) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D051,Davis Cup G2 R1: HAI vs VEN,Clay,4,D,19910201,3,R224,,,Maurice Ruah,R,178,VEN,19.94,199,131,M451,,,Bertrand Madsen,R,,HAI,18.697,395,38,4-6 6-4 7-6(8) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D051,Davis Cup G2 R1: HAI vs VEN,Clay,4,D,19910201,4,C931,,,Salvador Colvee,U,,VEN,22.776,,,L162,,,Bertrand Lacombe,R,,HAI,,750,6,7-6(4) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D056,Davis Cup G1 QF: HUN vs URS,Carpet,4,D,19910201,1,C260,,,Andrei Cherkasov,R,180,RUS,20.569,25,913,L170,,,Andras Lanyi,R,,HUN,21.172,1008,1,6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D056,Davis Cup G1 QF: HUN vs URS,Carpet,4,D,19910201,2,V037,,,Alexander Volkov,L,188,RUS,23.907,23,929,M370,,,Laszlo Markovits,R,180,HUN,20.819,834,4,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D056,Davis Cup G1 QF: HUN vs URS,Carpet,4,D,19910201,3,C260,,,Andrei Cherkasov,R,180,RUS,20.569,25,913,M370,,,Laszlo Markovits,R,180,HUN,20.819,834,4,7-6(2) 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D056,Davis Cup G1 QF: HUN vs URS,Carpet,4,D,19910201,4,V037,,,Alexander Volkov,L,188,RUS,23.907,23,929,N112,,,Sandor Noszaly,R,193,HUN,18.869,326,54,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D060,Davis Cup G1 QF: POR vs IRL,Clay,4,D,19910201,1,C113,,,Joao Cunha-Silva,R,173,POR,23.17,117,299,C289,,,Owen Casey,R,,IRL,21.268,937,3,5-7 6-1 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D060,Davis Cup G1 QF: POR vs IRL,Clay,4,D,19910201,2,M197,,,Nuno Marques,L,190,POR,20.805,101,349,W039,,,Peter Wright,R,185,USA,27.14,,,6-3 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D060,Davis Cup G1 QF: POR vs IRL,Clay,4,D,19910201,3,M197,,,Nuno Marques,L,190,POR,20.805,101,349,C289,,,Owen Casey,R,,IRL,21.268,937,3,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D060,Davis Cup G1 QF: POR vs IRL,Clay,4,D,19910201,4,M406,,,Bernardo Mota,R,178,POR,19.543,663,10,D254,,,Stewart Doyle,U,,IRL,16.983,,,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D081,Davis Cup G1 QF: POL vs ROU,Carpet,4,D,19910201,1,K067,,,Wojtek Kowalski,R,183,POL,23.302,282,73,M020,,,Adrian Marcu,R,190,ROU,29.153,457,27,3-6 6-3 6-7(1) 7-6(3) 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D081,Davis Cup G1 QF: POL vs ROU,Carpet,4,D,19910201,2,N242,,,Darek Nowicki,R,,POL,20.441,,,P254,,,Dinu Pescariu,R,185,ROU,16.797,411,35,6-3 6-3 5-7 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D081,Davis Cup G1 QF: POL vs ROU,Carpet,4,D,19910201,3,I036,,,Tomasz Iwanski,R,,POL,22.146,806,4,P254,,,Dinu Pescariu,R,185,ROU,16.797,411,35,7-6(4) 1-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D081,Davis Cup G1 QF: POL vs ROU,Carpet,4,D,19910201,4,N242,,,Darek Nowicki,R,,POL,20.441,,,M020,,,Adrian Marcu,R,190,ROU,29.153,457,27,6-7(1) 6-4 11-9,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D084,Davis Cup WG R1: YUG vs SWE,Clay,4,D,19910201,1,I034,,,Goran Ivanisevic,L,193,CRO,19.376,7,1527,S101,,,Jonas Svensson,R,188,SWE,24.271,12,1335,6-2 4-6 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D084,Davis Cup WG R1: YUG vs SWE,Clay,4,D,19910201,2,P050,,,Goran Prpic,R,180,CRO,26.735,39,703,E004,,,Stefan Edberg,R,188,SWE,25.024,2,3802,6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D084,Davis Cup WG R1: YUG vs SWE,Clay,4,D,19910201,3,I034,,,Goran Ivanisevic,L,193,CRO,19.376,7,1527,E004,,,Stefan Edberg,R,188,SWE,25.024,2,3802,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D084,Davis Cup WG R1: YUG vs SWE,Clay,4,D,19910201,4,G182,,,Magnus Gustafsson,R,185,SWE,24.068,24,915,P050,,,Goran Prpic,R,180,CRO,26.735,39,703,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 1991-201,Guaruja,Hard,32,A,19910204,1,G108,,,Rodolphe Gilbert,L,183,FRA,22.146,159,,M035,1,,Luiz Mattar,R,183,BRA,27.466,42,,6-3 6-2,3,R32,67,3,0,38,24,20,9,8,0,1,5,1,59,34,21,9,9,9,14
 1991-201,Guaruja,Hard,32,A,19910204,2,A035,,,Pablo Arraya,R,180,PER,29.29,158,,R012,,,Pedro Rebolledo,R,170,CHI,30.133,121,,6-3 6-2,3,R32,75,1,3,63,47,35,7,9,6,6,0,0,64,47,28,6,8,2,5
 1991-201,Guaruja,Hard,32,A,19910204,3,M338,,,Shuzo Matsuoka,R,185,JPN,23.247,147,,A141,,,Jose Francisco Altur,L,190,ESP,22.867,115,,2-6 6-3 6-4,3,R32,125,8,4,88,56,39,13,14,6,10,15,4,87,50,40,12,13,6,10
@@ -422,10 +422,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-424,San Francisco,Carpet,32,A,19910204,29,G016,3,,Brad Gilbert,R,185,USA,29.489,10,,A092,1,,Andre Agassi,R,180,USA,20.769,4,,6-1 6-2,3,SF,59,12,3,47,28,25,9,8,2,2,0,2,45,29,15,6,7,5,9
 1991-424,San Francisco,Carpet,32,A,19910204,30,C001,6,,Darren Cahill,R,185,AUS,25.342,48,,M030,7,,Wally Masur,R,180,AUS,27.732,52,,4-6 6-4 7-5,3,SF,112,6,3,93,53,39,21,16,0,2,4,6,106,69,49,16,16,7,10
 1991-424,San Francisco,Carpet,32,A,19910204,31,C001,6,,Darren Cahill,R,185,AUS,25.342,48,,G016,3,,Brad Gilbert,R,185,USA,29.489,10,,6-2 3-6 6-4,3,F,111,3,3,78,46,35,19,13,0,1,3,3,89,47,40,16,14,7,10
-1991-D059,Davis Cup G1 PR: THA vs IND,Hard,4,D,19910208,1,P269,,,Leander Paes,R,178,IND,17.634,,,T120,,,Worapol Thongkamcho,R,,THA,23.094,,,6-3 6-1 6-4,5,RR,111,3,3,78,46,35,19,13,0,1,3,3,89,47,40,16,14,7,10
-1991-D059,Davis Cup G1 PR: THA vs IND,Hard,4,D,19910208,2,V018,,,Srinivasan Vasudevan,R,190,IND,29.084,,,S476,,,Naratorn Srichaphan,R,,THA,18.5,1008,1,6-3 6-7(5) 4-6 6-2 6-3,5,RR,111,3,3,78,46,35,19,13,0,1,3,3,89,47,40,16,14,7,10
-1991-D059,Davis Cup G1 PR: THA vs IND,Hard,4,D,19910208,3,V018,,,Srinivasan Vasudevan,R,190,IND,29.084,,,T120,,,Worapol Thongkamcho,R,,THA,23.094,,,6-3 6-2,3,RR,111,3,3,78,46,35,19,13,0,1,3,3,89,47,40,16,14,7,10
-1991-D059,Davis Cup G1 PR: THA vs IND,Hard,4,D,19910208,4,P269,,,Leander Paes,R,178,IND,17.634,,,S476,,,Naratorn Srichaphan,R,,THA,18.5,1008,1,6-4 6-4,3,RR,111,3,3,78,46,35,19,13,0,1,3,3,89,47,40,16,14,7,10
+1991-D059,Davis Cup G1 PR: THA vs IND,Hard,4,D,19910208,1,P269,,,Leander Paes,R,178,IND,17.634,,,T120,,,Worapol Thongkamcho,R,,THA,23.094,,,6-3 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D059,Davis Cup G1 PR: THA vs IND,Hard,4,D,19910208,2,V018,,,Srinivasan Vasudevan,R,190,IND,29.084,,,S476,,,Naratorn Srichaphan,R,,THA,18.5,1008,1,6-3 6-7(5) 4-6 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D059,Davis Cup G1 PR: THA vs IND,Hard,4,D,19910208,3,V018,,,Srinivasan Vasudevan,R,190,IND,29.084,,,T120,,,Worapol Thongkamcho,R,,THA,23.094,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D059,Davis Cup G1 PR: THA vs IND,Hard,4,D,19910208,4,P269,,,Leander Paes,R,178,IND,17.634,,,S476,,,Naratorn Srichaphan,R,,THA,18.5,1008,1,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 1991-401,Philadelphia,Carpet,48,A,19910211,1,R186,,,Guillaume Raoux,R,180,FRA,20.991,91,401,G022,,Q,Dan Goldie,R,188,USA,27.359,98,374,6-4 7-6(7),3,R64,112,7,0,72,37,26,22,11,3,5,3,8,92,49,32,20,11,8,11
 1991-401,Philadelphia,Carpet,48,A,19910211,2,F192,,,Renzo Furlan,R,175,ITA,20.739,79,459,P004,,,Veli Paloheimo,R,183,FIN,23.165,90,410,4-6 7-5 6-4,3,R64,135,0,2,94,51,33,19,16,3,9,1,3,113,82,44,16,16,9,16
 1991-401,Philadelphia,Carpet,48,A,19910211,3,A199,,Q,Chuck Adams,R,185,USA,19.806,173,178,S406,,Q,Grant Stafford,R,188,RSA,19.713,265,84,6-2 6-2,3,R64,70,1,2,43,29,23,9,8,0,0,0,2,54,39,22,6,8,5,9
@@ -825,54 +825,54 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-403,Miami Masters,Hard,96,M,19910315,93,W123,,,David Wheaton,R,193,USA,21.771,46,688,E004,1,,Stefan Edberg,R,188,SWE,25.139,1,3846,6-3 6-4,3,SF,91,8,3,71,40,28,17,10,3,4,0,4,54,33,22,10,9,1,4
 1991-403,Miami Masters,Hard,96,M,19910315,94,C243,13,,Jim Courier,R,185,USA,20.564,18,1137,R016,24,,Richey Reneberg,R,180,USA,25.429,33,808,6-4 6-3,3,SF,68,7,0,48,30,22,12,9,0,1,5,3,54,30,20,10,10,2,6
 1991-403,Miami Masters,Hard,96,M,19910315,95,C243,13,,Jim Courier,R,185,USA,20.564,18,1137,W123,,,David Wheaton,R,193,USA,21.771,46,688,4-6 6-3 6-4,3,F,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,1,S340,,,Roger Smith,R,185,BAH,27.176,326,56,Y218,,,Lionel Eli,U,,BAR,30.62,,,6-1 6-3 6-1,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,2,A037,,,Richard Ashby,R,,USA,26.19,,,F209,,,John Farrington,R,,BAH,,,,7-6(5) 3-6 6-3 7-6(5),5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,3,S340,,,Roger Smith,R,185,BAH,27.176,326,56,A037,,,Richard Ashby,R,,USA,26.19,,,7-5 7-5 5-7 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,4,F209,,,John Farrington,R,,BAH,,,,Y218,,,Lionel Eli,U,,BAR,30.62,,,6-2 5-7 6-7(4) 6-4 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D017,Davis Cup G1 SF: BRA vs URU,Carpet,4,D,19910329,1,O076,,,Jaime Oncins,R,196,BRA,20.772,105,337,F165,,,Marcelo Filippini,R,178,URU,23.639,57,569,6-4 6-4 6-7(2) 6-3,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D017,Davis Cup G1 SF: BRA vs URU,Carpet,4,D,19910329,2,P021,,,Diego Perez,R,178,URU,29.12,124,291,M035,,,Luiz Mattar,R,183,BRA,27.6,49,638,2-6 7-5 6-4 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D017,Davis Cup G1 SF: BRA vs URU,Carpet,4,D,19910329,3,M035,,,Luiz Mattar,R,183,BRA,27.6,49,638,F165,,,Marcelo Filippini,R,178,URU,23.639,57,569,7-6(2) 6-4 6-3,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D017,Davis Cup G1 SF: BRA vs URU,Carpet,4,D,19910329,4,O076,,,Jaime Oncins,R,196,BRA,20.772,105,337,P021,,,Diego Perez,R,178,URU,29.12,124,291,6-4 6-3,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,1,F014,,,Jose Antonio Fernandez,R,170,CHI,26.157,217,108,D230,,,Genaro Deleon,U,,DOM,20.178,,,6-1 6-2 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,2,R012,,,Pedro Rebolledo,R,170,CHI,30.267,115,311,MQ10,,,Rafael Moreno,U,,DOM,30.689,,,6-2 6-1 6-1,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,3,R012,,,Pedro Rebolledo,R,170,CHI,30.267,115,311,D230,,,Genaro Deleon,U,,DOM,20.178,,,6-3 6-1,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,4,F014,,,Jose Antonio Fernandez,R,170,CHI,26.157,217,108,MQ10,,,Rafael Moreno,U,,DOM,30.689,,,6-4 6-3,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D032,Davis Cup G1 SF: CUB vs PAR,Hard,4,D,19910329,1,P217,,,Juan Pino,R,185,CUB,25.725,294,69,A197,,,Ruben Alvarenga,R,,PAR,,964,2,6-1 6-1 5-7 4-6 6-1,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D032,Davis Cup G1 SF: CUB vs PAR,Hard,4,D,19910329,2,T129,,,Mario Tabares,R,180,CUB,25.673,246,93,M462,,,Ricardo Mena,R,,PAR,19.422,,,6-2 6-0 4-6 6-2,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D032,Davis Cup G1 SF: CUB vs PAR,Hard,4,D,19910329,3,T129,,,Mario Tabares,R,180,CUB,25.673,246,93,A197,,,Ruben Alvarenga,R,,PAR,,964,2,6-2 6-1,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D032,Davis Cup G1 SF: CUB vs PAR,Hard,4,D,19910329,4,P217,,,Juan Pino,R,185,CUB,25.725,294,69,M462,,,Ricardo Mena,R,,PAR,19.422,,,6-4 4-6 6-3,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,1,N028,,,Hugo Nunez,R,170,ECU,29.944,,,C931,,,Salvador Colvee,U,,VEN,22.93,,,7-6(6) 0-6 7-6(5) 7-5,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,2,R224,,,Maurice Ruah,R,178,VEN,20.093,186,139,M506,,,Luis Adrian Morejon,R,178,ECU,17.99,,,5-7 6-2 6-4 6-2,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,3,R224,,,Maurice Ruah,R,178,VEN,20.093,186,139,N028,,,Hugo Nunez,R,170,ECU,29.944,,,6-4 6-4 6-3,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,4,C931,,,Salvador Colvee,U,,VEN,22.93,,,M506,,,Luis Adrian Morejon,R,178,ECU,17.99,,,7-6(1) 3-6 7-5 6-3,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D044,Davis Cup WG R1: FRA vs ISR,Clay,4,D,19910329,1,L014,,,Henri Leconte,L,185,FRA,27.723,31,852,M012,,,Amos Mansdorf,R,175,ISR,25.426,44,707,6-3 7-6(3) 3-6 7-6(4),5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D044,Davis Cup WG R1: FRA vs ISR,Clay,4,D,19910329,2,F035,,,Guy Forget,L,191,FRA,26.218,4,1927,B051,,,Gilad Bloom,L,173,ISR,24.066,69,478,6-4 6-7(5) 6-2 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D044,Davis Cup WG R1: FRA vs ISR,Clay,4,D,19910329,3,F035,,,Guy Forget,L,191,FRA,26.218,4,1927,M012,,,Amos Mansdorf,R,175,ISR,25.426,44,707,6-4 6-2,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D044,Davis Cup WG R1: FRA vs ISR,Clay,4,D,19910329,4,L014,,,Henri Leconte,L,185,FRA,27.723,31,852,B051,,,Gilad Bloom,L,173,ISR,24.066,69,478,6-3 7-5,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D057,Davis Cup G1 QF: IND vs INA,Grass,4,D,19910329,1,K024,,,Ramesh Krishnan,R,170,IND,29.802,90,412,W153,,,Bonit Wiryawan,R,173,INA,23.118,712,9,6-2 6-2 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D057,Davis Cup G1 QF: IND vs INA,Grass,4,D,19910329,2,P269,,,Leander Paes,R,178,IND,17.769,408,37,H225,,,Daniel Heryanto,R,,INA,,312,61,6-4 6-3 6-2,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D057,Davis Cup G1 QF: IND vs INA,Grass,4,D,19910329,3,H225,,,Daniel Heryanto,R,,INA,,312,61,A165,,,Zeeshan Ali,R,180,IND,21.227,633,12,6-2 2-6 12-10,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D057,Davis Cup G1 QF: IND vs INA,Grass,4,D,19910329,4,P269,,,Leander Paes,R,178,IND,17.769,408,37,W134,,,Bing Chao Lin,R,180,TPE,17.405,407,38,6-2 6-4,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D064,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19910329,1,S342,,,Roland So,R,,PHI,,702,9,M338,,,Shuzo Matsuoka,R,185,JPN,23.381,104,339,7-5 6-2 6-2,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D064,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19910329,2,B168,,,Felix Barrientos,R,178,PHI,23.343,248,92,F139,,,Eduardo Furusho,L,168,JPN,22.716,330,55,6-3 6-4 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D064,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19910329,3,B168,,,Felix Barrientos,R,178,PHI,23.343,248,92,M338,,,Shuzo Matsuoka,R,185,JPN,23.381,104,339,6-3 4-6 7-6(2) 7-5,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D064,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19910329,4,S342,,,Roland So,R,,PHI,,702,9,S501,,,Tetsuya Sato,R,,JPN,,868,4,6-2 6-1,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D074,Davis Cup WG R1: MEX vs USA,Hard,4,D,19910329,1,H228,,,Luis Herrera,L,170,MEX,19.576,99,362,C243,,,Jim Courier,R,185,USA,20.602,9,1407,6-4 2-6 7-5 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D074,Davis Cup WG R1: MEX vs USA,Hard,4,D,19910329,2,G016,,,Brad Gilbert,R,185,USA,29.624,8,1443,L009,,,Leonardo Lavalle,L,188,MEX,23.696,180,151,6-3 6-2 6-7(4) 6-3,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D074,Davis Cup WG R1: MEX vs USA,Hard,4,D,19910329,3,G016,,,Brad Gilbert,R,185,USA,29.624,8,1443,H228,,,Luis Herrera,L,170,MEX,19.576,99,362,4-6 6-3 7-5 3-6 6-3,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D074,Davis Cup WG R1: MEX vs USA,Hard,4,D,19910329,4,L009,,,Leonardo Lavalle,L,188,MEX,23.696,180,151,C243,,,Jim Courier,R,185,USA,20.602,9,1407,6-4 6-7(2) 7-5,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D077,Davis Cup G2 QF: ZAM vs NGR,Clay,4,D,19910329,1,110905,,,Fred Kangwa,U,,ZAM,28.353,,,N220,,,Kyrian Nwokedi,R,,NGR,,717,8,7-5 7-6(3) 3-6 7-6(3),5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D077,Davis Cup G2 QF: ZAM vs NGR,Clay,4,D,19910329,2,O006,,,Nduka Odizor,R,183,NGR,32.624,162,185,K208,,,Steven Kangwa,R,,ZAM,24.329,1033,1,2-4 RET,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D077,Davis Cup G2 QF: ZAM vs NGR,Clay,4,D,19910329,3,O006,,,Nduka Odizor,R,183,NGR,32.624,162,185,110905,,,Fred Kangwa,U,,ZAM,28.353,,,6-4 6-2 6-2,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D077,Davis Cup G2 QF: ZAM vs NGR,Clay,4,D,19910329,4,S561,,,Dermot Sweeney,R,,ZAM,,,,N220,,,Kyrian Nwokedi,R,,NGR,,717,8,7-6(4) 6-2,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D085,Davis Cup WG QF: TCH vs YUG,Carpet,4,D,19910329,1,I034,,,Goran Ivanisevic,L,193,CRO,19.529,7,1516,K148,,,Petr Korda,L,191,CZE,23.168,75,457,6-1 7-6(3) 4-6 6-1,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D085,Davis Cup WG QF: TCH vs YUG,Carpet,4,D,19910329,2,N025,,,Karel Novacek,R,190,CZE,25.985,26,955,Z006,,,Slobodan Zivojinovic,R,198,YUG,27.671,373,46,6-1 4-6 6-4 7-5,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D085,Davis Cup WG QF: TCH vs YUG,Carpet,4,D,19910329,3,I034,,,Goran Ivanisevic,L,193,CRO,19.529,7,1516,N025,,,Karel Novacek,R,190,CZE,25.985,26,955,6-3 3-6 7-6(4) 3-6 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D085,Davis Cup WG QF: TCH vs YUG,Carpet,4,D,19910329,4,Z006,,,Slobodan Zivojinovic,R,198,YUG,27.671,373,46,K148,,,Petr Korda,L,191,CZE,23.168,75,457,7-6(6) 2-6 8-6,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D002,Davis Cup WG QF: GER vs ARG,Carpet,4,D,19910330,1,S351,,,Michael Stich,R,193,GER,22.431,19,1114,J004,,,Martin Jaite,R,178,ARG,26.456,48,644,7-5 6-3 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D002,Davis Cup WG QF: GER vs ARG,Carpet,4,D,19910330,2,B028,,,Boris Becker,R,191,GER,23.337,2,3440,F041,,,Javier Frana,L,185,ARG,24.246,164,184,6-3 6-4 6-4,5,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D002,Davis Cup WG QF: GER vs ARG,Carpet,4,D,19910330,3,B028,,,Boris Becker,R,191,GER,23.337,2,3440,J004,,,Martin Jaite,R,178,ARG,26.456,48,644,6-1 7-6(6),3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
-1991-D002,Davis Cup WG QF: GER vs ARG,Carpet,4,D,19910330,4,S351,,,Michael Stich,R,193,GER,22.431,19,1114,F041,,,Javier Frana,L,185,ARG,24.246,164,184,6-7(10) 6-1 6-1,3,RR,129,4,3,91,43,33,25,15,3,6,10,7,84,50,36,13,14,4,8
+1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,1,S340,,,Roger Smith,R,185,BAH,27.176,326,56,Y218,,,Lionel Eli,U,,BAR,30.62,,,6-1 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,2,A037,,,Richard Ashby,R,,USA,26.19,,,F209,,,John Farrington,R,,BAH,,,,7-6(5) 3-6 6-3 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,3,S340,,,Roger Smith,R,185,BAH,27.176,326,56,A037,,,Richard Ashby,R,,USA,26.19,,,7-5 7-5 5-7 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D008,Davis Cup G2 QF: BAH vs BAR,Hard,4,D,19910329,4,F209,,,John Farrington,R,,BAH,,,,Y218,,,Lionel Eli,U,,BAR,30.62,,,6-2 5-7 6-7(4) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D017,Davis Cup G1 SF: BRA vs URU,Carpet,4,D,19910329,1,O076,,,Jaime Oncins,R,196,BRA,20.772,105,337,F165,,,Marcelo Filippini,R,178,URU,23.639,57,569,6-4 6-4 6-7(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D017,Davis Cup G1 SF: BRA vs URU,Carpet,4,D,19910329,2,P021,,,Diego Perez,R,178,URU,29.12,124,291,M035,,,Luiz Mattar,R,183,BRA,27.6,49,638,2-6 7-5 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D017,Davis Cup G1 SF: BRA vs URU,Carpet,4,D,19910329,3,M035,,,Luiz Mattar,R,183,BRA,27.6,49,638,F165,,,Marcelo Filippini,R,178,URU,23.639,57,569,7-6(2) 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D017,Davis Cup G1 SF: BRA vs URU,Carpet,4,D,19910329,4,O076,,,Jaime Oncins,R,196,BRA,20.772,105,337,P021,,,Diego Perez,R,178,URU,29.12,124,291,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,1,F014,,,Jose Antonio Fernandez,R,170,CHI,26.157,217,108,D230,,,Genaro Deleon,U,,DOM,20.178,,,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,2,R012,,,Pedro Rebolledo,R,170,CHI,30.267,115,311,MQ10,,,Rafael Moreno,U,,DOM,30.689,,,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,3,R012,,,Pedro Rebolledo,R,170,CHI,30.267,115,311,D230,,,Genaro Deleon,U,,DOM,20.178,,,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D023,Davis Cup G2 QF: CHI vs DOM,Clay,4,D,19910329,4,F014,,,Jose Antonio Fernandez,R,170,CHI,26.157,217,108,MQ10,,,Rafael Moreno,U,,DOM,30.689,,,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D032,Davis Cup G1 SF: CUB vs PAR,Hard,4,D,19910329,1,P217,,,Juan Pino,R,185,CUB,25.725,294,69,A197,,,Ruben Alvarenga,R,,PAR,,964,2,6-1 6-1 5-7 4-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D032,Davis Cup G1 SF: CUB vs PAR,Hard,4,D,19910329,2,T129,,,Mario Tabares,R,180,CUB,25.673,246,93,M462,,,Ricardo Mena,R,,PAR,19.422,,,6-2 6-0 4-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D032,Davis Cup G1 SF: CUB vs PAR,Hard,4,D,19910329,3,T129,,,Mario Tabares,R,180,CUB,25.673,246,93,A197,,,Ruben Alvarenga,R,,PAR,,964,2,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D032,Davis Cup G1 SF: CUB vs PAR,Hard,4,D,19910329,4,P217,,,Juan Pino,R,185,CUB,25.725,294,69,M462,,,Ricardo Mena,R,,PAR,19.422,,,6-4 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,1,N028,,,Hugo Nunez,R,170,ECU,29.944,,,C931,,,Salvador Colvee,U,,VEN,22.93,,,7-6(6) 0-6 7-6(5) 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,2,R224,,,Maurice Ruah,R,178,VEN,20.093,186,139,M506,,,Luis Adrian Morejon,R,178,ECU,17.99,,,5-7 6-2 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,3,R224,,,Maurice Ruah,R,178,VEN,20.093,186,139,N028,,,Hugo Nunez,R,170,ECU,29.944,,,6-4 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D040,Davis Cup G2 QF: VEN vs ECU,Hard,4,D,19910329,4,C931,,,Salvador Colvee,U,,VEN,22.93,,,M506,,,Luis Adrian Morejon,R,178,ECU,17.99,,,7-6(1) 3-6 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D044,Davis Cup WG R1: FRA vs ISR,Clay,4,D,19910329,1,L014,,,Henri Leconte,L,185,FRA,27.723,31,852,M012,,,Amos Mansdorf,R,175,ISR,25.426,44,707,6-3 7-6(3) 3-6 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D044,Davis Cup WG R1: FRA vs ISR,Clay,4,D,19910329,2,F035,,,Guy Forget,L,191,FRA,26.218,4,1927,B051,,,Gilad Bloom,L,173,ISR,24.066,69,478,6-4 6-7(5) 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D044,Davis Cup WG R1: FRA vs ISR,Clay,4,D,19910329,3,F035,,,Guy Forget,L,191,FRA,26.218,4,1927,M012,,,Amos Mansdorf,R,175,ISR,25.426,44,707,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D044,Davis Cup WG R1: FRA vs ISR,Clay,4,D,19910329,4,L014,,,Henri Leconte,L,185,FRA,27.723,31,852,B051,,,Gilad Bloom,L,173,ISR,24.066,69,478,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D057,Davis Cup G1 QF: IND vs INA,Grass,4,D,19910329,1,K024,,,Ramesh Krishnan,R,170,IND,29.802,90,412,W153,,,Bonit Wiryawan,R,173,INA,23.118,712,9,6-2 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D057,Davis Cup G1 QF: IND vs INA,Grass,4,D,19910329,2,P269,,,Leander Paes,R,178,IND,17.769,408,37,H225,,,Daniel Heryanto,R,,INA,,312,61,6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D057,Davis Cup G1 QF: IND vs INA,Grass,4,D,19910329,3,H225,,,Daniel Heryanto,R,,INA,,312,61,A165,,,Zeeshan Ali,R,180,IND,21.227,633,12,6-2 2-6 12-10,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D057,Davis Cup G1 QF: IND vs INA,Grass,4,D,19910329,4,P269,,,Leander Paes,R,178,IND,17.769,408,37,W134,,,Bing Chao Lin,R,180,TPE,17.405,407,38,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D064,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19910329,1,S342,,,Roland So,R,,PHI,,702,9,M338,,,Shuzo Matsuoka,R,185,JPN,23.381,104,339,7-5 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D064,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19910329,2,B168,,,Felix Barrientos,R,178,PHI,23.343,248,92,F139,,,Eduardo Furusho,L,168,JPN,22.716,330,55,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D064,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19910329,3,B168,,,Felix Barrientos,R,178,PHI,23.343,248,92,M338,,,Shuzo Matsuoka,R,185,JPN,23.381,104,339,6-3 4-6 7-6(2) 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D064,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19910329,4,S342,,,Roland So,R,,PHI,,702,9,S501,,,Tetsuya Sato,R,,JPN,,868,4,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D074,Davis Cup WG R1: MEX vs USA,Hard,4,D,19910329,1,H228,,,Luis Herrera,L,170,MEX,19.576,99,362,C243,,,Jim Courier,R,185,USA,20.602,9,1407,6-4 2-6 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D074,Davis Cup WG R1: MEX vs USA,Hard,4,D,19910329,2,G016,,,Brad Gilbert,R,185,USA,29.624,8,1443,L009,,,Leonardo Lavalle,L,188,MEX,23.696,180,151,6-3 6-2 6-7(4) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D074,Davis Cup WG R1: MEX vs USA,Hard,4,D,19910329,3,G016,,,Brad Gilbert,R,185,USA,29.624,8,1443,H228,,,Luis Herrera,L,170,MEX,19.576,99,362,4-6 6-3 7-5 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D074,Davis Cup WG R1: MEX vs USA,Hard,4,D,19910329,4,L009,,,Leonardo Lavalle,L,188,MEX,23.696,180,151,C243,,,Jim Courier,R,185,USA,20.602,9,1407,6-4 6-7(2) 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D077,Davis Cup G2 QF: ZAM vs NGR,Clay,4,D,19910329,1,110905,,,Fred Kangwa,U,,ZAM,28.353,,,N220,,,Kyrian Nwokedi,R,,NGR,,717,8,7-5 7-6(3) 3-6 7-6(3),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D077,Davis Cup G2 QF: ZAM vs NGR,Clay,4,D,19910329,2,O006,,,Nduka Odizor,R,183,NGR,32.624,162,185,K208,,,Steven Kangwa,R,,ZAM,24.329,1033,1,2-4 RET,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D077,Davis Cup G2 QF: ZAM vs NGR,Clay,4,D,19910329,3,O006,,,Nduka Odizor,R,183,NGR,32.624,162,185,110905,,,Fred Kangwa,U,,ZAM,28.353,,,6-4 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D077,Davis Cup G2 QF: ZAM vs NGR,Clay,4,D,19910329,4,S561,,,Dermot Sweeney,R,,ZAM,,,,N220,,,Kyrian Nwokedi,R,,NGR,,717,8,7-6(4) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D085,Davis Cup WG QF: TCH vs YUG,Carpet,4,D,19910329,1,I034,,,Goran Ivanisevic,L,193,CRO,19.529,7,1516,K148,,,Petr Korda,L,191,CZE,23.168,75,457,6-1 7-6(3) 4-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D085,Davis Cup WG QF: TCH vs YUG,Carpet,4,D,19910329,2,N025,,,Karel Novacek,R,190,CZE,25.985,26,955,Z006,,,Slobodan Zivojinovic,R,198,YUG,27.671,373,46,6-1 4-6 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D085,Davis Cup WG QF: TCH vs YUG,Carpet,4,D,19910329,3,I034,,,Goran Ivanisevic,L,193,CRO,19.529,7,1516,N025,,,Karel Novacek,R,190,CZE,25.985,26,955,6-3 3-6 7-6(4) 3-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D085,Davis Cup WG QF: TCH vs YUG,Carpet,4,D,19910329,4,Z006,,,Slobodan Zivojinovic,R,198,YUG,27.671,373,46,K148,,,Petr Korda,L,191,CZE,23.168,75,457,7-6(6) 2-6 8-6,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D002,Davis Cup WG QF: GER vs ARG,Carpet,4,D,19910330,1,S351,,,Michael Stich,R,193,GER,22.431,19,1114,J004,,,Martin Jaite,R,178,ARG,26.456,48,644,7-5 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D002,Davis Cup WG QF: GER vs ARG,Carpet,4,D,19910330,2,B028,,,Boris Becker,R,191,GER,23.337,2,3440,F041,,,Javier Frana,L,185,ARG,24.246,164,184,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D002,Davis Cup WG QF: GER vs ARG,Carpet,4,D,19910330,3,B028,,,Boris Becker,R,191,GER,23.337,2,3440,J004,,,Martin Jaite,R,178,ARG,26.456,48,644,6-1 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,
+1991-D002,Davis Cup WG QF: GER vs ARG,Carpet,4,D,19910330,4,S351,,,Michael Stich,R,193,GER,22.431,19,1114,F041,,,Javier Frana,L,185,ARG,24.246,164,184,6-7(10) 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 1991-336,Hong Kong,Hard,32,A,19910401,1,C274,1,,Michael Chang,R,175,USA,19.105,12,1364,J018,,,Kelly Jones,R,185,USA,27.001,142,249,6-2 6-3,3,R32,70,1,4,47,24,17,14,9,1,3,0,6,53,35,17,7,8,3,8
 1991-336,Hong Kong,Hard,32,A,19910401,2,V014,,,Christo Van Rensburg,R,185,RSA,28.438,81,430,K024,,,Ramesh Krishnan,R,170,IND,29.821,90,412,6-2 5-7 7-5,3,R32,161,10,14,109,61,41,21,16,7,11,0,2,120,86,50,16,16,12,18
 1991-336,Hong Kong,Hard,32,A,19910401,3,M096,,,Gary Muller,L,191,RSA,26.259,72,476,Y017,,,Jaime Yzaga,R,170,PER,23.439,63,514,6-3 6-4,3,R32,63,3,1,55,37,29,11,10,0,0,0,3,50,29,21,12,9,2,4
@@ -966,14 +966,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-468,Estoril,Clay,32,A,19910401,29,N025,7,,Karel Novacek,R,190,CZE,26.004,26,955,V002,,,Marian Vajda,R,173,SVK,26.021,70,477,7-5 6-2,3,SF,95,4,0,57,35,25,11,10,4,6,1,2,70,45,26,9,10,4,9
 1991-468,Estoril,Clay,32,A,19910401,30,B350,8,,Sergi Bruguera,R,188,ESP,20.205,28,916,C031,3,,Andrei Chesnokov,R,188,RUS,25.158,14,1343,6-4 2-6 6-3,3,SF,119,0,1,90,47,33,24,14,4,7,0,3,80,51,33,17,13,1,4
 1991-468,Estoril,Clay,32,A,19910401,31,B350,8,,Sergi Bruguera,R,188,ESP,20.205,28,916,N025,7,,Karel Novacek,R,190,CZE,26.004,26,955,7-6(7) 6-1,3,F,90,1,0,65,48,30,12,10,2,3,0,4,70,39,24,17,9,3,6
-1991-D030,Davis Cup G2 QF: ECA vs COL,Hard,4,D,19910405,1,C261,,,Jaime Cortes,R,,COL,25.681,380,44,L294,,,Vernon Lewis,U,,ECA,25.418,,,6-4 6-1 6-7(4) 6-4,5,RR,90,1,0,65,48,30,12,10,2,3,0,4,70,39,24,17,9,3,6
-1991-D030,Davis Cup G2 QF: ECA vs COL,Hard,4,D,19910405,2,J020,,,Alvaro Jordan,R,185,COL,29.227,284,75,M361,,,John Maginley,U,,CAR,31.214,,,6-7(5) 6-0 7-5 6-2,5,RR,90,1,0,65,48,30,12,10,2,3,0,4,70,39,24,17,9,3,6
-1991-D030,Davis Cup G2 QF: ECA vs COL,Hard,4,D,19910405,3,J020,,,Alvaro Jordan,R,185,COL,29.227,284,75,L294,,,Vernon Lewis,U,,ECA,25.418,,,6-2 6-4,3,RR,90,1,0,65,48,30,12,10,2,3,0,4,70,39,24,17,9,3,6
-1991-D030,Davis Cup G2 QF: ECA vs COL,Hard,4,D,19910405,4,C261,,,Jaime Cortes,R,,COL,25.681,380,44,110908,,,Jerry Williams,U,,ECA,28.504,,,6-3 6-2,3,RR,90,1,0,65,48,30,12,10,2,3,0,4,70,39,24,17,9,3,6
-1991-D066,Davis Cup G2 QF: ZIM vs KEN,Hard,4,D,19910405,1,P216,,,Eno Polo,R,,KEN,,611,14,R228,,,Greig Rodger,U,,ZIM,26.001,,,4-6 6-3 6-4 7-6(4),5,RR,90,1,0,65,48,30,12,10,2,3,0,4,70,39,24,17,9,3,6
-1991-D066,Davis Cup G2 QF: ZIM vs KEN,Hard,4,D,19910405,2,W122,,,Paul Wekesa,R,188,KEN,23.748,259,85,111040,,,Garth Thomson,U,,ZIM,22.768,,,6-0 6-0 6-1,5,RR,90,1,0,65,48,30,12,10,2,3,0,4,70,39,24,17,9,3,6
-1991-D066,Davis Cup G2 QF: ZIM vs KEN,Hard,4,D,19910405,3,W122,,,Paul Wekesa,R,188,KEN,23.748,259,85,R228,,,Greig Rodger,U,,ZIM,26.001,,,6-2 6-4,3,RR,90,1,0,65,48,30,12,10,2,3,0,4,70,39,24,17,9,3,6
-1991-D066,Davis Cup G2 QF: ZIM vs KEN,Hard,4,D,19910405,4,111040,,,Garth Thomson,U,,ZIM,22.768,,,P216,,,Eno Polo,R,,KEN,,611,14,3-6 7-6(8) 6-3,3,RR,90,1,0,65,48,30,12,10,2,3,0,4,70,39,24,17,9,3,6
+1991-D030,Davis Cup G2 QF: ECA vs COL,Hard,4,D,19910405,1,C261,,,Jaime Cortes,R,,COL,25.681,380,44,L294,,,Vernon Lewis,U,,ECA,25.418,,,6-4 6-1 6-7(4) 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D030,Davis Cup G2 QF: ECA vs COL,Hard,4,D,19910405,2,J020,,,Alvaro Jordan,R,185,COL,29.227,284,75,M361,,,John Maginley,U,,CAR,31.214,,,6-7(5) 6-0 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D030,Davis Cup G2 QF: ECA vs COL,Hard,4,D,19910405,3,J020,,,Alvaro Jordan,R,185,COL,29.227,284,75,L294,,,Vernon Lewis,U,,ECA,25.418,,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D030,Davis Cup G2 QF: ECA vs COL,Hard,4,D,19910405,4,C261,,,Jaime Cortes,R,,COL,25.681,380,44,110908,,,Jerry Williams,U,,ECA,28.504,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D066,Davis Cup G2 QF: ZIM vs KEN,Hard,4,D,19910405,1,P216,,,Eno Polo,R,,KEN,,611,14,R228,,,Greig Rodger,U,,ZIM,26.001,,,4-6 6-3 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D066,Davis Cup G2 QF: ZIM vs KEN,Hard,4,D,19910405,2,W122,,,Paul Wekesa,R,188,KEN,23.748,259,85,111040,,,Garth Thomson,U,,ZIM,22.768,,,6-0 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D066,Davis Cup G2 QF: ZIM vs KEN,Hard,4,D,19910405,3,W122,,,Paul Wekesa,R,188,KEN,23.748,259,85,R228,,,Greig Rodger,U,,ZIM,26.001,,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D066,Davis Cup G2 QF: ZIM vs KEN,Hard,4,D,19910405,4,111040,,,Garth Thomson,U,,ZIM,22.768,,,P216,,,Eno Polo,R,,KEN,,611,14,3-6 7-6(8) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 1991-329,Tokyo Outdoor,Hard,56,A,19910408,1,E025,,Q,Kelly Evernden,R,175,NZL,29.544,119,296,R186,,,Guillaume Raoux,R,180,FRA,21.144,92,387,6-3 6-3,3,R64,71,3,0,46,27,22,13,9,2,2,1,1,57,27,15,17,9,3,6
 1991-329,Tokyo Outdoor,Hard,56,A,19910408,2,C044,,WC,Jimmy Connors,L,178,USA,38.595,577,16,P052,,Q,Jim Pugh,R,193,USA,27.17,158,191,1-6 6-4 6-0,3,R64,115,1,4,83,54,30,13,12,6,11,5,3,68,32,20,15,11,7,13
 1991-329,Tokyo Outdoor,Hard,56,A,19910408,3,M030,16,,Wally Masur,R,180,AUS,27.904,50,621,M031,,,Eduardo Masso,L,178,BEL,27.239,99,354,6-4 6-3,3,R64,82,0,0,62,47,32,10,10,3,4,1,1,62,47,24,10,9,7,10
@@ -1325,74 +1325,74 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-346,Tampa,Clay,32,A,19910429,29,R016,1,,Richey Reneberg,R,180,USA,25.563,27,963,A035,,,Pablo Arraya,R,180,PER,29.52,136,251,6-3 6-1,3,SF,68,3,1,50,30,24,9,8,5,6,3,2,57,33,18,9,8,7,12
 1991-346,Tampa,Clay,32,A,19910429,30,K148,4,,Petr Korda,L,191,CZE,23.264,86,434,G196,,,Chris Garner,R,180,USA,22.059,141,237,6-4 6-4,3,SF,78,2,2,63,37,25,16,10,2,4,4,2,65,43,26,10,10,2,6
 1991-346,Tampa,Clay,32,A,19910429,31,R016,1,,Richey Reneberg,R,180,USA,25.563,27,963,K148,4,,Petr Korda,L,191,CZE,23.264,86,434,4-6 6-4 6-2,3,F,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D005,Davis Cup WG QF: FRA vs AUS,Clay,4,D,19910503,1,F035,,,Guy Forget,L,191,FRA,26.313,5,1849,M030,,,Wally Masur,R,180,AUS,27.962,53,580,6-3 6-3 6-4,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D005,Davis Cup WG QF: FRA vs AUS,Clay,4,D,19910503,2,F164,,,Richard Fromberg,R,196,AUS,21.002,34,825,S424,,,Fabrice Santoro,R,178,FRA,18.385,66,521,6-3 6-4 7-6(4),5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D005,Davis Cup WG QF: FRA vs AUS,Clay,4,D,19910503,3,F164,,,Richard Fromberg,R,196,AUS,21.002,34,825,F035,,,Guy Forget,L,191,FRA,26.313,5,1849,6-7(2) 7-6(8) 6-3 6-3,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D005,Davis Cup WG QF: FRA vs AUS,Clay,4,D,19910503,4,S424,,,Fabrice Santoro,R,178,FRA,18.385,66,521,M030,,,Wally Masur,R,180,AUS,27.962,53,580,6-3 6-4 4-6 6-1,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D011,Davis Cup G2 R1: BRN vs BAN,Hard,4,D,19910503,1,AF77,,,Esam Abdulaal,,,BRN,21.714,,,I308,,,Ifthekar Sardar,U,,BAN,28.55,,,6-2 6-3 6-2,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D011,Davis Cup G2 R1: BRN vs BAN,Hard,4,D,19910503,2,J660,,,Shovon Jamaly,U,,BAN,23.277,,,SF35,,,Shehab Shehab,U,,BRN,21.733,,,6-1 6-1 6-4,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D011,Davis Cup G2 R1: BRN vs BAN,Hard,4,D,19910503,3,AF77,,,Esam Abdulaal,,,BRN,21.714,,,J660,,,Shovon Jamaly,U,,BAN,23.277,,,2-6 6-3 7-6(5) 1-6 15-13,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D011,Davis Cup G2 R1: BRN vs BAN,Hard,4,D,19910503,4,I308,,,Ifthekar Sardar,U,,BAN,28.55,,,SF35,,,Shehab Shehab,U,,BRN,21.733,,,6-3 3-6 6-1 7-5,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,1,110867,,,Anders Haseth,U,,NOR,22.62,,,S519,,,Orlin Stanoytchev,R,185,BUL,19.595,,,3-6 6-1 6-2 6-4,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,2,R219,,,Christian Ruud,R,188,NOR,18.678,,,L069,,,Krassimir Lazarov,R,,BUL,25.147,1018,1,6-3 7-6(5) 7-6(1),5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,3,110867,,,Anders Haseth,U,,NOR,22.62,,,L069,,,Krassimir Lazarov,R,,BUL,25.147,1018,1,6-2 4-6 8-6,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,4,R219,,,Christian Ruud,R,188,NOR,18.678,,,S519,,,Orlin Stanoytchev,R,185,BUL,19.595,,,6-2 6-3,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D025,Davis Cup G1 SF: PHI vs CHN,Hard,4,D,19910503,1,X002,,,Jia-Ping Xia,R,165,CHN,22.16,255,84,S342,,,Roland So,R,,PHI,,697,9,5-7 6-7(3) 6-2 6-2 6-3,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D025,Davis Cup G1 SF: PHI vs CHN,Hard,4,D,19910503,2,B168,,,Felix Barrientos,R,178,PHI,23.439,186,139,P263,,,Bing Pan,R,185,CHN,21.205,335,53,6-3 6-3 6-2,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D025,Davis Cup G1 SF: PHI vs CHN,Hard,4,D,19910503,3,B168,,,Felix Barrientos,R,178,PHI,23.439,186,139,X002,,,Jia-Ping Xia,R,165,CHN,22.16,255,84,6-3 6-2 6-1,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D025,Davis Cup G1 SF: PHI vs CHN,Hard,4,D,19910503,4,S342,,,Roland So,R,,PHI,,697,9,P263,,,Bing Pan,R,185,CHN,21.205,335,53,6-1 6-2,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D033,Davis Cup G2 QF: CYP vs GRE,Clay,4,D,19910503,1,F219,,,Andreas Fikas,R,,GRE,,988,2,P109,,,Alkis Papamichael,R,,CYP,,,,6-4 6-4 6-2,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D033,Davis Cup G2 QF: CYP vs GRE,Clay,4,D,19910503,2,B025,,,Tasos Bavelas,L,,GRE,23.168,580,15,H085,,,Yannos Hadjigeorgiou,R,,CYP,27.127,,,6-2 6-1 6-4,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D033,Davis Cup G2 QF: CYP vs GRE,Clay,4,D,19910503,3,B025,,,Tasos Bavelas,L,,GRE,23.168,580,15,P109,,,Alkis Papamichael,R,,CYP,,,,6-1 6-2,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D033,Davis Cup G2 QF: CYP vs GRE,Clay,4,D,19910503,4,F219,,,Andreas Fikas,R,,GRE,,988,2,H085,,,Yannos Hadjigeorgiou,R,,CYP,27.127,,,7-6(0) 6-3,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D034,Davis Cup G1 SF: FIN vs DEN,Hard,4,D,19910503,1,R006,,,Olli Rahnasto,R,183,FIN,25.333,411,37,T010,,,Michael Tauson,R,193,DEN,24.843,171,168,6-7(2) 7-6(8) 3-6 7-6(3) 6-1,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D034,Davis Cup G1 SF: FIN vs DEN,Hard,4,D,19910503,2,F206,,,Frederik Fetterlein,R,190,DEN,20.799,229,101,R193,,,Aki Rahunen,R,175,FIN,19.346,83,444,6-4 6-0 6-3,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D034,Davis Cup G1 SF: FIN vs DEN,Hard,4,D,19910503,3,R193,,,Aki Rahunen,R,175,FIN,19.346,83,444,C034,,,Morten Christensen,R,190,DEN,25.87,494,22,6-4 6-4 6-1,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D034,Davis Cup G1 SF: FIN vs DEN,Hard,4,D,19910503,4,F206,,,Frederik Fetterlein,R,190,DEN,20.799,229,101,R006,,,Olli Rahnasto,R,183,FIN,25.333,411,37,6-1 6-2 6-1,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D042,Davis Cup G2 R1: EGY vs SEN,Clay,4,D,19910503,1,E110,,,Hassan El Arousy,R,,EGY,20.211,,,B328,,,Abou Berthe,U,,SEN,26.396,,,6-3 6-2 7-6(4),5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D042,Davis Cup G2 R1: EGY vs SEN,Clay,4,D,19910503,2,E146,,,Tamer El Sawy,R,188,EGY,19.211,,,B520,,,Fadel Berthe,R,,SEN,,,,5-7 6-1 6-1 6-2,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D042,Davis Cup G2 R1: EGY vs SEN,Clay,4,D,19910503,3,E146,,,Tamer El Sawy,R,188,EGY,19.211,,,B328,,,Abou Berthe,U,,SEN,26.396,,,6-0 6-2 6-0,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D042,Davis Cup G2 R1: EGY vs SEN,Clay,4,D,19910503,4,B520,,,Fadel Berthe,R,,SEN,,,,E110,,,Hassan El Arousy,R,,EGY,20.211,,,1-6 6-3 3-6 6-2 6-3,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D047,Davis Cup G1 SF: POL vs GBR,Clay,4,D,19910503,1,S404,,,Danny Sapsford,R,173,GBR,22.07,271,79,K067,,,Wojtek Kowalski,R,183,POL,23.551,261,82,7-6(3) 6-2 6-7(2) 6-1,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D047,Davis Cup G1 SF: POL vs GBR,Clay,4,D,19910503,2,B021,,,Jeremy Bates,R,180,GBR,28.86,211,112,I036,,,Tomasz Iwanski,R,,POL,22.396,827,4,6-4 6-0 6-4,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D047,Davis Cup G1 SF: POL vs GBR,Clay,4,D,19910503,3,K067,,,Wojtek Kowalski,R,183,POL,23.551,261,82,B021,,,Jeremy Bates,R,180,GBR,28.86,211,112,6-2 3-6 6-3,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D047,Davis Cup G1 SF: POL vs GBR,Clay,4,D,19910503,4,W150,,,Chris Wilkinson,R,180,GBR,21.311,348,50,D239,,,Bartlomiej Dabrowski,R,,POL,18.689,764,6,7-6(7) 6-3,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D055,Davis Cup G1 PO: HUN vs MAR,Clay,4,D,19910503,1,N112,,,Sandor Noszaly,R,193,HUN,19.118,303,62,C033,,,Arafat Chekrouni,R,,MAR,24.559,,,6-1 6-4 6-3,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D055,Davis Cup G1 PO: HUN vs MAR,Clay,4,D,19910503,2,M370,,,Laszlo Markovits,R,180,HUN,21.068,879,3,A203,,,Karim Alami,R,185,MAR,17.93,278,74,6-3 6-2 7-6(4),5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D055,Davis Cup G1 PO: HUN vs MAR,Clay,4,D,19910503,3,N112,,,Sandor Noszaly,R,193,HUN,19.118,303,62,A203,,,Karim Alami,R,185,MAR,17.93,278,74,6-2 1-6 7-5,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D055,Davis Cup G1 PO: HUN vs MAR,Clay,4,D,19910503,4,N219,,,Viktor Nagy,R,178,HUN,19.567,1018,1,C033,,,Arafat Chekrouni,R,,MAR,24.559,,,6-4 6-1,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D058,Davis Cup G1 SF: IND vs KOR,Grass,4,D,19910503,1,K024,,,Ramesh Krishnan,R,170,IND,29.897,90,394,J096,,,Seung-Ho Ji,R,,KOR,23.25,509,21,4-6 6-2 6-0 6-3,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D058,Davis Cup G1 SF: IND vs KOR,Grass,4,D,19910503,2,C321,,,Eui-Jong Chang,R,183,KOR,22.075,301,64,P269,,,Leander Paes,R,178,IND,17.864,323,56,6-4 5-7 6-4 7-6(4),5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D058,Davis Cup G1 SF: IND vs KOR,Grass,4,D,19910503,3,C321,,,Eui-Jong Chang,R,183,KOR,22.075,301,64,K024,,,Ramesh Krishnan,R,170,IND,29.897,90,394,4-6 6-4 1-6 6-3 6-4,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D058,Davis Cup G1 SF: IND vs KOR,Grass,4,D,19910503,4,P269,,,Leander Paes,R,178,IND,17.864,323,56,J096,,,Seung-Ho Ji,R,,KOR,23.25,509,21,7-6(5) 6-3 6-2,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D061,Davis Cup G1 PO: ROU vs IRL,Clay,4,D,19910503,1,P280,,,Andrei Pavel,R,183,ROU,17.251,452,28,C289,,,Owen Casey,R,,IRL,21.517,782,6,6-4 6-1 6-1,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D061,Davis Cup G1 PO: ROU vs IRL,Clay,4,D,19910503,2,M020,,,Adrian Marcu,R,190,ROU,29.402,494,22,C266,,,Eoin Collins,L,193,IRL,22.752,494,22,6-4 6-2 6-3,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D061,Davis Cup G1 PO: ROU vs IRL,Clay,4,D,19910503,3,P280,,,Andrei Pavel,R,183,ROU,17.251,452,28,W039,,,Peter Wright,R,185,USA,27.389,,,7-6(2) 6-3,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D061,Davis Cup G1 PO: ROU vs IRL,Clay,4,D,19910503,4,M020,,,Adrian Marcu,R,190,ROU,29.402,494,22,D254,,,Stewart Doyle,U,,IRL,17.232,,,6-2 6-2,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D068,Davis Cup G2 R1: SIN vs KUW,Hard,4,D,19910503,1,K283,,,Tung-Yi Kho,R,,SIN,19.274,,,111023,,,Aymen Ibrahim Al Ashwak,U,,KUW,20.865,,,6-2 6-3 6-7(3) 6-2,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D068,Davis Cup G2 R1: SIN vs KUW,Hard,4,D,19910503,2,L221,,,Wai Yaw Liu,U,,SIN,26.349,,,111022,,,Khaled Al Foudari,U,,KUW,19.02,,,7-5 6-4 6-3,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D068,Davis Cup G2 R1: SIN vs KUW,Hard,4,D,19910503,3,L221,,,Wai Yaw Liu,U,,SIN,26.349,,,111023,,,Aymen Ibrahim Al Ashwak,U,,KUW,20.865,,,6-2 6-4,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D068,Davis Cup G2 R1: SIN vs KUW,Hard,4,D,19910503,4,K283,,,Tung-Yi Kho,R,,SIN,19.274,,,111022,,,Khaled Al Foudari,U,,KUW,19.02,,,1-6 6-3 6-2,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D069,Davis Cup G2 QF: LUX vs MON,Hard,4,D,19910503,1,G030,,,Johnny Goudenbour,R,178,LUX,27.326,879,3,B004,,,Bernard Balleret,R,,MON,36.977413,,,6-1 6-0 6-1,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D069,Davis Cup G2 QF: LUX vs MON,Hard,4,D,19910503,2,R257,,,Jacques Radoux,R,,LUX,,1018,1,S628,,,Jerome Seguin,U,,MON,21.5,,,6-4 6-4 6-3,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D069,Davis Cup G2 QF: LUX vs MON,Hard,4,D,19910503,3,G030,,,Johnny Goudenbour,R,178,LUX,27.326,879,3,S628,,,Jerome Seguin,U,,MON,21.5,,,6-1 6-3,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D069,Davis Cup G2 QF: LUX vs MON,Hard,4,D,19910503,4,R257,,,Jacques Radoux,R,,LUX,,1018,1,111060,,,Christian Collange,U,,MON,23.89,,,6-2 6-1,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,1,K136,,,Alaaddin Karagoz,R,,TUR,26.064,,,A255,,,Gordon Asciak,R,,MLT,,,,6-2 4-6 6-3 3-6 6-2,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,2,110866,,,Christopher Gatt,U,,MLT,24.734,,,E129,,,Yavuz Erkangil,R,,TUR,,,,7-6(3) 6-2 4-6 6-0,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,3,K136,,,Alaaddin Karagoz,R,,TUR,26.064,,,110866,,,Christopher Gatt,U,,MLT,24.734,,,4-6 6-1 3-6 7-6(3) 9-7,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,4,E129,,,Yavuz Erkangil,R,,TUR,,,,A255,,,Gordon Asciak,R,,MLT,,,,2-6 6-1 7-6(4) 4-6 6-4,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D076,Davis Cup G1 SF: POR vs NED,Clay,4,D,19910503,1,H223,,,Paul Haarhuis,R,188,NED,25.188,54,565,C113,,,Joao Cunha-Silva,R,173,POR,23.42,110,337,4-6 6-0 6-4 6-1,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D076,Davis Cup G1 SF: POR vs NED,Clay,4,D,19910503,2,K016,,,Mark Koevermans,R,185,NED,23.233,48,620,M197,,,Nuno Marques,L,190,POR,21.054,107,357,6-3 2-6 7-5 6-0,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D076,Davis Cup G1 SF: POR vs NED,Clay,4,D,19910503,3,K016,,,Mark Koevermans,R,185,NED,23.233,48,620,C113,,,Joao Cunha-Silva,R,173,POR,23.42,110,337,3-6 6-4 6-2,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D076,Davis Cup G1 SF: POR vs NED,Clay,4,D,19910503,4,M197,,,Nuno Marques,L,190,POR,21.054,107,357,H223,,,Paul Haarhuis,R,188,NED,25.188,54,565,4-6 6-4 6-4,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D082,Davis Cup G1 SF: SUI vs URS,Carpet,4,D,19910503,1,R214,,,Marc Rosset,R,201,SUI,20.474,25,990,C031,,,Andrei Chesnokov,R,188,RUS,25.235,19,1094,7-6(5) 5-7 3-6 6-4 11-9,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D082,Davis Cup G1 SF: SUI vs URS,Carpet,4,D,19910503,2,H025,,,Jakob Hlasek,R,188,SUI,26.459,18,1098,C260,,,Andrei Cherkasov,R,180,RUS,20.819,16,1163,7-5 7-5 6-3,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D082,Davis Cup G1 SF: SUI vs URS,Carpet,4,D,19910503,3,C031,,,Andrei Chesnokov,R,188,RUS,25.235,19,1094,H025,,,Jakob Hlasek,R,188,SUI,26.459,18,1098,6-3 6-4,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D082,Davis Cup G1 SF: SUI vs URS,Carpet,4,D,19910503,4,C260,,,Andrei Cherkasov,R,180,RUS,20.819,16,1163,R214,,,Marc Rosset,R,201,SUI,20.474,25,990,6-4 6-4,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D083,Davis Cup G2 R1: SRI vs SYR,Clay,4,D,19910503,1,110852,,,Umesha Wallooppillai,U,,SRI,18.612,,,110857,,,Samer Mourad,U,,SYR,32.849,,,6-1 6-0 6-0,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D083,Davis Cup G2 R1: SRI vs SYR,Clay,4,D,19910503,2,F089,,,Arjun Fernando,R,,SRI,,,,111113,,,Jehad Sheet,U,,SYR,34.461,,,6-1 6-0 6-1,5,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D083,Davis Cup G2 R1: SRI vs SYR,Clay,4,D,19910503,3,F089,,,Arjun Fernando,R,,SRI,,,,110857,,,Samer Mourad,U,,SYR,32.849,,,6-0 6-0,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
-1991-D083,Davis Cup G2 R1: SRI vs SYR,Clay,4,D,19910503,4,110852,,,Umesha Wallooppillai,U,,SRI,18.612,,,111113,,,Jehad Sheet,U,,SYR,34.461,,,6-0 6-0,3,RR,108,2,0,97,56,40,22,14,9,11,2,3,84,59,36,14,14,5,9
+1991-D005,Davis Cup WG QF: FRA vs AUS,Clay,4,D,19910503,1,F035,,,Guy Forget,L,191,FRA,26.313,5,1849,M030,,,Wally Masur,R,180,AUS,27.962,53,580,6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D005,Davis Cup WG QF: FRA vs AUS,Clay,4,D,19910503,2,F164,,,Richard Fromberg,R,196,AUS,21.002,34,825,S424,,,Fabrice Santoro,R,178,FRA,18.385,66,521,6-3 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D005,Davis Cup WG QF: FRA vs AUS,Clay,4,D,19910503,3,F164,,,Richard Fromberg,R,196,AUS,21.002,34,825,F035,,,Guy Forget,L,191,FRA,26.313,5,1849,6-7(2) 7-6(8) 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D005,Davis Cup WG QF: FRA vs AUS,Clay,4,D,19910503,4,S424,,,Fabrice Santoro,R,178,FRA,18.385,66,521,M030,,,Wally Masur,R,180,AUS,27.962,53,580,6-3 6-4 4-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D011,Davis Cup G2 R1: BRN vs BAN,Hard,4,D,19910503,1,AF77,,,Esam Abdulaal,,,BRN,21.714,,,I308,,,Ifthekar Sardar,U,,BAN,28.55,,,6-2 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D011,Davis Cup G2 R1: BRN vs BAN,Hard,4,D,19910503,2,J660,,,Shovon Jamaly,U,,BAN,23.277,,,SF35,,,Shehab Shehab,U,,BRN,21.733,,,6-1 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D011,Davis Cup G2 R1: BRN vs BAN,Hard,4,D,19910503,3,AF77,,,Esam Abdulaal,,,BRN,21.714,,,J660,,,Shovon Jamaly,U,,BAN,23.277,,,2-6 6-3 7-6(5) 1-6 15-13,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D011,Davis Cup G2 R1: BRN vs BAN,Hard,4,D,19910503,4,I308,,,Ifthekar Sardar,U,,BAN,28.55,,,SF35,,,Shehab Shehab,U,,BRN,21.733,,,6-3 3-6 6-1 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,1,110867,,,Anders Haseth,U,,NOR,22.62,,,S519,,,Orlin Stanoytchev,R,185,BUL,19.595,,,3-6 6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,2,R219,,,Christian Ruud,R,188,NOR,18.678,,,L069,,,Krassimir Lazarov,R,,BUL,25.147,1018,1,6-3 7-6(5) 7-6(1),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,3,110867,,,Anders Haseth,U,,NOR,22.62,,,L069,,,Krassimir Lazarov,R,,BUL,25.147,1018,1,6-2 4-6 8-6,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D018,Davis Cup G2 QF: NOR vs BUL,Carpet,4,D,19910503,4,R219,,,Christian Ruud,R,188,NOR,18.678,,,S519,,,Orlin Stanoytchev,R,185,BUL,19.595,,,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D025,Davis Cup G1 SF: PHI vs CHN,Hard,4,D,19910503,1,X002,,,Jia-Ping Xia,R,165,CHN,22.16,255,84,S342,,,Roland So,R,,PHI,,697,9,5-7 6-7(3) 6-2 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D025,Davis Cup G1 SF: PHI vs CHN,Hard,4,D,19910503,2,B168,,,Felix Barrientos,R,178,PHI,23.439,186,139,P263,,,Bing Pan,R,185,CHN,21.205,335,53,6-3 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D025,Davis Cup G1 SF: PHI vs CHN,Hard,4,D,19910503,3,B168,,,Felix Barrientos,R,178,PHI,23.439,186,139,X002,,,Jia-Ping Xia,R,165,CHN,22.16,255,84,6-3 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D025,Davis Cup G1 SF: PHI vs CHN,Hard,4,D,19910503,4,S342,,,Roland So,R,,PHI,,697,9,P263,,,Bing Pan,R,185,CHN,21.205,335,53,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D033,Davis Cup G2 QF: CYP vs GRE,Clay,4,D,19910503,1,F219,,,Andreas Fikas,R,,GRE,,988,2,P109,,,Alkis Papamichael,R,,CYP,,,,6-4 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D033,Davis Cup G2 QF: CYP vs GRE,Clay,4,D,19910503,2,B025,,,Tasos Bavelas,L,,GRE,23.168,580,15,H085,,,Yannos Hadjigeorgiou,R,,CYP,27.127,,,6-2 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D033,Davis Cup G2 QF: CYP vs GRE,Clay,4,D,19910503,3,B025,,,Tasos Bavelas,L,,GRE,23.168,580,15,P109,,,Alkis Papamichael,R,,CYP,,,,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D033,Davis Cup G2 QF: CYP vs GRE,Clay,4,D,19910503,4,F219,,,Andreas Fikas,R,,GRE,,988,2,H085,,,Yannos Hadjigeorgiou,R,,CYP,27.127,,,7-6(0) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D034,Davis Cup G1 SF: FIN vs DEN,Hard,4,D,19910503,1,R006,,,Olli Rahnasto,R,183,FIN,25.333,411,37,T010,,,Michael Tauson,R,193,DEN,24.843,171,168,6-7(2) 7-6(8) 3-6 7-6(3) 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D034,Davis Cup G1 SF: FIN vs DEN,Hard,4,D,19910503,2,F206,,,Frederik Fetterlein,R,190,DEN,20.799,229,101,R193,,,Aki Rahunen,R,175,FIN,19.346,83,444,6-4 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D034,Davis Cup G1 SF: FIN vs DEN,Hard,4,D,19910503,3,R193,,,Aki Rahunen,R,175,FIN,19.346,83,444,C034,,,Morten Christensen,R,190,DEN,25.87,494,22,6-4 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D034,Davis Cup G1 SF: FIN vs DEN,Hard,4,D,19910503,4,F206,,,Frederik Fetterlein,R,190,DEN,20.799,229,101,R006,,,Olli Rahnasto,R,183,FIN,25.333,411,37,6-1 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D042,Davis Cup G2 R1: EGY vs SEN,Clay,4,D,19910503,1,E110,,,Hassan El Arousy,R,,EGY,20.211,,,B328,,,Abou Berthe,U,,SEN,26.396,,,6-3 6-2 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D042,Davis Cup G2 R1: EGY vs SEN,Clay,4,D,19910503,2,E146,,,Tamer El Sawy,R,188,EGY,19.211,,,B520,,,Fadel Berthe,R,,SEN,,,,5-7 6-1 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D042,Davis Cup G2 R1: EGY vs SEN,Clay,4,D,19910503,3,E146,,,Tamer El Sawy,R,188,EGY,19.211,,,B328,,,Abou Berthe,U,,SEN,26.396,,,6-0 6-2 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D042,Davis Cup G2 R1: EGY vs SEN,Clay,4,D,19910503,4,B520,,,Fadel Berthe,R,,SEN,,,,E110,,,Hassan El Arousy,R,,EGY,20.211,,,1-6 6-3 3-6 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D047,Davis Cup G1 SF: POL vs GBR,Clay,4,D,19910503,1,S404,,,Danny Sapsford,R,173,GBR,22.07,271,79,K067,,,Wojtek Kowalski,R,183,POL,23.551,261,82,7-6(3) 6-2 6-7(2) 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D047,Davis Cup G1 SF: POL vs GBR,Clay,4,D,19910503,2,B021,,,Jeremy Bates,R,180,GBR,28.86,211,112,I036,,,Tomasz Iwanski,R,,POL,22.396,827,4,6-4 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D047,Davis Cup G1 SF: POL vs GBR,Clay,4,D,19910503,3,K067,,,Wojtek Kowalski,R,183,POL,23.551,261,82,B021,,,Jeremy Bates,R,180,GBR,28.86,211,112,6-2 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D047,Davis Cup G1 SF: POL vs GBR,Clay,4,D,19910503,4,W150,,,Chris Wilkinson,R,180,GBR,21.311,348,50,D239,,,Bartlomiej Dabrowski,R,,POL,18.689,764,6,7-6(7) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D055,Davis Cup G1 PO: HUN vs MAR,Clay,4,D,19910503,1,N112,,,Sandor Noszaly,R,193,HUN,19.118,303,62,C033,,,Arafat Chekrouni,R,,MAR,24.559,,,6-1 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D055,Davis Cup G1 PO: HUN vs MAR,Clay,4,D,19910503,2,M370,,,Laszlo Markovits,R,180,HUN,21.068,879,3,A203,,,Karim Alami,R,185,MAR,17.93,278,74,6-3 6-2 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D055,Davis Cup G1 PO: HUN vs MAR,Clay,4,D,19910503,3,N112,,,Sandor Noszaly,R,193,HUN,19.118,303,62,A203,,,Karim Alami,R,185,MAR,17.93,278,74,6-2 1-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D055,Davis Cup G1 PO: HUN vs MAR,Clay,4,D,19910503,4,N219,,,Viktor Nagy,R,178,HUN,19.567,1018,1,C033,,,Arafat Chekrouni,R,,MAR,24.559,,,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D058,Davis Cup G1 SF: IND vs KOR,Grass,4,D,19910503,1,K024,,,Ramesh Krishnan,R,170,IND,29.897,90,394,J096,,,Seung-Ho Ji,R,,KOR,23.25,509,21,4-6 6-2 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D058,Davis Cup G1 SF: IND vs KOR,Grass,4,D,19910503,2,C321,,,Eui-Jong Chang,R,183,KOR,22.075,301,64,P269,,,Leander Paes,R,178,IND,17.864,323,56,6-4 5-7 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D058,Davis Cup G1 SF: IND vs KOR,Grass,4,D,19910503,3,C321,,,Eui-Jong Chang,R,183,KOR,22.075,301,64,K024,,,Ramesh Krishnan,R,170,IND,29.897,90,394,4-6 6-4 1-6 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D058,Davis Cup G1 SF: IND vs KOR,Grass,4,D,19910503,4,P269,,,Leander Paes,R,178,IND,17.864,323,56,J096,,,Seung-Ho Ji,R,,KOR,23.25,509,21,7-6(5) 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D061,Davis Cup G1 PO: ROU vs IRL,Clay,4,D,19910503,1,P280,,,Andrei Pavel,R,183,ROU,17.251,452,28,C289,,,Owen Casey,R,,IRL,21.517,782,6,6-4 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D061,Davis Cup G1 PO: ROU vs IRL,Clay,4,D,19910503,2,M020,,,Adrian Marcu,R,190,ROU,29.402,494,22,C266,,,Eoin Collins,L,193,IRL,22.752,494,22,6-4 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D061,Davis Cup G1 PO: ROU vs IRL,Clay,4,D,19910503,3,P280,,,Andrei Pavel,R,183,ROU,17.251,452,28,W039,,,Peter Wright,R,185,USA,27.389,,,7-6(2) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D061,Davis Cup G1 PO: ROU vs IRL,Clay,4,D,19910503,4,M020,,,Adrian Marcu,R,190,ROU,29.402,494,22,D254,,,Stewart Doyle,U,,IRL,17.232,,,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D068,Davis Cup G2 R1: SIN vs KUW,Hard,4,D,19910503,1,K283,,,Tung-Yi Kho,R,,SIN,19.274,,,111023,,,Aymen Ibrahim Al Ashwak,U,,KUW,20.865,,,6-2 6-3 6-7(3) 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D068,Davis Cup G2 R1: SIN vs KUW,Hard,4,D,19910503,2,L221,,,Wai Yaw Liu,U,,SIN,26.349,,,111022,,,Khaled Al Foudari,U,,KUW,19.02,,,7-5 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D068,Davis Cup G2 R1: SIN vs KUW,Hard,4,D,19910503,3,L221,,,Wai Yaw Liu,U,,SIN,26.349,,,111023,,,Aymen Ibrahim Al Ashwak,U,,KUW,20.865,,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D068,Davis Cup G2 R1: SIN vs KUW,Hard,4,D,19910503,4,K283,,,Tung-Yi Kho,R,,SIN,19.274,,,111022,,,Khaled Al Foudari,U,,KUW,19.02,,,1-6 6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D069,Davis Cup G2 QF: LUX vs MON,Hard,4,D,19910503,1,G030,,,Johnny Goudenbour,R,178,LUX,27.326,879,3,B004,,,Bernard Balleret,R,,MON,36.977413,,,6-1 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D069,Davis Cup G2 QF: LUX vs MON,Hard,4,D,19910503,2,R257,,,Jacques Radoux,R,,LUX,,1018,1,S628,,,Jerome Seguin,U,,MON,21.5,,,6-4 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D069,Davis Cup G2 QF: LUX vs MON,Hard,4,D,19910503,3,G030,,,Johnny Goudenbour,R,178,LUX,27.326,879,3,S628,,,Jerome Seguin,U,,MON,21.5,,,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D069,Davis Cup G2 QF: LUX vs MON,Hard,4,D,19910503,4,R257,,,Jacques Radoux,R,,LUX,,1018,1,111060,,,Christian Collange,U,,MON,23.89,,,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,1,K136,,,Alaaddin Karagoz,R,,TUR,26.064,,,A255,,,Gordon Asciak,R,,MLT,,,,6-2 4-6 6-3 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,2,110866,,,Christopher Gatt,U,,MLT,24.734,,,E129,,,Yavuz Erkangil,R,,TUR,,,,7-6(3) 6-2 4-6 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,3,K136,,,Alaaddin Karagoz,R,,TUR,26.064,,,110866,,,Christopher Gatt,U,,MLT,24.734,,,4-6 6-1 3-6 7-6(3) 9-7,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D075,Davis Cup G2 QF: MLT vs TUR,Hard,4,D,19910503,4,E129,,,Yavuz Erkangil,R,,TUR,,,,A255,,,Gordon Asciak,R,,MLT,,,,2-6 6-1 7-6(4) 4-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D076,Davis Cup G1 SF: POR vs NED,Clay,4,D,19910503,1,H223,,,Paul Haarhuis,R,188,NED,25.188,54,565,C113,,,Joao Cunha-Silva,R,173,POR,23.42,110,337,4-6 6-0 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D076,Davis Cup G1 SF: POR vs NED,Clay,4,D,19910503,2,K016,,,Mark Koevermans,R,185,NED,23.233,48,620,M197,,,Nuno Marques,L,190,POR,21.054,107,357,6-3 2-6 7-5 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D076,Davis Cup G1 SF: POR vs NED,Clay,4,D,19910503,3,K016,,,Mark Koevermans,R,185,NED,23.233,48,620,C113,,,Joao Cunha-Silva,R,173,POR,23.42,110,337,3-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D076,Davis Cup G1 SF: POR vs NED,Clay,4,D,19910503,4,M197,,,Nuno Marques,L,190,POR,21.054,107,357,H223,,,Paul Haarhuis,R,188,NED,25.188,54,565,4-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D082,Davis Cup G1 SF: SUI vs URS,Carpet,4,D,19910503,1,R214,,,Marc Rosset,R,201,SUI,20.474,25,990,C031,,,Andrei Chesnokov,R,188,RUS,25.235,19,1094,7-6(5) 5-7 3-6 6-4 11-9,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D082,Davis Cup G1 SF: SUI vs URS,Carpet,4,D,19910503,2,H025,,,Jakob Hlasek,R,188,SUI,26.459,18,1098,C260,,,Andrei Cherkasov,R,180,RUS,20.819,16,1163,7-5 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D082,Davis Cup G1 SF: SUI vs URS,Carpet,4,D,19910503,3,C031,,,Andrei Chesnokov,R,188,RUS,25.235,19,1094,H025,,,Jakob Hlasek,R,188,SUI,26.459,18,1098,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D082,Davis Cup G1 SF: SUI vs URS,Carpet,4,D,19910503,4,C260,,,Andrei Cherkasov,R,180,RUS,20.819,16,1163,R214,,,Marc Rosset,R,201,SUI,20.474,25,990,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D083,Davis Cup G2 R1: SRI vs SYR,Clay,4,D,19910503,1,110852,,,Umesha Wallooppillai,U,,SRI,18.612,,,110857,,,Samer Mourad,U,,SYR,32.849,,,6-1 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D083,Davis Cup G2 R1: SRI vs SYR,Clay,4,D,19910503,2,F089,,,Arjun Fernando,R,,SRI,,,,111113,,,Jehad Sheet,U,,SYR,34.461,,,6-1 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D083,Davis Cup G2 R1: SRI vs SYR,Clay,4,D,19910503,3,F089,,,Arjun Fernando,R,,SRI,,,,110857,,,Samer Mourad,U,,SYR,32.849,,,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D083,Davis Cup G2 R1: SRI vs SYR,Clay,4,D,19910503,4,110852,,,Umesha Wallooppillai,U,,SRI,18.612,,,111113,,,Jehad Sheet,U,,SYR,34.461,,,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 1991-414,Hamburg Masters,Clay,56,M,19910506,1,M093,,WC,Alexander Mronz,R,188,GER,26.078,78,468,K030,,WC,Patrik Kuhnen,R,191,GER,25.229,92,395,6-2 7-5,3,R64,98,2,4,64,30,25,16,10,4,6,1,4,69,33,21,13,10,5,10
 1991-414,Hamburg Masters,Clay,56,M,19910506,2,A006,,,Ronald Agenor,R,180,USA,26.475,31,856,K181,,,Nicklas Kulti,R,190,SWE,20.038,37,742,6-4 7-6(4),3,R64,92,1,0,67,48,31,11,11,0,3,3,2,73,40,27,15,11,4,8
 1991-414,Hamburg Masters,Clay,56,M,19910506,3,K023,,,Aaron Krickstein,R,183,USA,23.759,48,646,R214,16,,Marc Rosset,R,201,SUI,20.493,30,873,4-6 6-2 6-3,3,R64,99,5,2,93,53,40,18,14,10,14,6,3,78,49,28,14,13,6,12
@@ -1479,14 +1479,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-717,Charlotte,Clay,32,A,19910506,29,Y017,7,,Jaime Yzaga,R,170,PER,23.535,76,481,W124,,,MaliVai Washington,R,180,USA,21.875,88,423,7-5 6-2,3,SF,101,1,0,76,40,23,27,10,12,13,6,3,60,35,23,9,10,2,6
 1991-717,Charlotte,Clay,32,A,19910506,30,A031,5,,Jimmy Arias,R,175,USA,26.719,58,549,F041,,Q,Javier Frana,L,185,ARG,24.361,150,216,3-6 6-3 7-5,3,SF,117,0,1,78,58,37,12,15,1,6,7,2,87,49,34,15,15,7,13
 1991-717,Charlotte,Clay,32,A,19910506,31,Y017,7,,Jaime Yzaga,R,170,PER,23.535,76,481,A031,5,,Jimmy Arias,R,175,USA,26.719,58,549,6-3 7-5,3,F,120,1,1,84,47,33,17,10,12,14,1,0,78,56,29,11,11,10,15
-1991-D001,Davis Cup G2 R1: ALG vs CIV,Clay,4,D,19910508,1,N201,,,Clement N'Goran,R,178,CIV,21.744,258,82,B468,,,Mehdi Benyebka,R,,ALG,21.607,,,6-3 7-5 6-4,5,RR,120,1,1,84,47,33,17,10,12,14,1,0,78,56,29,11,11,10,15
-1991-D001,Davis Cup G2 R1: ALG vs CIV,Clay,4,D,19910508,2,H298,,,Abdelhak Hameurlaine,R,,ALG,19.129,1021,1,N215,,,Jean Nabi,R,,CIV,17.5,1021,1,5-7 7-6(4) 6-2 6-1,5,RR,120,1,1,84,47,33,17,10,12,14,1,0,78,56,29,11,11,10,15
-1991-D001,Davis Cup G2 R1: ALG vs CIV,Clay,4,D,19910508,3,N201,,,Clement N'Goran,R,178,CIV,21.744,258,82,H298,,,Abdelhak Hameurlaine,R,,ALG,19.129,1021,1,6-1 6-3 7-6(3),5,RR,120,1,1,84,47,33,17,10,12,14,1,0,78,56,29,11,11,10,15
-1991-D001,Davis Cup G2 R1: ALG vs CIV,Clay,4,D,19910508,4,B468,,,Mehdi Benyebka,R,,ALG,21.607,,,N215,,,Jean Nabi,R,,CIV,17.5,1021,1,6-3 6-1,3,RR,120,1,1,84,47,33,17,10,12,14,1,0,78,56,29,11,11,10,15
-1991-D067,Davis Cup G2 R1: MAS vs KSA,Hard,4,D,19910510,1,V192,,,Selvam Veerasingam,R,,MAS,21.489,,,111045,,,Khalid Hussain Fitiani,U,,KSA,36.925,,,6-0 6-2 6-3,5,RR,120,1,1,84,47,33,17,10,12,14,1,0,78,56,29,11,11,10,15
-1991-D067,Davis Cup G2 R1: MAS vs KSA,Hard,4,D,19910510,2,A498,,,Bader Mohammed Almuqail,U,,KSA,20.676,,,R271,,,Ramayah Ramachandran,R,160,MAS,20.652,1021,1,4-6 6-7(7) 7-5 3-2 RET,5,RR,120,1,1,84,47,33,17,10,12,14,1,0,78,56,29,11,11,10,15
-1991-D067,Davis Cup G2 R1: MAS vs KSA,Hard,4,D,19910510,3,V192,,,Selvam Veerasingam,R,,MAS,21.489,,,A498,,,Bader Mohammed Almuqail,U,,KSA,20.676,,,6-4 6-3 6-1,5,RR,120,1,1,84,47,33,17,10,12,14,1,0,78,56,29,11,11,10,15
-1991-D067,Davis Cup G2 R1: MAS vs KSA,Hard,4,D,19910510,4,R271,,,Ramayah Ramachandran,R,160,MAS,20.652,1021,1,111046,,,Tawfik Al Ibrahim,U,,KSA,,,,6-3 6-3,3,RR,120,1,1,84,47,33,17,10,12,14,1,0,78,56,29,11,11,10,15
+1991-D001,Davis Cup G2 R1: ALG vs CIV,Clay,4,D,19910508,1,N201,,,Clement N'Goran,R,178,CIV,21.744,258,82,B468,,,Mehdi Benyebka,R,,ALG,21.607,,,6-3 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D001,Davis Cup G2 R1: ALG vs CIV,Clay,4,D,19910508,2,H298,,,Abdelhak Hameurlaine,R,,ALG,19.129,1021,1,N215,,,Jean Nabi,R,,CIV,17.5,1021,1,5-7 7-6(4) 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D001,Davis Cup G2 R1: ALG vs CIV,Clay,4,D,19910508,3,N201,,,Clement N'Goran,R,178,CIV,21.744,258,82,H298,,,Abdelhak Hameurlaine,R,,ALG,19.129,1021,1,6-1 6-3 7-6(3),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D001,Davis Cup G2 R1: ALG vs CIV,Clay,4,D,19910508,4,B468,,,Mehdi Benyebka,R,,ALG,21.607,,,N215,,,Jean Nabi,R,,CIV,17.5,1021,1,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D067,Davis Cup G2 R1: MAS vs KSA,Hard,4,D,19910510,1,V192,,,Selvam Veerasingam,R,,MAS,21.489,,,111045,,,Khalid Hussain Fitiani,U,,KSA,36.925,,,6-0 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D067,Davis Cup G2 R1: MAS vs KSA,Hard,4,D,19910510,2,A498,,,Bader Mohammed Almuqail,U,,KSA,20.676,,,R271,,,Ramayah Ramachandran,R,160,MAS,20.652,1021,1,4-6 6-7(7) 7-5 3-2 RET,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D067,Davis Cup G2 R1: MAS vs KSA,Hard,4,D,19910510,3,V192,,,Selvam Veerasingam,R,,MAS,21.489,,,A498,,,Bader Mohammed Almuqail,U,,KSA,20.676,,,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D067,Davis Cup G2 R1: MAS vs KSA,Hard,4,D,19910510,4,R271,,,Ramayah Ramachandran,R,160,MAS,20.652,1021,1,111046,,,Tawfik Al Ibrahim,U,,KSA,,,,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 1991-416,Rome Masters,Clay,64,M,19910513,1,P226,,LL,Cedric Pioline,R,188,FRA,21.908,111,335,R214,,,Marc Rosset,R,201,SUI,20.512,31,873,7-5 6-3,3,R64,90,2,1,64,35,25,15,11,4,6,2,5,55,27,20,9,10,2,6
 1991-416,Rome Masters,Clay,64,M,19910513,2,C270,,,Cristiano Caratti,R,178,ITA,20.969,33,841,J004,,,Martin Jaite,R,178,ARG,26.59,32,854,4-6 7-5 7-6(4),3,R64,187,0,5,127,101,57,14,17,9,15,5,3,130,88,51,17,17,10,16
 1991-416,Rome Masters,Clay,64,M,19910513,3,F164,,,Richard Fromberg,R,196,AUS,21.04,39,727,M048,,,Patrick McEnroe,R,183,USA,24.865,44,665,4-6 7-6(5) 6-2,3,R64,129,8,7,109,62,44,21,15,8,12,3,2,95,50,31,23,15,7,12
@@ -1882,42 +1882,42 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-440,Rosmalen,Grass,32,A,19910610,29,S288,,,Christian Saceanu,R,190,GER,22.921,110,338,H025,4,,Jakob Hlasek,R,188,SUI,26.574,15,1224,6-3 3-6 7-6(5),3,SF,120,7,6,92,48,40,27,15,4,5,3,10,107,60,53,20,15,5,6
 1991-440,Rosmalen,Grass,32,A,19910610,30,S021,,WC,Michiel Schapers,R,201,NED,31.663,232,102,S351,2,,Michael Stich,R,193,GER,22.642,9,1581,6-4 7-6(4),3,SF,73,2,2,60,34,31,17,11,1,2,2,0,65,42,27,16,11,1,3
 1991-440,Rosmalen,Grass,32,A,19910610,31,S288,,,Christian Saceanu,R,190,GER,22.921,110,338,S021,,WC,Michiel Schapers,R,201,NED,31.663,232,102,6-1 3-6 7-5,3,F,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D063,Davis Cup G2 QF: JOR vs PAK,Hard,4,D,19910613,1,H325,,,Hamed Ul Haq,U,,PAK,29.276,,,111002,,,Hani Al Ali,U,,JOR,26.601,,,6-4 6-2 3-6 6-2,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D063,Davis Cup G2 QF: JOR vs PAK,Hard,4,D,19910613,2,M527,,,Rashid Malik,R,,PAK,28.35,,,111001,,,Emad Abou Hamdeh,U,,JOR,21.525,,,6-2 6-2 6-4,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D063,Davis Cup G2 QF: JOR vs PAK,Hard,4,D,19910613,3,R323,,,Omer Rashid,R,,PAK,19.014,,,111029,,,Saleh Bushnaq,U,,JOR,26.472,,,6-3 6-2,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D063,Davis Cup G2 QF: JOR vs PAK,Hard,4,D,19910613,4,H325,,,Hamed Ul Haq,U,,PAK,29.276,,,111001,,,Emad Abou Hamdeh,U,,JOR,21.525,,,7-6(2) 6-0,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D012,Davis Cup G2 QF: BAN vs SRI,Hard,4,D,19910614,1,F089,,,Arjun Fernando,R,,SRI,,,,I308,,,Ifthekar Sardar,U,,BAN,28.665,,,6-0 6-1 6-1,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D012,Davis Cup G2 QF: BAN vs SRI,Hard,4,D,19910614,2,D604,,,Rohan De Silva,U,,SRI,19.324,,,J660,,,Shovon Jamaly,U,,BAN,23.392,,,6-4 6-2 7-5,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D012,Davis Cup G2 QF: BAN vs SRI,Hard,4,D,19910614,3,F089,,,Arjun Fernando,R,,SRI,,,,J660,,,Shovon Jamaly,U,,BAN,23.392,,,6-4 6-3,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D012,Davis Cup G2 QF: BAN vs SRI,Hard,4,D,19910614,4,D604,,,Rohan De Silva,U,,SRI,19.324,,,I308,,,Ifthekar Sardar,U,,BAN,28.665,,,7-5 5-7 6-2,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D028,Davis Cup G2 QF: CIV vs TOG,Carpet,4,D,19910614,1,N215,,,Jean Nabi,R,,CIV,17.596,1052,1,110892,,,Katore Agnamba,U,,TOG,19.808,,,6-0 6-0 6-3,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D028,Davis Cup G2 QF: CIV vs TOG,Carpet,4,D,19910614,2,N226,,,Emile Ngoran,R,,CIV,18.042,,,A211,,,Kodzo Apeti,R,,TOG,23.584,986,2,6-2 6-1 6-0,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D028,Davis Cup G2 QF: CIV vs TOG,Carpet,4,D,19910614,3,N215,,,Jean Nabi,R,,CIV,17.596,1052,1,A211,,,Kodzo Apeti,R,,TOG,23.584,986,2,3-6 6-1 7-5,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D028,Davis Cup G2 QF: CIV vs TOG,Carpet,4,D,19910614,4,L259,,,Ilou Lonfo,R,,CIV,17.344,986,2,110893,,,Mensah Gbeboume,U,,TOG,16.734,,,6-0 6-2,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D041,Davis Cup G2 QF: EGY vs GHA,Clay,4,D,19910614,1,E146,,,Tamer El Sawy,R,188,EGY,19.326,,,M0IY,,,Mike Amoah,U,,GHA,17.246,,,6-1 6-0 6-2,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D041,Davis Cup G2 QF: EGY vs GHA,Clay,4,D,19910614,2,E110,,,Hassan El Arousy,R,,EGY,20.326,,,O114,,,Frank Ofori,R,,GHA,20.23,,,6-7(5) 7-6(5) 2-0 RET,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D041,Davis Cup G2 QF: EGY vs GHA,Clay,4,D,19910614,3,G284,,,Amro Ghoneim,R,,EGY,17.229,,,A112,,,Kojo Atiso,U,,GHA,24.567,,,7-6(4) 7-5,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D041,Davis Cup G2 QF: EGY vs GHA,Clay,4,D,19910614,4,E110,,,Hassan El Arousy,R,,EGY,20.326,,,M0IY,,,Mike Amoah,U,,GHA,17.246,,,6-7(5) 7-6(4) 8-6,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D043,Davis Cup WG QF: USA vs ESP,Grass,4,D,19910614,1,G016,,,Brad Gilbert,R,185,USA,29.834,17,1208,S014,,,Emilio Sanchez,R,180,ESP,26.031,12,1386,6-4 6-4 6-2,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D043,Davis Cup WG QF: USA vs ESP,Grass,4,D,19910614,2,M047,,,John McEnroe,L,180,USA,32.312,14,1252,C216,,,Tomas Carbonell,R,178,ESP,22.839,70,501,6-3 6-2 6-1,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D043,Davis Cup WG QF: USA vs ESP,Grass,4,D,19910614,3,M047,,,John McEnroe,L,180,USA,32.312,14,1252,S014,,,Emilio Sanchez,R,180,ESP,26.031,12,1386,6-4 3-6 6-3,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D043,Davis Cup WG QF: USA vs ESP,Grass,4,D,19910614,4,C216,,,Tomas Carbonell,R,178,ESP,22.839,70,501,L013,,,Rick Leach,L,188,USA,26.448,236,99,7-6(1) 5-7 6-4,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,1,R219,,,Christian Ruud,R,188,NOR,18.793,,,B025,,,Tasos Bavelas,L,,GRE,23.283,594,15,6-3 6-2 6-4,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,2,P208,,,Bent-Ove Pedersen,R,185,NOR,23.915,1052,1,K001,,,George Kalovelonis,R,190,GRE,31.797,1052,1,6-4 6-3 2-6 3-6 8-6,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,3,B025,,,Tasos Bavelas,L,,GRE,23.283,594,15,P208,,,Bent-Ove Pedersen,R,185,NOR,23.915,1052,1,1-6 7-5 10-8,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,4,R219,,,Christian Ruud,R,188,NOR,18.793,,,K001,,,George Kalovelonis,R,190,GRE,31.797,1052,1,6-3 3-6 6-2,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,1,G241,,,Colin Grant,R,,HKG,,,,L221,,,Wai Yaw Liu,U,,SIN,26.464,,,6-0 6-0 6-0,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,2,W003,,,Michael Walker,L,183,HKG,25.136,,,108883,,,Kuen Yiep Ho,U,,SIN,20.386,,,6-1 6-0 6-1,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,3,W003,,,Michael Walker,L,183,HKG,25.136,,,K283,,,Tung-Yi Kho,R,,SIN,19.389,,,6-1 6-0 6-3,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,4,P214,,,Lui Pang,R,,HKG,,,,108883,,,Kuen Yiep Ho,U,,SIN,20.386,,,6-2 6-2 6-2,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,1,G030,,,Johnny Goudenbour,R,178,LUX,27.441,913,3,E129,,,Yavuz Erkangil,R,,TUR,,,,6-4 6-0 6-4,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,2,R257,,,Jacques Radoux,R,,LUX,,1052,1,K136,,,Alaaddin Karagoz,R,,TUR,26.179,,,6-2 6-1 6-1,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,3,G030,,,Johnny Goudenbour,R,178,LUX,27.441,913,3,K136,,,Alaaddin Karagoz,R,,TUR,26.179,,,6-2 6-3,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,4,R257,,,Jacques Radoux,R,,LUX,,1052,1,E129,,,Yavuz Erkangil,R,,TUR,,,,6-0 6-1,3,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,1,L280,,,Yu-Hui Lien,R,,TPE,20.975,,,V192,,,Selvam Veerasingam,R,,MAS,21.585,,,5-7 6-3 6-4 6-4,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,2,M221,,,Adam Malik,R,193,MAS,24.085,468,27,L704,,,Carlos Lozano,U,,MEX,,,,6-3 6-4 6-2,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,3,M221,,,Adam Malik,R,193,MAS,24.085,468,27,L280,,,Yu-Hui Lien,R,,TPE,20.975,,,6-3 6-4 7-6(4),5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
-1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,4,L704,,,Carlos Lozano,U,,MEX,,,,V192,,,Selvam Veerasingam,R,,MAS,21.585,,,7-6(4) 6-7(5) 7-6(6) 6-3,5,RR,109,6,6,88,50,40,18,14,7,9,6,7,94,55,37,19,14,9,13
+1991-D063,Davis Cup G2 QF: JOR vs PAK,Hard,4,D,19910613,1,H325,,,Hamed Ul Haq,U,,PAK,29.276,,,111002,,,Hani Al Ali,U,,JOR,26.601,,,6-4 6-2 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D063,Davis Cup G2 QF: JOR vs PAK,Hard,4,D,19910613,2,M527,,,Rashid Malik,R,,PAK,28.35,,,111001,,,Emad Abou Hamdeh,U,,JOR,21.525,,,6-2 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D063,Davis Cup G2 QF: JOR vs PAK,Hard,4,D,19910613,3,R323,,,Omer Rashid,R,,PAK,19.014,,,111029,,,Saleh Bushnaq,U,,JOR,26.472,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D063,Davis Cup G2 QF: JOR vs PAK,Hard,4,D,19910613,4,H325,,,Hamed Ul Haq,U,,PAK,29.276,,,111001,,,Emad Abou Hamdeh,U,,JOR,21.525,,,7-6(2) 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D012,Davis Cup G2 QF: BAN vs SRI,Hard,4,D,19910614,1,F089,,,Arjun Fernando,R,,SRI,,,,I308,,,Ifthekar Sardar,U,,BAN,28.665,,,6-0 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D012,Davis Cup G2 QF: BAN vs SRI,Hard,4,D,19910614,2,D604,,,Rohan De Silva,U,,SRI,19.324,,,J660,,,Shovon Jamaly,U,,BAN,23.392,,,6-4 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D012,Davis Cup G2 QF: BAN vs SRI,Hard,4,D,19910614,3,F089,,,Arjun Fernando,R,,SRI,,,,J660,,,Shovon Jamaly,U,,BAN,23.392,,,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D012,Davis Cup G2 QF: BAN vs SRI,Hard,4,D,19910614,4,D604,,,Rohan De Silva,U,,SRI,19.324,,,I308,,,Ifthekar Sardar,U,,BAN,28.665,,,7-5 5-7 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D028,Davis Cup G2 QF: CIV vs TOG,Carpet,4,D,19910614,1,N215,,,Jean Nabi,R,,CIV,17.596,1052,1,110892,,,Katore Agnamba,U,,TOG,19.808,,,6-0 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D028,Davis Cup G2 QF: CIV vs TOG,Carpet,4,D,19910614,2,N226,,,Emile Ngoran,R,,CIV,18.042,,,A211,,,Kodzo Apeti,R,,TOG,23.584,986,2,6-2 6-1 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D028,Davis Cup G2 QF: CIV vs TOG,Carpet,4,D,19910614,3,N215,,,Jean Nabi,R,,CIV,17.596,1052,1,A211,,,Kodzo Apeti,R,,TOG,23.584,986,2,3-6 6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D028,Davis Cup G2 QF: CIV vs TOG,Carpet,4,D,19910614,4,L259,,,Ilou Lonfo,R,,CIV,17.344,986,2,110893,,,Mensah Gbeboume,U,,TOG,16.734,,,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D041,Davis Cup G2 QF: EGY vs GHA,Clay,4,D,19910614,1,E146,,,Tamer El Sawy,R,188,EGY,19.326,,,M0IY,,,Mike Amoah,U,,GHA,17.246,,,6-1 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D041,Davis Cup G2 QF: EGY vs GHA,Clay,4,D,19910614,2,E110,,,Hassan El Arousy,R,,EGY,20.326,,,O114,,,Frank Ofori,R,,GHA,20.23,,,6-7(5) 7-6(5) 2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D041,Davis Cup G2 QF: EGY vs GHA,Clay,4,D,19910614,3,G284,,,Amro Ghoneim,R,,EGY,17.229,,,A112,,,Kojo Atiso,U,,GHA,24.567,,,7-6(4) 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D041,Davis Cup G2 QF: EGY vs GHA,Clay,4,D,19910614,4,E110,,,Hassan El Arousy,R,,EGY,20.326,,,M0IY,,,Mike Amoah,U,,GHA,17.246,,,6-7(5) 7-6(4) 8-6,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D043,Davis Cup WG QF: USA vs ESP,Grass,4,D,19910614,1,G016,,,Brad Gilbert,R,185,USA,29.834,17,1208,S014,,,Emilio Sanchez,R,180,ESP,26.031,12,1386,6-4 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D043,Davis Cup WG QF: USA vs ESP,Grass,4,D,19910614,2,M047,,,John McEnroe,L,180,USA,32.312,14,1252,C216,,,Tomas Carbonell,R,178,ESP,22.839,70,501,6-3 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D043,Davis Cup WG QF: USA vs ESP,Grass,4,D,19910614,3,M047,,,John McEnroe,L,180,USA,32.312,14,1252,S014,,,Emilio Sanchez,R,180,ESP,26.031,12,1386,6-4 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D043,Davis Cup WG QF: USA vs ESP,Grass,4,D,19910614,4,C216,,,Tomas Carbonell,R,178,ESP,22.839,70,501,L013,,,Rick Leach,L,188,USA,26.448,236,99,7-6(1) 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,1,R219,,,Christian Ruud,R,188,NOR,18.793,,,B025,,,Tasos Bavelas,L,,GRE,23.283,594,15,6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,2,P208,,,Bent-Ove Pedersen,R,185,NOR,23.915,1052,1,K001,,,George Kalovelonis,R,190,GRE,31.797,1052,1,6-4 6-3 2-6 3-6 8-6,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,3,B025,,,Tasos Bavelas,L,,GRE,23.283,594,15,P208,,,Bent-Ove Pedersen,R,185,NOR,23.915,1052,1,1-6 7-5 10-8,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D050,Davis Cup G2 SF: NOR vs GRE,Clay,4,D,19910614,4,R219,,,Christian Ruud,R,188,NOR,18.793,,,K001,,,George Kalovelonis,R,190,GRE,31.797,1052,1,6-3 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,1,G241,,,Colin Grant,R,,HKG,,,,L221,,,Wai Yaw Liu,U,,SIN,26.464,,,6-0 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,2,W003,,,Michael Walker,L,183,HKG,25.136,,,108883,,,Kuen Yiep Ho,U,,SIN,20.386,,,6-1 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,3,W003,,,Michael Walker,L,183,HKG,25.136,,,K283,,,Tung-Yi Kho,R,,SIN,19.389,,,6-1 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D052,Davis Cup G2 QF: SIN vs HKG,Hard,4,D,19910614,4,P214,,,Lui Pang,R,,HKG,,,,108883,,,Kuen Yiep Ho,U,,SIN,20.386,,,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,1,G030,,,Johnny Goudenbour,R,178,LUX,27.441,913,3,E129,,,Yavuz Erkangil,R,,TUR,,,,6-4 6-0 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,2,R257,,,Jacques Radoux,R,,LUX,,1052,1,K136,,,Alaaddin Karagoz,R,,TUR,26.179,,,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,3,G030,,,Johnny Goudenbour,R,178,LUX,27.441,913,3,K136,,,Alaaddin Karagoz,R,,TUR,26.179,,,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D071,Davis Cup G2 SF: LUX vs TUR,Hard,4,D,19910614,4,R257,,,Jacques Radoux,R,,LUX,,1052,1,E129,,,Yavuz Erkangil,R,,TUR,,,,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,1,L280,,,Yu-Hui Lien,R,,TPE,20.975,,,V192,,,Selvam Veerasingam,R,,MAS,21.585,,,5-7 6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,2,M221,,,Adam Malik,R,193,MAS,24.085,468,27,L704,,,Carlos Lozano,U,,MEX,,,,6-3 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,3,M221,,,Adam Malik,R,193,MAS,24.085,468,27,L280,,,Yu-Hui Lien,R,,TPE,20.975,,,6-3 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D072,Davis Cup G2 QF: MAS vs TPE,Hard,4,D,19910614,4,L704,,,Carlos Lozano,U,,MEX,,,,V192,,,Selvam Veerasingam,R,,MAS,21.585,,,7-6(4) 6-7(5) 7-6(6) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
 1991-306,Genova,Clay,32,A,19910617,1,A006,1,,Ronald Agenor,R,180,USA,26.59,28,890,A141,,,Jose Francisco Altur,L,190,ESP,23.231,118,327,6-3 2-6 6-4,3,R32,111,0,2,81,53,35,15,14,6,10,3,1,88,64,38,13,13,10,14
 1991-306,Genova,Clay,32,A,19910617,2,M475,,WC,Andrei Medvedev,R,193,UKR,16.794,558,20,M197,,,Nuno Marques,L,190,POR,21.188,110,347,7-5 2-0 RET,3,R32,71,3,3,45,27,19,7,7,1,3,1,0,58,48,23,4,7,6,10
 1991-306,Genova,Clay,32,A,19910617,3,W133,,,Bart Wuyts,R,178,BEL,21.752,97,393,R012,,,Pedro Rebolledo,R,170,CHI,30.497,121,318,7-6(6) 7-6(2),3,R32,165,0,2,96,68,37,10,12,8,14,1,5,84,54,29,8,12,6,12
@@ -2302,26 +2302,26 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-418,Washington,Hard,56,A,19910715,53,A092,1,,Andre Agassi,R,180,USA,21.21,6,2144,Y017,6,,Jaime Yzaga,R,170,PER,23.726,44,629,6-3 6-2,3,SF,66,3,3,54,36,27,10,9,3,4,0,4,47,25,14,9,8,3,7
 1991-418,Washington,Hard,56,A,19910715,54,K148,12,,Petr Korda,L,191,CZE,23.474,69,518,Z045,,,Markus Zoecke,R,196,GER,23.179,138,275,6-2 6-4,3,SF,69,2,1,50,38,30,8,9,1,1,11,2,56,38,27,5,9,5,8
 1991-418,Washington,Hard,56,A,19910715,55,A092,1,,Andre Agassi,R,180,USA,21.21,6,2144,K148,12,,Petr Korda,L,191,CZE,23.474,69,518,6-3 6-4,3,F,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D009,Davis Cup G2 SF: COL vs BAH,Clay,4,D,19910719,1,H256,,,Mauricio Hadad,R,170,COL,19.603,326,63,S340,,,Roger Smith,R,185,BAH,27.483,376,49,6-4 4-6 6-3 6-1,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D009,Davis Cup G2 SF: COL vs BAH,Clay,4,D,19910719,2,J020,,,Alvaro Jordan,R,185,COL,29.514,237,102,F209,,,John Farrington,R,,BAH,,,,6-2 6-2 6-2,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D009,Davis Cup G2 SF: COL vs BAH,Clay,4,D,19910719,3,J020,,,Alvaro Jordan,R,185,COL,29.514,237,102,S340,,,Roger Smith,R,185,BAH,27.483,376,49,6-3 6-7(5) 6-7(4) 6-0 6-3,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D009,Davis Cup G2 SF: COL vs BAH,Clay,4,D,19910719,4,H256,,,Mauricio Hadad,R,170,COL,19.603,326,63,F209,,,John Farrington,R,,BAH,,,,6-4 6-2,3,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,1,B275,,,Mark Bailey,R,,HKG,,1091,1,F089,,,Arjun Fernando,R,,SRI,,,,7-6(7) 1-6 4-6 6-3 6-2,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,2,110852,,,Umesha Wallooppillai,U,,SRI,18.823,,,W003,,,Michael Walker,L,183,HKG,25.232,,,7-5 4-6 7-5 6-2,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,3,W003,,,Michael Walker,L,183,HKG,25.232,,,F089,,,Arjun Fernando,R,,SRI,,,,6-2 6-3 6-0,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,4,110852,,,Umesha Wallooppillai,U,,SRI,18.823,,,B275,,,Mark Bailey,R,,HKG,,1091,1,6-1 6-2,3,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,1,O006,,,Nduka Odizor,R,183,NGR,32.931,211,131,P216,,,Eno Polo,R,,KEN,,684,11,4-6 6-1 6-2 1-6 6-4,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,2,W122,,,Paul Wekesa,R,188,KEN,24.036,263,86,S096,,,Yakubu Suleiman,R,,NGR,,,,6-2 6-4 7-5,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,3,W122,,,Paul Wekesa,R,188,KEN,24.036,263,86,O006,,,Nduka Odizor,R,183,NGR,32.931,211,131,7-5 6-4 6-1,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,4,S096,,,Yakubu Suleiman,R,,NGR,,,,P216,,,Eno Polo,R,,KEN,,684,11,6-3 4-6 6-3,3,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D070,Davis Cup G2 F: NOR vs LUX,Clay,4,D,19910719,1,110867,,,Anders Haseth,U,,NOR,22.831,,,G030,,,Johnny Goudenbour,R,178,LUX,27.537,940,3,7-6(5) 3-6 6-3 6-2,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D070,Davis Cup G2 F: NOR vs LUX,Clay,4,D,19910719,2,R219,,,Christian Ruud,R,188,NOR,18.888,564,20,P011,,,Alberto Paris,R,,LUX,26.275,,,6-3 6-3 6-1,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D070,Davis Cup G2 F: NOR vs LUX,Clay,4,D,19910719,3,P208,,,Bent-Ove Pedersen,R,185,NOR,24.011,863,5,G030,,,Johnny Goudenbour,R,178,LUX,27.537,940,3,6-2 6-1,3,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D070,Davis Cup G2 F: NOR vs LUX,Clay,4,D,19910719,4,R257,,,Jacques Radoux,R,,LUX,,1091,1,110867,,,Anders Haseth,U,,NOR,22.831,,,7-6(3) 7-6(0),3,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,1,L280,,,Yu-Hui Lien,R,,TPE,21.07,,,H325,,,Hamed Ul Haq,U,,PAK,29.372,,,6-3 6-3 6-3,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,2,L704,,,Carlos Lozano,U,,MEX,,,,M527,,,Rashid Malik,R,,PAK,28.446,,,7-6(3) 6-3 6-0,5,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,3,C364,,,Chih-Jung Chen,R,,TPE,18.804,,,R323,,,Omer Rashid,R,,PAK,19.11,,,6-3 6-4,3,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
-1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,4,L704,,,Carlos Lozano,U,,MEX,,,,H325,,,Hamed Ul Haq,U,,PAK,29.372,,,6-2 3-6 6-3,3,RR,65,3,1,55,40,32,10,10,4,4,4,3,55,31,22,11,9,0,2
+1991-D009,Davis Cup G2 SF: COL vs BAH,Clay,4,D,19910719,1,H256,,,Mauricio Hadad,R,170,COL,19.603,326,63,S340,,,Roger Smith,R,185,BAH,27.483,376,49,6-4 4-6 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D009,Davis Cup G2 SF: COL vs BAH,Clay,4,D,19910719,2,J020,,,Alvaro Jordan,R,185,COL,29.514,237,102,F209,,,John Farrington,R,,BAH,,,,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D009,Davis Cup G2 SF: COL vs BAH,Clay,4,D,19910719,3,J020,,,Alvaro Jordan,R,185,COL,29.514,237,102,S340,,,Roger Smith,R,185,BAH,27.483,376,49,6-3 6-7(5) 6-7(4) 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D009,Davis Cup G2 SF: COL vs BAH,Clay,4,D,19910719,4,H256,,,Mauricio Hadad,R,170,COL,19.603,326,63,F209,,,John Farrington,R,,BAH,,,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,1,B275,,,Mark Bailey,R,,HKG,,1091,1,F089,,,Arjun Fernando,R,,SRI,,,,7-6(7) 1-6 4-6 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,2,110852,,,Umesha Wallooppillai,U,,SRI,18.823,,,W003,,,Michael Walker,L,183,HKG,25.232,,,7-5 4-6 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,3,W003,,,Michael Walker,L,183,HKG,25.232,,,F089,,,Arjun Fernando,R,,SRI,,,,6-2 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D053,Davis Cup G2 SF: HKG vs SRI,Hard,4,D,19910719,4,110852,,,Umesha Wallooppillai,U,,SRI,18.823,,,B275,,,Mark Bailey,R,,HKG,,1091,1,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,1,O006,,,Nduka Odizor,R,183,NGR,32.931,211,131,P216,,,Eno Polo,R,,KEN,,684,11,4-6 6-1 6-2 1-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,2,W122,,,Paul Wekesa,R,188,KEN,24.036,263,86,S096,,,Yakubu Suleiman,R,,NGR,,,,6-2 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,3,W122,,,Paul Wekesa,R,188,KEN,24.036,263,86,O006,,,Nduka Odizor,R,183,NGR,32.931,211,131,7-5 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D065,Davis Cup G2 SF: KEN vs NGR,Clay,4,D,19910719,4,S096,,,Yakubu Suleiman,R,,NGR,,,,P216,,,Eno Polo,R,,KEN,,684,11,6-3 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D070,Davis Cup G2 F: NOR vs LUX,Clay,4,D,19910719,1,110867,,,Anders Haseth,U,,NOR,22.831,,,G030,,,Johnny Goudenbour,R,178,LUX,27.537,940,3,7-6(5) 3-6 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D070,Davis Cup G2 F: NOR vs LUX,Clay,4,D,19910719,2,R219,,,Christian Ruud,R,188,NOR,18.888,564,20,P011,,,Alberto Paris,R,,LUX,26.275,,,6-3 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D070,Davis Cup G2 F: NOR vs LUX,Clay,4,D,19910719,3,P208,,,Bent-Ove Pedersen,R,185,NOR,24.011,863,5,G030,,,Johnny Goudenbour,R,178,LUX,27.537,940,3,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D070,Davis Cup G2 F: NOR vs LUX,Clay,4,D,19910719,4,R257,,,Jacques Radoux,R,,LUX,,1091,1,110867,,,Anders Haseth,U,,NOR,22.831,,,7-6(3) 7-6(0),3,RR,,,,,,,,,,,,,,,,,,,
+1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,1,L280,,,Yu-Hui Lien,R,,TPE,21.07,,,H325,,,Hamed Ul Haq,U,,PAK,29.372,,,6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,2,L704,,,Carlos Lozano,U,,MEX,,,,M527,,,Rashid Malik,R,,PAK,28.446,,,7-6(3) 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,3,C364,,,Chih-Jung Chen,R,,TPE,18.804,,,R323,,,Omer Rashid,R,,PAK,19.11,,,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D079,Davis Cup G2 SF: TPE vs PAK,Hard,4,D,19910719,4,L704,,,Carlos Lozano,U,,MEX,,,,H325,,,Hamed Ul Haq,U,,PAK,29.372,,,6-2 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 1991-317,Hilversum,Clay,32,A,19910722,1,B350,1,,Sergi Bruguera,R,188,ESP,20.512,8,1601,P021,,Q,Diego Perez,R,178,URU,29.446,199,147,6-4 6-4,3,R32,103,0,0,69,59,37,5,10,2,4,2,3,73,37,23,17,10,6,10
 1991-317,Hilversum,Clay,32,A,19910722,2,K016,,,Mark Koevermans,R,185,NED,23.463,50,595,H223,,,Paul Haarhuis,R,188,NED,25.418,47,615,7-6(4) 6-2,3,R32,95,2,0,70,38,25,22,10,2,3,5,0,60,33,19,15,10,0,3
 1991-317,Hilversum,Clay,32,A,19910722,3,F192,,,Renzo Furlan,R,175,ITA,21.18,58,568,F165,,,Marcelo Filippini,R,178,URU,23.964,68,516,3-6 6-2 6-1,3,R32,115,0,1,73,52,33,10,12,2,6,0,2,72,41,21,13,12,2,9
@@ -2408,14 +2408,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-421,Canada Masters,Hard,56,M,19910722,53,C031,12,,Andrei Chesnokov,R,188,RUS,25.465,32,762,L018,1,,Ivan Lendl,R,188,USA,31.373,4,2283,7-6(4) 7-5,3,SF,145,2,3,87,53,33,19,12,7,10,5,4,87,40,25,23,12,1,5
 1991-421,Canada Masters,Hard,56,M,19910722,54,K148,,,Petr Korda,L,191,CZE,23.493,40,687,C243,2,,Jim Courier,R,185,USA,20.928,5,2181,3-6 7-6(1) 6-2,3,SF,132,5,4,98,68,43,17,14,5,8,7,1,92,53,36,18,15,2,6
 1991-421,Canada Masters,Hard,56,M,19910722,55,C031,12,,Andrei Chesnokov,R,188,RUS,25.465,32,762,K148,,,Petr Korda,L,191,CZE,23.493,40,687,3-6 6-4 6-3,3,F,108,2,1,83,43,25,22,14,7,12,0,3,91,58,32,17,14,8,14
-1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,1,F014,,,Jose Antonio Fernandez,R,170,CHI,26.483,207,133,R224,,,Maurice Ruah,R,178,VEN,20.419,222,119,3-6 6-2 3-6 6-1 6-3,5,RR,108,2,1,83,43,25,22,14,7,12,0,3,91,58,32,17,14,8,14
-1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,2,R012,,,Pedro Rebolledo,R,170,CHI,30.593,137,279,P218,,,Nicolas Pereira,R,188,VEN,20.81,227,115,6-3 6-1 2-6 6-4,5,RR,108,2,1,83,43,25,22,14,7,12,0,3,91,58,32,17,14,8,14
-1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,3,R012,,,Pedro Rebolledo,R,170,CHI,30.593,137,279,R224,,,Maurice Ruah,R,178,VEN,20.419,222,119,5-7 6-3 6-2 6-4,5,RR,108,2,1,83,43,25,22,14,7,12,0,3,91,58,32,17,14,8,14
-1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,4,P218,,,Nicolas Pereira,R,188,VEN,20.81,227,115,F014,,,Jose Antonio Fernandez,R,170,CHI,26.483,207,133,4-6 6-0 6-3,3,RR,108,2,1,83,43,25,22,14,7,12,0,3,91,58,32,17,14,8,14
-1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,1,N201,,,Clement N'Goran,R,178,CIV,21.955,317,66,E110,,,Hassan El Arousy,R,,EGY,20.441,,,6-2 6-0 6-2,5,RR,108,2,1,83,43,25,22,14,7,12,0,3,91,58,32,17,14,8,14
-1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,2,E146,,,Tamer El Sawy,R,188,EGY,19.441,,,N226,,,Emile Ngoran,R,,CIV,18.157,,,6-2 3-6 6-3 6-3,5,RR,108,2,1,83,43,25,22,14,7,12,0,3,91,58,32,17,14,8,14
-1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,3,N201,,,Clement N'Goran,R,178,CIV,21.955,317,66,E146,,,Tamer El Sawy,R,188,EGY,19.441,,,6-2 6-4 6-1,5,RR,108,2,1,83,43,25,22,14,7,12,0,3,91,58,32,17,14,8,14
-1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,4,N226,,,Emile Ngoran,R,,CIV,18.157,,,E110,,,Hassan El Arousy,R,,EGY,20.441,,,6-2 6-0,3,RR,108,2,1,83,43,25,22,14,7,12,0,3,91,58,32,17,14,8,14
+1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,1,F014,,,Jose Antonio Fernandez,R,170,CHI,26.483,207,133,R224,,,Maurice Ruah,R,178,VEN,20.419,222,119,3-6 6-2 3-6 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,2,R012,,,Pedro Rebolledo,R,170,CHI,30.593,137,279,P218,,,Nicolas Pereira,R,188,VEN,20.81,227,115,6-3 6-1 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,3,R012,,,Pedro Rebolledo,R,170,CHI,30.593,137,279,R224,,,Maurice Ruah,R,178,VEN,20.419,222,119,5-7 6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D024,Davis Cup G2 SF: CHI vs VEN,Clay,4,D,19910726,4,P218,,,Nicolas Pereira,R,188,VEN,20.81,227,115,F014,,,Jose Antonio Fernandez,R,170,CHI,26.483,207,133,4-6 6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,1,N201,,,Clement N'Goran,R,178,CIV,21.955,317,66,E110,,,Hassan El Arousy,R,,EGY,20.441,,,6-2 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,2,E146,,,Tamer El Sawy,R,188,EGY,19.441,,,N226,,,Emile Ngoran,R,,CIV,18.157,,,6-2 3-6 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,3,N201,,,Clement N'Goran,R,178,CIV,21.955,317,66,E146,,,Tamer El Sawy,R,188,EGY,19.441,,,6-2 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D026,Davis Cup G2 SF: CIV vs EGY,Hard,4,D,19910726,4,N226,,,Emile Ngoran,R,,CIV,18.157,,,E110,,,Hassan El Arousy,R,,EGY,20.441,,,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 1991-319,Kitzbuhel,Clay,48,A,19910729,1,P037,,,Claudio Pistolesi,R,180,ITA,23.926,91,416,H191,,,Henrik Holm,R,183,SWE,22.932,131,282,6-1 6-4,3,R64,88,2,0,66,50,36,10,9,5,5,3,2,55,29,22,7,8,3,6
 1991-319,Kitzbuhel,Clay,48,A,19910729,2,Z039,,Q,Markus Zillner,L,178,GER,21.361,231,112,K067,,Q,Wojtek Kowalski,R,183,POL,23.8,301,72,4-6 6-4 6-3,3,R64,117,1,7,111,77,51,18,15,8,11,6,1,82,48,35,16,14,2,6
 1991-319,Kitzbuhel,Clay,48,A,19910729,3,L202,,,German Lopez,R,193,ESP,19.581,96,409,A035,,,Pablo Arraya,R,180,PER,29.769,116,332,7-6(2) 6-3,3,R64,95,8,0,54,34,31,17,11,0,0,4,3,70,32,27,19,10,2,3
@@ -3019,58 +3019,58 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-463,Brasilia,Carpet,48,A,19910909,45,S015,5,,Javier Sanchez,R,178,ESP,23.603,39,763,S380,9,,Bryan Shelton,R,185,USA,25.714,122,300,1-6 7-6(2) 7-6(6),3,SF,132,1,1,88,59,46,20,15,0,2,6,3,139,89,64,29,16,18,18
 1991-463,Brasilia,Carpet,48,A,19910909,46,G023,11,,Andres Gomez,L,193,ECU,31.532,142,237,M028,8,,Danilo Marcelino,R,193,BRA,25.506,120,307,6-4 7-6(4),3,SF,86,9,3,72,45,35,13,11,4,6,2,2,67,33,22,20,11,2,5
 1991-463,Brasilia,Carpet,48,A,19910909,47,G023,11,,Andres Gomez,L,193,ECU,31.532,142,237,S015,5,,Javier Sanchez,R,178,ESP,23.603,39,763,6-4 3-6 6-3,3,F,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D027,Davis Cup G2 F: KEN vs CIV,Clay,4,D,19910913,1,W122,,,Paul Wekesa,R,188,KEN,24.189,424,40,N215,,,Jean Nabi,R,,CIV,17.845,1103,1,6-1 6-1 7-6(0),5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D027,Davis Cup G2 F: KEN vs CIV,Clay,4,D,19910913,2,N201,,,Clement N'Goran,R,178,CIV,22.089,261,90,P216,,,Eno Polo,R,,KEN,,1048,3,6-3 6-3 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D027,Davis Cup G2 F: KEN vs CIV,Clay,4,D,19910913,3,W122,,,Paul Wekesa,R,188,KEN,24.189,424,40,N201,,,Clement N'Goran,R,178,CIV,22.089,261,90,7-5 6-0 6-2,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D027,Davis Cup G2 F: KEN vs CIV,Clay,4,D,19910913,4,P216,,,Eno Polo,R,,KEN,,1048,3,N215,,,Jean Nabi,R,,CIV,17.845,1103,1,6-3 7-6(5),3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D006,Davis Cup WG PO: GBR vs AUT,Grass,4,D,19910920,1,B021,,,Jeremy Bates,R,180,GBR,29.243,186,181,B317,,,Thomas Buchmayer,L,185,AUT,20.586,198,154,6-2 4-6 6-3 7-5,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D006,Davis Cup WG PO: GBR vs AUT,Grass,4,D,19910920,2,P222,,,Mark Petchey,R,183,GBR,21.125,324,67,M099,,,Thomas Muster,L,180,AUT,23.956,38,768,6-2 3-6 7-6(5) 6-2,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D006,Davis Cup WG PO: GBR vs AUT,Grass,4,D,19910920,3,M435,,,Gerald Mandl,L,190,AUT,20.843,422,40,B021,,,Jeremy Bates,R,180,GBR,29.243,186,181,7-5 4-6 10-8,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D006,Davis Cup WG PO: GBR vs AUT,Grass,4,D,19910920,4,B317,,,Thomas Buchmayer,L,185,AUT,20.586,198,154,P222,,,Mark Petchey,R,183,GBR,21.125,324,67,6-6,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D014,Davis Cup WG PO: BEL vs ISR,Clay,4,D,19910920,1,M031,,,Eduardo Masso,L,178,BEL,27.68,94,384,M012,,,Amos Mansdorf,R,175,ISR,25.906,67,496,3-6 7-6(3) 6-4 6-1,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D014,Davis Cup WG PO: BEL vs ISR,Clay,4,D,19910920,2,W133,,,Bart Wuyts,R,178,BEL,22.001,89,408,B051,,,Gilad Bloom,L,173,ISR,24.545,102,364,7-6(4) 6-1 5-7 6-2,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D014,Davis Cup WG PO: BEL vs ISR,Clay,4,D,19910920,3,W133,,,Bart Wuyts,R,178,BEL,22.001,89,408,M012,,,Amos Mansdorf,R,175,ISR,25.906,67,496,6-2 5-7 7-6(3) 6-1,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D014,Davis Cup WG PO: BEL vs ISR,Clay,4,D,19910920,4,M031,,,Eduardo Masso,L,178,BEL,27.68,94,384,B051,,,Gilad Bloom,L,173,ISR,24.545,102,364,7-6(6) 6-3,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D015,Davis Cup WG PO: BRA vs IND,Clay,4,D,19910920,1,O076,,,Jaime Oncins,R,196,BRA,21.251,96,380,K024,,,Ramesh Krishnan,R,170,IND,30.281,157,217,6-2 6-2 6-3,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D015,Davis Cup WG PO: BRA vs IND,Clay,4,D,19910920,2,M035,,,Luiz Mattar,R,183,BRA,28.079,74,469,P269,,,Leander Paes,R,178,IND,18.248,330,64,6-4 6-3 6-2,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D015,Davis Cup WG PO: BRA vs IND,Clay,4,D,19910920,3,M035,,,Luiz Mattar,R,183,BRA,28.079,74,469,K024,,,Ramesh Krishnan,R,170,IND,30.281,157,217,5-7 6-3 6-3 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D015,Davis Cup WG PO: BRA vs IND,Clay,4,D,19910920,4,O076,,,Jaime Oncins,R,196,BRA,21.251,96,380,P269,,,Leander Paes,R,178,IND,18.248,330,64,6-4 6-1,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D019,Davis Cup WG PO: CUB vs CAN,Hard,4,D,19910920,1,T129,,,Mario Tabares,R,180,CUB,26.152,232,121,S102,,,Andrew Sznajder,R,175,CAN,24.312,205,144,6-3 2-6 3-6 6-3 8-6,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D019,Davis Cup WG PO: CUB vs CAN,Hard,4,D,19910920,2,C046,,,Grant Connell,L,185,CAN,25.829,75,459,P217,,,Juan Pino,R,185,CUB,26.204,306,71,7-6(2) 6-3 6-2,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D019,Davis Cup WG PO: CUB vs CAN,Hard,4,D,19910920,3,C046,,,Grant Connell,L,185,CAN,25.829,75,459,T129,,,Mario Tabares,R,180,CUB,26.152,232,121,6-1 6-3 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D019,Davis Cup WG PO: CUB vs CAN,Hard,4,D,19910920,4,P217,,,Juan Pino,R,185,CUB,26.204,306,71,S102,,,Andrew Sznajder,R,175,CAN,24.312,205,144,6-3 6-1,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,1,R012,,,Pedro Rebolledo,R,170,CHI,30.746,172,196,C261,,,Jaime Cortes,R,,COL,26.141,311,70,6-3 6-0 6-1,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,2,F014,,,Jose Antonio Fernandez,R,170,CHI,26.637,251,103,J020,,,Alvaro Jordan,R,185,COL,29.687,248,104,6-4 7-5 6-3,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,3,J020,,,Alvaro Jordan,R,185,COL,29.687,248,104,R012,,,Pedro Rebolledo,R,170,CHI,30.746,172,196,2-6 6-3 7-5,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,4,F014,,,Jose Antonio Fernandez,R,170,CHI,26.637,251,103,C261,,,Jaime Cortes,R,,COL,26.141,311,70,6-1 5-7 3-2,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D035,Davis Cup WG PO: ITA vs DEN,Clay,4,D,19910920,1,F206,,,Frederik Fetterlein,R,190,DEN,21.183,312,69,C009,,,Omar Camporese,R,188,ITA,23.357,33,800,3-6 6-3 6-2 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D035,Davis Cup WG PO: ITA vs DEN,Clay,4,D,19910920,2,P037,,,Claudio Pistolesi,R,180,ITA,24.06,110,351,T010,,,Michael Tauson,R,193,DEN,25.227,361,53,6-1 6-2 7-6(4),5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D035,Davis Cup WG PO: ITA vs DEN,Clay,4,D,19910920,3,C009,,,Omar Camporese,R,188,ITA,23.357,33,800,T010,,,Michael Tauson,R,193,DEN,25.227,361,53,7-6(5) 6-1 6-2,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D035,Davis Cup WG PO: ITA vs DEN,Clay,4,D,19910920,4,P037,,,Claudio Pistolesi,R,180,ITA,24.06,110,351,F206,,,Frederik Fetterlein,R,190,DEN,21.183,312,69,7-6(3) 6-3,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D046,Davis Cup WG SF: FRA vs YUG,Hard,4,D,19910920,1,F035,,,Guy Forget,L,191,FRA,26.697,6,1917,M459,,,Srdan Muskatirovic,R,,SRB,19.433,442,37,6-2 6-1 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D046,Davis Cup WG SF: FRA vs YUG,Hard,4,D,19910920,2,S424,,,Fabrice Santoro,R,178,FRA,18.768,40,756,Z006,,,Slobodan Zivojinovic,R,198,YUG,28.151,167,200,4-6 7-5 7-6(0) 3-6 6-3,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D046,Davis Cup WG SF: FRA vs YUG,Hard,4,D,19910920,3,F035,,,Guy Forget,L,191,FRA,26.697,6,1917,Z006,,,Slobodan Zivojinovic,R,198,YUG,28.151,167,200,6-1 3-6 6-2,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D046,Davis Cup WG SF: FRA vs YUG,Hard,4,D,19910920,4,S424,,,Fabrice Santoro,R,178,FRA,18.768,40,756,M459,,,Srdan Muskatirovic,R,,SRB,19.433,442,37,6-7(1) 6-3 7-5,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D049,Davis Cup WG SF: USA vs GER,Clay,4,D,19910920,1,A092,,,Andre Agassi,R,180,USA,21.383,8,1622,S351,,,Michael Stich,R,193,GER,22.91,5,2666,6-3 6-1 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D049,Davis Cup WG SF: USA vs GER,Clay,4,D,19910920,2,C243,,,Jim Courier,R,185,USA,21.081,3,2885,S080,,,Carl-Uwe Steeb,L,180,GER,24.041,47,654,4-6 6-1 6-3 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D049,Davis Cup WG SF: USA vs GER,Clay,4,D,19910920,3,S351,,,Michael Stich,R,193,GER,22.91,5,2666,C243,,,Jim Courier,R,185,USA,21.081,3,2885,6-4 7-5 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D049,Davis Cup WG SF: USA vs GER,Clay,4,D,19910920,4,A092,,,Andre Agassi,R,180,USA,21.383,8,1622,S080,,,Carl-Uwe Steeb,L,180,GER,24.041,47,654,6-2 6-2 6-3,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,1,L280,,,Yu-Hui Lien,R,,TPE,21.243,854,5,G241,,,Colin Grant,R,,HKG,,,,6-2 6-2 6-3,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,2,W003,,,Michael Walker,L,183,HKG,25.405,,,C364,,,Chih-Jung Chen,R,,TPE,18.976,1098,1,6-4 6-3 6-3,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,3,W003,,,Michael Walker,L,183,HKG,25.405,,,L280,,,Yu-Hui Lien,R,,TPE,21.243,854,5,7-6(6) 6-4 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,4,C364,,,Chih-Jung Chen,R,,TPE,18.976,1098,1,G241,,,Colin Grant,R,,HKG,,,,7-5 6-3 6-3,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D073,Davis Cup WG PO: MEX vs NED,Clay,4,D,19910920,1,K016,,,Mark Koevermans,R,185,NED,23.617,44,700,H228,,,Luis Herrera,L,170,MEX,20.055,90,402,6-3 6-4 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D073,Davis Cup WG PO: MEX vs NED,Clay,4,D,19910920,2,H223,,,Paul Haarhuis,R,188,NED,25.572,31,820,L009,,,Leonardo Lavalle,L,188,MEX,24.175,211,136,4-6 7-6(3) 7-5 6-2,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D073,Davis Cup WG PO: MEX vs NED,Clay,4,D,19910920,3,H223,,,Paul Haarhuis,R,188,NED,25.572,31,820,H228,,,Luis Herrera,L,170,MEX,20.055,90,402,6-3 6-3,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D073,Davis Cup WG PO: MEX vs NED,Clay,4,D,19910920,4,K016,,,Mark Koevermans,R,185,NED,23.617,44,700,L009,,,Leonardo Lavalle,L,188,MEX,24.175,211,136,6-2 6-4,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D078,Davis Cup WG PO: SUI vs NZL,Carpet,4,D,19910920,1,R214,,,Marc Rosset,R,201,SUI,20.857,34,797,S321,,,Brett Steven,R,185,NZL,22.387,194,162,7-5 6-4 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D078,Davis Cup WG PO: SUI vs NZL,Carpet,4,D,19910920,2,H025,,,Jakob Hlasek,R,188,SUI,26.842,18,1134,E025,,,Kelly Evernden,R,175,NZL,29.985,225,129,7-6(2) 6-4 6-3,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D078,Davis Cup WG PO: SUI vs NZL,Carpet,4,D,19910920,3,H025,,,Jakob Hlasek,R,188,SUI,26.842,18,1134,S321,,,Brett Steven,R,185,NZL,22.387,194,162,7-5 6-4,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D078,Davis Cup WG PO: SUI vs NZL,Carpet,4,D,19910920,4,R214,,,Marc Rosset,R,201,SUI,20.857,34,797,E025,,,Kelly Evernden,R,175,NZL,29.985,225,129,7-6(3) 3-6 6-3,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D080,Davis Cup WG PO: PHI vs SWE,Carpet,4,D,19910920,1,K181,,,Nicklas Kulti,R,190,SWE,20.402,65,517,B168,,,Felix Barrientos,R,178,PHI,23.822,204,144,6-3 6-1 6-4,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D080,Davis Cup WG PO: PHI vs SWE,Carpet,4,D,19910920,2,B040,,,Christian Bergstrom,R,180,SWE,24.162,46,656,S342,,,Roland So,R,,PHI,,616,17,6-1 7-5 6-1,5,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D080,Davis Cup WG PO: PHI vs SWE,Carpet,4,D,19910920,3,B040,,,Christian Bergstrom,R,180,SWE,24.162,46,656,B168,,,Felix Barrientos,R,178,PHI,23.822,204,144,6-0 6-4,3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
-1991-D080,Davis Cup WG PO: PHI vs SWE,Carpet,4,D,19910920,4,K181,,,Nicklas Kulti,R,190,SWE,20.402,65,517,S342,,,Roland So,R,,PHI,,616,17,6-2 7-6(3),3,RR,98,6,3,84,51,41,17,14,3,4,3,3,92,62,41,18,14,3,5
+1991-D027,Davis Cup G2 F: KEN vs CIV,Clay,4,D,19910913,1,W122,,,Paul Wekesa,R,188,KEN,24.189,424,40,N215,,,Jean Nabi,R,,CIV,17.845,1103,1,6-1 6-1 7-6(0),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D027,Davis Cup G2 F: KEN vs CIV,Clay,4,D,19910913,2,N201,,,Clement N'Goran,R,178,CIV,22.089,261,90,P216,,,Eno Polo,R,,KEN,,1048,3,6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D027,Davis Cup G2 F: KEN vs CIV,Clay,4,D,19910913,3,W122,,,Paul Wekesa,R,188,KEN,24.189,424,40,N201,,,Clement N'Goran,R,178,CIV,22.089,261,90,7-5 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D027,Davis Cup G2 F: KEN vs CIV,Clay,4,D,19910913,4,P216,,,Eno Polo,R,,KEN,,1048,3,N215,,,Jean Nabi,R,,CIV,17.845,1103,1,6-3 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
+1991-D006,Davis Cup WG PO: GBR vs AUT,Grass,4,D,19910920,1,B021,,,Jeremy Bates,R,180,GBR,29.243,186,181,B317,,,Thomas Buchmayer,L,185,AUT,20.586,198,154,6-2 4-6 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D006,Davis Cup WG PO: GBR vs AUT,Grass,4,D,19910920,2,P222,,,Mark Petchey,R,183,GBR,21.125,324,67,M099,,,Thomas Muster,L,180,AUT,23.956,38,768,6-2 3-6 7-6(5) 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D006,Davis Cup WG PO: GBR vs AUT,Grass,4,D,19910920,3,M435,,,Gerald Mandl,L,190,AUT,20.843,422,40,B021,,,Jeremy Bates,R,180,GBR,29.243,186,181,7-5 4-6 10-8,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D006,Davis Cup WG PO: GBR vs AUT,Grass,4,D,19910920,4,B317,,,Thomas Buchmayer,L,185,AUT,20.586,198,154,P222,,,Mark Petchey,R,183,GBR,21.125,324,67,6-6,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D014,Davis Cup WG PO: BEL vs ISR,Clay,4,D,19910920,1,M031,,,Eduardo Masso,L,178,BEL,27.68,94,384,M012,,,Amos Mansdorf,R,175,ISR,25.906,67,496,3-6 7-6(3) 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D014,Davis Cup WG PO: BEL vs ISR,Clay,4,D,19910920,2,W133,,,Bart Wuyts,R,178,BEL,22.001,89,408,B051,,,Gilad Bloom,L,173,ISR,24.545,102,364,7-6(4) 6-1 5-7 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D014,Davis Cup WG PO: BEL vs ISR,Clay,4,D,19910920,3,W133,,,Bart Wuyts,R,178,BEL,22.001,89,408,M012,,,Amos Mansdorf,R,175,ISR,25.906,67,496,6-2 5-7 7-6(3) 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D014,Davis Cup WG PO: BEL vs ISR,Clay,4,D,19910920,4,M031,,,Eduardo Masso,L,178,BEL,27.68,94,384,B051,,,Gilad Bloom,L,173,ISR,24.545,102,364,7-6(6) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D015,Davis Cup WG PO: BRA vs IND,Clay,4,D,19910920,1,O076,,,Jaime Oncins,R,196,BRA,21.251,96,380,K024,,,Ramesh Krishnan,R,170,IND,30.281,157,217,6-2 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D015,Davis Cup WG PO: BRA vs IND,Clay,4,D,19910920,2,M035,,,Luiz Mattar,R,183,BRA,28.079,74,469,P269,,,Leander Paes,R,178,IND,18.248,330,64,6-4 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D015,Davis Cup WG PO: BRA vs IND,Clay,4,D,19910920,3,M035,,,Luiz Mattar,R,183,BRA,28.079,74,469,K024,,,Ramesh Krishnan,R,170,IND,30.281,157,217,5-7 6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D015,Davis Cup WG PO: BRA vs IND,Clay,4,D,19910920,4,O076,,,Jaime Oncins,R,196,BRA,21.251,96,380,P269,,,Leander Paes,R,178,IND,18.248,330,64,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D019,Davis Cup WG PO: CUB vs CAN,Hard,4,D,19910920,1,T129,,,Mario Tabares,R,180,CUB,26.152,232,121,S102,,,Andrew Sznajder,R,175,CAN,24.312,205,144,6-3 2-6 3-6 6-3 8-6,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D019,Davis Cup WG PO: CUB vs CAN,Hard,4,D,19910920,2,C046,,,Grant Connell,L,185,CAN,25.829,75,459,P217,,,Juan Pino,R,185,CUB,26.204,306,71,7-6(2) 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D019,Davis Cup WG PO: CUB vs CAN,Hard,4,D,19910920,3,C046,,,Grant Connell,L,185,CAN,25.829,75,459,T129,,,Mario Tabares,R,180,CUB,26.152,232,121,6-1 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D019,Davis Cup WG PO: CUB vs CAN,Hard,4,D,19910920,4,P217,,,Juan Pino,R,185,CUB,26.204,306,71,S102,,,Andrew Sznajder,R,175,CAN,24.312,205,144,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,1,R012,,,Pedro Rebolledo,R,170,CHI,30.746,172,196,C261,,,Jaime Cortes,R,,COL,26.141,311,70,6-3 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,2,F014,,,Jose Antonio Fernandez,R,170,CHI,26.637,251,103,J020,,,Alvaro Jordan,R,185,COL,29.687,248,104,6-4 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,3,J020,,,Alvaro Jordan,R,185,COL,29.687,248,104,R012,,,Pedro Rebolledo,R,170,CHI,30.746,172,196,2-6 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D022,Davis Cup G2 F: COL vs CHI,Clay,4,D,19910920,4,F014,,,Jose Antonio Fernandez,R,170,CHI,26.637,251,103,C261,,,Jaime Cortes,R,,COL,26.141,311,70,6-1 5-7 3-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D035,Davis Cup WG PO: ITA vs DEN,Clay,4,D,19910920,1,F206,,,Frederik Fetterlein,R,190,DEN,21.183,312,69,C009,,,Omar Camporese,R,188,ITA,23.357,33,800,3-6 6-3 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D035,Davis Cup WG PO: ITA vs DEN,Clay,4,D,19910920,2,P037,,,Claudio Pistolesi,R,180,ITA,24.06,110,351,T010,,,Michael Tauson,R,193,DEN,25.227,361,53,6-1 6-2 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1991-D035,Davis Cup WG PO: ITA vs DEN,Clay,4,D,19910920,3,C009,,,Omar Camporese,R,188,ITA,23.357,33,800,T010,,,Michael Tauson,R,193,DEN,25.227,361,53,7-6(5) 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D035,Davis Cup WG PO: ITA vs DEN,Clay,4,D,19910920,4,P037,,,Claudio Pistolesi,R,180,ITA,24.06,110,351,F206,,,Frederik Fetterlein,R,190,DEN,21.183,312,69,7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D046,Davis Cup WG SF: FRA vs YUG,Hard,4,D,19910920,1,F035,,,Guy Forget,L,191,FRA,26.697,6,1917,M459,,,Srdan Muskatirovic,R,,SRB,19.433,442,37,6-2 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D046,Davis Cup WG SF: FRA vs YUG,Hard,4,D,19910920,2,S424,,,Fabrice Santoro,R,178,FRA,18.768,40,756,Z006,,,Slobodan Zivojinovic,R,198,YUG,28.151,167,200,4-6 7-5 7-6(0) 3-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D046,Davis Cup WG SF: FRA vs YUG,Hard,4,D,19910920,3,F035,,,Guy Forget,L,191,FRA,26.697,6,1917,Z006,,,Slobodan Zivojinovic,R,198,YUG,28.151,167,200,6-1 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D046,Davis Cup WG SF: FRA vs YUG,Hard,4,D,19910920,4,S424,,,Fabrice Santoro,R,178,FRA,18.768,40,756,M459,,,Srdan Muskatirovic,R,,SRB,19.433,442,37,6-7(1) 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D049,Davis Cup WG SF: USA vs GER,Clay,4,D,19910920,1,A092,,,Andre Agassi,R,180,USA,21.383,8,1622,S351,,,Michael Stich,R,193,GER,22.91,5,2666,6-3 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D049,Davis Cup WG SF: USA vs GER,Clay,4,D,19910920,2,C243,,,Jim Courier,R,185,USA,21.081,3,2885,S080,,,Carl-Uwe Steeb,L,180,GER,24.041,47,654,4-6 6-1 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D049,Davis Cup WG SF: USA vs GER,Clay,4,D,19910920,3,S351,,,Michael Stich,R,193,GER,22.91,5,2666,C243,,,Jim Courier,R,185,USA,21.081,3,2885,6-4 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D049,Davis Cup WG SF: USA vs GER,Clay,4,D,19910920,4,A092,,,Andre Agassi,R,180,USA,21.383,8,1622,S080,,,Carl-Uwe Steeb,L,180,GER,24.041,47,654,6-2 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,1,L280,,,Yu-Hui Lien,R,,TPE,21.243,854,5,G241,,,Colin Grant,R,,HKG,,,,6-2 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,2,W003,,,Michael Walker,L,183,HKG,25.405,,,C364,,,Chih-Jung Chen,R,,TPE,18.976,1098,1,6-4 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,3,W003,,,Michael Walker,L,183,HKG,25.405,,,L280,,,Yu-Hui Lien,R,,TPE,21.243,854,5,7-6(6) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D054,Davis Cup G2 F: TPE vs HKG,Hard,4,D,19910920,4,C364,,,Chih-Jung Chen,R,,TPE,18.976,1098,1,G241,,,Colin Grant,R,,HKG,,,,7-5 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D073,Davis Cup WG PO: MEX vs NED,Clay,4,D,19910920,1,K016,,,Mark Koevermans,R,185,NED,23.617,44,700,H228,,,Luis Herrera,L,170,MEX,20.055,90,402,6-3 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D073,Davis Cup WG PO: MEX vs NED,Clay,4,D,19910920,2,H223,,,Paul Haarhuis,R,188,NED,25.572,31,820,L009,,,Leonardo Lavalle,L,188,MEX,24.175,211,136,4-6 7-6(3) 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D073,Davis Cup WG PO: MEX vs NED,Clay,4,D,19910920,3,H223,,,Paul Haarhuis,R,188,NED,25.572,31,820,H228,,,Luis Herrera,L,170,MEX,20.055,90,402,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D073,Davis Cup WG PO: MEX vs NED,Clay,4,D,19910920,4,K016,,,Mark Koevermans,R,185,NED,23.617,44,700,L009,,,Leonardo Lavalle,L,188,MEX,24.175,211,136,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D078,Davis Cup WG PO: SUI vs NZL,Carpet,4,D,19910920,1,R214,,,Marc Rosset,R,201,SUI,20.857,34,797,S321,,,Brett Steven,R,185,NZL,22.387,194,162,7-5 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D078,Davis Cup WG PO: SUI vs NZL,Carpet,4,D,19910920,2,H025,,,Jakob Hlasek,R,188,SUI,26.842,18,1134,E025,,,Kelly Evernden,R,175,NZL,29.985,225,129,7-6(2) 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D078,Davis Cup WG PO: SUI vs NZL,Carpet,4,D,19910920,3,H025,,,Jakob Hlasek,R,188,SUI,26.842,18,1134,S321,,,Brett Steven,R,185,NZL,22.387,194,162,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D078,Davis Cup WG PO: SUI vs NZL,Carpet,4,D,19910920,4,R214,,,Marc Rosset,R,201,SUI,20.857,34,797,E025,,,Kelly Evernden,R,175,NZL,29.985,225,129,7-6(3) 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D080,Davis Cup WG PO: PHI vs SWE,Carpet,4,D,19910920,1,K181,,,Nicklas Kulti,R,190,SWE,20.402,65,517,B168,,,Felix Barrientos,R,178,PHI,23.822,204,144,6-3 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D080,Davis Cup WG PO: PHI vs SWE,Carpet,4,D,19910920,2,B040,,,Christian Bergstrom,R,180,SWE,24.162,46,656,S342,,,Roland So,R,,PHI,,616,17,6-1 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D080,Davis Cup WG PO: PHI vs SWE,Carpet,4,D,19910920,3,B040,,,Christian Bergstrom,R,180,SWE,24.162,46,656,B168,,,Felix Barrientos,R,178,PHI,23.822,204,144,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1991-D080,Davis Cup WG PO: PHI vs SWE,Carpet,4,D,19910920,4,K181,,,Nicklas Kulti,R,190,SWE,20.402,65,517,S342,,,Roland So,R,,PHI,,616,17,6-2 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,
 1991-325,Palermo,Clay,32,A,19910923,1,S014,1,,Emilio Sanchez,R,180,ESP,26.319,12,1396,P021,,Q,Diego Perez,R,178,URU,29.618,184,180,6-4 6-0,3,R32,70,7,2,47,30,22,8,8,0,2,1,3,47,32,14,5,8,4,10
 1991-325,Palermo,Clay,32,A,19910923,2,J004,,,Martin Jaite,R,178,ARG,26.954,42,725,E106,,,Jacco Eltingh,R,188,NED,21.068,93,395,6-2 6-2,3,R32,85,3,1,56,34,27,9,8,7,8,3,2,52,23,15,10,8,4,9
 1991-325,Palermo,Clay,32,A,19910923,3,A040,,,Roberto Azar,L,185,ARG,25.509,100,374,P235,,,Stefano Pescosolido,R,185,ITA,20.279,76,459,7-5 3-6 7-6(1),3,R32,150,1,5,104,78,55,11,16,11,15,7,5,105,60,43,20,17,3,7
@@ -3708,9 +3708,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1991-605,Tour Finals,Carpet,8,F,19911112,13,B028,,,Boris Becker,R,191,GER,23.97,3,2852,S351,,,Michael Stich,R,193,GER,23.064,4,2675,7-6(1) 6-3,3,RR,87,11,1,56,44,39,6,10,0,0,6,6,78,35,26,21,11,4,6
 1991-605,Tour Finals,Carpet,8,F,19911112,14,B028,,,Boris Becker,R,191,GER,23.97,3,2852,S402,,,Pete Sampras,R,185,USA,20.249,7,2122,6-4 6-7(3) 6-1,3,RR,124,17,2,80,47,40,21,15,0,0,4,3,97,58,42,16,14,6,9
 1991-605,Tour Finals,Carpet,8,F,19911112,15,S402,,,Pete Sampras,R,185,USA,20.249,7,2122,S351,,,Michael Stich,R,193,GER,23.064,4,2675,6-2 7-6(3),3,RR,86,6,5,62,32,27,18,10,0,0,8,3,68,37,29,10,10,3,5
-1991-D045,Davis Cup WG F: FRA vs USA,Carpet,4,D,19911129,1,A092,,,Andre Agassi,R,180,USA,21.574,10,1519,F035,,,Guy Forget,L,191,FRA,26.888,7,2392,6-7(7) 6-2 6-1 6-2,5,RR,86,6,5,62,32,27,18,10,0,0,8,3,68,37,29,10,10,3,5
-1991-D045,Davis Cup WG F: FRA vs USA,Carpet,4,D,19911129,2,L014,,,Henri Leconte,L,185,FRA,28.394,159,219,S402,,,Pete Sampras,R,185,USA,20.287,6,2492,6-4 7-5 6-4,5,RR,86,6,5,62,32,27,18,10,0,0,8,3,68,37,29,10,10,3,5
-1991-D045,Davis Cup WG F: FRA vs USA,Carpet,4,D,19911129,3,F035,,,Guy Forget,L,191,FRA,26.888,7,2392,S402,,,Pete Sampras,R,185,USA,20.287,6,2492,7-6(6) 3-6 6-3 6-4,5,RR,86,6,5,62,32,27,18,10,0,0,8,3,68,37,29,10,10,3,5
+1991-D045,Davis Cup WG F: FRA vs USA,Carpet,4,D,19911129,1,A092,,,Andre Agassi,R,180,USA,21.574,10,1519,F035,,,Guy Forget,L,191,FRA,26.888,7,2392,6-7(7) 6-2 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D045,Davis Cup WG F: FRA vs USA,Carpet,4,D,19911129,2,L014,,,Henri Leconte,L,185,FRA,28.394,159,219,S402,,,Pete Sampras,R,185,USA,20.287,6,2492,6-4 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1991-D045,Davis Cup WG F: FRA vs USA,Carpet,4,D,19911129,3,F035,,,Guy Forget,L,191,FRA,26.888,7,2392,S402,,,Pete Sampras,R,185,USA,20.287,6,2492,7-6(6) 3-6 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
 1991-604,Grand Slam Cup,Carpet,16,A,19911210,1,W136,,,Todd Woodbridge,R,178,AUS,20.687,78,,K023,,,Aaron Krickstein,R,183,USA,24.353,34,,6-3 6-3,3,R16,86,6,5,62,32,27,18,10,0,0,8,3,68,37,29,10,10,3,5
 1991-604,Grand Slam Cup,Carpet,16,A,19911210,2,W123,7,,David Wheaton,R,193,USA,22.519,17,,H223,,,Paul Haarhuis,R,188,NED,25.802,37,,1-6 6-3 6-2,3,R16,86,6,5,62,32,27,18,10,0,0,8,3,68,37,29,10,10,3,5
 1991-604,Grand Slam Cup,Carpet,16,A,19911210,3,S351,3,,Michael Stich,R,193,GER,23.14,4,,P050,,,Goran Prpic,R,180,CRO,27.598,18,,6-4 6-3,3,R16,86,6,5,62,32,27,18,10,0,0,8,3,68,37,29,10,10,3,5

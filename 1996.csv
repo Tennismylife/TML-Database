@@ -343,92 +343,92 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-890,Shanghai,Carpet,32,A,19960129,29,K171,,,Mark Knowles,R,190,BAH,24.402,140,310,T195,4,,Michael Tebbutt,L,190,AUS,25.103,102,467,3-6 6-1 6-4,3,SF,93,10,3,74,44,35,20,13,5,6,16,3,76,42,30,16,13,1,4
 1996-890,Shanghai,Carpet,32,A,19960129,30,O009,6,,Andrei Olhovskiy,R,185,RUS,29.791,130,354,H336,2,,Tim Henman,R,185,GBR,21.396,84,551,4-6 6-4 6-4,3,SF,94,7,5,84,45,38,22,15,0,1,10,2,89,61,47,14,15,3,5
 1996-890,Shanghai,Carpet,32,A,19960129,31,O009,6,,Andrei Olhovskiy,R,185,RUS,29.791,130,354,K171,,,Mark Knowles,R,190,BAH,24.402,140,310,7-6(5) 6-2,3,F,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D009,Davis Cup G1 QF: AUS vs TPE,Hard,4,D,19960209,1,S331,,,Jason Stoltenberg,R,185,AUS,25.84,81,588,C364,,,Chih-Jung Chen,R,,TPE,23.365,706,16,6-1 6-2 7-6(1),5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D009,Davis Cup G1 QF: AUS vs TPE,Hard,4,D,19960209,2,W136,,,Todd Woodbridge,R,178,AUS,24.846,30,1034,C453,,,Wei-Ju Chen,R,,TPE,17.821,1068,4,6-2 6-1 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D011,Davis Cup WG R1: RSA vs AUT,Grass,4,D,19960209,1,M099,,,Thomas Muster,L,180,AUT,28.345,2,4474,O098,,,Marcos Ondruska,R,183,RSA,23.132,98,483,6-2 7-5 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D011,Davis Cup WG R1: RSA vs AUT,Grass,4,D,19960209,2,F196,,,Wayne Ferreira,R,185,RSA,24.392,10,2144,S649,,,Wolfgang Schranz,R,178,AUT,19.882,475,48,6-1 7-6(2) 6-4,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D011,Davis Cup WG R1: RSA vs AUT,Grass,4,D,19960209,3,M099,,,Thomas Muster,L,180,AUT,28.345,2,4474,F196,,,Wayne Ferreira,R,185,RSA,24.392,10,2144,7-5 6-7(5) 6-4 7-6(4),5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D011,Davis Cup WG R1: RSA vs AUT,Grass,4,D,19960209,4,O098,,,Marcos Ondruska,R,183,RSA,23.132,98,483,S315,,,Gilbert Schaller,R,180,AUT,26.888,19,1256,6-3 6-4 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,1,Y017,,,Jaime Yzaga,R,170,PER,28.287,93,508,S340,,,Roger Smith,R,185,BAH,32.044,741,15,4-6 6-3 6-7(5) 7-5 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,2,K171,,,Mark Knowles,R,190,BAH,24.422,115,428,V157,,,Americo Venero Montes,U,,PER,23.953,,,6-4 6-3 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,3,K171,,,Mark Knowles,R,190,BAH,24.422,115,428,Y017,,,Jaime Yzaga,R,170,PER,28.287,93,508,2-6 7-5 7-6(2) 6-3,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,4,V157,,,Americo Venero Montes,U,,PER,23.953,,,S340,,,Roger Smith,R,185,BAH,32.044,741,15,6-4 6-4,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D013,Davis Cup G2 QF: ECU vs BAR,Clay,4,D,19960209,1,M506,,,Luis Adrian Morejon,R,178,ECU,22.858,147,286,B302,,,Martin Blackman,R,188,USA,25.922,613,24,6-7(5) 6-1 6-1 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D013,Davis Cup G2 QF: ECU vs BAR,Clay,4,D,19960209,2,L290,,,Nicolas Lapentti,R,188,ECU,19.48,106,464,A037,,,Richard Ashby,R,,USA,31.058,,,6-2 7-6(2) 6-3,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D013,Davis Cup G2 QF: ECU vs BAR,Clay,4,D,19960209,3,L290,,,Nicolas Lapentti,R,188,ECU,19.48,106,464,B302,,,Martin Blackman,R,188,USA,25.922,613,24,6-1 6-2,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D013,Davis Cup G2 QF: ECU vs BAR,Clay,4,D,19960209,4,M506,,,Luis Adrian Morejon,R,178,ECU,22.858,147,286,A037,,,Richard Ashby,R,,USA,31.058,,,7-6(7) 6-2,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D016,Davis Cup WG R1: SWE vs BEL,Carpet,4,D,19960209,1,L206,,,Magnus Larsson,R,193,SWE,25.867,21,1201,D228,,,Filip Dewulf,R,190,BEL,23.893,63,706,6-3 7-5 7-6(4),5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D016,Davis Cup WG R1: SWE vs BEL,Carpet,4,D,19960209,2,E113,,,Thomas Enqvist,R,190,SWE,21.9,7,2519,N233,,,Dick Norman,L,203,BEL,24.934,119,420,6-4 6-3 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D016,Davis Cup WG R1: SWE vs BEL,Carpet,4,D,19960209,3,V167,,,Johan Van Herck,R,185,BEL,21.703,104,466,E113,,,Thomas Enqvist,R,190,SWE,21.9,7,2519,7-5 6-2,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D016,Davis Cup WG R1: SWE vs BEL,Carpet,4,D,19960209,4,L206,,,Magnus Larsson,R,193,SWE,25.867,21,1201,N233,,,Dick Norman,L,203,BEL,24.934,119,420,7-6(3) 6-4,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,1,M443,,,Fernando Meligeni,L,180,BRA,24.819,70,664,C250,,,Sergio Cortes,R,170,CHI,28.068,231,158,6-1 6-1 7-5,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,2,R286,,,Marcelo Rios,L,175,CHI,20.112,24,1164,O076,,,Jaime Oncins,R,196,BRA,25.64,225,169,6-3 6-2 7-5,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,3,R286,,,Marcelo Rios,L,175,CHI,20.112,24,1164,M443,,,Fernando Meligeni,L,180,BRA,24.819,70,664,6-2 7-6(2) 6-3,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,4,O076,,,Jaime Oncins,R,196,BRA,25.64,225,169,C250,,,Sergio Cortes,R,170,CHI,28.068,231,158,6-3 6-4 7-5,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D024,Davis Cup G1 QF: VEN vs CAN,Hard,4,D,19960209,1,P218,,,Nicolas Pereira,R,188,VEN,25.352,107,462,N210,,,Daniel Nestor,L,191,CAN,23.42,187,215,6-4 3-6 6-3 2-6 6-4,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D024,Davis Cup G1 QF: VEN vs CAN,Hard,4,D,19960209,2,S585,,,Jimy Szymanski,R,175,VEN,20.392,386,72,L226,,,Sebastien Lareau,R,183,CAN,22.776,125,390,7-6(4) 0-6 6-2 6-4,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D024,Davis Cup G1 QF: VEN vs CAN,Hard,4,D,19960209,3,L226,,,Sebastien Lareau,R,183,CAN,22.776,125,390,P218,,,Nicolas Pereira,R,188,VEN,25.352,107,462,6-7(5) 6-3 6-3 6-3,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D024,Davis Cup G1 QF: VEN vs CAN,Hard,4,D,19960209,4,S585,,,Jimy Szymanski,R,175,VEN,20.392,386,72,C308,,,Albert Chang,R,183,CAN,24.939,177,225,6-3 5-7 6-3 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D027,Davis Cup G1 QF: NZL vs CHN,Grass,4,D,19960209,1,S321,,,Brett Steven,R,185,NZL,26.776,35,964,Z090,,,Yu Zheng,R,,CHN,19.726,936,7,6-0 6-1 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D027,Davis Cup G1 QF: NZL vs CHN,Grass,4,D,19960209,2,X002,,,Jia-Ping Xia,R,165,CHN,26.932,514,41,H297,,,Alistair Hunt,R,190,NZL,23.233,525,39,6-3 3-6 6-4 7-5,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D027,Davis Cup G1 QF: NZL vs CHN,Grass,4,D,19960209,3,S321,,,Brett Steven,R,185,NZL,26.776,35,964,X002,,,Jia-Ping Xia,R,165,CHN,26.932,514,41,6-4 6-2 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D027,Davis Cup G1 QF: NZL vs CHN,Grass,4,D,19960209,4,H297,,,Alistair Hunt,R,190,NZL,23.233,525,39,Z090,,,Yu Zheng,R,,CHN,19.726,936,7,6-1 6-4,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,1,T133,,,Miguel Tobon,R,185,COL,27.622,212,182,G320,,,Jorge Gonzalez,R,,PUR,23.6,827,11,6-2 6-2 7-5,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,2,H256,,,Mauricio Hadad,R,170,COL,24.164,86,539,J157,,,Rafael Jordan,U,,PUR,18.697,,,6-0 6-2 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,3,H256,,,Mauricio Hadad,R,170,COL,24.164,86,539,G320,,,Jorge Gonzalez,R,,PUR,23.6,827,11,6-0 4-6 6-2,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,4,T133,,,Miguel Tobon,R,185,COL,27.622,212,182,J157,,,Rafael Jordan,U,,PUR,18.697,,,6-3 6-4,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D034,Davis Cup G2 QF: CUB vs PAR,Hard,4,D,19960209,1,D316,,,Ramon Delgado,R,185,PAR,19.225,313,96,P300,,,Armando Perez,R,,CUB,30.508,423,59,7-6(5) 6-4 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D034,Davis Cup G2 QF: CUB vs PAR,Hard,4,D,19960209,2,P217,,,Juan Pino,R,185,CUB,30.593,403,65,M462,,,Ricardo Mena,R,,PAR,24.29,772,13,6-2 6-3 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D034,Davis Cup G2 QF: CUB vs PAR,Hard,4,D,19960209,3,P217,,,Juan Pino,R,185,CUB,30.593,403,65,D316,,,Ramon Delgado,R,185,PAR,19.225,313,96,6-7(4) 6-4 2-6 6-4 11-9,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D034,Davis Cup G2 QF: CUB vs PAR,Hard,4,D,19960209,4,M462,,,Ricardo Mena,R,,PAR,24.29,772,13,P300,,,Armando Perez,R,,CUB,30.508,423,59,1-6 6-4 6-3,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D035,Davis Cup WG R1: CZE vs HUN,Carpet,4,D,19960209,1,V141,,,Daniel Vacek,R,191,CZE,24.849,26,1074,K154,,,Jozsef Krocsko,R,180,HUN,27.795,162,254,6-3 6-3 6-4,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D035,Davis Cup WG R1: CZE vs HUN,Carpet,4,D,19960209,2,K148,,,Petr Korda,L,191,CZE,28.036,27,1070,N112,,,Sandor Noszaly,R,193,HUN,23.89,105,465,6-2 7-6(4) 6-3,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D035,Davis Cup WG R1: CZE vs HUN,Carpet,4,D,19960209,3,V141,,,Daniel Vacek,R,191,CZE,24.849,26,1074,N112,,,Sandor Noszaly,R,193,HUN,23.89,105,465,7-5 6-3,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D035,Davis Cup WG R1: CZE vs HUN,Carpet,4,D,19960209,4,N254,,,Jiri Novak,R,190,CZE,20.876,40,904,K154,,,Jozsef Krocsko,R,180,HUN,27.795,162,254,5-7 7-6(4) 6-0,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D039,Davis Cup WG R1: FRA vs DEN,Hard,4,D,19960209,1,F035,,,Guy Forget,L,191,FRA,31.086,53,761,C328,,,Kenneth Carlsen,L,190,DEN,22.804,84,575,6-4 7-6(3) 5-7 7-6(7),5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D039,Davis Cup WG R1: FRA vs DEN,Hard,4,D,19960209,2,P226,,,Cedric Pioline,R,188,FRA,26.642,45,813,F206,,,Frederik Fetterlein,R,190,DEN,25.572,111,436,4-6 6-1 6-1 6-3,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D039,Davis Cup WG R1: FRA vs DEN,Hard,4,D,19960209,3,P226,,,Cedric Pioline,R,188,FRA,26.642,45,813,C328,,,Kenneth Carlsen,L,190,DEN,22.804,84,575,7-5 6-4,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D039,Davis Cup WG R1: FRA vs DEN,Hard,4,D,19960209,4,R186,,,Guillaume Raoux,R,180,FRA,25.974,62,706,F206,,,Frederik Fetterlein,R,190,DEN,25.572,111,436,6-3 6-4,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D050,Davis Cup WG R1: SUI vs GER,Clay,4,D,19960209,1,P273,,,David Prinosil,R,185,GER,22.91,44,826,H025,,,Jakob Hlasek,R,188,SUI,31.231,42,849,6-4 7-6(4) 5-7 4-6 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D050,Davis Cup WG R1: SUI vs GER,Clay,4,D,19960209,2,D249,,,Hendrik Dreekmann,R,188,GER,21.018,116,426,R214,,,Marc Rosset,R,201,SUI,25.246,16,1391,6-3 6-1 6-4,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D050,Davis Cup WG R1: SUI vs GER,Clay,4,D,19960209,3,P273,,,David Prinosil,R,185,GER,22.91,44,826,S630,,,Alexandre Strambini,R,,SUI,20.726,292,107,6-3 6-3,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D050,Davis Cup WG R1: SUI vs GER,Clay,4,D,19960209,4,D249,,,Hendrik Dreekmann,R,188,GER,21.018,116,426,H025,,,Jakob Hlasek,R,188,SUI,31.231,42,849,6-4 6-4,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,1,D253,,,Federico Dondo,R,,URU,24.301,505,42,S566,,,Fernando Samayoa,R,,GUA,22.524,,,6-2 4-6 6-1 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,2,F165,,,Marcelo Filippini,R,178,URU,28.507,100,481,L015,,,Alexander Lehnhoff,U,,GUA,19.001,,,6-3 6-2 6-0,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,3,F165,,,Marcelo Filippini,R,178,URU,28.507,100,481,S566,,,Fernando Samayoa,R,,GUA,22.524,,,6-3 6-2,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,4,D253,,,Federico Dondo,R,,URU,24.301,505,42,L015,,,Alexander Lehnhoff,U,,GUA,19.001,,,6-3 6-3,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D054,Davis Cup G2 QF: HKG vs SRI,Hard,4,D,19960209,1,H387,,,John Hui,R,,HKG,18.089,,,W0ED,,,Manjule Weerakoon,U,,SRI,18.062,,,6-3 6-0 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D054,Davis Cup G2 QF: HKG vs SRI,Hard,4,D,19960209,2,P214,,,Lui Pang,R,,HKG,,,,W407,,,Jayendra Wijeyesekera,U,,SRI,26.064,,,7-5 6-3 6-3,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D054,Davis Cup G2 QF: HKG vs SRI,Hard,4,D,19960209,3,H387,,,John Hui,R,,HKG,18.089,,,W407,,,Jayendra Wijeyesekera,U,,SRI,26.064,,,6-4 7-6(5),3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D054,Davis Cup G2 QF: HKG vs SRI,Hard,4,D,19960209,4,P214,,,Lui Pang,R,,HKG,,,,W0ED,,,Manjule Weerakoon,U,,SRI,18.062,,,6-0 6-0,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D058,Davis Cup WG R1: IND vs NED,Grass,4,D,19960209,1,E106,,,Jacco Eltingh,R,188,NED,25.437,71,649,P269,,,Leander Paes,R,178,IND,22.637,132,350,6-4 7-5 6-4,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D058,Davis Cup WG R1: IND vs NED,Grass,4,D,19960209,2,B471,,,Mahesh Bhupathi,R,185,IND,21.665,348,86,S381,,,Jan Siemerink,L,183,NED,25.812,20,1209,6-4 7-6(4) 4-6 4-6 6-4,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D058,Davis Cup WG R1: IND vs NED,Grass,4,D,19960209,3,P269,,,Leander Paes,R,178,IND,22.637,132,350,S381,,,Jan Siemerink,L,183,NED,25.812,20,1209,7-6(2) 2-6 7-6(3) 7-6(5),5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D058,Davis Cup WG R1: IND vs NED,Grass,4,D,19960209,4,B471,,,Mahesh Bhupathi,R,185,IND,21.665,348,86,E106,,,Jacco Eltingh,R,188,NED,25.437,71,649,7-6(4) 4-6 7-5 2-1 RET,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,1,T120,,,Worapol Thongkamcho,R,,THA,28.096,,,B001,,,Mansour Bahrami,R,178,IRI,39.778,,,6-2 6-4 6-4,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,2,S478,,,Tanakorn Srichaphan,R,,THA,27.713,1278,1,T268,,,Mohammed Reza Tavakoli,U,,IRI,24.151,,,6-2 6-1 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,3,B001,,,Mansour Bahrami,R,178,IRI,39.778,,,S478,,,Tanakorn Srichaphan,R,,THA,27.713,1278,1,6-4 6-2,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,4,T120,,,Worapol Thongkamcho,R,,THA,28.096,,,R392,,,Ramin Raziyani,U,,IRI,21.815,,,7-5 6-4,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,1,R219,,,Christian Ruud,R,188,NOR,23.45,80,595,B440,,,Noam Behr,L,188,ISR,20.315,296,105,7-6(5) 6-2 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,2,R243,,,Eyal Ran,R,183,ISR,23.206,170,239,K307,,,Helge Koll-Frafjord,U,,NOR,20.684,,,6-1 6-2 6-4,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,3,R219,,,Christian Ruud,R,188,NOR,23.45,80,595,R243,,,Eyal Ran,R,183,ISR,23.206,170,239,7-5 6-7(5) 6-7(4) 6-3 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,4,E135,,,Eyal Erlich,R,183,ISR,19.094,264,123,K307,,,Helge Koll-Frafjord,U,,NOR,20.684,,,6-4 1-6 6-4 7-6(4),5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D064,Davis Cup WG R1: ITA vs RUS,Clay,4,D,19960209,1,G254,,,Andrea Gaudenzi,R,183,ITA,22.519,25,1128,C031,,,Andrei Chesnokov,R,188,RUS,30.007,88,537,2-6 6-7(5) 7-6(5) 6-3 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D064,Davis Cup WG R1: ITA vs RUS,Clay,4,D,19960209,2,K267,,,Yevgeny Kafelnikov,R,190,RUS,21.963,6,2709,F192,,,Renzo Furlan,R,175,ITA,25.722,29,1039,6-3 5-7 6-4 6-3,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D064,Davis Cup WG R1: ITA vs RUS,Clay,4,D,19960209,3,K267,,,Yevgeny Kafelnikov,R,190,RUS,21.963,6,2709,G254,,,Andrea Gaudenzi,R,183,ITA,22.519,25,1128,6-3 3-6 7-6(4) 7-5,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D064,Davis Cup WG R1: ITA vs RUS,Clay,4,D,19960209,4,F192,,,Renzo Furlan,R,175,ITA,25.722,29,1039,C031,,,Andrei Chesnokov,R,188,RUS,30.007,88,537,6-0 3-6 6-3 7-5,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D065,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19960209,1,M338,,,Shuzo Matsuoka,R,185,JPN,28.249,69,676,P287,,,Sofronio Palahang,R,,PHI,28.372,1147,3,6-1 6-0 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D065,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19960209,2,K266,,,Hideki Kaneko,R,,JPN,21.919,252,135,L188,,,Joseph Lizardo,R,,PHI,27.05,763,14,6-4 6-0 6-1,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D065,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19960209,3,S550,,,Takao Suzuki,R,175,JPN,19.376,486,45,L188,,,Joseph Lizardo,R,,PHI,27.05,763,14,6-0 6-3,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D065,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19960209,4,K266,,,Hideki Kaneko,R,,JPN,21.919,252,135,P287,,,Sofronio Palahang,R,,PHI,28.372,1147,3,6-2 6-1,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D066,Davis Cup G1 QF: INA vs KOR,Clay,4,D,19960209,1,Y033,,,Yong-Il Yoon,R,175,KOR,22.368,353,84,S537,,,Suwandi Suwandi,R,178,INA,19.458,424,58,6-4 6-0 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D066,Davis Cup G1 QF: INA vs KOR,Clay,4,D,19960209,2,L311,,,Hyung-Taik Lee,R,180,KOR,20.09,236,151,R348,,,Andrian Raturandang,R,,INA,19.521,753,14,6-2 4-6 6-2 6-2,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D066,Davis Cup G1 QF: INA vs KOR,Clay,4,D,19960209,3,L311,,,Hyung-Taik Lee,R,180,KOR,20.09,236,151,S537,,,Suwandi Suwandi,R,178,INA,19.458,424,58,3-6 6-2 6-4 6-3,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D066,Davis Cup G1 QF: INA vs KOR,Clay,4,D,19960209,4,Y033,,,Yong-Il Yoon,R,175,KOR,22.368,353,84,R348,,,Andrian Raturandang,R,,INA,19.521,753,14,7-6(3) 4-6 7-6(5),3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D073,Davis Cup WG R1: USA vs MEX,Hard,4,D,19960209,1,C274,,,Michael Chang,R,175,USA,23.953,5,3592,L009,,,Leonardo Lavalle,L,188,MEX,28.564,360,82,6-1 6-2 6-4,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D073,Davis Cup WG R1: USA vs MEX,Hard,4,D,19960209,2,M442,,,Todd Martin,R,198,USA,25.58,14,1470,H346,,,Alejandro Hernandez,R,180,MEX,18.346,203,193,6-3 6-3 6-0,5,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D073,Davis Cup WG R1: USA vs MEX,Hard,4,D,19960209,3,C274,,,Michael Chang,R,175,USA,23.953,5,3592,H346,,,Alejandro Hernandez,R,180,MEX,18.346,203,193,6-0 6-2,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
-1996-D073,Davis Cup WG R1: USA vs MEX,Hard,4,D,19960209,4,M442,,,Todd Martin,R,198,USA,25.58,14,1470,L009,,,Leonardo Lavalle,L,188,MEX,28.564,360,82,3-6 7-6(1) 6-4,3,RR,89,7,0,70,31,27,24,10,2,2,2,0,79,46,29,18,10,7,9
+1996-D009,Davis Cup G1 QF: AUS vs TPE,Hard,4,D,19960209,1,S331,,,Jason Stoltenberg,R,185,AUS,25.84,81,588,C364,,,Chih-Jung Chen,R,,TPE,23.365,706,16,6-1 6-2 7-6(1),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D009,Davis Cup G1 QF: AUS vs TPE,Hard,4,D,19960209,2,W136,,,Todd Woodbridge,R,178,AUS,24.846,30,1034,C453,,,Wei-Ju Chen,R,,TPE,17.821,1068,4,6-2 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D011,Davis Cup WG R1: RSA vs AUT,Grass,4,D,19960209,1,M099,,,Thomas Muster,L,180,AUT,28.345,2,4474,O098,,,Marcos Ondruska,R,183,RSA,23.132,98,483,6-2 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D011,Davis Cup WG R1: RSA vs AUT,Grass,4,D,19960209,2,F196,,,Wayne Ferreira,R,185,RSA,24.392,10,2144,S649,,,Wolfgang Schranz,R,178,AUT,19.882,475,48,6-1 7-6(2) 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D011,Davis Cup WG R1: RSA vs AUT,Grass,4,D,19960209,3,M099,,,Thomas Muster,L,180,AUT,28.345,2,4474,F196,,,Wayne Ferreira,R,185,RSA,24.392,10,2144,7-5 6-7(5) 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D011,Davis Cup WG R1: RSA vs AUT,Grass,4,D,19960209,4,O098,,,Marcos Ondruska,R,183,RSA,23.132,98,483,S315,,,Gilbert Schaller,R,180,AUT,26.888,19,1256,6-3 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,1,Y017,,,Jaime Yzaga,R,170,PER,28.287,93,508,S340,,,Roger Smith,R,185,BAH,32.044,741,15,4-6 6-3 6-7(5) 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,2,K171,,,Mark Knowles,R,190,BAH,24.422,115,428,V157,,,Americo Venero Montes,U,,PER,23.953,,,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,3,K171,,,Mark Knowles,R,190,BAH,24.422,115,428,Y017,,,Jaime Yzaga,R,170,PER,28.287,93,508,2-6 7-5 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D012,Davis Cup G1 QF: BAH vs PER,Hard,4,D,19960209,4,V157,,,Americo Venero Montes,U,,PER,23.953,,,S340,,,Roger Smith,R,185,BAH,32.044,741,15,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D013,Davis Cup G2 QF: ECU vs BAR,Clay,4,D,19960209,1,M506,,,Luis Adrian Morejon,R,178,ECU,22.858,147,286,B302,,,Martin Blackman,R,188,USA,25.922,613,24,6-7(5) 6-1 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D013,Davis Cup G2 QF: ECU vs BAR,Clay,4,D,19960209,2,L290,,,Nicolas Lapentti,R,188,ECU,19.48,106,464,A037,,,Richard Ashby,R,,USA,31.058,,,6-2 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D013,Davis Cup G2 QF: ECU vs BAR,Clay,4,D,19960209,3,L290,,,Nicolas Lapentti,R,188,ECU,19.48,106,464,B302,,,Martin Blackman,R,188,USA,25.922,613,24,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D013,Davis Cup G2 QF: ECU vs BAR,Clay,4,D,19960209,4,M506,,,Luis Adrian Morejon,R,178,ECU,22.858,147,286,A037,,,Richard Ashby,R,,USA,31.058,,,7-6(7) 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D016,Davis Cup WG R1: SWE vs BEL,Carpet,4,D,19960209,1,L206,,,Magnus Larsson,R,193,SWE,25.867,21,1201,D228,,,Filip Dewulf,R,190,BEL,23.893,63,706,6-3 7-5 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D016,Davis Cup WG R1: SWE vs BEL,Carpet,4,D,19960209,2,E113,,,Thomas Enqvist,R,190,SWE,21.9,7,2519,N233,,,Dick Norman,L,203,BEL,24.934,119,420,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D016,Davis Cup WG R1: SWE vs BEL,Carpet,4,D,19960209,3,V167,,,Johan Van Herck,R,185,BEL,21.703,104,466,E113,,,Thomas Enqvist,R,190,SWE,21.9,7,2519,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D016,Davis Cup WG R1: SWE vs BEL,Carpet,4,D,19960209,4,L206,,,Magnus Larsson,R,193,SWE,25.867,21,1201,N233,,,Dick Norman,L,203,BEL,24.934,119,420,7-6(3) 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,1,M443,,,Fernando Meligeni,L,180,BRA,24.819,70,664,C250,,,Sergio Cortes,R,170,CHI,28.068,231,158,6-1 6-1 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,2,R286,,,Marcelo Rios,L,175,CHI,20.112,24,1164,O076,,,Jaime Oncins,R,196,BRA,25.64,225,169,6-3 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,3,R286,,,Marcelo Rios,L,175,CHI,20.112,24,1164,M443,,,Fernando Meligeni,L,180,BRA,24.819,70,664,6-2 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D019,Davis Cup G1 QF: CHI vs BRA,Clay,4,D,19960209,4,O076,,,Jaime Oncins,R,196,BRA,25.64,225,169,C250,,,Sergio Cortes,R,170,CHI,28.068,231,158,6-3 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D024,Davis Cup G1 QF: VEN vs CAN,Hard,4,D,19960209,1,P218,,,Nicolas Pereira,R,188,VEN,25.352,107,462,N210,,,Daniel Nestor,L,191,CAN,23.42,187,215,6-4 3-6 6-3 2-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D024,Davis Cup G1 QF: VEN vs CAN,Hard,4,D,19960209,2,S585,,,Jimy Szymanski,R,175,VEN,20.392,386,72,L226,,,Sebastien Lareau,R,183,CAN,22.776,125,390,7-6(4) 0-6 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D024,Davis Cup G1 QF: VEN vs CAN,Hard,4,D,19960209,3,L226,,,Sebastien Lareau,R,183,CAN,22.776,125,390,P218,,,Nicolas Pereira,R,188,VEN,25.352,107,462,6-7(5) 6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D024,Davis Cup G1 QF: VEN vs CAN,Hard,4,D,19960209,4,S585,,,Jimy Szymanski,R,175,VEN,20.392,386,72,C308,,,Albert Chang,R,183,CAN,24.939,177,225,6-3 5-7 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D027,Davis Cup G1 QF: NZL vs CHN,Grass,4,D,19960209,1,S321,,,Brett Steven,R,185,NZL,26.776,35,964,Z090,,,Yu Zheng,R,,CHN,19.726,936,7,6-0 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D027,Davis Cup G1 QF: NZL vs CHN,Grass,4,D,19960209,2,X002,,,Jia-Ping Xia,R,165,CHN,26.932,514,41,H297,,,Alistair Hunt,R,190,NZL,23.233,525,39,6-3 3-6 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D027,Davis Cup G1 QF: NZL vs CHN,Grass,4,D,19960209,3,S321,,,Brett Steven,R,185,NZL,26.776,35,964,X002,,,Jia-Ping Xia,R,165,CHN,26.932,514,41,6-4 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D027,Davis Cup G1 QF: NZL vs CHN,Grass,4,D,19960209,4,H297,,,Alistair Hunt,R,190,NZL,23.233,525,39,Z090,,,Yu Zheng,R,,CHN,19.726,936,7,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,1,T133,,,Miguel Tobon,R,185,COL,27.622,212,182,G320,,,Jorge Gonzalez,R,,PUR,23.6,827,11,6-2 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,2,H256,,,Mauricio Hadad,R,170,COL,24.164,86,539,J157,,,Rafael Jordan,U,,PUR,18.697,,,6-0 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,3,H256,,,Mauricio Hadad,R,170,COL,24.164,86,539,G320,,,Jorge Gonzalez,R,,PUR,23.6,827,11,6-0 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D030,Davis Cup G2 QF: COL vs PUR,Clay,4,D,19960209,4,T133,,,Miguel Tobon,R,185,COL,27.622,212,182,J157,,,Rafael Jordan,U,,PUR,18.697,,,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D034,Davis Cup G2 QF: CUB vs PAR,Hard,4,D,19960209,1,D316,,,Ramon Delgado,R,185,PAR,19.225,313,96,P300,,,Armando Perez,R,,CUB,30.508,423,59,7-6(5) 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D034,Davis Cup G2 QF: CUB vs PAR,Hard,4,D,19960209,2,P217,,,Juan Pino,R,185,CUB,30.593,403,65,M462,,,Ricardo Mena,R,,PAR,24.29,772,13,6-2 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D034,Davis Cup G2 QF: CUB vs PAR,Hard,4,D,19960209,3,P217,,,Juan Pino,R,185,CUB,30.593,403,65,D316,,,Ramon Delgado,R,185,PAR,19.225,313,96,6-7(4) 6-4 2-6 6-4 11-9,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D034,Davis Cup G2 QF: CUB vs PAR,Hard,4,D,19960209,4,M462,,,Ricardo Mena,R,,PAR,24.29,772,13,P300,,,Armando Perez,R,,CUB,30.508,423,59,1-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D035,Davis Cup WG R1: CZE vs HUN,Carpet,4,D,19960209,1,V141,,,Daniel Vacek,R,191,CZE,24.849,26,1074,K154,,,Jozsef Krocsko,R,180,HUN,27.795,162,254,6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D035,Davis Cup WG R1: CZE vs HUN,Carpet,4,D,19960209,2,K148,,,Petr Korda,L,191,CZE,28.036,27,1070,N112,,,Sandor Noszaly,R,193,HUN,23.89,105,465,6-2 7-6(4) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D035,Davis Cup WG R1: CZE vs HUN,Carpet,4,D,19960209,3,V141,,,Daniel Vacek,R,191,CZE,24.849,26,1074,N112,,,Sandor Noszaly,R,193,HUN,23.89,105,465,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D035,Davis Cup WG R1: CZE vs HUN,Carpet,4,D,19960209,4,N254,,,Jiri Novak,R,190,CZE,20.876,40,904,K154,,,Jozsef Krocsko,R,180,HUN,27.795,162,254,5-7 7-6(4) 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D039,Davis Cup WG R1: FRA vs DEN,Hard,4,D,19960209,1,F035,,,Guy Forget,L,191,FRA,31.086,53,761,C328,,,Kenneth Carlsen,L,190,DEN,22.804,84,575,6-4 7-6(3) 5-7 7-6(7),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D039,Davis Cup WG R1: FRA vs DEN,Hard,4,D,19960209,2,P226,,,Cedric Pioline,R,188,FRA,26.642,45,813,F206,,,Frederik Fetterlein,R,190,DEN,25.572,111,436,4-6 6-1 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D039,Davis Cup WG R1: FRA vs DEN,Hard,4,D,19960209,3,P226,,,Cedric Pioline,R,188,FRA,26.642,45,813,C328,,,Kenneth Carlsen,L,190,DEN,22.804,84,575,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D039,Davis Cup WG R1: FRA vs DEN,Hard,4,D,19960209,4,R186,,,Guillaume Raoux,R,180,FRA,25.974,62,706,F206,,,Frederik Fetterlein,R,190,DEN,25.572,111,436,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D050,Davis Cup WG R1: SUI vs GER,Clay,4,D,19960209,1,P273,,,David Prinosil,R,185,GER,22.91,44,826,H025,,,Jakob Hlasek,R,188,SUI,31.231,42,849,6-4 7-6(4) 5-7 4-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D050,Davis Cup WG R1: SUI vs GER,Clay,4,D,19960209,2,D249,,,Hendrik Dreekmann,R,188,GER,21.018,116,426,R214,,,Marc Rosset,R,201,SUI,25.246,16,1391,6-3 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D050,Davis Cup WG R1: SUI vs GER,Clay,4,D,19960209,3,P273,,,David Prinosil,R,185,GER,22.91,44,826,S630,,,Alexandre Strambini,R,,SUI,20.726,292,107,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D050,Davis Cup WG R1: SUI vs GER,Clay,4,D,19960209,4,D249,,,Hendrik Dreekmann,R,188,GER,21.018,116,426,H025,,,Jakob Hlasek,R,188,SUI,31.231,42,849,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,1,D253,,,Federico Dondo,R,,URU,24.301,505,42,S566,,,Fernando Samayoa,R,,GUA,22.524,,,6-2 4-6 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,2,F165,,,Marcelo Filippini,R,178,URU,28.507,100,481,L015,,,Alexander Lehnhoff,U,,GUA,19.001,,,6-3 6-2 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,3,F165,,,Marcelo Filippini,R,178,URU,28.507,100,481,S566,,,Fernando Samayoa,R,,GUA,22.524,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D053,Davis Cup G2 QF: URU vs GUA,Clay,4,D,19960209,4,D253,,,Federico Dondo,R,,URU,24.301,505,42,L015,,,Alexander Lehnhoff,U,,GUA,19.001,,,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D054,Davis Cup G2 QF: HKG vs SRI,Hard,4,D,19960209,1,H387,,,John Hui,R,,HKG,18.089,,,W0ED,,,Manjule Weerakoon,U,,SRI,18.062,,,6-3 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D054,Davis Cup G2 QF: HKG vs SRI,Hard,4,D,19960209,2,P214,,,Lui Pang,R,,HKG,,,,W407,,,Jayendra Wijeyesekera,U,,SRI,26.064,,,7-5 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D054,Davis Cup G2 QF: HKG vs SRI,Hard,4,D,19960209,3,H387,,,John Hui,R,,HKG,18.089,,,W407,,,Jayendra Wijeyesekera,U,,SRI,26.064,,,6-4 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
+1996-D054,Davis Cup G2 QF: HKG vs SRI,Hard,4,D,19960209,4,P214,,,Lui Pang,R,,HKG,,,,W0ED,,,Manjule Weerakoon,U,,SRI,18.062,,,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D058,Davis Cup WG R1: IND vs NED,Grass,4,D,19960209,1,E106,,,Jacco Eltingh,R,188,NED,25.437,71,649,P269,,,Leander Paes,R,178,IND,22.637,132,350,6-4 7-5 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D058,Davis Cup WG R1: IND vs NED,Grass,4,D,19960209,2,B471,,,Mahesh Bhupathi,R,185,IND,21.665,348,86,S381,,,Jan Siemerink,L,183,NED,25.812,20,1209,6-4 7-6(4) 4-6 4-6 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D058,Davis Cup WG R1: IND vs NED,Grass,4,D,19960209,3,P269,,,Leander Paes,R,178,IND,22.637,132,350,S381,,,Jan Siemerink,L,183,NED,25.812,20,1209,7-6(2) 2-6 7-6(3) 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D058,Davis Cup WG R1: IND vs NED,Grass,4,D,19960209,4,B471,,,Mahesh Bhupathi,R,185,IND,21.665,348,86,E106,,,Jacco Eltingh,R,188,NED,25.437,71,649,7-6(4) 4-6 7-5 2-1 RET,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,1,T120,,,Worapol Thongkamcho,R,,THA,28.096,,,B001,,,Mansour Bahrami,R,178,IRI,39.778,,,6-2 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,2,S478,,,Tanakorn Srichaphan,R,,THA,27.713,1278,1,T268,,,Mohammed Reza Tavakoli,U,,IRI,24.151,,,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,3,B001,,,Mansour Bahrami,R,178,IRI,39.778,,,S478,,,Tanakorn Srichaphan,R,,THA,27.713,1278,1,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D061,Davis Cup G2 QF: THA vs IRI,Hard,4,D,19960209,4,T120,,,Worapol Thongkamcho,R,,THA,28.096,,,R392,,,Ramin Raziyani,U,,IRI,21.815,,,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,1,R219,,,Christian Ruud,R,188,NOR,23.45,80,595,B440,,,Noam Behr,L,188,ISR,20.315,296,105,7-6(5) 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,2,R243,,,Eyal Ran,R,183,ISR,23.206,170,239,K307,,,Helge Koll-Frafjord,U,,NOR,20.684,,,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,3,R219,,,Christian Ruud,R,188,NOR,23.45,80,595,R243,,,Eyal Ran,R,183,ISR,23.206,170,239,7-5 6-7(5) 6-7(4) 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D062,Davis Cup G1 R1: ISR vs NOR,Hard,4,D,19960209,4,E135,,,Eyal Erlich,R,183,ISR,19.094,264,123,K307,,,Helge Koll-Frafjord,U,,NOR,20.684,,,6-4 1-6 6-4 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D064,Davis Cup WG R1: ITA vs RUS,Clay,4,D,19960209,1,G254,,,Andrea Gaudenzi,R,183,ITA,22.519,25,1128,C031,,,Andrei Chesnokov,R,188,RUS,30.007,88,537,2-6 6-7(5) 7-6(5) 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D064,Davis Cup WG R1: ITA vs RUS,Clay,4,D,19960209,2,K267,,,Yevgeny Kafelnikov,R,190,RUS,21.963,6,2709,F192,,,Renzo Furlan,R,175,ITA,25.722,29,1039,6-3 5-7 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D064,Davis Cup WG R1: ITA vs RUS,Clay,4,D,19960209,3,K267,,,Yevgeny Kafelnikov,R,190,RUS,21.963,6,2709,G254,,,Andrea Gaudenzi,R,183,ITA,22.519,25,1128,6-3 3-6 7-6(4) 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D064,Davis Cup WG R1: ITA vs RUS,Clay,4,D,19960209,4,F192,,,Renzo Furlan,R,175,ITA,25.722,29,1039,C031,,,Andrei Chesnokov,R,188,RUS,30.007,88,537,6-0 3-6 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D065,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19960209,1,M338,,,Shuzo Matsuoka,R,185,JPN,28.249,69,676,P287,,,Sofronio Palahang,R,,PHI,28.372,1147,3,6-1 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D065,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19960209,2,K266,,,Hideki Kaneko,R,,JPN,21.919,252,135,L188,,,Joseph Lizardo,R,,PHI,27.05,763,14,6-4 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D065,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19960209,3,S550,,,Takao Suzuki,R,175,JPN,19.376,486,45,L188,,,Joseph Lizardo,R,,PHI,27.05,763,14,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D065,Davis Cup G1 QF: JPN vs PHI,Carpet,4,D,19960209,4,K266,,,Hideki Kaneko,R,,JPN,21.919,252,135,P287,,,Sofronio Palahang,R,,PHI,28.372,1147,3,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D066,Davis Cup G1 QF: INA vs KOR,Clay,4,D,19960209,1,Y033,,,Yong-Il Yoon,R,175,KOR,22.368,353,84,S537,,,Suwandi Suwandi,R,178,INA,19.458,424,58,6-4 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D066,Davis Cup G1 QF: INA vs KOR,Clay,4,D,19960209,2,L311,,,Hyung-Taik Lee,R,180,KOR,20.09,236,151,R348,,,Andrian Raturandang,R,,INA,19.521,753,14,6-2 4-6 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D066,Davis Cup G1 QF: INA vs KOR,Clay,4,D,19960209,3,L311,,,Hyung-Taik Lee,R,180,KOR,20.09,236,151,S537,,,Suwandi Suwandi,R,178,INA,19.458,424,58,3-6 6-2 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D066,Davis Cup G1 QF: INA vs KOR,Clay,4,D,19960209,4,Y033,,,Yong-Il Yoon,R,175,KOR,22.368,353,84,R348,,,Andrian Raturandang,R,,INA,19.521,753,14,7-6(3) 4-6 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
+1996-D073,Davis Cup WG R1: USA vs MEX,Hard,4,D,19960209,1,C274,,,Michael Chang,R,175,USA,23.953,5,3592,L009,,,Leonardo Lavalle,L,188,MEX,28.564,360,82,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D073,Davis Cup WG R1: USA vs MEX,Hard,4,D,19960209,2,M442,,,Todd Martin,R,198,USA,25.58,14,1470,H346,,,Alejandro Hernandez,R,180,MEX,18.346,203,193,6-3 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D073,Davis Cup WG R1: USA vs MEX,Hard,4,D,19960209,3,C274,,,Michael Chang,R,175,USA,23.953,5,3592,H346,,,Alejandro Hernandez,R,180,MEX,18.346,203,193,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D073,Davis Cup WG R1: USA vs MEX,Hard,4,D,19960209,4,M442,,,Todd Martin,R,198,USA,25.58,14,1470,L009,,,Leonardo Lavalle,L,188,MEX,28.564,360,82,3-6 7-6(1) 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 1996-424,San Jose,Hard,32,A,19960212,1,A092,1,,Andre Agassi,R,180,USA,25.791,3,4379,W255,,WC,Ryan Wolters,R,180,USA,19.028,,,6-2 6-2,3,R32,60,4,3,59,29,24,15,8,2,3,1,1,49,25,12,8,8,3,8
 1996-424,San Jose,Hard,32,A,19960212,2,S403,,,Jonathan Stark,R,188,USA,24.862,102,467,D270,,,Scott Draper,L,178,AUS,21.689,76,612,6-3 6-3,3,R32,60,7,0,45,30,23,6,9,0,2,4,1,55,33,18,10,9,2,7
 1996-424,San Jose,Hard,32,A,19960212,3,G354,,Q,Justin Gimelstob,R,196,USA,19.044,574,29,P218,,,Nicolas Pereira,R,188,VEN,25.372,109,443,6-4 6-2,3,R32,73,8,0,57,26,22,16,9,2,3,2,1,60,38,24,7,9,3,7
@@ -600,14 +600,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-430,Antwerp,Carpet,32,A,19960219,29,I034,3,,Goran Ivanisevic,L,193,CRO,24.435,9,2339,B028,1,,Boris Becker,R,191,GER,28.244,4,3970,6-4 7-6(5),3,SF,73,20,2,65,45,38,13,11,1,1,18,6,66,35,30,16,11,1,2
 1996-430,Antwerp,Carpet,32,A,19960219,30,S351,6,,Michael Stich,R,193,GER,27.337,13,1561,M475,,,Andrei Medvedev,R,193,UKR,21.47,17,1293,6-4 6-1,3,SF,56,8,1,52,28,22,13,9,2,3,2,3,47,31,19,5,8,3,7
 1996-430,Antwerp,Carpet,32,A,19960219,31,S351,6,,Michael Stich,R,193,GER,27.337,13,1561,I034,3,,Goran Ivanisevic,L,193,CRO,24.435,9,2339,6-3 6-2 7-6(5),5,F,85,15,1,79,48,43,19,15,1,2,15,5,76,43,34,16,14,6,10
-1996-D022,Davis Cup G2 QF: BRN vs UZB,Hard,4,D,19960223,1,T212,,,Dmitri Tomashevich,R,,UZB,21.958,300,103,AF77,,,Esam Abdulaal,,,BRN,26.524,,,6-3 7-5 6-3,5,RR,85,15,1,79,48,43,19,15,1,2,15,5,76,43,34,16,14,6,10
-1996-D022,Davis Cup G2 QF: BRN vs UZB,Hard,4,D,19960223,2,O127,,,Oleg Ogorodov,R,193,UZB,23.595,108,449,SF35,,,Shehab Shehab,U,,BRN,26.543,,,6-0 6-1 6-2,5,RR,85,15,1,79,48,43,19,15,1,2,15,5,76,43,34,16,14,6,10
-1996-D022,Davis Cup G2 QF: BRN vs UZB,Hard,4,D,19960223,3,O127,,,Oleg Ogorodov,R,193,UZB,23.595,108,449,AF77,,,Esam Abdulaal,,,BRN,26.524,,,7-5 6-7(2) 6-1,3,RR,85,15,1,79,48,43,19,15,1,2,15,5,76,43,34,16,14,6,10
-1996-D022,Davis Cup G2 QF: BRN vs UZB,Hard,4,D,19960223,4,T212,,,Dmitri Tomashevich,R,,UZB,21.958,300,103,SF35,,,Shehab Shehab,U,,BRN,26.543,,,6-2 6-0,3,RR,85,15,1,79,48,43,19,15,1,2,15,5,76,43,34,16,14,6,10
-1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,1,R323,,,Omer Rashid,R,,PAK,23.71,825,10,Z0AC,,,Zulfiqar Ahmed,U,,KSA,40.049,,,6-0 6-1 6-1,5,RR,85,15,1,79,48,43,19,15,1,2,15,5,76,43,34,16,14,6,10
-1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,2,H325,,,Hamed Ul Haq,U,,PAK,33.971,,,A498,,,Bader Mohammed Almuqail,U,,KSA,25.467,,,6-2 6-0 6-2,5,RR,85,15,1,79,48,43,19,15,1,2,15,5,76,43,34,16,14,6,10
-1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,3,R323,,,Omer Rashid,R,,PAK,23.71,825,10,A498,,,Bader Mohammed Almuqail,U,,KSA,25.467,,,6-1 6-3,3,RR,85,15,1,79,48,43,19,15,1,2,15,5,76,43,34,16,14,6,10
-1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,4,H325,,,Hamed Ul Haq,U,,PAK,33.971,,,F525,,,Farah Al Somali,U,,KSA,26.448,,,6-0 6-0,3,RR,85,15,1,79,48,43,19,15,1,2,15,5,76,43,34,16,14,6,10
+1996-D022,Davis Cup G2 QF: BRN vs UZB,Hard,4,D,19960223,1,T212,,,Dmitri Tomashevich,R,,UZB,21.958,300,103,AF77,,,Esam Abdulaal,,,BRN,26.524,,,6-3 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D022,Davis Cup G2 QF: BRN vs UZB,Hard,4,D,19960223,2,O127,,,Oleg Ogorodov,R,193,UZB,23.595,108,449,SF35,,,Shehab Shehab,U,,BRN,26.543,,,6-0 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D022,Davis Cup G2 QF: BRN vs UZB,Hard,4,D,19960223,3,O127,,,Oleg Ogorodov,R,193,UZB,23.595,108,449,AF77,,,Esam Abdulaal,,,BRN,26.524,,,7-5 6-7(2) 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D022,Davis Cup G2 QF: BRN vs UZB,Hard,4,D,19960223,4,T212,,,Dmitri Tomashevich,R,,UZB,21.958,300,103,SF35,,,Shehab Shehab,U,,BRN,26.543,,,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,1,R323,,,Omer Rashid,R,,PAK,23.71,825,10,Z0AC,,,Zulfiqar Ahmed,U,,KSA,40.049,,,6-0 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,2,H325,,,Hamed Ul Haq,U,,PAK,33.971,,,A498,,,Bader Mohammed Almuqail,U,,KSA,25.467,,,6-2 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,3,R323,,,Omer Rashid,R,,PAK,23.71,825,10,A498,,,Bader Mohammed Almuqail,U,,KSA,25.467,,,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D068,Davis Cup G2 QF: PAK vs KSA,Clay,4,D,19960223,4,H325,,,Hamed Ul Haq,U,,PAK,33.971,,,F525,,,Farah Al Somali,U,,KSA,26.448,,,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,
 1996-401,Philadelphia,Carpet,32,A,19960226,1,E113,1,,Thomas Enqvist,R,190,SWE,21.958,9,2233,E004,,WC,Stefan Edberg,R,188,SWE,30.103,31,969,5-7 6-2 7-5,3,R32,125,13,7,99,59,49,14,16,3,6,9,7,112,63,42,19,16,4,9
 1996-401,Philadelphia,Carpet,32,A,19960226,2,C216,,,Tomas Carbonell,R,178,ESP,27.554,68,654,M443,,,Fernando Meligeni,L,180,BRA,24.876,67,664,6-2 7-5,3,R32,68,1,1,63,44,29,11,10,4,6,3,3,54,26,20,8,10,3,8
 1996-401,Philadelphia,Carpet,32,A,19960226,3,S544,,Q,Vincent Spadea,R,183,USA,21.607,98,491,H223,,,Paul Haarhuis,R,188,NED,30.018,45,832,6-0 6-2,3,R32,51,5,1,47,27,23,10,7,3,3,0,0,43,26,10,7,7,3,8
@@ -1006,92 +1006,92 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-360,Casablanca,Clay,32,A,19960325,29,S315,1,,Gilbert Schaller,R,180,AUT,27.023,20,,B428,5,,Alberto Berasategui,R,173,ESP,22.741,37,,7-6(8) 7-5,3,SF,119,0,1,101,80,45,11,12,9,13,0,4,89,57,33,15,12,4,9
 1996-360,Casablanca,Clay,32,A,19960325,30,C216,,,Tomas Carbonell,R,178,ESP,27.63,62,,C031,,,Andrei Chesnokov,R,188,RUS,30.141,86,,6-4 4-6 6-1,3,SF,120,1,1,78,57,38,8,13,8,13,1,4,108,79,40,12,14,9,17
 1996-360,Casablanca,Clay,32,A,19960325,31,C216,,,Tomas Carbonell,R,178,ESP,27.63,62,,S315,1,,Gilbert Schaller,R,180,AUT,27.023,20,,7-5 1-6 6-2,3,F,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D003,Davis Cup G1 SF: ARG vs BAH,Clay,4,D,19960405,1,F041,,,Javier Frana,L,185,ARG,29.268,38,920,S340,,,Roger Smith,R,185,BAH,32.197,794,12,6-3 6-3 6-4,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D003,Davis Cup G1 SF: ARG vs BAH,Clay,4,D,19960405,2,G247,,,Hernan Gumy,R,188,ARG,24.074,58,748,K171,,,Mark Knowles,R,190,BAH,24.575,107,461,6-3 7-6(3) 6-1,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D003,Davis Cup G1 SF: ARG vs BAH,Clay,4,D,19960405,3,K171,,,Mark Knowles,R,190,BAH,24.575,107,461,F041,,,Javier Frana,L,185,ARG,29.268,38,920,6-7(7) 6-2 6-3,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D003,Davis Cup G1 SF: ARG vs BAH,Clay,4,D,19960405,4,G247,,,Hernan Gumy,R,188,ARG,24.074,58,748,S340,,,Roger Smith,R,185,BAH,32.197,794,12,6-1 6-1,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D008,Davis Cup G1 SF: JPN vs AUS,Hard,4,D,19960405,1,W136,,,Todd Woodbridge,R,178,AUS,24.999,27,1037,K266,,,Hideki Kaneko,R,,JPN,22.073,256,131,4-6 6-7(4) 7-5 6-2 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D008,Davis Cup G1 SF: JPN vs AUS,Hard,4,D,19960405,2,S331,,,Jason Stoltenberg,R,185,AUS,25.993,56,761,M338,,,Shuzo Matsuoka,R,185,JPN,28.402,67,680,6-4 3-6 6-3 3-6 5-4 RET,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D008,Davis Cup G1 SF: JPN vs AUS,Hard,4,D,19960405,3,W136,,,Todd Woodbridge,R,178,AUS,24.999,27,1037,M338,,,Shuzo Matsuoka,R,185,JPN,28.402,67,680,6-3 6-2,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D008,Davis Cup G1 SF: JPN vs AUS,Hard,4,D,19960405,4,S331,,,Jason Stoltenberg,R,185,AUS,25.993,56,761,K266,,,Hideki Kaneko,R,,JPN,22.073,256,131,6-1 6-2,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D014,Davis Cup G2 PO: PAR vs BAR,Clay,4,D,19960405,1,M462,,,Ricardo Mena,R,,PAR,24.444,665,19,B302,,,Martin Blackman,R,188,USA,26.075,605,24,6-4 7-6(3) 6-4,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D014,Davis Cup G2 PO: PAR vs BAR,Clay,4,D,19960405,2,D316,,,Ramon Delgado,R,185,PAR,19.379,335,87,A037,,,Richard Ashby,R,,USA,31.211,,,7-6(2) 6-2 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D014,Davis Cup G2 PO: PAR vs BAR,Clay,4,D,19960405,3,D316,,,Ramon Delgado,R,185,PAR,19.379,335,87,W423,,,Duane Williams,U,,BAR,16.966,,,6-0 6-1,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D014,Davis Cup G2 PO: PAR vs BAR,Clay,4,D,19960405,4,M462,,,Ricardo Mena,R,,PAR,24.444,665,19,A037,,,Richard Ashby,R,,USA,31.211,,,6-4 6-2,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D020,Davis Cup G1 SF: BRA vs VEN,Clay,4,D,19960405,1,K293,,,Gustavo Kuerten,R,191,BRA,19.556,169,234,P218,,,Nicolas Pereira,R,188,VEN,25.506,92,514,6-2 6-7(2) 6-1 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D020,Davis Cup G1 SF: BRA vs VEN,Clay,4,D,19960405,2,M443,,,Fernando Meligeni,L,180,BRA,24.972,78,610,S585,,,Jimy Szymanski,R,175,VEN,20.545,303,100,6-3 7-6(2) 6-4,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D020,Davis Cup G1 SF: BRA vs VEN,Clay,4,D,19960405,3,M443,,,Fernando Meligeni,L,180,BRA,24.972,78,610,P218,,,Nicolas Pereira,R,188,VEN,25.506,92,514,6-4 6-4 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D020,Davis Cup G1 SF: BRA vs VEN,Clay,4,D,19960405,4,K293,,,Gustavo Kuerten,R,191,BRA,19.556,169,234,S585,,,Jimy Szymanski,R,175,VEN,20.545,303,100,6-2 6-7(6) 6-0,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D021,Davis Cup G2 PO: KSA vs BRN,Hard,4,D,19960405,1,A498,,,Bader Mohammed Almuqail,U,,KSA,25.582,,,SF35,,,Shehab Shehab,U,,BRN,26.658,,,6-1 6-2 6-4,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D021,Davis Cup G2 PO: KSA vs BRN,Hard,4,D,19960405,2,108753,,,Othman Al Anazi,U,,KSA,24.674,,,AF77,,,Esam Abdulaal,,,BRN,26.639,,,1-6 2-6 7-6(5) 6-4 6-4,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D021,Davis Cup G2 PO: KSA vs BRN,Hard,4,D,19960405,3,AF77,,,Esam Abdulaal,,,BRN,26.639,,,A498,,,Bader Mohammed Almuqail,U,,KSA,25.582,,,4-6 6-2 6-2 7-5,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D021,Davis Cup G2 PO: KSA vs BRN,Hard,4,D,19960405,4,108753,,,Othman Al Anazi,U,,KSA,24.674,,,SF35,,,Shehab Shehab,U,,BRN,26.658,,,6-4 7-5 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D023,Davis Cup G1 PO: CAN vs CHI,Carpet,4,D,19960405,1,R286,,,Marcelo Rios,L,175,CHI,20.266,16,1427,N210,,,Daniel Nestor,L,191,CAN,23.573,144,301,6-4 7-6(6) 6-7(5) 3-6 14-12,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D023,Davis Cup G1 PO: CAN vs CHI,Carpet,4,D,19960405,2,L226,,,Sebastien Lareau,R,183,CAN,22.93,128,345,B424,,,Oscar Bustos,R,,CHI,24.6,,,6-4 6-2 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D023,Davis Cup G1 PO: CAN vs CHI,Carpet,4,D,19960405,3,L226,,,Sebastien Lareau,R,183,CAN,22.93,128,345,M655,,,Nicolas Massu,R,183,CHI,16.476,844,10,6-3 6-1 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D023,Davis Cup G1 PO: CAN vs CHI,Carpet,4,D,19960405,4,B424,,,Oscar Bustos,R,,CHI,24.6,,,S102,,,Andrew Sznajder,R,175,CAN,28.854,267,122,6-3 6-3,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D026,Davis Cup G1 PO: INA vs CHN,Clay,4,D,19960405,1,P263,,,Bing Pan,R,185,CHN,26.13,264,124,R348,,,Andrian Raturandang,R,,INA,19.674,744,14,6-0 6-1 7-5,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D026,Davis Cup G1 PO: INA vs CHN,Clay,4,D,19960405,2,X002,,,Jia-Ping Xia,R,165,CHN,27.086,554,33,S537,,,Suwandi Suwandi,R,178,INA,19.611,416,58,3-6 2-6 6-1 6-1 6-1,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D026,Davis Cup G1 PO: INA vs CHN,Clay,4,D,19960405,3,P263,,,Bing Pan,R,185,CHN,26.13,264,124,S537,,,Suwandi Suwandi,R,178,INA,19.611,416,58,6-3 7-6(5),3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D026,Davis Cup G1 PO: INA vs CHN,Clay,4,D,19960405,4,X002,,,Jia-Ping Xia,R,165,CHN,27.086,554,33,R348,,,Andrian Raturandang,R,,INA,19.674,744,14,6-3 6-4,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D031,Davis Cup G2 SF: URU vs COL,Clay,4,D,19960405,1,F165,,,Marcelo Filippini,R,178,URU,28.66,105,466,R159,,,Mario Rincon,R,,COL,28.329,240,144,6-4 6-3 6-1,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D031,Davis Cup G2 SF: URU vs COL,Clay,4,D,19960405,2,H256,,,Mauricio Hadad,R,170,COL,24.318,95,507,D253,,,Federico Dondo,R,,URU,24.454,501,42,6-0 6-2 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D031,Davis Cup G2 SF: URU vs COL,Clay,4,D,19960405,3,F165,,,Marcelo Filippini,R,178,URU,28.66,105,466,M545,,,Philippe Moggio,L,,COL,23.025,887,9,6-2 7-5 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D031,Davis Cup G2 SF: URU vs COL,Clay,4,D,19960405,4,D253,,,Federico Dondo,R,,URU,24.454,501,42,R159,,,Mario Rincon,R,,COL,28.329,240,144,4-6 6-1 6-2 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,1,I034,,,Goran Ivanisevic,L,193,CRO,24.55,6,3444,R272,,,Andrei Rybalko,R,180,UKR,23.822,609,24,6-0 7-6(5) 6-7(4) 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,2,H274,,,Sasa Hirszon,R,185,CRO,23.715,376,72,P198,,,Dimitri Poliakov,R,183,UKR,28.2,359,80,6-2 6-0 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,3,S277,,,Igor Saric,R,190,CRO,28.745,469,50,T319,,,Victor Trotsko,U,,UKR,18.138,,,6-3 6-4,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,4,O128,,,Goran Oresic,R,,CRO,20.928,597,25,Y047,,,Sergei Yaroshenko,R,,UKR,18.987,,,6-1 7-6(10),3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D033,Davis Cup G2 SF: CUB vs ECU,Hard,4,D,19960405,1,L290,,,Nicolas Lapentti,R,188,ECU,19.633,99,499,P300,,,Armando Perez,R,,CUB,30.661,400,62,6-1 6-0 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D033,Davis Cup G2 SF: CUB vs ECU,Hard,4,D,19960405,2,M506,,,Luis Adrian Morejon,R,178,ECU,23.012,134,332,P217,,,Juan Pino,R,185,CUB,30.746,377,72,4-6 7-6(4) 6-1 3-6 8-6,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D037,Davis Cup WG QF: CZE vs USA,Carpet,4,D,19960405,1,M442,,,Todd Martin,R,198,USA,25.733,17,1351,K148,,,Petr Korda,L,191,CZE,28.189,41,875,6-2 6-4 7-5,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D037,Davis Cup WG QF: CZE vs USA,Carpet,4,D,19960405,2,V141,,,Daniel Vacek,R,191,CZE,25.002,35,976,W124,,,MaliVai Washington,R,180,USA,26.782,19,1272,4-6 6-3 6-4 5-7 6-4,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D037,Davis Cup WG QF: CZE vs USA,Carpet,4,D,19960405,3,M442,,,Todd Martin,R,198,USA,25.733,17,1351,V141,,,Daniel Vacek,R,191,CZE,25.002,35,976,7-6(1) 6-3 6-1,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D037,Davis Cup WG QF: CZE vs USA,Carpet,4,D,19960405,4,K148,,,Petr Korda,L,191,CZE,28.189,41,875,W124,,,MaliVai Washington,R,180,USA,26.782,19,1272,7-6(5) 6-3 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D043,Davis Cup G1 QF: ISR vs ESP,Hard,4,D,19960405,1,C179,,,Carlos Costa,R,183,ESP,27.943,28,1034,R243,,,Eyal Ran,R,183,ISR,23.359,173,223,3-6 6-3 6-4 2-0 RET,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D043,Davis Cup G1 QF: ISR vs ESP,Hard,4,D,19960405,2,C378,,,Albert Costa,R,180,ESP,20.769,18,1348,E135,,,Eyal Erlich,R,183,ISR,19.247,315,96,6-2 3-6 6-2 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D043,Davis Cup G1 QF: ISR vs ESP,Hard,4,D,19960405,3,C378,,,Albert Costa,R,180,ESP,20.769,18,1348,B440,,,Noam Behr,L,188,ISR,20.468,252,133,6-4 6-4 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D043,Davis Cup G1 QF: ISR vs ESP,Hard,4,D,19960405,4,C179,,,Carlos Costa,R,183,ESP,27.943,28,1034,E135,,,Eyal Erlich,R,183,ISR,19.247,315,96,7-6(1) 6-1,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D044,Davis Cup G1 QF: FIN vs ROU,Carpet,4,D,19960405,1,P280,,,Andrei Pavel,R,183,ROU,22.177,200,197,K297,,,Tuomas Ketola,R,185,FIN,21.109,195,200,6-4 6-2 6-4,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D044,Davis Cup G1 QF: FIN vs ROU,Carpet,4,D,19960405,2,V166,,,Adrian Voinea,R,185,ROU,21.654,37,957,T207,,,Kim Tiilikainen,R,180,FIN,20.734,271,118,6-1 6-2 6-4,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D044,Davis Cup G1 QF: FIN vs ROU,Carpet,4,D,19960405,3,K297,,,Tuomas Ketola,R,185,FIN,21.109,195,200,C259,,,George Cosac,R,190,ROU,28.181,324,91,6-3 7-6(1),3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D044,Davis Cup G1 QF: FIN vs ROU,Carpet,4,D,19960405,4,L292,,,Ville Liukko,R,173,FIN,21.856,620,23,P280,,,Andrei Pavel,R,183,ROU,22.177,200,197,6-3 6-3,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D045,Davis Cup WG QF: FRA vs GER,Clay,4,D,19960405,1,P226,,,Cedric Pioline,R,188,FRA,26.795,23,1108,P273,,,David Prinosil,R,185,GER,23.064,40,892,6-0 6-7(6) 6-4 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D045,Davis Cup WG QF: FRA vs GER,Clay,4,D,19960405,2,B053,,,Arnaud Boetsch,R,183,FRA,27.001,13,1603,D249,,,Hendrik Dreekmann,R,188,GER,21.172,81,586,4-6 6-4 3-6 7-6(2) 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D045,Davis Cup WG QF: FRA vs GER,Clay,4,D,19960405,3,F035,,,Guy Forget,L,191,FRA,31.239,34,985,P273,,,David Prinosil,R,185,GER,23.064,40,892,6-3 0-6 6-4,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D045,Davis Cup WG QF: FRA vs GER,Clay,4,D,19960405,4,P226,,,Cedric Pioline,R,188,FRA,26.795,23,1108,D249,,,Hendrik Dreekmann,R,188,GER,21.172,81,586,6-4 6-3,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,1,S478,,,Tanakorn Srichaphan,R,,THA,27.866,1256,1,H387,,,John Hui,R,,HKG,18.242,,,6-2 6-2 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,2,T120,,,Worapol Thongkamcho,R,,THA,28.249,,,P214,,,Lui Pang,R,,HKG,,,,6-3 6-4 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,3,S476,,,Naratorn Srichaphan,R,,THA,23.655,1256,1,F215,,,Graeme Foster,U,,HKG,29.758,,,6-0 6-4,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,4,T120,,,Worapol Thongkamcho,R,,THA,28.249,,,H387,,,John Hui,R,,HKG,18.242,,,6-3 6-2,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D059,Davis Cup WG QF: IND vs SWE,Grass,4,D,19960405,1,B446,,,Jonas Bjorkman,R,183,SWE,24.025,49,821,P269,,,Leander Paes,R,178,IND,22.79,124,355,1-6 6-4 5-7 6-3 7-5,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D059,Davis Cup WG QF: IND vs SWE,Grass,4,D,19960405,2,E113,,,Thomas Enqvist,R,190,SWE,22.053,9,2182,B471,,,Mahesh Bhupathi,R,185,IND,21.818,341,86,6-7(5) 7-6(3) 6-1 6-1,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D059,Davis Cup WG QF: IND vs SWE,Grass,4,D,19960405,3,K181,,,Nicklas Kulti,R,190,SWE,24.945,123,360,P269,,,Leander Paes,R,178,IND,22.79,124,355,6-3 6-7(4) 7-6(6),3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D059,Davis Cup WG QF: IND vs SWE,Grass,4,D,19960405,4,B446,,,Jonas Bjorkman,R,183,SWE,24.025,49,821,B471,,,Mahesh Bhupathi,R,185,IND,21.818,341,86,6-2 6-4,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,1,B001,,,Mansour Bahrami,R,178,IRI,39.932,,,D604,,,Rohan De Silva,U,,SRI,24.134,,,6-2 6-1 7-5,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,2,T268,,,Mohammed Reza Tavakoli,U,,IRI,24.304,,,W407,,,Jayendra Wijeyesekera,U,,SRI,26.218,,,6-2 6-2 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,3,W407,,,Jayendra Wijeyesekera,U,,SRI,26.218,,,R392,,,Ramin Raziyani,U,,IRI,21.969,,,6-4 6-2,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,4,T268,,,Mohammed Reza Tavakoli,U,,IRI,24.304,,,D604,,,Rohan De Silva,U,,SRI,24.134,,,6-0 6-2,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D063,Davis Cup WG QF: ITA vs RSA,Clay,4,D,19960405,1,O098,,,Marcos Ondruska,R,183,RSA,23.285,106,466,F192,,,Renzo Furlan,R,175,ITA,25.875,21,1201,6-4 6-4 6-4,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D063,Davis Cup WG QF: ITA vs RSA,Clay,4,D,19960405,2,G254,,,Andrea Gaudenzi,R,183,ITA,22.672,36,974,F196,,,Wayne Ferreira,R,185,RSA,24.545,10,2122,5-7 6-3 2-6 7-5 6-1,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D063,Davis Cup WG QF: ITA vs RSA,Clay,4,D,19960405,3,F192,,,Renzo Furlan,R,175,ITA,25.875,21,1201,F196,,,Wayne Ferreira,R,185,RSA,24.545,10,2122,3-6 6-0 7-6(4) 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D063,Davis Cup WG QF: ITA vs RSA,Clay,4,D,19960405,4,G254,,,Andrea Gaudenzi,R,183,ITA,22.672,36,974,O098,,,Marcos Ondruska,R,183,RSA,23.285,106,466,6-1 1-1 RET,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D067,Davis Cup G1 SF: KOR vs NZL,Clay,4,D,19960405,1,L311,,,Hyung-Taik Lee,R,180,KOR,20.244,296,104,D279,,,Steven Downs,R,183,NZL,20.564,422,57,7-5 6-1 6-1,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D067,Davis Cup G1 SF: KOR vs NZL,Clay,4,D,19960405,2,S321,,,Brett Steven,R,185,NZL,26.93,39,895,Y033,,,Yong-Il Yoon,R,175,KOR,22.522,408,60,6-3 1-6 6-2 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D067,Davis Cup G1 SF: KOR vs NZL,Clay,4,D,19960405,3,Y033,,,Yong-Il Yoon,R,175,KOR,22.522,408,60,D279,,,Steven Downs,R,183,NZL,20.564,422,57,2-6 6-2 6-4 7-5,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D067,Davis Cup G1 SF: KOR vs NZL,Clay,4,D,19960405,4,S321,,,Brett Steven,R,185,NZL,26.93,39,895,L311,,,Hyung-Taik Lee,R,180,KOR,20.244,296,104,6-4 3-6 6-3 7-6(7),5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D072,Davis Cup G1 QF: MAR vs ZIM,Clay,4,D,19960405,1,B499,,,Wayne Black,R,170,ZIM,22.379,198,198,A203,,,Karim Alami,R,185,MAR,22.856,84,581,7-5 3-6 7-5 1-6 6-2,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D072,Davis Cup G1 QF: MAR vs ZIM,Clay,4,D,19960405,2,A226,,,Hicham Arazi,L,175,MAR,22.45,141,308,B397,,,Byron Black,R,175,ZIM,26.486,29,1032,6-3 6-2 6-1,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D072,Davis Cup G1 QF: MAR vs ZIM,Clay,4,D,19960405,3,A203,,,Karim Alami,R,185,MAR,22.856,84,581,B527,,,Malcolm Birch,U,,ZIM,25.864,,,6-3 6-0 6-1,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D072,Davis Cup G1 QF: MAR vs ZIM,Clay,4,D,19960405,4,A226,,,Hicham Arazi,L,175,MAR,22.45,141,308,B499,,,Wayne Black,R,170,ZIM,22.379,198,198,6-3 7-6(5),3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,1,T212,,,Dmitri Tomashevich,R,,UZB,22.073,309,97,R323,,,Omer Rashid,R,,PAK,23.825,820,10,6-3 6-4 6-1,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,2,O127,,,Oleg Ogorodov,R,193,UZB,23.71,115,431,H325,,,Hamed Ul Haq,U,,PAK,34.086,,,6-3 4-6 6-2 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,3,O127,,,Oleg Ogorodov,R,193,UZB,23.71,115,431,R323,,,Omer Rashid,R,,PAK,23.825,820,10,7-5 6-1,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,4,T212,,,Dmitri Tomashevich,R,,UZB,22.073,309,97,H325,,,Hamed Ul Haq,U,,PAK,34.086,,,6-3 6-2,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D078,Davis Cup G1 PO: TPE vs PHI,Clay,4,D,19960405,1,L188,,,Joseph Lizardo,R,,PHI,27.203,854,10,T211,,,Chia-Yen Tsai,R,,TPE,21.092,,,2-6 6-2 7-5 2-0 RET,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D078,Davis Cup G1 PO: TPE vs PHI,Clay,4,D,19960405,2,P287,,,Sofronio Palahang,R,,PHI,28.526,1256,1,C364,,,Chih-Jung Chen,R,,TPE,23.518,650,20,1-6 4-6 6-2 6-0 6-0,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D078,Davis Cup G1 PO: TPE vs PHI,Clay,4,D,19960405,3,L188,,,Joseph Lizardo,R,,PHI,27.203,854,10,C364,,,Chih-Jung Chen,R,,TPE,23.518,650,20,3-6 3-6 7-5 6-3 6-3,5,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
-1996-D078,Davis Cup G1 PO: TPE vs PHI,Clay,4,D,19960405,4,C453,,,Wei-Ju Chen,R,,TPE,17.974,1056,4,P287,,,Sofronio Palahang,R,,PHI,28.526,1256,1,7-5 6-4,3,RR,113,4,5,101,60,35,20,14,12,17,0,0,80,68,37,8,13,3,8
+1996-D003,Davis Cup G1 SF: ARG vs BAH,Clay,4,D,19960405,1,F041,,,Javier Frana,L,185,ARG,29.268,38,920,S340,,,Roger Smith,R,185,BAH,32.197,794,12,6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D003,Davis Cup G1 SF: ARG vs BAH,Clay,4,D,19960405,2,G247,,,Hernan Gumy,R,188,ARG,24.074,58,748,K171,,,Mark Knowles,R,190,BAH,24.575,107,461,6-3 7-6(3) 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D003,Davis Cup G1 SF: ARG vs BAH,Clay,4,D,19960405,3,K171,,,Mark Knowles,R,190,BAH,24.575,107,461,F041,,,Javier Frana,L,185,ARG,29.268,38,920,6-7(7) 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D003,Davis Cup G1 SF: ARG vs BAH,Clay,4,D,19960405,4,G247,,,Hernan Gumy,R,188,ARG,24.074,58,748,S340,,,Roger Smith,R,185,BAH,32.197,794,12,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D008,Davis Cup G1 SF: JPN vs AUS,Hard,4,D,19960405,1,W136,,,Todd Woodbridge,R,178,AUS,24.999,27,1037,K266,,,Hideki Kaneko,R,,JPN,22.073,256,131,4-6 6-7(4) 7-5 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D008,Davis Cup G1 SF: JPN vs AUS,Hard,4,D,19960405,2,S331,,,Jason Stoltenberg,R,185,AUS,25.993,56,761,M338,,,Shuzo Matsuoka,R,185,JPN,28.402,67,680,6-4 3-6 6-3 3-6 5-4 RET,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D008,Davis Cup G1 SF: JPN vs AUS,Hard,4,D,19960405,3,W136,,,Todd Woodbridge,R,178,AUS,24.999,27,1037,M338,,,Shuzo Matsuoka,R,185,JPN,28.402,67,680,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D008,Davis Cup G1 SF: JPN vs AUS,Hard,4,D,19960405,4,S331,,,Jason Stoltenberg,R,185,AUS,25.993,56,761,K266,,,Hideki Kaneko,R,,JPN,22.073,256,131,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D014,Davis Cup G2 PO: PAR vs BAR,Clay,4,D,19960405,1,M462,,,Ricardo Mena,R,,PAR,24.444,665,19,B302,,,Martin Blackman,R,188,USA,26.075,605,24,6-4 7-6(3) 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D014,Davis Cup G2 PO: PAR vs BAR,Clay,4,D,19960405,2,D316,,,Ramon Delgado,R,185,PAR,19.379,335,87,A037,,,Richard Ashby,R,,USA,31.211,,,7-6(2) 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D014,Davis Cup G2 PO: PAR vs BAR,Clay,4,D,19960405,3,D316,,,Ramon Delgado,R,185,PAR,19.379,335,87,W423,,,Duane Williams,U,,BAR,16.966,,,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D014,Davis Cup G2 PO: PAR vs BAR,Clay,4,D,19960405,4,M462,,,Ricardo Mena,R,,PAR,24.444,665,19,A037,,,Richard Ashby,R,,USA,31.211,,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D020,Davis Cup G1 SF: BRA vs VEN,Clay,4,D,19960405,1,K293,,,Gustavo Kuerten,R,191,BRA,19.556,169,234,P218,,,Nicolas Pereira,R,188,VEN,25.506,92,514,6-2 6-7(2) 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D020,Davis Cup G1 SF: BRA vs VEN,Clay,4,D,19960405,2,M443,,,Fernando Meligeni,L,180,BRA,24.972,78,610,S585,,,Jimy Szymanski,R,175,VEN,20.545,303,100,6-3 7-6(2) 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D020,Davis Cup G1 SF: BRA vs VEN,Clay,4,D,19960405,3,M443,,,Fernando Meligeni,L,180,BRA,24.972,78,610,P218,,,Nicolas Pereira,R,188,VEN,25.506,92,514,6-4 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D020,Davis Cup G1 SF: BRA vs VEN,Clay,4,D,19960405,4,K293,,,Gustavo Kuerten,R,191,BRA,19.556,169,234,S585,,,Jimy Szymanski,R,175,VEN,20.545,303,100,6-2 6-7(6) 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D021,Davis Cup G2 PO: KSA vs BRN,Hard,4,D,19960405,1,A498,,,Bader Mohammed Almuqail,U,,KSA,25.582,,,SF35,,,Shehab Shehab,U,,BRN,26.658,,,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D021,Davis Cup G2 PO: KSA vs BRN,Hard,4,D,19960405,2,108753,,,Othman Al Anazi,U,,KSA,24.674,,,AF77,,,Esam Abdulaal,,,BRN,26.639,,,1-6 2-6 7-6(5) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D021,Davis Cup G2 PO: KSA vs BRN,Hard,4,D,19960405,3,AF77,,,Esam Abdulaal,,,BRN,26.639,,,A498,,,Bader Mohammed Almuqail,U,,KSA,25.582,,,4-6 6-2 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D021,Davis Cup G2 PO: KSA vs BRN,Hard,4,D,19960405,4,108753,,,Othman Al Anazi,U,,KSA,24.674,,,SF35,,,Shehab Shehab,U,,BRN,26.658,,,6-4 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D023,Davis Cup G1 PO: CAN vs CHI,Carpet,4,D,19960405,1,R286,,,Marcelo Rios,L,175,CHI,20.266,16,1427,N210,,,Daniel Nestor,L,191,CAN,23.573,144,301,6-4 7-6(6) 6-7(5) 3-6 14-12,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D023,Davis Cup G1 PO: CAN vs CHI,Carpet,4,D,19960405,2,L226,,,Sebastien Lareau,R,183,CAN,22.93,128,345,B424,,,Oscar Bustos,R,,CHI,24.6,,,6-4 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D023,Davis Cup G1 PO: CAN vs CHI,Carpet,4,D,19960405,3,L226,,,Sebastien Lareau,R,183,CAN,22.93,128,345,M655,,,Nicolas Massu,R,183,CHI,16.476,844,10,6-3 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D023,Davis Cup G1 PO: CAN vs CHI,Carpet,4,D,19960405,4,B424,,,Oscar Bustos,R,,CHI,24.6,,,S102,,,Andrew Sznajder,R,175,CAN,28.854,267,122,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D026,Davis Cup G1 PO: INA vs CHN,Clay,4,D,19960405,1,P263,,,Bing Pan,R,185,CHN,26.13,264,124,R348,,,Andrian Raturandang,R,,INA,19.674,744,14,6-0 6-1 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D026,Davis Cup G1 PO: INA vs CHN,Clay,4,D,19960405,2,X002,,,Jia-Ping Xia,R,165,CHN,27.086,554,33,S537,,,Suwandi Suwandi,R,178,INA,19.611,416,58,3-6 2-6 6-1 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D026,Davis Cup G1 PO: INA vs CHN,Clay,4,D,19960405,3,P263,,,Bing Pan,R,185,CHN,26.13,264,124,S537,,,Suwandi Suwandi,R,178,INA,19.611,416,58,6-3 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
+1996-D026,Davis Cup G1 PO: INA vs CHN,Clay,4,D,19960405,4,X002,,,Jia-Ping Xia,R,165,CHN,27.086,554,33,R348,,,Andrian Raturandang,R,,INA,19.674,744,14,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D031,Davis Cup G2 SF: URU vs COL,Clay,4,D,19960405,1,F165,,,Marcelo Filippini,R,178,URU,28.66,105,466,R159,,,Mario Rincon,R,,COL,28.329,240,144,6-4 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D031,Davis Cup G2 SF: URU vs COL,Clay,4,D,19960405,2,H256,,,Mauricio Hadad,R,170,COL,24.318,95,507,D253,,,Federico Dondo,R,,URU,24.454,501,42,6-0 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D031,Davis Cup G2 SF: URU vs COL,Clay,4,D,19960405,3,F165,,,Marcelo Filippini,R,178,URU,28.66,105,466,M545,,,Philippe Moggio,L,,COL,23.025,887,9,6-2 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D031,Davis Cup G2 SF: URU vs COL,Clay,4,D,19960405,4,D253,,,Federico Dondo,R,,URU,24.454,501,42,R159,,,Mario Rincon,R,,COL,28.329,240,144,4-6 6-1 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,1,I034,,,Goran Ivanisevic,L,193,CRO,24.55,6,3444,R272,,,Andrei Rybalko,R,180,UKR,23.822,609,24,6-0 7-6(5) 6-7(4) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,2,H274,,,Sasa Hirszon,R,185,CRO,23.715,376,72,P198,,,Dimitri Poliakov,R,183,UKR,28.2,359,80,6-2 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,3,S277,,,Igor Saric,R,190,CRO,28.745,469,50,T319,,,Victor Trotsko,U,,UKR,18.138,,,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D032,Davis Cup G1 QF: CRO vs UKR,Carpet,4,D,19960405,4,O128,,,Goran Oresic,R,,CRO,20.928,597,25,Y047,,,Sergei Yaroshenko,R,,UKR,18.987,,,6-1 7-6(10),3,RR,,,,,,,,,,,,,,,,,,,
+1996-D033,Davis Cup G2 SF: CUB vs ECU,Hard,4,D,19960405,1,L290,,,Nicolas Lapentti,R,188,ECU,19.633,99,499,P300,,,Armando Perez,R,,CUB,30.661,400,62,6-1 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D033,Davis Cup G2 SF: CUB vs ECU,Hard,4,D,19960405,2,M506,,,Luis Adrian Morejon,R,178,ECU,23.012,134,332,P217,,,Juan Pino,R,185,CUB,30.746,377,72,4-6 7-6(4) 6-1 3-6 8-6,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D037,Davis Cup WG QF: CZE vs USA,Carpet,4,D,19960405,1,M442,,,Todd Martin,R,198,USA,25.733,17,1351,K148,,,Petr Korda,L,191,CZE,28.189,41,875,6-2 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D037,Davis Cup WG QF: CZE vs USA,Carpet,4,D,19960405,2,V141,,,Daniel Vacek,R,191,CZE,25.002,35,976,W124,,,MaliVai Washington,R,180,USA,26.782,19,1272,4-6 6-3 6-4 5-7 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D037,Davis Cup WG QF: CZE vs USA,Carpet,4,D,19960405,3,M442,,,Todd Martin,R,198,USA,25.733,17,1351,V141,,,Daniel Vacek,R,191,CZE,25.002,35,976,7-6(1) 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D037,Davis Cup WG QF: CZE vs USA,Carpet,4,D,19960405,4,K148,,,Petr Korda,L,191,CZE,28.189,41,875,W124,,,MaliVai Washington,R,180,USA,26.782,19,1272,7-6(5) 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D043,Davis Cup G1 QF: ISR vs ESP,Hard,4,D,19960405,1,C179,,,Carlos Costa,R,183,ESP,27.943,28,1034,R243,,,Eyal Ran,R,183,ISR,23.359,173,223,3-6 6-3 6-4 2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D043,Davis Cup G1 QF: ISR vs ESP,Hard,4,D,19960405,2,C378,,,Albert Costa,R,180,ESP,20.769,18,1348,E135,,,Eyal Erlich,R,183,ISR,19.247,315,96,6-2 3-6 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D043,Davis Cup G1 QF: ISR vs ESP,Hard,4,D,19960405,3,C378,,,Albert Costa,R,180,ESP,20.769,18,1348,B440,,,Noam Behr,L,188,ISR,20.468,252,133,6-4 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D043,Davis Cup G1 QF: ISR vs ESP,Hard,4,D,19960405,4,C179,,,Carlos Costa,R,183,ESP,27.943,28,1034,E135,,,Eyal Erlich,R,183,ISR,19.247,315,96,7-6(1) 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D044,Davis Cup G1 QF: FIN vs ROU,Carpet,4,D,19960405,1,P280,,,Andrei Pavel,R,183,ROU,22.177,200,197,K297,,,Tuomas Ketola,R,185,FIN,21.109,195,200,6-4 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D044,Davis Cup G1 QF: FIN vs ROU,Carpet,4,D,19960405,2,V166,,,Adrian Voinea,R,185,ROU,21.654,37,957,T207,,,Kim Tiilikainen,R,180,FIN,20.734,271,118,6-1 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D044,Davis Cup G1 QF: FIN vs ROU,Carpet,4,D,19960405,3,K297,,,Tuomas Ketola,R,185,FIN,21.109,195,200,C259,,,George Cosac,R,190,ROU,28.181,324,91,6-3 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,
+1996-D044,Davis Cup G1 QF: FIN vs ROU,Carpet,4,D,19960405,4,L292,,,Ville Liukko,R,173,FIN,21.856,620,23,P280,,,Andrei Pavel,R,183,ROU,22.177,200,197,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D045,Davis Cup WG QF: FRA vs GER,Clay,4,D,19960405,1,P226,,,Cedric Pioline,R,188,FRA,26.795,23,1108,P273,,,David Prinosil,R,185,GER,23.064,40,892,6-0 6-7(6) 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D045,Davis Cup WG QF: FRA vs GER,Clay,4,D,19960405,2,B053,,,Arnaud Boetsch,R,183,FRA,27.001,13,1603,D249,,,Hendrik Dreekmann,R,188,GER,21.172,81,586,4-6 6-4 3-6 7-6(2) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D045,Davis Cup WG QF: FRA vs GER,Clay,4,D,19960405,3,F035,,,Guy Forget,L,191,FRA,31.239,34,985,P273,,,David Prinosil,R,185,GER,23.064,40,892,6-3 0-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D045,Davis Cup WG QF: FRA vs GER,Clay,4,D,19960405,4,P226,,,Cedric Pioline,R,188,FRA,26.795,23,1108,D249,,,Hendrik Dreekmann,R,188,GER,21.172,81,586,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,1,S478,,,Tanakorn Srichaphan,R,,THA,27.866,1256,1,H387,,,John Hui,R,,HKG,18.242,,,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,2,T120,,,Worapol Thongkamcho,R,,THA,28.249,,,P214,,,Lui Pang,R,,HKG,,,,6-3 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,3,S476,,,Naratorn Srichaphan,R,,THA,23.655,1256,1,F215,,,Graeme Foster,U,,HKG,29.758,,,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D055,Davis Cup G2 SF: THA vs HKG,Hard,4,D,19960405,4,T120,,,Worapol Thongkamcho,R,,THA,28.249,,,H387,,,John Hui,R,,HKG,18.242,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D059,Davis Cup WG QF: IND vs SWE,Grass,4,D,19960405,1,B446,,,Jonas Bjorkman,R,183,SWE,24.025,49,821,P269,,,Leander Paes,R,178,IND,22.79,124,355,1-6 6-4 5-7 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D059,Davis Cup WG QF: IND vs SWE,Grass,4,D,19960405,2,E113,,,Thomas Enqvist,R,190,SWE,22.053,9,2182,B471,,,Mahesh Bhupathi,R,185,IND,21.818,341,86,6-7(5) 7-6(3) 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D059,Davis Cup WG QF: IND vs SWE,Grass,4,D,19960405,3,K181,,,Nicklas Kulti,R,190,SWE,24.945,123,360,P269,,,Leander Paes,R,178,IND,22.79,124,355,6-3 6-7(4) 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,
+1996-D059,Davis Cup WG QF: IND vs SWE,Grass,4,D,19960405,4,B446,,,Jonas Bjorkman,R,183,SWE,24.025,49,821,B471,,,Mahesh Bhupathi,R,185,IND,21.818,341,86,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,1,B001,,,Mansour Bahrami,R,178,IRI,39.932,,,D604,,,Rohan De Silva,U,,SRI,24.134,,,6-2 6-1 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,2,T268,,,Mohammed Reza Tavakoli,U,,IRI,24.304,,,W407,,,Jayendra Wijeyesekera,U,,SRI,26.218,,,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,3,W407,,,Jayendra Wijeyesekera,U,,SRI,26.218,,,R392,,,Ramin Raziyani,U,,IRI,21.969,,,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D060,Davis Cup G2 PO: IRI vs SRI,Clay,4,D,19960405,4,T268,,,Mohammed Reza Tavakoli,U,,IRI,24.304,,,D604,,,Rohan De Silva,U,,SRI,24.134,,,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D063,Davis Cup WG QF: ITA vs RSA,Clay,4,D,19960405,1,O098,,,Marcos Ondruska,R,183,RSA,23.285,106,466,F192,,,Renzo Furlan,R,175,ITA,25.875,21,1201,6-4 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D063,Davis Cup WG QF: ITA vs RSA,Clay,4,D,19960405,2,G254,,,Andrea Gaudenzi,R,183,ITA,22.672,36,974,F196,,,Wayne Ferreira,R,185,RSA,24.545,10,2122,5-7 6-3 2-6 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D063,Davis Cup WG QF: ITA vs RSA,Clay,4,D,19960405,3,F192,,,Renzo Furlan,R,175,ITA,25.875,21,1201,F196,,,Wayne Ferreira,R,185,RSA,24.545,10,2122,3-6 6-0 7-6(4) 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D063,Davis Cup WG QF: ITA vs RSA,Clay,4,D,19960405,4,G254,,,Andrea Gaudenzi,R,183,ITA,22.672,36,974,O098,,,Marcos Ondruska,R,183,RSA,23.285,106,466,6-1 1-1 RET,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D067,Davis Cup G1 SF: KOR vs NZL,Clay,4,D,19960405,1,L311,,,Hyung-Taik Lee,R,180,KOR,20.244,296,104,D279,,,Steven Downs,R,183,NZL,20.564,422,57,7-5 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D067,Davis Cup G1 SF: KOR vs NZL,Clay,4,D,19960405,2,S321,,,Brett Steven,R,185,NZL,26.93,39,895,Y033,,,Yong-Il Yoon,R,175,KOR,22.522,408,60,6-3 1-6 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D067,Davis Cup G1 SF: KOR vs NZL,Clay,4,D,19960405,3,Y033,,,Yong-Il Yoon,R,175,KOR,22.522,408,60,D279,,,Steven Downs,R,183,NZL,20.564,422,57,2-6 6-2 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D067,Davis Cup G1 SF: KOR vs NZL,Clay,4,D,19960405,4,S321,,,Brett Steven,R,185,NZL,26.93,39,895,L311,,,Hyung-Taik Lee,R,180,KOR,20.244,296,104,6-4 3-6 6-3 7-6(7),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D072,Davis Cup G1 QF: MAR vs ZIM,Clay,4,D,19960405,1,B499,,,Wayne Black,R,170,ZIM,22.379,198,198,A203,,,Karim Alami,R,185,MAR,22.856,84,581,7-5 3-6 7-5 1-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D072,Davis Cup G1 QF: MAR vs ZIM,Clay,4,D,19960405,2,A226,,,Hicham Arazi,L,175,MAR,22.45,141,308,B397,,,Byron Black,R,175,ZIM,26.486,29,1032,6-3 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D072,Davis Cup G1 QF: MAR vs ZIM,Clay,4,D,19960405,3,A203,,,Karim Alami,R,185,MAR,22.856,84,581,B527,,,Malcolm Birch,U,,ZIM,25.864,,,6-3 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D072,Davis Cup G1 QF: MAR vs ZIM,Clay,4,D,19960405,4,A226,,,Hicham Arazi,L,175,MAR,22.45,141,308,B499,,,Wayne Black,R,170,ZIM,22.379,198,198,6-3 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,
+1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,1,T212,,,Dmitri Tomashevich,R,,UZB,22.073,309,97,R323,,,Omer Rashid,R,,PAK,23.825,820,10,6-3 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,2,O127,,,Oleg Ogorodov,R,193,UZB,23.71,115,431,H325,,,Hamed Ul Haq,U,,PAK,34.086,,,6-3 4-6 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,3,O127,,,Oleg Ogorodov,R,193,UZB,23.71,115,431,R323,,,Omer Rashid,R,,PAK,23.825,820,10,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D077,Davis Cup G2 SF: PAK vs UZB,Grass,4,D,19960405,4,T212,,,Dmitri Tomashevich,R,,UZB,22.073,309,97,H325,,,Hamed Ul Haq,U,,PAK,34.086,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D078,Davis Cup G1 PO: TPE vs PHI,Clay,4,D,19960405,1,L188,,,Joseph Lizardo,R,,PHI,27.203,854,10,T211,,,Chia-Yen Tsai,R,,TPE,21.092,,,2-6 6-2 7-5 2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D078,Davis Cup G1 PO: TPE vs PHI,Clay,4,D,19960405,2,P287,,,Sofronio Palahang,R,,PHI,28.526,1256,1,C364,,,Chih-Jung Chen,R,,TPE,23.518,650,20,1-6 4-6 6-2 6-0 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D078,Davis Cup G1 PO: TPE vs PHI,Clay,4,D,19960405,3,L188,,,Joseph Lizardo,R,,PHI,27.203,854,10,C364,,,Chih-Jung Chen,R,,TPE,23.518,650,20,3-6 3-6 7-5 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D078,Davis Cup G1 PO: TPE vs PHI,Clay,4,D,19960405,4,C453,,,Wei-Ju Chen,R,,TPE,17.974,1056,4,P287,,,Sofronio Palahang,R,,PHI,28.526,1256,1,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 1996-336,Hong Kong,Hard,32,A,19960408,1,S402,1,,Pete Sampras,R,185,USA,24.657,2,4310,L226,,,Sebastien Lareau,R,183,CAN,22.949,127,345,6-1 3-6 6-1,3,R32,88,11,10,79,41,31,15,12,6,9,5,7,83,47,26,13,11,6,12
 1996-336,Hong Kong,Hard,32,A,19960408,2,R255,,WC,Patrick Rafter,R,185,AUS,23.277,89,523,H387,,WC,John Hui,R,,HKG,18.261,,,6-0 6-1,3,R32,45,6,2,36,19,17,10,6,1,1,0,2,46,21,9,7,7,5,11
 1996-336,Hong Kong,Hard,32,A,19960408,3,A202,,Q,Wayne Arthurs,L,190,AUS,25.06,747,14,R273,,,Joern Renzenbrink,R,196,GER,23.726,172,229,6-4 6-4,3,R32,70,6,3,60,28,23,21,10,1,1,1,5,66,40,27,13,10,6,8
@@ -1505,42 +1505,42 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-409,Atlanta,Clay,32,A,19960429,29,A203,6,,Karim Alami,R,185,MAR,22.932,78,622,C274,1,,Michael Chang,R,175,USA,24.183,4,3786,6-4 6-4,3,SF,91,4,2,72,38,30,14,10,3,5,2,1,63,50,27,7,10,5,9
 1996-409,Atlanta,Clay,32,A,19960429,30,K181,,,Nicklas Kulti,R,190,SWE,25.021,122,381,R016,2,,Richey Reneberg,R,180,USA,30.565,37,955,6-7(5) 7-6(6) 6-2,3,SF,157,12,5,113,60,41,31,16,2,4,20,5,127,57,47,29,16,7,11
 1996-409,Atlanta,Clay,32,A,19960429,31,A203,6,,Karim Alami,R,185,MAR,22.932,78,622,K181,,,Nicklas Kulti,R,190,SWE,25.021,122,381,6-3 6-4,3,F,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D001,Davis Cup G2 R1: ALG vs POR,Clay,4,D,19960501,1,C336,,,Emanuel Couto,R,183,POR,22.73,272,125,H454,,,Ouassel Hared,R,,ALG,22.664,,,6-3 6-0 6-1,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D001,Davis Cup G2 R1: ALG vs POR,Clay,4,D,19960501,2,M406,,,Bernardo Mota,R,178,POR,24.794,287,115,H298,,,Abdelhak Hameurlaine,R,,ALG,24.112,,,6-2 6-1 6-1,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D001,Davis Cup G2 R1: ALG vs POR,Clay,4,D,19960501,3,F256,,,Bruno Fragoso,R,,POR,23.431,602,25,MB97,,,Mohammed Mahmoudi,U,,ALG,26.357,,,6-4 6-4,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D001,Davis Cup G2 R1: ALG vs POR,Clay,4,D,19960501,4,M406,,,Bernardo Mota,R,178,POR,24.794,287,115,H454,,,Ouassel Hared,R,,ALG,22.664,,,6-1 6-0,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D017,Davis Cup G2 R1: LUX vs BLR,Carpet,4,D,19960503,1,S674,,,Alexander Shvec,R,,BLR,23.833,411,60,S785,,,Pascal Schaul,U,,LUX,17.298,,,6-2 7-6(1) 6-1,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D017,Davis Cup G2 R1: LUX vs BLR,Carpet,4,D,19960503,2,T271,,,Sacha Thoma,U,,LUX,17.432,,,V211,,,Vladimir Voltchkov,R,180,BLR,18.062,561,32,1-6 7-5 7-6(7) 7-6(4),5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D017,Davis Cup G2 R1: LUX vs BLR,Carpet,4,D,19960503,3,S674,,,Alexander Shvec,R,,BLR,23.833,411,60,T271,,,Sacha Thoma,U,,LUX,17.432,,,7-5 6-2 3-6 2-6 6-3,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D017,Davis Cup G2 R1: LUX vs BLR,Carpet,4,D,19960503,4,V211,,,Vladimir Voltchkov,R,180,BLR,18.062,561,32,S785,,,Pascal Schaul,U,,LUX,17.298,,,6-3 6-2,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,1,N228,,,Claude N'Goran,L,190,CIV,21.117,337,89,S592,,,Armand Strombach,R,,LAT,20.131,,,6-3 6-1 6-3,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,2,D051,,,Girts Dzelde,R,173,LAT,32.789,560,32,N201,,,Clement N'Goran,R,178,CIV,26.727,778,12,7-5 6-4 6-1,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,3,N228,,,Claude N'Goran,L,190,CIV,21.117,337,89,D051,,,Girts Dzelde,R,173,LAT,32.789,560,32,6-7(1) 6-3 6-1 6-2,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,4,F172,,,Andres Filimonov,R,,LAT,28,,,N201,,,Clement N'Goran,R,178,CIV,26.727,778,12,7-6(1) 6-3,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D042,Davis Cup G2 R1: EGY vs MKD,Clay,4,D,19960503,1,G284,,,Amro Ghoneim,R,,EGY,22.116,569,30,N290,,,Ognen Nikolovski,U,,MKD,22.075,,,6-0 6-2 6-3,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D042,Davis Cup G2 R1: EGY vs MKD,Clay,4,D,19960503,2,E146,,,Tamer El Sawy,R,188,EGY,24.214,225,168,M723,,,Lazar Magdincev,R,,MKD,15.37,,,6-2 6-3 6-0,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D042,Davis Cup G2 R1: EGY vs MKD,Clay,4,D,19960503,3,H482,,,Hisham Hemeda,U,,EGY,17.996,,,N290,,,Ognen Nikolovski,U,,MKD,22.075,,,4-6 6-1 6-0,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D042,Davis Cup G2 R1: EGY vs MKD,Clay,4,D,19960503,4,G284,,,Amro Ghoneim,R,,EGY,22.116,569,30,M723,,,Lazar Magdincev,R,,MKD,15.37,,,6-2 6-1,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D049,Davis Cup G2 R1: GBR vs SLO,Carpet,4,D,19960503,1,R237,,,Greg Rusedski,L,193,GBR,22.645,58,745,U030,,,Borut Urh,R,190,SLO,21.755,478,46,6-1 6-4 6-7(0) 6-3,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D049,Davis Cup G2 R1: GBR vs SLO,Carpet,4,D,19960503,2,B414,,,Iztok Bozic,R,,SLO,24.589,419,58,P222,,,Mark Petchey,R,183,GBR,25.744,203,186,6-4 6-4 4-6 6-2,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D049,Davis Cup G2 R1: GBR vs SLO,Carpet,4,D,19960503,3,R237,,,Greg Rusedski,L,193,GBR,22.645,58,745,B414,,,Iztok Bozic,R,,SLO,24.589,419,58,6-1 6-2 6-2,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D049,Davis Cup G2 R1: GBR vs SLO,Carpet,4,D,19960503,4,G267,,,Nick Gould,R,,GBR,23.806,269,126,U030,,,Borut Urh,R,190,SLO,21.755,478,46,6-4 2-6 6-4,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,1,O114,,,Frank Ofori,R,,GHA,25.117,464,49,D302,,,Daryl Delicata,U,,MLT,30.092,,,6-0 6-4 7-6(2),5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,2,D350,,,Isaac Donkor,U,,GHA,24.786,,,S641,,,Mark Schembri,U,,MLT,21.202,1235,2,6-4 6-3 6-7(5) 6-1,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,3,O114,,,Frank Ofori,R,,GHA,25.117,464,49,S641,,,Mark Schembri,U,,MLT,21.202,1235,2,6-4 6-4,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,4,108826,,,Isaac Tetteh Quaye,U,,GHA,22.549,,,D302,,,Daryl Delicata,U,,MLT,30.092,,,6-4 4-6 7-6(1),3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D052,Davis Cup G2 PO: GUA vs PUR,Hard,4,D,19960503,1,G320,,,Jorge Gonzalez,R,,PUR,23.83,823,11,L015,,,Alexander Lehnhoff,U,,GUA,19.231,,,6-4 6-2 6-4,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D052,Davis Cup G2 PO: GUA vs PUR,Hard,4,D,19960503,2,S566,,,Fernando Samayoa,R,,GUA,22.754,,,J157,,,Rafael Jordan,U,,PUR,18.927,,,6-3 7-6(4) 4-6 3-6 6-2,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D052,Davis Cup G2 PO: GUA vs PUR,Hard,4,D,19960503,3,G320,,,Jorge Gonzalez,R,,PUR,23.83,823,11,S566,,,Fernando Samayoa,R,,GUA,22.754,,,6-3 7-6(5) 6-3,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D052,Davis Cup G2 PO: GUA vs PUR,Hard,4,D,19960503,4,J157,,,Rafael Jordan,U,,PUR,18.927,,,L015,,,Alexander Lehnhoff,U,,GUA,19.231,,,6-2 6-4,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D076,Davis Cup G2 R1: POL vs NGR,Clay,4,D,19960503,1,D239,,,Bartlomiej Dabrowski,R,,POL,23.691,449,52,A252,,,Ganiyu Adenekan,U,,NGR,20.805,,,6-1 6-1 6-3,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D076,Davis Cup G2 R1: POL vs NGR,Clay,4,D,19960503,2,L249,,,Sule Ladipo,R,180,NGR,22.056,284,116,S498,,,Adam Skrzypczak,R,,POL,22.245,826,10,6-3 6-4 6-3,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D076,Davis Cup G2 R1: POL vs NGR,Clay,4,D,19960503,3,D239,,,Bartlomiej Dabrowski,R,,POL,23.691,449,52,L249,,,Sule Ladipo,R,180,NGR,22.056,284,116,6-1 2-6 7-6(5) 6-1,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D076,Davis Cup G2 R1: POL vs NGR,Clay,4,D,19960503,4,S498,,,Adam Skrzypczak,R,,POL,22.245,826,10,A252,,,Ganiyu Adenekan,U,,NGR,20.805,,,6-0 6-4,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D081,Davis Cup G2 R1: YUG vs SVK,Clay,4,D,19960503,1,K237,,,Karol Kucera,R,188,SVK,22.155,67,668,D245,,,Nebojsa Djordjevic,R,190,SRB,23.014,594,26,6-1 6-3 7-5,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D081,Davis Cup G2 R1: YUG vs SVK,Clay,4,D,19960503,2,K296,,,Jan Kroslak,R,188,SVK,21.533,94,505,V184,,,Bojan Vujic,R,,BIH,21.897,380,74,4-6 6-0 6-2 6-3,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D081,Davis Cup G2 R1: YUG vs SVK,Clay,4,D,19960503,3,K237,,,Karol Kucera,R,188,SVK,22.155,67,668,V184,,,Bojan Vujic,R,,BIH,21.897,380,74,7-5 6-1 6-4,5,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
-1996-D081,Davis Cup G2 R1: YUG vs SVK,Clay,4,D,19960503,4,K296,,,Jan Kroslak,R,188,SVK,21.533,94,505,D245,,,Nebojsa Djordjevic,R,190,SRB,23.014,594,26,6-2 2-6 6-4,3,RR,103,9,3,68,27,22,20,10,2,3,4,4,90,44,25,23,9,8,11
+1996-D001,Davis Cup G2 R1: ALG vs POR,Clay,4,D,19960501,1,C336,,,Emanuel Couto,R,183,POR,22.73,272,125,H454,,,Ouassel Hared,R,,ALG,22.664,,,6-3 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D001,Davis Cup G2 R1: ALG vs POR,Clay,4,D,19960501,2,M406,,,Bernardo Mota,R,178,POR,24.794,287,115,H298,,,Abdelhak Hameurlaine,R,,ALG,24.112,,,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D001,Davis Cup G2 R1: ALG vs POR,Clay,4,D,19960501,3,F256,,,Bruno Fragoso,R,,POR,23.431,602,25,MB97,,,Mohammed Mahmoudi,U,,ALG,26.357,,,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D001,Davis Cup G2 R1: ALG vs POR,Clay,4,D,19960501,4,M406,,,Bernardo Mota,R,178,POR,24.794,287,115,H454,,,Ouassel Hared,R,,ALG,22.664,,,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D017,Davis Cup G2 R1: LUX vs BLR,Carpet,4,D,19960503,1,S674,,,Alexander Shvec,R,,BLR,23.833,411,60,S785,,,Pascal Schaul,U,,LUX,17.298,,,6-2 7-6(1) 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D017,Davis Cup G2 R1: LUX vs BLR,Carpet,4,D,19960503,2,T271,,,Sacha Thoma,U,,LUX,17.432,,,V211,,,Vladimir Voltchkov,R,180,BLR,18.062,561,32,1-6 7-5 7-6(7) 7-6(4),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D017,Davis Cup G2 R1: LUX vs BLR,Carpet,4,D,19960503,3,S674,,,Alexander Shvec,R,,BLR,23.833,411,60,T271,,,Sacha Thoma,U,,LUX,17.432,,,7-5 6-2 3-6 2-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D017,Davis Cup G2 R1: LUX vs BLR,Carpet,4,D,19960503,4,V211,,,Vladimir Voltchkov,R,180,BLR,18.062,561,32,S785,,,Pascal Schaul,U,,LUX,17.298,,,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,1,N228,,,Claude N'Goran,L,190,CIV,21.117,337,89,S592,,,Armand Strombach,R,,LAT,20.131,,,6-3 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,2,D051,,,Girts Dzelde,R,173,LAT,32.789,560,32,N201,,,Clement N'Goran,R,178,CIV,26.727,778,12,7-5 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,3,N228,,,Claude N'Goran,L,190,CIV,21.117,337,89,D051,,,Girts Dzelde,R,173,LAT,32.789,560,32,6-7(1) 6-3 6-1 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D029,Davis Cup G2 R1: LAT vs CIV,Hard,4,D,19960503,4,F172,,,Andres Filimonov,R,,LAT,28,,,N201,,,Clement N'Goran,R,178,CIV,26.727,778,12,7-6(1) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D042,Davis Cup G2 R1: EGY vs MKD,Clay,4,D,19960503,1,G284,,,Amro Ghoneim,R,,EGY,22.116,569,30,N290,,,Ognen Nikolovski,U,,MKD,22.075,,,6-0 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D042,Davis Cup G2 R1: EGY vs MKD,Clay,4,D,19960503,2,E146,,,Tamer El Sawy,R,188,EGY,24.214,225,168,M723,,,Lazar Magdincev,R,,MKD,15.37,,,6-2 6-3 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D042,Davis Cup G2 R1: EGY vs MKD,Clay,4,D,19960503,3,H482,,,Hisham Hemeda,U,,EGY,17.996,,,N290,,,Ognen Nikolovski,U,,MKD,22.075,,,4-6 6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D042,Davis Cup G2 R1: EGY vs MKD,Clay,4,D,19960503,4,G284,,,Amro Ghoneim,R,,EGY,22.116,569,30,M723,,,Lazar Magdincev,R,,MKD,15.37,,,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D049,Davis Cup G2 R1: GBR vs SLO,Carpet,4,D,19960503,1,R237,,,Greg Rusedski,L,193,GBR,22.645,58,745,U030,,,Borut Urh,R,190,SLO,21.755,478,46,6-1 6-4 6-7(0) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D049,Davis Cup G2 R1: GBR vs SLO,Carpet,4,D,19960503,2,B414,,,Iztok Bozic,R,,SLO,24.589,419,58,P222,,,Mark Petchey,R,183,GBR,25.744,203,186,6-4 6-4 4-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D049,Davis Cup G2 R1: GBR vs SLO,Carpet,4,D,19960503,3,R237,,,Greg Rusedski,L,193,GBR,22.645,58,745,B414,,,Iztok Bozic,R,,SLO,24.589,419,58,6-1 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D049,Davis Cup G2 R1: GBR vs SLO,Carpet,4,D,19960503,4,G267,,,Nick Gould,R,,GBR,23.806,269,126,U030,,,Borut Urh,R,190,SLO,21.755,478,46,6-4 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,1,O114,,,Frank Ofori,R,,GHA,25.117,464,49,D302,,,Daryl Delicata,U,,MLT,30.092,,,6-0 6-4 7-6(2),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,2,D350,,,Isaac Donkor,U,,GHA,24.786,,,S641,,,Mark Schembri,U,,MLT,21.202,1235,2,6-4 6-3 6-7(5) 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,3,O114,,,Frank Ofori,R,,GHA,25.117,464,49,S641,,,Mark Schembri,U,,MLT,21.202,1235,2,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D051,Davis Cup G2 R1: GHA vs MLT,Hard,4,D,19960503,4,108826,,,Isaac Tetteh Quaye,U,,GHA,22.549,,,D302,,,Daryl Delicata,U,,MLT,30.092,,,6-4 4-6 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,
+1996-D052,Davis Cup G2 PO: GUA vs PUR,Hard,4,D,19960503,1,G320,,,Jorge Gonzalez,R,,PUR,23.83,823,11,L015,,,Alexander Lehnhoff,U,,GUA,19.231,,,6-4 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D052,Davis Cup G2 PO: GUA vs PUR,Hard,4,D,19960503,2,S566,,,Fernando Samayoa,R,,GUA,22.754,,,J157,,,Rafael Jordan,U,,PUR,18.927,,,6-3 7-6(4) 4-6 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D052,Davis Cup G2 PO: GUA vs PUR,Hard,4,D,19960503,3,G320,,,Jorge Gonzalez,R,,PUR,23.83,823,11,S566,,,Fernando Samayoa,R,,GUA,22.754,,,6-3 7-6(5) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D052,Davis Cup G2 PO: GUA vs PUR,Hard,4,D,19960503,4,J157,,,Rafael Jordan,U,,PUR,18.927,,,L015,,,Alexander Lehnhoff,U,,GUA,19.231,,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D076,Davis Cup G2 R1: POL vs NGR,Clay,4,D,19960503,1,D239,,,Bartlomiej Dabrowski,R,,POL,23.691,449,52,A252,,,Ganiyu Adenekan,U,,NGR,20.805,,,6-1 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D076,Davis Cup G2 R1: POL vs NGR,Clay,4,D,19960503,2,L249,,,Sule Ladipo,R,180,NGR,22.056,284,116,S498,,,Adam Skrzypczak,R,,POL,22.245,826,10,6-3 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D076,Davis Cup G2 R1: POL vs NGR,Clay,4,D,19960503,3,D239,,,Bartlomiej Dabrowski,R,,POL,23.691,449,52,L249,,,Sule Ladipo,R,180,NGR,22.056,284,116,6-1 2-6 7-6(5) 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D076,Davis Cup G2 R1: POL vs NGR,Clay,4,D,19960503,4,S498,,,Adam Skrzypczak,R,,POL,22.245,826,10,A252,,,Ganiyu Adenekan,U,,NGR,20.805,,,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D081,Davis Cup G2 R1: YUG vs SVK,Clay,4,D,19960503,1,K237,,,Karol Kucera,R,188,SVK,22.155,67,668,D245,,,Nebojsa Djordjevic,R,190,SRB,23.014,594,26,6-1 6-3 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D081,Davis Cup G2 R1: YUG vs SVK,Clay,4,D,19960503,2,K296,,,Jan Kroslak,R,188,SVK,21.533,94,505,V184,,,Bojan Vujic,R,,BIH,21.897,380,74,4-6 6-0 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D081,Davis Cup G2 R1: YUG vs SVK,Clay,4,D,19960503,3,K237,,,Karol Kucera,R,188,SVK,22.155,67,668,V184,,,Bojan Vujic,R,,BIH,21.897,380,74,7-5 6-1 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D081,Davis Cup G2 R1: YUG vs SVK,Clay,4,D,19960503,4,K296,,,Jan Kroslak,R,188,SVK,21.533,94,505,D245,,,Nebojsa Djordjevic,R,190,SRB,23.014,594,26,6-2 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,
 1996-414,Hamburg Masters,Clay,56,M,19960506,1,A190,,Q,Emilio Benfele Alvarez,R,183,ESP,23.472,187,216,K316,,WC,Nicolas Kiefer,R,183,GER,18.836,202,195,7-5 7-6(10),3,R64,127,3,2,91,68,47,10,12,2,3,5,2,108,55,39,20,12,11,13
 1996-414,Hamburg Masters,Clay,56,M,19960506,2,O009,,Q,Andrei Olhovskiy,R,185,RUS,30.059,119,389,K171,,,Mark Knowles,R,190,BAH,24.671,104,463,6-3 6-7(2) 7-6(7),3,R64,153,5,7,115,60,39,25,17,5,11,2,6,125,69,41,27,16,12,19
 1996-414,Hamburg Masters,Clay,56,M,19960506,3,S315,16,,Gilbert Schaller,R,180,AUT,27.138,32,1025,S614,,Q,Victor Sendin,R,175,ESP,20.849,280,120,6-2 6-0,3,R64,57,4,1,42,29,19,10,7,2,2,0,0,42,34,17,3,7,2,7
@@ -2334,34 +2334,34 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-316,Bastad,Clay,32,A,19960708,29,G182,4,,Magnus Gustafsson,R,185,SWE,29.511,37,1031,E004,1,,Stefan Edberg,R,188,SWE,30.467,23,1280,6-3 7-6(4),3,SF,78,0,1,79,64,40,2,11,9,13,3,3,62,44,23,7,10,2,7
 1996-316,Bastad,Clay,32,A,19960708,30,M475,5,,Andrei Medvedev,R,193,UKR,21.854,44,906,C179,2,,Carlos Costa,R,183,ESP,28.211,30,1086,6-4 6-4,3,SF,80,4,2,65,44,36,9,10,3,4,2,3,71,44,27,14,10,9,12
 1996-316,Bastad,Clay,32,A,19960708,31,G182,4,,Magnus Gustafsson,R,185,SWE,29.511,37,1031,M475,5,,Andrei Medvedev,R,193,UKR,21.854,44,906,6-1 6-3,3,F,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D002,Davis Cup G2 PO: YUG vs ALG,Carpet,4,D,19960712,1,M459,,,Srdan Muskatirovic,R,,SRB,24.244,,,H298,,,Abdelhak Hameurlaine,R,,ALG,24.304,,,6-1 6-2 6-1,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D002,Davis Cup G2 PO: YUG vs ALG,Carpet,4,D,19960712,2,Z072,,,Nenad Zimonjic,R,190,SRB,20.093,435,57,H562,,,Noujeim Hakimi,U,,ALG,23.157,,,7-6(5) 7-6(5) 6-2,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D002,Davis Cup G2 PO: YUG vs ALG,Carpet,4,D,19960712,3,Z072,,,Nenad Zimonjic,R,190,SRB,20.093,435,57,H298,,,Abdelhak Hameurlaine,R,,ALG,24.304,,,3-6 6-3 6-4,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D002,Davis Cup G2 PO: YUG vs ALG,Carpet,4,D,19960712,4,V205,,,Dusan Vemic,R,190,SRB,20.057,409,62,R0AM,,,Sofiane Rais Ali,U,,ALG,20.512,,,6-2 6-1,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D018,Davis Cup G2 QF: POL vs BLR,Clay,4,D,19960712,1,D239,,,Bartlomiej Dabrowski,R,,POL,23.882,370,74,S674,,,Alexander Shvec,R,,BLR,24.025,533,37,7-5 6-2 6-4,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D018,Davis Cup G2 QF: POL vs BLR,Clay,4,D,19960712,2,S498,,,Adam Skrzypczak,R,,POL,22.437,815,10,M595,,,Max Mirnyi,R,196,BLR,19.006,281,124,6-3 6-2 6-3,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D018,Davis Cup G2 QF: POL vs BLR,Clay,4,D,19960712,3,D239,,,Bartlomiej Dabrowski,R,,POL,23.882,370,74,M595,,,Max Mirnyi,R,196,BLR,19.006,281,124,6-4 7-5 6-1,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D018,Davis Cup G2 QF: POL vs BLR,Clay,4,D,19960712,4,S498,,,Adam Skrzypczak,R,,POL,22.437,815,10,V211,,,Vladimir Voltchkov,R,180,BLR,18.253,567,32,7-6(1) 6-3,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D028,Davis Cup G2 QF: EGY vs CIV,Clay,4,D,19960712,1,E146,,,Tamer El Sawy,R,188,EGY,24.405,184,221,N201,,,Clement N'Goran,R,178,CIV,26.919,766,12,6-2 7-5 6-2,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D028,Davis Cup G2 QF: EGY vs CIV,Clay,4,D,19960712,2,G284,,,Amro Ghoneim,R,,EGY,22.308,577,30,N228,,,Claude N'Goran,L,190,CIV,21.309,358,81,3-6 6-3 6-1 4-6 6-3,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D028,Davis Cup G2 QF: EGY vs CIV,Clay,4,D,19960712,3,E146,,,Tamer El Sawy,R,188,EGY,24.405,184,221,N228,,,Claude N'Goran,L,190,CIV,21.309,358,81,6-4 6-2 6-1,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D028,Davis Cup G2 QF: EGY vs CIV,Clay,4,D,19960712,4,N201,,,Clement N'Goran,R,178,CIV,26.919,766,12,G284,,,Amro Ghoneim,R,,EGY,22.308,577,30,6-3 6-4,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D048,Davis Cup G2 QF: GHA vs GBR,Hard,4,D,19960712,1,H336,,,Tim Henman,R,185,GBR,21.837,39,1025,D350,,,Isaac Donkor,U,,GHA,24.977,,,6-2 6-0 6-2,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D048,Davis Cup G2 QF: GHA vs GBR,Hard,4,D,19960712,2,M607,,,Luke Milligan,R,180,GBR,19.921,217,178,O114,,,Frank Ofori,R,,GHA,25.309,513,41,6-1 3-6 6-4 6-2,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D048,Davis Cup G2 QF: GHA vs GBR,Hard,4,D,19960712,3,H336,,,Tim Henman,R,185,GBR,21.837,39,1025,O125,,,Daniel Omaboe,R,,GHA,,,,6-3 4-6 6-0,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D048,Davis Cup G2 QF: GHA vs GBR,Hard,4,D,19960712,4,M607,,,Luke Milligan,R,180,GBR,19.921,217,178,D350,,,Isaac Donkor,U,,GHA,24.977,,,6-4 6-3,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D069,Davis Cup G2 PO: MKD vs LAT,Clay,4,D,19960712,1,F172,,,Andres Filimonov,R,,LAT,28.192,,,N290,,,Ognen Nikolovski,U,,MKD,22.267,,,6-2 6-3 6-1,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D069,Davis Cup G2 PO: MKD vs LAT,Clay,4,D,19960712,2,S437,,,Zoran Sevcenko,R,,MKD,26.546,,,D051,,,Girts Dzelde,R,173,LAT,32.98,664,20,6-3 6-2 1-6 6-1,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D069,Davis Cup G2 PO: MKD vs LAT,Clay,4,D,19960712,3,D051,,,Girts Dzelde,R,173,LAT,32.98,664,20,108861,,,Goran Popov,U,,MKD,25.577,,,6-2 6-3 6-2,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D069,Davis Cup G2 PO: MKD vs LAT,Clay,4,D,19960712,4,S437,,,Zoran Sevcenko,R,,MKD,26.546,,,F172,,,Andres Filimonov,R,,LAT,28.192,,,7-5 7-5,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D074,Davis Cup G2 PO: SLO vs MLT,Clay,4,D,19960712,1,U030,,,Borut Urh,R,190,SLO,21.947,397,64,S641,,,Mark Schembri,U,,MLT,21.394,1246,1,6-0 6-0 6-1,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D074,Davis Cup G2 PO: SLO vs MLT,Clay,4,D,19960712,2,B414,,,Iztok Bozic,R,,SLO,24.78,420,60,108873,,,Maurizio Capello,U,,MLT,17.593,,,6-0 6-1 6-1,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D074,Davis Cup G2 PO: SLO vs MLT,Clay,4,D,19960712,3,B414,,,Iztok Bozic,R,,SLO,24.78,420,60,S641,,,Mark Schembri,U,,MLT,21.394,1246,1,6-1 6-1,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D074,Davis Cup G2 PO: SLO vs MLT,Clay,4,D,19960712,4,U030,,,Borut Urh,R,190,SLO,21.947,397,64,108873,,,Maurizio Capello,U,,MLT,17.593,,,6-2 6-1,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D080,Davis Cup G2 QF: SVK vs POR,Carpet,4,D,19960712,1,K296,,,Jan Kroslak,R,188,SVK,21.725,89,536,C336,,,Emanuel Couto,R,183,POR,22.921,249,149,6-0 6-4 6-1,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D080,Davis Cup G2 QF: SVK vs POR,Carpet,4,D,19960712,2,K237,,,Karol Kucera,R,188,SVK,22.346,93,519,M197,,,Nuno Marques,L,190,POR,26.248,127,374,7-6(2) 2-6 6-4 6-4,5,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D080,Davis Cup G2 QF: SVK vs POR,Carpet,4,D,19960712,3,K296,,,Jan Kroslak,R,188,SVK,21.725,89,536,M197,,,Nuno Marques,L,190,POR,26.248,127,374,6-2 6-3,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
-1996-D080,Davis Cup G2 QF: SVK vs POR,Carpet,4,D,19960712,4,K237,,,Karol Kucera,R,188,SVK,22.346,93,519,C336,,,Emanuel Couto,R,183,POR,22.921,249,149,6-4 6-1,3,RR,79,0,3,61,40,25,14,8,5,6,0,3,61,32,14,13,8,7,12
+1996-D002,Davis Cup G2 PO: YUG vs ALG,Carpet,4,D,19960712,1,M459,,,Srdan Muskatirovic,R,,SRB,24.244,,,H298,,,Abdelhak Hameurlaine,R,,ALG,24.304,,,6-1 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D002,Davis Cup G2 PO: YUG vs ALG,Carpet,4,D,19960712,2,Z072,,,Nenad Zimonjic,R,190,SRB,20.093,435,57,H562,,,Noujeim Hakimi,U,,ALG,23.157,,,7-6(5) 7-6(5) 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D002,Davis Cup G2 PO: YUG vs ALG,Carpet,4,D,19960712,3,Z072,,,Nenad Zimonjic,R,190,SRB,20.093,435,57,H298,,,Abdelhak Hameurlaine,R,,ALG,24.304,,,3-6 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D002,Davis Cup G2 PO: YUG vs ALG,Carpet,4,D,19960712,4,V205,,,Dusan Vemic,R,190,SRB,20.057,409,62,R0AM,,,Sofiane Rais Ali,U,,ALG,20.512,,,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D018,Davis Cup G2 QF: POL vs BLR,Clay,4,D,19960712,1,D239,,,Bartlomiej Dabrowski,R,,POL,23.882,370,74,S674,,,Alexander Shvec,R,,BLR,24.025,533,37,7-5 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D018,Davis Cup G2 QF: POL vs BLR,Clay,4,D,19960712,2,S498,,,Adam Skrzypczak,R,,POL,22.437,815,10,M595,,,Max Mirnyi,R,196,BLR,19.006,281,124,6-3 6-2 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D018,Davis Cup G2 QF: POL vs BLR,Clay,4,D,19960712,3,D239,,,Bartlomiej Dabrowski,R,,POL,23.882,370,74,M595,,,Max Mirnyi,R,196,BLR,19.006,281,124,6-4 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D018,Davis Cup G2 QF: POL vs BLR,Clay,4,D,19960712,4,S498,,,Adam Skrzypczak,R,,POL,22.437,815,10,V211,,,Vladimir Voltchkov,R,180,BLR,18.253,567,32,7-6(1) 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D028,Davis Cup G2 QF: EGY vs CIV,Clay,4,D,19960712,1,E146,,,Tamer El Sawy,R,188,EGY,24.405,184,221,N201,,,Clement N'Goran,R,178,CIV,26.919,766,12,6-2 7-5 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D028,Davis Cup G2 QF: EGY vs CIV,Clay,4,D,19960712,2,G284,,,Amro Ghoneim,R,,EGY,22.308,577,30,N228,,,Claude N'Goran,L,190,CIV,21.309,358,81,3-6 6-3 6-1 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D028,Davis Cup G2 QF: EGY vs CIV,Clay,4,D,19960712,3,E146,,,Tamer El Sawy,R,188,EGY,24.405,184,221,N228,,,Claude N'Goran,L,190,CIV,21.309,358,81,6-4 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D028,Davis Cup G2 QF: EGY vs CIV,Clay,4,D,19960712,4,N201,,,Clement N'Goran,R,178,CIV,26.919,766,12,G284,,,Amro Ghoneim,R,,EGY,22.308,577,30,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D048,Davis Cup G2 QF: GHA vs GBR,Hard,4,D,19960712,1,H336,,,Tim Henman,R,185,GBR,21.837,39,1025,D350,,,Isaac Donkor,U,,GHA,24.977,,,6-2 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D048,Davis Cup G2 QF: GHA vs GBR,Hard,4,D,19960712,2,M607,,,Luke Milligan,R,180,GBR,19.921,217,178,O114,,,Frank Ofori,R,,GHA,25.309,513,41,6-1 3-6 6-4 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D048,Davis Cup G2 QF: GHA vs GBR,Hard,4,D,19960712,3,H336,,,Tim Henman,R,185,GBR,21.837,39,1025,O125,,,Daniel Omaboe,R,,GHA,,,,6-3 4-6 6-0,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D048,Davis Cup G2 QF: GHA vs GBR,Hard,4,D,19960712,4,M607,,,Luke Milligan,R,180,GBR,19.921,217,178,D350,,,Isaac Donkor,U,,GHA,24.977,,,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D069,Davis Cup G2 PO: MKD vs LAT,Clay,4,D,19960712,1,F172,,,Andres Filimonov,R,,LAT,28.192,,,N290,,,Ognen Nikolovski,U,,MKD,22.267,,,6-2 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D069,Davis Cup G2 PO: MKD vs LAT,Clay,4,D,19960712,2,S437,,,Zoran Sevcenko,R,,MKD,26.546,,,D051,,,Girts Dzelde,R,173,LAT,32.98,664,20,6-3 6-2 1-6 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D069,Davis Cup G2 PO: MKD vs LAT,Clay,4,D,19960712,3,D051,,,Girts Dzelde,R,173,LAT,32.98,664,20,108861,,,Goran Popov,U,,MKD,25.577,,,6-2 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D069,Davis Cup G2 PO: MKD vs LAT,Clay,4,D,19960712,4,S437,,,Zoran Sevcenko,R,,MKD,26.546,,,F172,,,Andres Filimonov,R,,LAT,28.192,,,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D074,Davis Cup G2 PO: SLO vs MLT,Clay,4,D,19960712,1,U030,,,Borut Urh,R,190,SLO,21.947,397,64,S641,,,Mark Schembri,U,,MLT,21.394,1246,1,6-0 6-0 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D074,Davis Cup G2 PO: SLO vs MLT,Clay,4,D,19960712,2,B414,,,Iztok Bozic,R,,SLO,24.78,420,60,108873,,,Maurizio Capello,U,,MLT,17.593,,,6-0 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D074,Davis Cup G2 PO: SLO vs MLT,Clay,4,D,19960712,3,B414,,,Iztok Bozic,R,,SLO,24.78,420,60,S641,,,Mark Schembri,U,,MLT,21.394,1246,1,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D074,Davis Cup G2 PO: SLO vs MLT,Clay,4,D,19960712,4,U030,,,Borut Urh,R,190,SLO,21.947,397,64,108873,,,Maurizio Capello,U,,MLT,17.593,,,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D080,Davis Cup G2 QF: SVK vs POR,Carpet,4,D,19960712,1,K296,,,Jan Kroslak,R,188,SVK,21.725,89,536,C336,,,Emanuel Couto,R,183,POR,22.921,249,149,6-0 6-4 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D080,Davis Cup G2 QF: SVK vs POR,Carpet,4,D,19960712,2,K237,,,Karol Kucera,R,188,SVK,22.346,93,519,M197,,,Nuno Marques,L,190,POR,26.248,127,374,7-6(2) 2-6 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D080,Davis Cup G2 QF: SVK vs POR,Carpet,4,D,19960712,3,K296,,,Jan Kroslak,R,188,SVK,21.725,89,536,M197,,,Nuno Marques,L,190,POR,26.248,127,374,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D080,Davis Cup G2 QF: SVK vs POR,Carpet,4,D,19960712,4,K237,,,Karol Kucera,R,188,SVK,22.346,93,519,C336,,,Emanuel Couto,R,183,POR,22.921,249,149,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
 1996-321,Stuttgart Outdoor,Clay,48,A,19960715,1,G028,,Q,Marcos Aurelio Gorriz,L,185,ESP,32.364,118,393,D015,,Q,Olivier Delaitre,R,170,FRA,29.123,181,225,6-4 6-4,3,R64,101,2,0,64,35,24,18,10,5,6,0,4,67,35,25,15,10,2,5
 1996-321,Stuttgart Outdoor,Clay,48,A,19960715,2,B518,,,Galo Blanco,R,173,ESP,19.767,100,493,E121,,,Younes El Aynaoui,R,193,MAR,24.841,69,688,6-4 6-7 6-4,3,R64,101,2,0,64,35,24,18,10,5,6,0,4,67,35,25,15,10,2,5
 1996-321,Stuttgart Outdoor,Clay,48,A,19960715,3,D228,,,Filip Dewulf,R,190,BEL,24.334,51,847,B305,,WC,Karsten Braasch,L,180,GER,29.005,336,91,6-4 4-6 6-4,3,R64,113,0,12,115,51,34,29,15,14,19,13,1,83,53,37,7,15,2,8
@@ -3170,78 +3170,78 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-773,Bucharest,Clay,32,A,19960909,29,B428,4,,Alberto Berasategui,R,173,ESP,23.201,25,1319,R219,,,Christian Ruud,R,188,NOR,24.044,59,767,6-0 7-5,3,SF,70,0,1,54,35,22,12,9,0,2,0,2,54,37,14,8,9,2,8
 1996-773,Bucharest,Clay,32,A,19960909,30,M605,3,,Carlos Moya,R,190,ESP,20.036,24,1336,P280,,WC,Andrei Pavel,R,183,ROU,22.617,182,222,4-6 6-3 6-0,3,SF,85,0,0,72,48,33,14,13,1,3,0,0,78,54,34,9,12,4,9
 1996-773,Bucharest,Clay,32,A,19960909,31,B428,4,,Alberto Berasategui,R,173,ESP,23.201,25,1319,M605,3,,Carlos Moya,R,190,ESP,20.036,24,1336,6-1 7-6(5),3,F,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D004,Davis Cup G1 PO: ZIM vs FIN,Hard,4,D,19960920,1,B499,,,Wayne Black,R,170,ZIM,22.839,240,156,T207,,,Kim Tiilikainen,R,180,FIN,21.194,276,128,6-4 7-5 6-7(3) 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D004,Davis Cup G1 PO: ZIM vs FIN,Hard,4,D,19960920,2,B397,,,Byron Black,R,175,ZIM,26.946,46,838,L292,,,Ville Liukko,R,173,FIN,22.316,622,25,6-3 6-3 6-4,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D004,Davis Cup G1 PO: ZIM vs FIN,Hard,4,D,19960920,3,B397,,,Byron Black,R,175,ZIM,26.946,46,838,N256,,,Tapio Nurminen,R,,FIN,20.931,490,45,6-7(7) 6-4 6-3,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D004,Davis Cup G1 PO: ZIM vs FIN,Hard,4,D,19960920,4,L292,,,Ville Liukko,R,173,FIN,22.316,622,25,C518,,,Genius Chidzikwe,R,,ZIM,17.123,,,6-1 7-6(1),3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D005,Davis Cup G1 PO: UKR vs NOR,Clay,4,D,19960920,1,M475,,,Andrei Medvedev,R,193,UKR,22.045,31,1184,A276,,,Jan Frode Andersen,L,190,NOR,24.049,641,22,6-2 6-2 6-0,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D005,Davis Cup G1 PO: UKR vs NOR,Clay,4,D,19960920,2,R272,,,Andrei Rybalko,R,180,UKR,24.282,331,97,R219,,,Christian Ruud,R,188,NOR,24.063,61,743,7-6(7) 6-4 6-4,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D005,Davis Cup G1 PO: UKR vs NOR,Clay,4,D,19960920,3,M475,,,Andrei Medvedev,R,193,UKR,22.045,31,1184,R219,,,Christian Ruud,R,188,NOR,24.063,61,743,6-2 6-1,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D005,Davis Cup G1 PO: UKR vs NOR,Clay,4,D,19960920,4,A276,,,Jan Frode Andersen,L,190,NOR,24.049,641,22,Y044,,,Denis Yakimenko,R,,UKR,19.258,837,10,7-6(2) 6-4,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D006,Davis Cup WG PO: MEX vs ARG,Hard,4,D,19960920,1,H346,,,Alejandro Hernandez,R,180,MEX,18.96,137,342,E138,,,Gaston Etlis,R,185,ARG,21.867,185,220,7-6(5) 6-2 6-4,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D006,Davis Cup WG PO: MEX vs ARG,Hard,4,D,19960920,2,G247,,,Hernan Gumy,R,188,ARG,24.534,40,922,L009,,,Leonardo Lavalle,L,188,MEX,29.177,321,102,7-6(5) 6-4 4-6 5-7 7-5,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D006,Davis Cup WG PO: MEX vs ARG,Hard,4,D,19960920,3,H346,,,Alejandro Hernandez,R,180,MEX,18.96,137,342,G247,,,Hernan Gumy,R,188,ARG,24.534,40,922,6-4 7-5 6-1,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D006,Davis Cup WG PO: MEX vs ARG,Hard,4,D,19960920,4,E138,,,Gaston Etlis,R,185,ARG,21.867,185,220,L009,,,Leonardo Lavalle,L,188,MEX,29.177,321,102,6-3 3-6 RET,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D007,Davis Cup WG PO: CRO vs AUS,Clay,4,D,19960920,1,P338,,,Mark Philippoussis,R,196,AUS,19.858,20,1448,H274,,,Sasa Hirszon,R,185,CRO,24.175,340,93,6-2 6-3 6-2,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D007,Davis Cup WG PO: CRO vs AUS,Clay,4,D,19960920,2,S331,,,Jason Stoltenberg,R,185,AUS,26.453,26,1295,I034,,,Goran Ivanisevic,L,193,CRO,25.01,4,3161,4-6 6-3 3-6 7-6(5) 6-2,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D007,Davis Cup WG PO: CRO vs AUS,Clay,4,D,19960920,3,P338,,,Mark Philippoussis,R,196,AUS,19.858,20,1448,O128,,,Goran Oresic,R,,CRO,21.388,397,66,6-1 6-4,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D007,Davis Cup WG PO: CRO vs AUS,Clay,4,D,19960920,4,H274,,,Sasa Hirszon,R,185,CRO,24.175,340,93,S331,,,Jason Stoltenberg,R,185,AUS,26.453,26,1295,6-2 6-2,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D010,Davis Cup WG PO: BRA vs AUT,Carpet,4,D,19960920,1,M099,,,Thomas Muster,L,180,AUT,28.958,3,3612,M443,,,Fernando Meligeni,L,180,BRA,25.432,119,413,6-3 6-3 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D010,Davis Cup WG PO: BRA vs AUT,Carpet,4,D,19960920,2,K293,,,Gustavo Kuerten,R,191,BRA,20.016,94,483,H364,,,Markus Hipfl,R,178,AUT,18.393,524,36,4-6 3-6 7-6(0) 7-6(5) 6-1,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D010,Davis Cup WG PO: BRA vs AUT,Carpet,4,D,19960920,3,K293,,,Gustavo Kuerten,R,191,BRA,20.016,94,483,P304,,,Udo Plamberger,R,,AUT,25.708,283,0,W/O,5,RR,,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D010,Davis Cup WG PO: BRA vs AUT,Carpet,4,D,19960920,4,M443,,,Fernando Meligeni,L,180,BRA,25.432,119,413,H364,,,Markus Hipfl,R,178,AUT,18.393,524,36,W/O,5,RR,,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D015,Davis Cup WG PO: ROU vs BEL,Clay,4,D,19960920,1,V167,,,Johan Van Herck,R,185,BEL,22.316,106,453,V166,,,Adrian Voinea,R,185,ROU,22.114,57,767,6-7(6) 6-4 6-2 6-1,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D015,Davis Cup WG PO: ROU vs BEL,Clay,4,D,19960920,2,P280,,,Andrei Pavel,R,183,ROU,22.637,148,301,D228,,,Filip Dewulf,R,190,BEL,24.507,47,823,6-1 6-3 6-2,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D015,Davis Cup WG PO: ROU vs BEL,Clay,4,D,19960920,3,V166,,,Adrian Voinea,R,185,ROU,22.114,57,767,D228,,,Filip Dewulf,R,190,BEL,24.507,47,823,6-0 6-0 6-2,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D015,Davis Cup WG PO: ROU vs BEL,Clay,4,D,19960920,4,P280,,,Andrei Pavel,R,183,ROU,22.637,148,301,V167,,,Johan Van Herck,R,185,BEL,22.316,106,453,6-3 6-4 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,1,R286,,,Marcelo Rios,L,175,CHI,20.726,10,2101,V157,,,Americo Venero Montes,U,,PER,24.567,,,7-5 6-2 6-4,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,2,S548,,,Gabriel Silberstein,R,178,CHI,21.916,223,167,A172,,,Alejandro Aramburu,R,175,PER,27.587,,,6-0 6-4 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,3,R286,,,Marcelo Rios,L,175,CHI,20.726,10,2101,A172,,,Alejandro Aramburu,R,175,PER,27.587,,,6-2 6-3,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,4,S548,,,Gabriel Silberstein,R,178,CHI,21.916,223,167,V157,,,Americo Venero Montes,U,,PER,24.567,,,7-5 6-7(7) 6-1,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D036,Davis Cup WG SF: CZE vs SWE,Carpet,4,D,19960920,1,E113,,,Thomas Enqvist,R,190,SWE,22.513,14,1786,K148,,,Petr Korda,L,191,CZE,28.649,50,815,6-4 6-3 7-6(9),5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D036,Davis Cup WG SF: CZE vs SWE,Carpet,4,D,19960920,2,E004,,,Stefan Edberg,R,188,SWE,30.658,19,1449,V141,,,Daniel Vacek,R,191,CZE,25.462,37,1078,7-6(2) 7-5 4-6 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D036,Davis Cup WG SF: CZE vs SWE,Carpet,4,D,19960920,3,E113,,,Thomas Enqvist,R,190,SWE,22.513,14,1786,V141,,,Daniel Vacek,R,191,CZE,25.462,37,1078,6-3 6-7(3) 4-6 7-5 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D036,Davis Cup WG SF: CZE vs SWE,Carpet,4,D,19960920,4,E004,,,Stefan Edberg,R,188,SWE,30.658,19,1449,K148,,,Petr Korda,L,191,CZE,28.649,50,815,4-6 6-2 7-5,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D038,Davis Cup WG PO: ESP vs DEN,Clay,4,D,19960920,1,C378,,,Albert Costa,R,180,ESP,21.229,15,1758,F206,,,Frederik Fetterlein,R,190,DEN,26.185,131,365,6-0 6-0 6-2,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D038,Davis Cup WG PO: ESP vs DEN,Clay,4,D,19960920,2,M605,,,Carlos Moya,R,190,ESP,20.055,22,1407,C328,,,Kenneth Carlsen,L,190,DEN,23.417,64,737,6-1 6-2 6-1,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D038,Davis Cup WG PO: ESP vs DEN,Clay,4,D,19960920,3,C328,,,Kenneth Carlsen,L,190,DEN,23.417,64,737,C378,,,Albert Costa,R,180,ESP,21.229,15,1758,3-6 7-5 6-3,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D038,Davis Cup WG PO: ESP vs DEN,Clay,4,D,19960920,4,M605,,,Carlos Moya,R,190,ESP,20.055,22,1407,L327,,,Thomas Larsen,R,180,DEN,21.175,400,65,6-3 6-4,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D040,Davis Cup G2 F: ECU vs URU,Clay,4,D,19960920,1,L290,,,Nicolas Lapentti,R,188,ECU,20.093,102,470,D253,,,Federico Dondo,R,,URU,24.914,271,131,6-4 7-5 6-1,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D040,Davis Cup G2 F: ECU vs URU,Clay,4,D,19960920,2,F165,,,Marcelo Filippini,R,178,URU,29.12,109,445,C329,,,Pablo Campana,R,180,ECU,23.751,167,254,6-2 6-1 6-1,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D040,Davis Cup G2 F: ECU vs URU,Clay,4,D,19960920,3,L290,,,Nicolas Lapentti,R,188,ECU,20.093,102,470,F165,,,Marcelo Filippini,R,178,URU,29.12,109,445,6-3 6-4 2-6 6-2,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D040,Davis Cup G2 F: ECU vs URU,Clay,4,D,19960920,4,M506,,,Luis Adrian Morejon,R,178,ECU,23.472,172,249,D253,,,Federico Dondo,R,,URU,24.914,271,131,6-4 6-1,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D041,Davis Cup G2 SF: GBR vs EGY,Grass,4,D,19960920,1,R237,,,Greg Rusedski,L,193,GBR,23.028,71,669,E146,,,Tamer El Sawy,R,188,EGY,24.597,174,237,6-2 6-4 7-5,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D041,Davis Cup G2 SF: GBR vs EGY,Grass,4,D,19960920,2,H336,,,Tim Henman,R,185,GBR,22.029,33,1151,G284,,,Amro Ghoneim,R,,EGY,22.5,522,36,6-0 6-4 7-5,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D041,Davis Cup G2 SF: GBR vs EGY,Grass,4,D,19960920,3,H336,,,Tim Henman,R,185,GBR,22.029,33,1151,E146,,,Tamer El Sawy,R,188,EGY,24.597,174,237,6-7(4) 6-2 6-2,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D041,Davis Cup G2 SF: GBR vs EGY,Grass,4,D,19960920,4,R237,,,Greg Rusedski,L,193,GBR,23.028,71,669,G284,,,Amro Ghoneim,R,,EGY,22.5,522,36,6-4 6-2,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D046,Davis Cup WG SF: FRA vs ITA,Carpet,4,D,19960920,1,G254,,,Andrea Gaudenzi,R,183,ITA,23.132,55,787,P226,,,Cedric Pioline,R,188,FRA,27.255,17,1557,5-7 6-1 7-6(4) 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D046,Davis Cup WG SF: FRA vs ITA,Carpet,4,D,19960920,2,F192,,,Renzo Furlan,R,175,ITA,26.335,38,1049,B053,,,Arnaud Boetsch,R,183,FRA,27.461,23,1366,7-5 1-6 6-3 7-6(5),5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D046,Davis Cup WG SF: FRA vs ITA,Carpet,4,D,19960920,3,P226,,,Cedric Pioline,R,188,FRA,27.255,17,1557,F192,,,Renzo Furlan,R,175,ITA,26.335,38,1049,6-3 2-6 6-2 6-4,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D046,Davis Cup WG SF: FRA vs ITA,Carpet,4,D,19960920,4,B053,,,Arnaud Boetsch,R,183,FRA,27.461,23,1366,G254,,,Andrea Gaudenzi,R,183,ITA,23.132,55,787,6-4 6-2 7-6(8),5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D056,Davis Cup WG PO: RUS vs HUN,Carpet,4,D,19960920,1,K267,,,Yevgeny Kafelnikov,R,190,RUS,22.576,5,3059,S608,,,Attila Savolt,R,183,HUN,20.613,164,259,7-5 3-6 6-3 6-4,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D056,Davis Cup WG PO: RUS vs HUN,Carpet,4,D,19960920,2,C031,,,Andrei Chesnokov,R,188,RUS,30.62,77,618,K154,,,Jozsef Krocsko,R,180,HUN,28.408,160,266,6-2 6-2 6-2,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D056,Davis Cup WG PO: RUS vs HUN,Carpet,4,D,19960920,3,K267,,,Yevgeny Kafelnikov,R,190,RUS,22.576,5,3059,K154,,,Jozsef Krocsko,R,180,HUN,28.408,160,266,6-0 6-3,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D056,Davis Cup WG PO: RUS vs HUN,Carpet,4,D,19960920,4,S608,,,Attila Savolt,R,183,HUN,20.613,164,259,C031,,,Andrei Chesnokov,R,188,RUS,30.62,77,618,6-3 6-2,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,1,T211,,,Chia-Yen Tsai,R,,TPE,21.552,716,16,W153,,,Bonit Wiryawan,R,173,INA,28.6,,,7-5 6-4 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,2,C364,,,Chih-Jung Chen,R,,TPE,23.978,822,11,R348,,,Andrian Raturandang,R,,INA,20.134,1031,5,6-4 6-0 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,3,R348,,,Andrian Raturandang,R,,INA,20.134,1031,5,T211,,,Chia-Yen Tsai,R,,TPE,21.552,716,16,4-6 7-5 7-6(6) 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,4,W153,,,Bonit Wiryawan,R,173,INA,28.6,,,C364,,,Chih-Jung Chen,R,,TPE,23.978,822,11,6-2 1-6 2-6 7-5 8-6,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D071,Davis Cup WG PO: SUI vs MAR,Carpet,4,D,19960920,1,H025,,,Jakob Hlasek,R,188,SUI,31.844,51,789,T200,,,Mehdi Tahiri,R,183,MAR,19.138,511,39,0-6 6-3 6-2 7-5,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D071,Davis Cup WG PO: SUI vs MAR,Carpet,4,D,19960920,2,R214,,,Marc Rosset,R,201,SUI,25.859,24,1364,E159,,,Mounir El Aarej,R,,MAR,19.253,907,8,6-0 6-1 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D071,Davis Cup WG PO: SUI vs MAR,Carpet,4,D,19960920,3,R214,,,Marc Rosset,R,201,SUI,25.859,24,1364,T200,,,Mehdi Tahiri,R,183,MAR,19.138,511,39,3-6 6-3 6-1,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D071,Davis Cup WG PO: SUI vs MAR,Carpet,4,D,19960920,4,H025,,,Jakob Hlasek,R,188,SUI,31.844,51,789,R357,,,Larbi Rharnit,R,,MAR,20.413,1261,2,6-0 6-1,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D075,Davis Cup WG PO: NED vs NZL,Hard,4,D,19960920,1,S381,,,Jan Siemerink,L,183,NED,26.426,29,1253,S321,,,Brett Steven,R,185,NZL,27.389,81,595,6-7(4) 7-6(2) 6-3 3-6 6-2,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D075,Davis Cup WG PO: NED vs NZL,Hard,4,D,19960920,2,H297,,,Alistair Hunt,R,190,NZL,23.847,294,118,K214,,,Richard Krajicek,R,196,NED,24.78,8,2434,7-6(5) 3-6 4-6 4-1 RET,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D075,Davis Cup WG PO: NED vs NZL,Hard,4,D,19960920,3,S572,,,Sjeng Schalken,R,193,NED,20.022,43,886,G287,,,James Greenhalgh,R,183,NZL,21.574,662,21,7-5 6-1 6-7(5) 6-1,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D075,Davis Cup WG PO: NED vs NZL,Hard,4,D,19960920,4,S559,,,Dennis Van Scheppingen,R,185,NED,21.202,101,471,H297,,,Alistair Hunt,R,190,NZL,23.847,294,118,3-6 6-3 7-6(6),3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D079,Davis Cup G2 SF: SVK vs POL,Carpet,4,D,19960920,1,K296,,,Jan Kroslak,R,188,SVK,21.916,80,597,D239,,,Bartlomiej Dabrowski,R,,POL,24.074,376,75,7-6(7) 6-3 6-3,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D079,Davis Cup G2 SF: SVK vs POL,Carpet,4,D,19960920,2,K237,,,Karol Kucera,R,188,SVK,22.538,78,612,S498,,,Adam Skrzypczak,R,,POL,22.628,1031,5,6-1 6-1 6-1,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D079,Davis Cup G2 SF: SVK vs POL,Carpet,4,D,19960920,3,K237,,,Karol Kucera,R,188,SVK,22.538,78,612,D239,,,Bartlomiej Dabrowski,R,,POL,24.074,376,75,6-7(2) 6-3 6-4,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D079,Davis Cup G2 SF: SVK vs POL,Carpet,4,D,19960920,4,G326,,,Michal Gawlowski,R,,POL,21.139,,,H377,,,Dominik Hrbaty,R,183,SVK,18.7,98,475,6-7(1) 6-3 7-5,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D082,Davis Cup G2 F: UZB vs THA,Clay,4,D,19960920,1,T212,,,Dmitri Tomashevich,R,,UZB,22.533,379,75,S476,,,Naratorn Srichaphan,R,,THA,24.115,1295,1,6-0 6-3 6-1,5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D082,Davis Cup G2 F: UZB vs THA,Clay,4,D,19960920,2,O127,,,Oleg Ogorodov,R,193,UZB,24.17,117,426,S478,,,Tanakorn Srichaphan,R,,THA,28.326,1295,1,6-1 6-3 7-6(2),5,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D082,Davis Cup G2 F: UZB vs THA,Clay,4,D,19960920,3,O127,,,Oleg Ogorodov,R,193,UZB,24.17,117,426,S476,,,Naratorn Srichaphan,R,,THA,24.115,1295,1,6-3 5-7 6-3,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
-1996-D082,Davis Cup G2 F: UZB vs THA,Clay,4,D,19960920,4,T212,,,Dmitri Tomashevich,R,,UZB,22.533,379,75,S478,,,Tanakorn Srichaphan,R,,THA,28.326,1295,1,6-0 6-3,3,RR,79,1,0,65,50,31,11,9,1,2,0,1,72,55,31,6,10,5,9
+1996-D004,Davis Cup G1 PO: ZIM vs FIN,Hard,4,D,19960920,1,B499,,,Wayne Black,R,170,ZIM,22.839,240,156,T207,,,Kim Tiilikainen,R,180,FIN,21.194,276,128,6-4 7-5 6-7(3) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D004,Davis Cup G1 PO: ZIM vs FIN,Hard,4,D,19960920,2,B397,,,Byron Black,R,175,ZIM,26.946,46,838,L292,,,Ville Liukko,R,173,FIN,22.316,622,25,6-3 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D004,Davis Cup G1 PO: ZIM vs FIN,Hard,4,D,19960920,3,B397,,,Byron Black,R,175,ZIM,26.946,46,838,N256,,,Tapio Nurminen,R,,FIN,20.931,490,45,6-7(7) 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D004,Davis Cup G1 PO: ZIM vs FIN,Hard,4,D,19960920,4,L292,,,Ville Liukko,R,173,FIN,22.316,622,25,C518,,,Genius Chidzikwe,R,,ZIM,17.123,,,6-1 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,
+1996-D005,Davis Cup G1 PO: UKR vs NOR,Clay,4,D,19960920,1,M475,,,Andrei Medvedev,R,193,UKR,22.045,31,1184,A276,,,Jan Frode Andersen,L,190,NOR,24.049,641,22,6-2 6-2 6-0,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D005,Davis Cup G1 PO: UKR vs NOR,Clay,4,D,19960920,2,R272,,,Andrei Rybalko,R,180,UKR,24.282,331,97,R219,,,Christian Ruud,R,188,NOR,24.063,61,743,7-6(7) 6-4 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D005,Davis Cup G1 PO: UKR vs NOR,Clay,4,D,19960920,3,M475,,,Andrei Medvedev,R,193,UKR,22.045,31,1184,R219,,,Christian Ruud,R,188,NOR,24.063,61,743,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D005,Davis Cup G1 PO: UKR vs NOR,Clay,4,D,19960920,4,A276,,,Jan Frode Andersen,L,190,NOR,24.049,641,22,Y044,,,Denis Yakimenko,R,,UKR,19.258,837,10,7-6(2) 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D006,Davis Cup WG PO: MEX vs ARG,Hard,4,D,19960920,1,H346,,,Alejandro Hernandez,R,180,MEX,18.96,137,342,E138,,,Gaston Etlis,R,185,ARG,21.867,185,220,7-6(5) 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D006,Davis Cup WG PO: MEX vs ARG,Hard,4,D,19960920,2,G247,,,Hernan Gumy,R,188,ARG,24.534,40,922,L009,,,Leonardo Lavalle,L,188,MEX,29.177,321,102,7-6(5) 6-4 4-6 5-7 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D006,Davis Cup WG PO: MEX vs ARG,Hard,4,D,19960920,3,H346,,,Alejandro Hernandez,R,180,MEX,18.96,137,342,G247,,,Hernan Gumy,R,188,ARG,24.534,40,922,6-4 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D006,Davis Cup WG PO: MEX vs ARG,Hard,4,D,19960920,4,E138,,,Gaston Etlis,R,185,ARG,21.867,185,220,L009,,,Leonardo Lavalle,L,188,MEX,29.177,321,102,6-3 3-6 RET,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D007,Davis Cup WG PO: CRO vs AUS,Clay,4,D,19960920,1,P338,,,Mark Philippoussis,R,196,AUS,19.858,20,1448,H274,,,Sasa Hirszon,R,185,CRO,24.175,340,93,6-2 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D007,Davis Cup WG PO: CRO vs AUS,Clay,4,D,19960920,2,S331,,,Jason Stoltenberg,R,185,AUS,26.453,26,1295,I034,,,Goran Ivanisevic,L,193,CRO,25.01,4,3161,4-6 6-3 3-6 7-6(5) 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D007,Davis Cup WG PO: CRO vs AUS,Clay,4,D,19960920,3,P338,,,Mark Philippoussis,R,196,AUS,19.858,20,1448,O128,,,Goran Oresic,R,,CRO,21.388,397,66,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D007,Davis Cup WG PO: CRO vs AUS,Clay,4,D,19960920,4,H274,,,Sasa Hirszon,R,185,CRO,24.175,340,93,S331,,,Jason Stoltenberg,R,185,AUS,26.453,26,1295,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D010,Davis Cup WG PO: BRA vs AUT,Carpet,4,D,19960920,1,M099,,,Thomas Muster,L,180,AUT,28.958,3,3612,M443,,,Fernando Meligeni,L,180,BRA,25.432,119,413,6-3 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D010,Davis Cup WG PO: BRA vs AUT,Carpet,4,D,19960920,2,K293,,,Gustavo Kuerten,R,191,BRA,20.016,94,483,H364,,,Markus Hipfl,R,178,AUT,18.393,524,36,4-6 3-6 7-6(0) 7-6(5) 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D010,Davis Cup WG PO: BRA vs AUT,Carpet,4,D,19960920,3,K293,,,Gustavo Kuerten,R,191,BRA,20.016,94,483,P304,,,Udo Plamberger,R,,AUT,25.708,283,0,W/O,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D010,Davis Cup WG PO: BRA vs AUT,Carpet,4,D,19960920,4,M443,,,Fernando Meligeni,L,180,BRA,25.432,119,413,H364,,,Markus Hipfl,R,178,AUT,18.393,524,36,W/O,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D015,Davis Cup WG PO: ROU vs BEL,Clay,4,D,19960920,1,V167,,,Johan Van Herck,R,185,BEL,22.316,106,453,V166,,,Adrian Voinea,R,185,ROU,22.114,57,767,6-7(6) 6-4 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D015,Davis Cup WG PO: ROU vs BEL,Clay,4,D,19960920,2,P280,,,Andrei Pavel,R,183,ROU,22.637,148,301,D228,,,Filip Dewulf,R,190,BEL,24.507,47,823,6-1 6-3 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D015,Davis Cup WG PO: ROU vs BEL,Clay,4,D,19960920,3,V166,,,Adrian Voinea,R,185,ROU,22.114,57,767,D228,,,Filip Dewulf,R,190,BEL,24.507,47,823,6-0 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D015,Davis Cup WG PO: ROU vs BEL,Clay,4,D,19960920,4,P280,,,Andrei Pavel,R,183,ROU,22.637,148,301,V167,,,Johan Van Herck,R,185,BEL,22.316,106,453,6-3 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,1,R286,,,Marcelo Rios,L,175,CHI,20.726,10,2101,V157,,,Americo Venero Montes,U,,PER,24.567,,,7-5 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,2,S548,,,Gabriel Silberstein,R,178,CHI,21.916,223,167,A172,,,Alejandro Aramburu,R,175,PER,27.587,,,6-0 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,3,R286,,,Marcelo Rios,L,175,CHI,20.726,10,2101,A172,,,Alejandro Aramburu,R,175,PER,27.587,,,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D025,Davis Cup G1 PO: CHI vs PER,Clay,4,D,19960920,4,S548,,,Gabriel Silberstein,R,178,CHI,21.916,223,167,V157,,,Americo Venero Montes,U,,PER,24.567,,,7-5 6-7(7) 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D036,Davis Cup WG SF: CZE vs SWE,Carpet,4,D,19960920,1,E113,,,Thomas Enqvist,R,190,SWE,22.513,14,1786,K148,,,Petr Korda,L,191,CZE,28.649,50,815,6-4 6-3 7-6(9),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D036,Davis Cup WG SF: CZE vs SWE,Carpet,4,D,19960920,2,E004,,,Stefan Edberg,R,188,SWE,30.658,19,1449,V141,,,Daniel Vacek,R,191,CZE,25.462,37,1078,7-6(2) 7-5 4-6 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D036,Davis Cup WG SF: CZE vs SWE,Carpet,4,D,19960920,3,E113,,,Thomas Enqvist,R,190,SWE,22.513,14,1786,V141,,,Daniel Vacek,R,191,CZE,25.462,37,1078,6-3 6-7(3) 4-6 7-5 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D036,Davis Cup WG SF: CZE vs SWE,Carpet,4,D,19960920,4,E004,,,Stefan Edberg,R,188,SWE,30.658,19,1449,K148,,,Petr Korda,L,191,CZE,28.649,50,815,4-6 6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D038,Davis Cup WG PO: ESP vs DEN,Clay,4,D,19960920,1,C378,,,Albert Costa,R,180,ESP,21.229,15,1758,F206,,,Frederik Fetterlein,R,190,DEN,26.185,131,365,6-0 6-0 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D038,Davis Cup WG PO: ESP vs DEN,Clay,4,D,19960920,2,M605,,,Carlos Moya,R,190,ESP,20.055,22,1407,C328,,,Kenneth Carlsen,L,190,DEN,23.417,64,737,6-1 6-2 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D038,Davis Cup WG PO: ESP vs DEN,Clay,4,D,19960920,3,C328,,,Kenneth Carlsen,L,190,DEN,23.417,64,737,C378,,,Albert Costa,R,180,ESP,21.229,15,1758,3-6 7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D038,Davis Cup WG PO: ESP vs DEN,Clay,4,D,19960920,4,M605,,,Carlos Moya,R,190,ESP,20.055,22,1407,L327,,,Thomas Larsen,R,180,DEN,21.175,400,65,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D040,Davis Cup G2 F: ECU vs URU,Clay,4,D,19960920,1,L290,,,Nicolas Lapentti,R,188,ECU,20.093,102,470,D253,,,Federico Dondo,R,,URU,24.914,271,131,6-4 7-5 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D040,Davis Cup G2 F: ECU vs URU,Clay,4,D,19960920,2,F165,,,Marcelo Filippini,R,178,URU,29.12,109,445,C329,,,Pablo Campana,R,180,ECU,23.751,167,254,6-2 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D040,Davis Cup G2 F: ECU vs URU,Clay,4,D,19960920,3,L290,,,Nicolas Lapentti,R,188,ECU,20.093,102,470,F165,,,Marcelo Filippini,R,178,URU,29.12,109,445,6-3 6-4 2-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D040,Davis Cup G2 F: ECU vs URU,Clay,4,D,19960920,4,M506,,,Luis Adrian Morejon,R,178,ECU,23.472,172,249,D253,,,Federico Dondo,R,,URU,24.914,271,131,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D041,Davis Cup G2 SF: GBR vs EGY,Grass,4,D,19960920,1,R237,,,Greg Rusedski,L,193,GBR,23.028,71,669,E146,,,Tamer El Sawy,R,188,EGY,24.597,174,237,6-2 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D041,Davis Cup G2 SF: GBR vs EGY,Grass,4,D,19960920,2,H336,,,Tim Henman,R,185,GBR,22.029,33,1151,G284,,,Amro Ghoneim,R,,EGY,22.5,522,36,6-0 6-4 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D041,Davis Cup G2 SF: GBR vs EGY,Grass,4,D,19960920,3,H336,,,Tim Henman,R,185,GBR,22.029,33,1151,E146,,,Tamer El Sawy,R,188,EGY,24.597,174,237,6-7(4) 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D041,Davis Cup G2 SF: GBR vs EGY,Grass,4,D,19960920,4,R237,,,Greg Rusedski,L,193,GBR,23.028,71,669,G284,,,Amro Ghoneim,R,,EGY,22.5,522,36,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D046,Davis Cup WG SF: FRA vs ITA,Carpet,4,D,19960920,1,G254,,,Andrea Gaudenzi,R,183,ITA,23.132,55,787,P226,,,Cedric Pioline,R,188,FRA,27.255,17,1557,5-7 6-1 7-6(4) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D046,Davis Cup WG SF: FRA vs ITA,Carpet,4,D,19960920,2,F192,,,Renzo Furlan,R,175,ITA,26.335,38,1049,B053,,,Arnaud Boetsch,R,183,FRA,27.461,23,1366,7-5 1-6 6-3 7-6(5),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D046,Davis Cup WG SF: FRA vs ITA,Carpet,4,D,19960920,3,P226,,,Cedric Pioline,R,188,FRA,27.255,17,1557,F192,,,Renzo Furlan,R,175,ITA,26.335,38,1049,6-3 2-6 6-2 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D046,Davis Cup WG SF: FRA vs ITA,Carpet,4,D,19960920,4,B053,,,Arnaud Boetsch,R,183,FRA,27.461,23,1366,G254,,,Andrea Gaudenzi,R,183,ITA,23.132,55,787,6-4 6-2 7-6(8),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D056,Davis Cup WG PO: RUS vs HUN,Carpet,4,D,19960920,1,K267,,,Yevgeny Kafelnikov,R,190,RUS,22.576,5,3059,S608,,,Attila Savolt,R,183,HUN,20.613,164,259,7-5 3-6 6-3 6-4,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D056,Davis Cup WG PO: RUS vs HUN,Carpet,4,D,19960920,2,C031,,,Andrei Chesnokov,R,188,RUS,30.62,77,618,K154,,,Jozsef Krocsko,R,180,HUN,28.408,160,266,6-2 6-2 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D056,Davis Cup WG PO: RUS vs HUN,Carpet,4,D,19960920,3,K267,,,Yevgeny Kafelnikov,R,190,RUS,22.576,5,3059,K154,,,Jozsef Krocsko,R,180,HUN,28.408,160,266,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D056,Davis Cup WG PO: RUS vs HUN,Carpet,4,D,19960920,4,S608,,,Attila Savolt,R,183,HUN,20.613,164,259,C031,,,Andrei Chesnokov,R,188,RUS,30.62,77,618,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,1,T211,,,Chia-Yen Tsai,R,,TPE,21.552,716,16,W153,,,Bonit Wiryawan,R,173,INA,28.6,,,7-5 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,2,C364,,,Chih-Jung Chen,R,,TPE,23.978,822,11,R348,,,Andrian Raturandang,R,,INA,20.134,1031,5,6-4 6-0 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,3,R348,,,Andrian Raturandang,R,,INA,20.134,1031,5,T211,,,Chia-Yen Tsai,R,,TPE,21.552,716,16,4-6 7-5 7-6(6) 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D057,Davis Cup G1 PO: TPE vs INA,Hard,4,D,19960920,4,W153,,,Bonit Wiryawan,R,173,INA,28.6,,,C364,,,Chih-Jung Chen,R,,TPE,23.978,822,11,6-2 1-6 2-6 7-5 8-6,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D071,Davis Cup WG PO: SUI vs MAR,Carpet,4,D,19960920,1,H025,,,Jakob Hlasek,R,188,SUI,31.844,51,789,T200,,,Mehdi Tahiri,R,183,MAR,19.138,511,39,0-6 6-3 6-2 7-5,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D071,Davis Cup WG PO: SUI vs MAR,Carpet,4,D,19960920,2,R214,,,Marc Rosset,R,201,SUI,25.859,24,1364,E159,,,Mounir El Aarej,R,,MAR,19.253,907,8,6-0 6-1 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D071,Davis Cup WG PO: SUI vs MAR,Carpet,4,D,19960920,3,R214,,,Marc Rosset,R,201,SUI,25.859,24,1364,T200,,,Mehdi Tahiri,R,183,MAR,19.138,511,39,3-6 6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D071,Davis Cup WG PO: SUI vs MAR,Carpet,4,D,19960920,4,H025,,,Jakob Hlasek,R,188,SUI,31.844,51,789,R357,,,Larbi Rharnit,R,,MAR,20.413,1261,2,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D075,Davis Cup WG PO: NED vs NZL,Hard,4,D,19960920,1,S381,,,Jan Siemerink,L,183,NED,26.426,29,1253,S321,,,Brett Steven,R,185,NZL,27.389,81,595,6-7(4) 7-6(2) 6-3 3-6 6-2,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D075,Davis Cup WG PO: NED vs NZL,Hard,4,D,19960920,2,H297,,,Alistair Hunt,R,190,NZL,23.847,294,118,K214,,,Richard Krajicek,R,196,NED,24.78,8,2434,7-6(5) 3-6 4-6 4-1 RET,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D075,Davis Cup WG PO: NED vs NZL,Hard,4,D,19960920,3,S572,,,Sjeng Schalken,R,193,NED,20.022,43,886,G287,,,James Greenhalgh,R,183,NZL,21.574,662,21,7-5 6-1 6-7(5) 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D075,Davis Cup WG PO: NED vs NZL,Hard,4,D,19960920,4,S559,,,Dennis Van Scheppingen,R,185,NED,21.202,101,471,H297,,,Alistair Hunt,R,190,NZL,23.847,294,118,3-6 6-3 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,
+1996-D079,Davis Cup G2 SF: SVK vs POL,Carpet,4,D,19960920,1,K296,,,Jan Kroslak,R,188,SVK,21.916,80,597,D239,,,Bartlomiej Dabrowski,R,,POL,24.074,376,75,7-6(7) 6-3 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D079,Davis Cup G2 SF: SVK vs POL,Carpet,4,D,19960920,2,K237,,,Karol Kucera,R,188,SVK,22.538,78,612,S498,,,Adam Skrzypczak,R,,POL,22.628,1031,5,6-1 6-1 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D079,Davis Cup G2 SF: SVK vs POL,Carpet,4,D,19960920,3,K237,,,Karol Kucera,R,188,SVK,22.538,78,612,D239,,,Bartlomiej Dabrowski,R,,POL,24.074,376,75,6-7(2) 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D079,Davis Cup G2 SF: SVK vs POL,Carpet,4,D,19960920,4,G326,,,Michal Gawlowski,R,,POL,21.139,,,H377,,,Dominik Hrbaty,R,183,SVK,18.7,98,475,6-7(1) 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D082,Davis Cup G2 F: UZB vs THA,Clay,4,D,19960920,1,T212,,,Dmitri Tomashevich,R,,UZB,22.533,379,75,S476,,,Naratorn Srichaphan,R,,THA,24.115,1295,1,6-0 6-3 6-1,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D082,Davis Cup G2 F: UZB vs THA,Clay,4,D,19960920,2,O127,,,Oleg Ogorodov,R,193,UZB,24.17,117,426,S478,,,Tanakorn Srichaphan,R,,THA,28.326,1295,1,6-1 6-3 7-6(2),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D082,Davis Cup G2 F: UZB vs THA,Clay,4,D,19960920,3,O127,,,Oleg Ogorodov,R,193,UZB,24.17,117,426,S476,,,Naratorn Srichaphan,R,,THA,24.115,1295,1,6-3 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,
+1996-D082,Davis Cup G2 F: UZB vs THA,Clay,4,D,19960920,4,T212,,,Dmitri Tomashevich,R,,UZB,22.533,379,75,S478,,,Tanakorn Srichaphan,R,,THA,28.326,1295,1,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,
 1996-325,Palermo,Clay,32,A,19960923,1,M535,1,,Felix Mantilla,R,180,ESP,22.001,16,1578,K190,,,Bernd Karbacher,R,185,GER,28.474,83,580,7-6(4) 6-4,3,R32,116,1,2,79,60,40,11,11,5,8,6,5,99,60,36,17,11,13,17
 1996-325,Palermo,Clay,32,A,19960923,2,V167,,,Johan Van Herck,R,185,BEL,22.335,106,453,B518,,,Galo Blanco,R,173,ESP,19.959,95,519,7-5 6-3,3,R32,91,4,2,65,37,26,19,10,2,2,1,2,76,55,35,10,11,11,14
 1996-325,Palermo,Clay,32,A,19960923,3,A226,,,Hicham Arazi,L,175,MAR,22.93,84,562,G319,,,Jerome Golmard,L,188,FRA,23.039,135,348,3-6 6-3 6-3,3,R32,123,6,3,82,47,33,21,13,5,7,2,9,102,55,36,22,14,12,16
@@ -3754,10 +3754,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-605,Tour Finals,Carpet,9,F,19961119,13,K214,,,Richard Krajicek,R,196,NED,24.953,8,2262,M099,,,Thomas Muster,L,180,AUT,29.131,5,3166,7-6(4) 6-7(5) 6-3,3,RR,111,22,1,92,62,56,17,17,0,1,8,4,107,49,42,31,16,9,11
 1996-605,Tour Finals,Carpet,9,F,19961119,14,K214,,,Richard Krajicek,R,196,NED,24.953,8,2262,C274,,,Michael Chang,R,175,USA,24.739,2,3584,6-4 6-4,3,RR,63,22,3,54,34,30,11,10,0,0,5,2,48,22,18,17,10,0,2
 1996-605,Tour Finals,Carpet,9,F,19961119,15,S402,,,Pete Sampras,R,185,USA,25.27,1,4298,A092,,,Andre Agassi,R,180,USA,26.557,7,2364,6-2 6-1,3,RR,51,9,0,38,19,19,13,8,0,0,2,2,47,27,14,7,7,6,10
-1996-D047,Davis Cup WG F: SWE vs FRA,Hard,4,D,19961129,1,P226,,,Cedric Pioline,R,188,FRA,27.447,21,1455,E004,,,Stefan Edberg,R,188,SWE,30.85,14,1567,6-3 6-4 6-3,5,RR,51,9,0,38,19,19,13,8,0,0,2,2,47,27,14,7,7,6,10
-1996-D047,Davis Cup WG F: SWE vs FRA,Hard,4,D,19961129,2,E113,,,Thomas Enqvist,R,190,SWE,22.705,9,2191,B053,,,Arnaud Boetsch,R,183,FRA,27.652,33,1183,6-4 6-3 7-6(2),5,RR,51,9,0,38,19,19,13,8,0,0,2,2,47,27,14,7,7,6,10
-1996-D047,Davis Cup WG F: SWE vs FRA,Hard,4,D,19961129,3,E113,,,Thomas Enqvist,R,190,SWE,22.705,9,2191,P226,,,Cedric Pioline,R,188,FRA,27.447,21,1455,3-6 6-7(8) 6-4 6-4 9-7,5,RR,51,9,0,38,19,19,13,8,0,0,2,2,47,27,14,7,7,6,10
-1996-D047,Davis Cup WG F: SWE vs FRA,Hard,4,D,19961129,4,B053,,,Arnaud Boetsch,R,183,FRA,27.652,33,1183,K181,,,Nicklas Kulti,R,190,SWE,25.596,64,725,7-6(2) 2-6 4-6 7-6(5) 10-8,5,RR,51,9,0,38,19,19,13,8,0,0,2,2,47,27,14,7,7,6,10
+1996-D047,Davis Cup WG F: SWE vs FRA,Hard,4,D,19961129,1,P226,,,Cedric Pioline,R,188,FRA,27.447,21,1455,E004,,,Stefan Edberg,R,188,SWE,30.85,14,1567,6-3 6-4 6-3,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D047,Davis Cup WG F: SWE vs FRA,Hard,4,D,19961129,2,E113,,,Thomas Enqvist,R,190,SWE,22.705,9,2191,B053,,,Arnaud Boetsch,R,183,FRA,27.652,33,1183,6-4 6-3 7-6(2),5,RR,,,,,,,,,,,,,,,,,,,
+1996-D047,Davis Cup WG F: SWE vs FRA,Hard,4,D,19961129,3,E113,,,Thomas Enqvist,R,190,SWE,22.705,9,2191,P226,,,Cedric Pioline,R,188,FRA,27.447,21,1455,3-6 6-7(8) 6-4 6-4 9-7,5,RR,,,,,,,,,,,,,,,,,,,
+1996-D047,Davis Cup WG F: SWE vs FRA,Hard,4,D,19961129,4,B053,,,Arnaud Boetsch,R,183,FRA,27.652,33,1183,K181,,,Nicklas Kulti,R,190,SWE,25.596,64,725,7-6(2) 2-6 4-6 7-6(5) 10-8,5,RR,,,,,,,,,,,,,,,,,,,
 1996-604,Grand Slam Cup,Carpet,16,A,19961203,1,H336,,,Tim Henman,R,185,GBR,22.24,29,1243,S351,,,Michael Stich,R,193,GER,28.123,16,1518,6-3 6-3,3,R16,51,9,0,38,19,19,13,8,0,0,2,2,47,27,14,7,7,6,10
 1996-604,Grand Slam Cup,Carpet,16,A,19961203,2,W124,,,MaliVai Washington,R,180,USA,27.452,20,1472,K214,,,Richard Krajicek,R,196,NED,24.991,7,2380,6-1 6-2,3,R16,51,9,0,38,19,19,13,8,0,0,2,2,47,27,14,7,7,6,10
 1996-604,Grand Slam Cup,Carpet,16,A,19961203,3,B028,,,Boris Becker,R,191,GER,29.029,6,2983,S331,,,Jason Stoltenberg,R,185,AUS,26.664,31,1226,6-3 6-2,3,R16,51,9,0,38,19,19,13,8,0,0,2,2,47,27,14,7,7,6,10
