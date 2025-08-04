@@ -11,7 +11,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-421,Canada Masters,Hard,96,M,20250727,,ME82,,Q,Adrian Mannarino,L,180,FRA,,94,661,GC88,,,Marcos Giron,R,180,USA,,59,960,6-4 6-4,3,R128,88,4,1,49,23,21,16,10,0,1,6,3,68,35,26,14,10,5,8
 2025-421,Canada Masters,Hard,96,M,20250727,,M0CI,,,Fabian Marozsan,R,193,HUN,,56,1005,DA31,,,Hugo Dellien,R,180,BOL,,98,654,6-2 6-2,3,R128,63,4,0,40,24,20,13,8,0,0,3,2,53,28,15,13,8,2,6
 2025-421,Canada Masters,Hard,96,M,20250727,,MK66,,,Mackenzie McDonald,R,178,USA,,96,655,GB88,,,David Goffin,R,180,BEL,,65,914,6-4 6-4,3,R128,85,6,1,49,31,25,14,10,0,1,6,10,74,36,26,16,10,8,11
-2025-421,Canada Masters,Hard,96,M,20250727,,MU94,,,Jaume Munar,R,183,ESP,,51,1087,M0C2,,Q,Dan Martin,R,175,CAN,,,,6-3 6-0,3,R128,70,6,0,34,22,19,9,7,0,0,0,1,53,30,12,12,8,5,10
+2025-421,Canada Masters,Hard,96,M,20250727,,MU94,,,Jaume Munar,R,183,ESP,,51,1087,M0C2,,Q,Dan Martin,R,175,CAN,,560,65,6-3 6-0,3,R128,70,6,0,34,22,19,9,7,0,0,0,1,53,30,12,12,8,5,10
 2025-421,Canada Masters,Hard,96,M,20250727,,O483,,,Christopher O'Connell,R,183,AUS,,78,775,T0AP,,LL,Chun-Hsin Tseng,R,175,TWN,,107,599,6-1 6-2,3,R128,75,6,2,51,28,21,12,8,1,2,0,2,63,37,21,7,7,11,16
 2025-421,Canada Masters,Hard,96,M,20250727,,Q02L,,,Ethan Quinn,R,191,USA,,86,726,N732,,,Yoshihito Nishioka,L,170,JPN,,131,459,7-6(1) 6-2,3,R128,101,7,6,63,34,30,17,10,3,3,2,7,78,36,28,18,10,5,7
 2025-421,Canada Masters,Hard,96,M,20250727,,S0N0,,Q,Tristan Schoolkate,R,183,AUS,,103,616,F0FV,,,Joao Fonseca,R,188,BRA,,49,1110,7-6(5) 6-4,3,R128,92,10,5,64,36,32,18,11,0,0,9,4,76,49,37,14,11,1,2
@@ -77,8 +77,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-421,Canada Masters,Hard,96,M,20250727,,P09Z,18,,Alexei Popyrin,R,196,AUS,,26,2050,MM58,10,,Daniil Medvedev,R,198,RUS,,14,2720,5-7 6-4 6-4,3,R32,150,7,7,103,63,53,16,16,9,11,12,8,110,58,44,25,16,9,12
 2025-421,Canada Masters,Hard,96,M,20250727,,KE29,11,,Karen Khachanov,R,198,RUS,,16,2590,N0AM,,Q,Emilio Nava,R,185,USA,,114,539,6-7(6) 6-4 6-1,3,R32,130,8,3,82,48,34,24,14,0,1,10,8,103,57,44,16,15,6,11
 2025-421,Canada Masters,Hard,96,M,20250727,,C0AU,14,,Francisco Cerundolo,R,185,ARG,,24,2085,EA24,,,Tomas Martin Etcheverry,R,196,ARG,,60,960,6-3 6-4,3,R32,109,1,1,71,36,23,22,10,8,9,5,0,64,37,26,11,9,7,10
-2025-421,Canada Masters,Hard,96,M,20250727,,DH58,,,Alex de Minaur,R,183,AUS,,8,3335,O483,,,Christopher O'Connell,R,183,AUS,,78,775,W/O RET,3,R32,,,,,,,,,,,,,,,,,,,
+2025-421,Canada Masters,Hard,96,M,20250727,,DH58,,,Alex de Minaur,R,183,AUS,,8,3335,O483,,,Christopher O'Connell,R,183,AUS,,78,775,W/O,3,R32,,,,,,,,,,,,,,,,,,,
 2025-421,Canada Masters,Hard,96,M,20250727,,T0HA,,,Learner Tien,L,180,USA,,61,940,O522,,,Reilly Opelka,R,211,USA,,74,827,7-6(3) 6-3,3,R32,85,2,2,82,50,40,18,11,4,4,10,5,57,31,30,12,10,0,1
+2025-421,Canada Masters,Hard,96,M,20250727,,FB98,2,,Taylor Fritz,R,196,USA,,4,5135,L0BV,19,,Jiri Lehecka,R,185,CZE,,27,2015,7-6(4) 6-7(5) 7-6(5),3,R16,176,16,5,133,79,65,31,18,9,9,6,2,125,78,63,28,18,5,5
+2025-421,Canada Masters,Hard,96,M,20250727,,S0S1,4,,Ben Shelton,L,193,USA,,7,3520,C0E9,13,,Flavio Cobolli,R,183,ITA,,17,2385,6-4 4-6 7-6(1),3,R16,144,12,4,112,69,49,21,16,7,10,8,2,101,45,34,29,16,6,9
+2025-421,Canada Masters,Hard,96,M,20250727,,RE44,6,,Andrey Rublev,R,188,RUS,,11,3110,DH50,20,,Alejandro Davidovich Fokina,R,180,ESP,,19,2225,6-7(3) 7-6(2) 3-0 RET,3,R16,141,12,2,90,52,47,22,14,3,3,8,2,107,74,50,19,13,5,6
+2025-421,Canada Masters,Hard,96,M,20250727,,DH58,9,,Alex de Minaur,R,183,AUS,,8,3335,TD51,7,,Frances Tiafoe,R,188,USA,,12,2990,6-2 4-6 6-4,3,R16,144,6,5,92,39,30,26,14,4,7,10,4,90,43,32,20,14,5,10
 2025-421,Canada Masters,Hard,96,M,20250727,,Z355,1,,Alexander Zverev,R,198,DEU,,3,6030,C0AU,14,,Francisco Cerundolo,R,185,ARG,,24,2085,6-4 1-0 RET,3,R16,51,3,1,29,21,16,3,5,1,2,1,3,35,29,15,2,6,1,4
 2025-421,Canada Masters,Hard,96,M,20250727,,P09Z,18,,Alexei Popyrin,R,196,AUS,,26,2050,R0DG,5,,Holger Rune,R,188,DNK,,9,3250,4-6 6-2 6-3,3,R16,123,14,4,77,45,39,18,14,3,4,7,5,97,63,41,17,13,11,14
 2025-421,Canada Masters,Hard,96,M,20250727,,KE29,11,,Karen Khachanov,R,198,RUS,,16,2590,RH16,8,,Casper Ruud,R,183,NOR,,13,2905,6-4 7-5,3,R16,93,7,3,54,30,29,13,11,3,4,9,2,72,49,28,15,11,9,12
