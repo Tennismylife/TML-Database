@@ -585,7 +585,7 @@ B238,Dick R. Bohrnstedt,Dick R. Bohrnstedt,19500428,,,,"Redlands, CA, USA",,R,,U
 B239,Goran Bergstrand,Goran Bergstrand,,,,,,,R,,SWE
 B241,John Burrman,John Burrman,,,,,,,R,,USA
 B244,Chris Bovett,Chris Bovett,19451225,,,,"West Hagley, England",,R,,GBR
-B245,Michael Burgener,Michael Burgener,,,,,,,R,,CHE
+B245,Michel Burgener,Michel Burgener,,,,,,,R,,CHE
 B248,Eric Baer,Eric Baer,,,,,,,R,,USA
 B250,Maurizio Bonaiti,Maurizio Bonaiti,,,,,,,R,,ITA
 B251,Harvey Becker,Harvey Becker,,,,,,,R,,GBR
@@ -810,7 +810,7 @@ BC29,Nigel Badza,Nigel Badza,,,,,,,,,ZWE
 BC36,Gregoire Burquier,Gregoire Burquier,19840708,,,,,,L,1H,FRA
 BC41,Just Barth,J Bart,,,,,,,,,NLD
 BC45,I Brady,I Brady,,,,,,,,,AUS
-BC49,Unknown Bahr,Unknown Bahr,,,,,,,,,AUT
+BC49,Peter Bahr,Unknown Bahr,,,,,,,,,AUT
 BC54,Petros Baghdatis,Petros Baghdatis,19790116,,,,,,,,CYP
 BC56,Ron Barnes,Ron Barnes,,,,,,,,,BRA
 BC58,Ian Beverly,Ian Beverly,,,,,,,,,NZL
@@ -1982,7 +1982,7 @@ F0D3,J. Fannin,J. Fannin,,,,,,,,,USA
 F0D4,A. Ferguson,A. Ferguson,,,,,,,,,AUS
 F0D5,P. Finn,P. Finn,,,,,,,,,GBR
 F0D7,James Flanagan,James Flanagan,,,,,,,,,GBR
-F0D8,Ling Fong,Ling Fong,19400803,,,,,,,,HKG
+F0D8,Fong Ling,Fong Ling,19400803,,,,,,,,HKG
 F0DH,Ari Fahresi,Ari Fahresi,20020802,,,,,,,,IDN
 F0DM,Arthur Fery,Arthur Fery,20020712,76,175,,"Sèvres, France",Benoit Foucher,R,2H,GBR
 F0DT,Pedro Figar,Pedro Figar,,,,,,,,,ESP
@@ -2169,7 +2169,7 @@ F936,Freddy Field,Freddy Field,19290206,,,,,,,,GBR
 F939,Dennis Foley,Dennis Foley,,,,,,,,,IRL
 F940,Paul Fitz-Simmons,Paul Fitz-Simmons,,,,,,,,,IRL
 F941,Ronan Fearon,Ronan Fearon,,,,,,,,,IRL
-F948,Andy Fanowrios,Andy Fanowries,,,,,,,,,AUS
+F948,Andy Fanowries,Andy Fanowries,,,,,,,,,AUS
 F949,Brian Ford,Brian Ford,,,,,,,,,AUS
 F952,Nicolae Frunza,Nicolae Frunza,19971115,78,185,,"Bucharest, Romania",Daniel Frunza,R,1H,ROU
 F953,R. Frost,R. Frost,,,,,,,,,GBR
@@ -2335,7 +2335,7 @@ G159,Lew Gerrard,Lew Gerrard,,,,,,,R,,NZL
 G160,Ron Goldman,Ron Goldman,,,,,,,R,,USA
 G161,Larry Gottfried,Larry Gottfried,19591208,,,,"Miami, Florida, USA",,R,,USA
 G162,Pedro Gonzalez,Pedro Gonzalez,19561218,,,,,,R,,PRI
-G163,Phillip Gunning,Phil Gunning,,,,,,,R,,NZL
+G163,Phillip Gunning,Phillip Gunning,,,,,,,R,,NZL
 G164,Marco Gudino,Marco Gudino,,,,,,,R,,ECU
 G165,Ruben Gajardo,Ruben Gajardo,19680105,,,,,,R,,CHL
 G166,Jhonson Garcia,Jhonson Garcia,19801001,,,,,,R,,DOM
@@ -2552,7 +2552,7 @@ GF85,Luis-Augusto Garcia,Luis-Augusto Garcia,,,,,,,,,MEX
 GF86,Antonio Garoni,Antonio Garoni,,,,,,,,,ARG
 GF89,Martin Griffiths,M. M. Griffiths,,,,,,,,,GBR
 GF90,C. Graham,C. Graham,,,,,,,,,GBR
-GF91,Tony Goold,A. J. Gould,,,,,,,,,GBR
+GF91,Anthony Goold,Anthony Goold,,,,,,,,,GBR
 GF92,Terry Grant,T. Grane,,,,,,,,,IRL
 GF95,Hugo Grenier,Hugo Grenier,19960323,85,196,2013,"Montbrison, France",Gerard Solves,R,2H,FRA
 GG04,Francois Godbout,Francois Godbout,19380410,,,,,,,,CAN
@@ -2737,7 +2737,6 @@ H177,G. Turner Howard,G. Turner Howard,19470724,,,,"Knoxville, TN, U.S.A.",,R,,U
 H180,Juan Herrera,Juan Herrera,,,,,,,R,,ESP
 H181,Bo Holmstrom,Bo Holmstrom,,,,,,,R,,SWE
 H183,Rudolf Hoskowetz,Rudolf Hoskowetz,19461012,,,,,,R,,AUT
-H184,Detler Herdy,Detler Herdy,19411013,,,,,,R,,AUT
 H185,Rodney Harvey,R. Harvey,,,,,,,R,,AUS
 H186,Neal Higgins,Neal Higgins,,,,,,,R,,AUS
 H187,Gavin Hogben,Gavin Hogben,,,,,,,R,,AUS
@@ -2859,7 +2858,7 @@ H718,Richard Hillage,Richard Hillage,,,,,,,,,GBR
 H726,Dick Horowitz,Dick Horowitz,,,,,,,,,USA
 H735,Norberto Herrero,Norberto Herrero,,,,,,,,,ARG
 H737,Peter Holenstein,Peter Holenstein,,,,,,,,,CHE
-H738,Unknown Hamza,Unknown Hamza,,,,,,,,,AUT
+H738,Heinz Hamza,Heinz Hamza,,,,,,,,,AUT
 H741,Terry Hassall,Terry Hassall,,,,,,,,,USA
 H746,Jan Hajer,Jan Hajer,,,,,,,,,NLD
 H756,Robin Haase,Robin Haase,19870406,77,191,2005,"The Hague, The Netherlands",Raymond Knaap,R,2H,NLD
@@ -2902,10 +2901,9 @@ HC12,J. Hill,J. Hill,,,,,,,,,GBR
 HC13,D. Hardiman,D. Hardiman,,,,,,,,,GBR
 HC20,Alejandro Harms,Alejandro Harms,19491025,,,,,,,,ARG
 HC21,Seongchan Hong,Seongchan Hong,19970630,65,175,,Gwangwondo,,R,2H,KOR
-HC24,R. Hunt,R. Hunt,,,,,,,,,AUS
 HC25,Phil Holten,Phil Holten,,,,,,,,,AUS
 HC27,M. J. R. Hales,M. J. R. Hales,,,,,,,,,GBR
-HC28,Dennis Hughes,D. B. Huges,,,,,,,,,GBR
+HC28,D. B. Huges,D. B. Huges,,,,,,,,,GBR
 HC29,Carl-Edvard Hedelund,Carl-Edvard Hedelund,19410314,,,,,,,,DNK
 HC38,Noel Holland,Noel Holland,19400408,,,,,,,,AUS
 HC53,Paul Hearnden,Paul Hearnden,,,,,,,,,AUS
@@ -3409,7 +3407,7 @@ K776,Konstantin Kravchuk,Konstantin Kravchuk,19850223,80,191,2004,"Moscow, Russi
 K777,Evgeny Kirillov,Evgeny Kirillov,19870714,,,,,,R,,RUS
 K794,Kosti Killas,Kosti Killas,,,,,,,,,CAN
 K795,Fritz Kolbinger,Fritz Kolbinger,,,,,,,,,AUT
-K796,Unknown Kreuzhuber,Unknown Kreuzhuber,,,,,,,,,AUT
+K796,Klaus Kreuzhuber,Klaus Kreuzhuber,,,,,,,,,AUT
 K797,F. Kolik,Unknown Kolik,,,,,,,,,AUT
 K799,Eddie Knol,Eddie Knol,,,,,,,,,NLD
 K800,Christopher Koutrouzas,Christofer Koutrouzas,19871202,,,,,,,,CYP
@@ -4477,14 +4475,14 @@ MP64,G. Miles,G. Miles,,,,,,,,,AUS
 MP66,Dave Michau,D. Michau,,,,,,,,,ZAF
 MP67,Ivan Mikysa,Ivan Mikysa,,,,,,,,,USA
 MP68,Jiri Medonos,Jiri Medonos,,,,,,,,,CZE
-MP69,Unknown Michod,Unknown Michod,,,,,,,,,CHE
+MP69,Jacques Michod Jr.,Jacques Michod Jr.,,,,,,,,,CHE
 MP70,Gerardo Miceli,Gerardo Miceli,,,,,,,,,ARG
 MP71,R. G. Moore,R. G. Moore,,,,,,,,,GBR
 MP72,G. McVicar,G. McVicar,,,,,,,,,GBR
 MP73,B. Mortoire,B. Mortoire,,,,,,,,,GBR
 MP74,P. Mortoire,P. Mortoire,,,,,,,,,GBR
 MP75,R. Mortoire,R. Mortoire,,,,,,,,,GBR
-MP76,B. Mongan,B. Morgan,,,,,,,,,GBR
+MP76,B. Morgan,B. Morgan,,,,,,,,,GBR
 MP77,Frank Mcardle,F. Mcardle,,,,,,,,,IRL
 MP79,Unknown Marchiori,Unknown Marchiori,,,,,,,,,ITA
 MP80,S. Matteoli,S. Matteoli,,,,,,,,,ITA
@@ -4761,7 +4759,7 @@ O0B8,Holger Osinski,Holger Osinski,,,,,,,,,GER
 O0BB,Don O'Connell,Don O'Connell,,,,,,,,,IRL
 O0BE,Oleksandr Ovcharenko,Oleksandr Ovcharenko,20011017,82,185,,Kiev,Davide Spina,R,2H,UKR
 O0BJ,Eric Jr. Olivarez,Eric Jr. Olivarez,19980418,,,,,,,Unknown,PHL
-O0BL,R. Orford,R. Orford,,,,,,,,,AUS
+O0BL,Ross Orford,Ross Orford,,,,,,,,,AUS
 O0BM,Julian Olave,Julian Olave,,,,,,,,,ESP
 O0BN,John O'Shea,John O'Shea,,,,,,,,,IRL
 O0BQ,Karlis Ozolins,Karlis Ozolins,20020615,93,196,,Riga,Brad Dancer,R,2H,LVA
@@ -4847,7 +4845,7 @@ O513,Sebastian Ofner,Sebastian Ofner,19960512,81,191,2015,"Bruck an der Mur, Aus
 O519,J. O'Brien,J. O'Brien,,,,,,,,,IRL
 O522,Reilly Opelka,Reilly Opelka,19970828,102,211,2015,"St. Joseph, MI, USA","Jay Berger, Friedrich Kunath",R,2H,USA
 O529,Jim Oescher,Jim Oescher,,,,,,,,,USA
-O530,D. O'Keffe,D. O'Keefe,,,,,,,,,IRL
+O530,D. O'Keefe,D. O'Keefe,,,,,,,,,IRL
 O534,Jozef Orlikowski,Jozef Orlikowski,19340819,,,,,,,,POL
 O544,Richard Ogden,Richard Ogden,19390611,,,,,,,,USA
 O634,Jose Olivares,Jose Olivares,19970108,86,163,,Santo Domingo,Jose Juan Lorenzo,R,2H,DOM
@@ -5194,7 +5192,6 @@ PH85,Enrique Perez-Alvarez,Enrique Perez-Alvarez,19420405,,,,,,,,URY
 PH89,M. Patterson,M. Patterson,,,,,,,,,AUS
 PH90,Lennart Ploughmann,L. Ploughman,,,,,,,,,ZAF
 PH91,Dave Phillips,Dave Phillips,,,,,,,,,ZAF
-PH92,Jamie Presslie,Jamie Presslie,19470823,,,,"Palm Beach, FL, USA",,R,,USA
 PH93,Vladimir Petrovic,Vladimir Petrovic,19290511,,,,,,,,YUG
 PH94,Graham Primrose,Graham Primrose,19390222,,,,,,,,AUS
 PH97,G. R. D. Portcous,G. R. D. Porteus,,,,,,,,,GBR
@@ -6080,7 +6077,7 @@ S977,Andras Szikszai,Andras Szikszai,,,,,,,,,HUN
 S978,Andras Szocsik,Andras Szocsik,,,,,,,,,HUN
 S979,Roberto Saya,Roberto Saya,,,,,,,,,ITA
 S990,Tobias Summerer,Tobias Summerer,19830201,79,185,2002,"Freising, Germany",Stefan Eriksson,R,,DEU
-S999,Carlos Schettwein,Carlos Schettwein,,,,,,,,,MEX
+"S999","Carlos Schlettwein","Carlos Schlettwein","","","","","","","","","MEX"
 SA01,Lester Sack,Lester Sack,,,,,,,,,USA
 SA03,Roy Sprengelmeyer,Roy Sprengelmeyer,,,,,,,,,USA
 SA04,Benito Schon,Benito Schon,,,,,,,,,MEX
@@ -6279,11 +6276,11 @@ SS05,Errol Sapire,A. Sapire,,,,,,,,,ZAF
 SS06,Jeff Sacks,J. Sacks,,,,,,,,,ZAF
 SS07,Kenny Smith,Kenny Smith,,,,,,,,,ZAF
 SS09,Roy Schwegman,Roy Schwegman,,,,,,,,,ZAF
-SS11,Unknown Stebler,Unknown Stebler,,,,,,,,,CHE
+SS11,Hans-Peter Stebler,Hans-Peter Stebler,,,,,,,,,CHE
 SS12,Dave Snyder,Dave Snyder,19341213,,,,,,,,USA
 SS16,Geoff Stubbs,Geoff Stubbs,,,,,,,,,GBR
 SS17,P. Smith,P. Smith,,,,,,,,,GBR
-SS18,John Anthony Southworth,J. A. Southworth,,,,,,,,,GBR
+SS18,John Anthony Southworth,John Anthony Southworth,,,,,,,,,GBR
 SS19,D. J. Sheperd,D. J. Sheperd,,,,,,,,,GBR
 SS20,P. Scott,P. Scott,,,,,,,,,GBR
 SS21,B. Sweeney,B. Sweeney,,,,,,,,,IRL
@@ -6567,7 +6564,7 @@ TD39,N. Trotter,N. Trotter,,,,,,,,,AUS
 TD40,Andre Thielemans,Andre Thielemans,19370609,,,,,,,,BEL
 TD43,L. B. Taylor,L. B. Taylor,,,,,,,,,GBR
 TD44,R. P. Tuck,R. P. Tuck,,,,,,,,,GBR
-TD45,P. M. Thomas,A. M. Thomas,,,,,,,,,GBR
+TD45,A. M. Thomas,A. M. Thomas,,,,,,,,,GBR
 TD46,Unknown Terrade,Unknown Terrade,,,,,,,,,ITA
 TD47,Evgenii Tiurnev,Evgenii Tiurnev,19970408,85,191,,Gatchina,Mikhail Tsybin,R,2H,RUS
 TD49,Mert Naci Turker,Mert Naci Turker,19980816,,,,,,,Unknown,
@@ -6662,7 +6659,7 @@ V042,Mark Vines,Mark Vines,19570223,73,170,,"Richmond, VA",John Gardner,L,,USA
 V048,Schalk Van Der Merwe,Schalk Van Der Merwe,19610416,,,,,,R,,ZAF
 V049,Erik Van Dillen,Erik Van Dillen,19510221,70,183,,"San Mateo, CA, USA",,R,,USA
 V050,John Van Nostrand,John Van Nostrand,19610717,,,,"Long Island, NY",,R,,USA
-V051,Tito Vazquez,Modesto Tito Vazquez,19490101,66,173,,"Orense, Spain",,R,,ARG
+V051,Modesto Tito Vazquez,Modesto Tito Vazquez,19490101,66,173,,"Orense, Spain",,R,,ARG
 V055,Richard Vogel,Richard Vogel,19640813,86,193,,"Ostrava, Czechoslovakia",,R,,CZE
 V063,Jacques Vincileoni,Jacques Vincileoni,,,,,,,R,,MCO
 V064,Albert Viviani,Albert Viviani,,,,,,,R,,MCO
@@ -7049,9 +7046,9 @@ W739,Daniel Windahl,Daniel Windahl,19960720,76,188,,"Helsingborg, Sweden",Peter 
 W745,Ivor Warwick,Ivor Warwick,,,,,,,,,GBR
 W746,Gerry Waldron,G. Waldron,,,,,,,,,IRL
 W747,Willie Walsh,W. Walsh,,,,,,,,,IRL
-W750,Dondald Watts,D. Watts,,,,,,,,,AUS
+W750,Donald Watts,Donald Watts,,,,,,,,,AUS
 W751,Clive Wilderspin,Clive Wilderspin,19300403,,,,,,,,AUS
-W752,Unknown Warfield,Unknown Warfield,,,,,,,,,CHE
+W752,A. Warfield,A. Warfield,,,,,,,,,CHE
 W754,John Williams,R. E. Williams,,,,,,,,,GBR
 W755,Pal Wiman,Patrice Wiman,,,,,,,,,USA
 W756,R. Walker,R. Walker,,,,,,,,,GBR
@@ -7179,7 +7176,7 @@ Z184,Horacio Zeballos,Horacio Zeballos,19850427,84,188,2003,"Mar del Plata, Arge
 Z189,Grega Zemlja,Grega Zemlja,19860929,81,183,2004,"Jesenice, Slovenia",Ziga Janskovec,R,2H,SVN
 Z195,Jose Zunino,Jose Zunino,19870129,,,,,,,,ECU
 Z198,Caio Zampieri,Caio Zampieri,19860527,79,183,2005,"Mogi Guacu, Brazil",Andre Podalka,R,,BRA
-Z201,Hans Zollner,Unknown Zollner,,,,,,,,,AUT
+Z201,Hans Zollner,Hans Zollner,,,,,,,,,AUT
 Z211,Adrians Zguns,Adrians Zguns,19811201,,,,,,,,LVA
 Z236,Alexandr Zotov,Alexandr Zotov,19880508,,,,,,,,BLR
 Z239,Federico Zeballos,Federico Zeballos,19880530,75,185,,"Santa Cruz, Bolivia",,R,2H,BOL
@@ -7207,3 +7204,38 @@ Z423,Jan Zielinski,Jan Zielinski,19961116,83,180,2019,"Warsaw, Poland",Mariusz F
 "DA86","Joris De Loore","Joris De Loore","19930421","86","191","2011","Bruges, Belgium","Bastian Suwanprateep","R","2H","BEL"
 "E768","Baris Erguden","Antoine Escoffier","19920229","78","185","","Le Pont-De-Beauvoisin","","R","2H","FRA"
 "E768","Antoine Escoffier","Antoine Escoffier","19920229","78","185","","Le Pont-De-Beauvoisin","","R","2H","FRA"
+"R0I7","Jochen Rosner","","","","","","","","","","GER"
+"T0H7","Heimo Tschernatsch","","","","","","","","","","AUT"
+"H738","Heinz Hamza","","","","","","","","","","AUT"
+"F548","Johann Futternecht","Johann Futternecht","","","","","","","","","AUT"
+"O282","Jesus Oroquieta","Jesus Oroquieta","","","","","","","","",""
+"P0K6","Paul Pavich","","","","","","","","","","AUT"
+"B816","Jean Bergmann","Jean Bergmann","","","","","","","","","FRA"
+"G827","Unknown Grund","","","","","","","","","",""
+"S0UK","R Sutton","","","","","","","","","",""
+"K144","Ference Komaromi","Ferenc Komaromi","","","","","","","R","","HUN"
+"PA82","Peter Pilsl","Pilsl","","","","","","","","","AUT"
+"D0JC","Rolf Durr","","","","","","","","","","AUT"
+"SE92","George Szakacz","Unknown Szakacz","","","","","","","","",""
+"SE91","F Strizik","Unknown Strizik","","","","","","","","","AUT"
+"H183","Rudolf Hoskowetz","Rudolf Hoskowetz","19461012","","","","","","R","","AUT"
+"PH89","Max Patterson","","","","","","","","","","AUS"
+"G0HF","R. Gregg","","","","","","","","","","AUS"
+"C803","Alfred Coco","Alfred Coco","","","","","","","","",""
+"F470","Pedro Farreras","Pedro Farreras","","","","","","","","",""
+"F467","Luiz Flor","Luiz Flor","","","","","","","","","ESP"
+"M0L8","Louis Maurizot","","","","","","","","","","FRA"
+"F469","Ian Froman","Ian Froman","1937-05-06","","","","Johannesburg, South Africa","","","","ISR"
+"G669","Jorge Gisbert","Jorge Gisbert","","","","","","","","","ESP"
+"MB37","Jorge Marfa","Jorge Marfa","","","","","","","","",""
+"C802","Sixto Cambra","Sixto Cambra","","","","","","","","","ESP"
+"H184","Detlev Herdy","Detler Herdy","19411013","","","","","","R","","AUT"
+"RD92","Connors Ryan","Connors Ryan","","","","","","","R","","IRL"
+"M0MH","J. McBrien","J. McBrien","","","","","","","R","","GBR"
+"S0QI","Peter Sigwart","Peter Sigwart","","","","","","","","","NED"
+"D0GZ","Tietje Dijkstra","Tietje Dijkstra","","","","","","","","","NED"
+"SS22","Bruno Schoenenberger","Bruno Schoenenberger","","","","","","","","","CHE"
+"KE98","Larry Kroll","Larry Kroll","","","","","","","","","USA"
+"L0H4","Bob Levine","Bob Levine","","","","","","","","","USA"
+"N474","Dean Nogrady","Dean Nogrady","","","","","","","","","USA"
+"M0MI","Emilio Martinez","Emilio Martinez","","","","","","","","","ESP"
