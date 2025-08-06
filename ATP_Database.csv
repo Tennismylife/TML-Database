@@ -263,7 +263,7 @@ A714,Patricio Alvarado,Patricio Alvarado,19891006,73,175,0,Manta,,R,2H,ECU
 A717,Faisal Aidil,Faisal Aidil,19880724,,,,,,,,IDN
 A741,Jean Andersen,Jean Andersen,19880617,,,,,,,,ZAF
 A752,Hassan Al Mousa,Hassan Al Mousa,19900308,,,,,,,,KWT
-A764,Tuna Altuna,Tuna Altuna,19890130,80,183,,"Istanbul, Turkiye",Bora Gerceker,R,2H,
+A764,Tuna Altuna,Tuna Altuna,19890130,80,183,,"Istanbul, Turkiye",Bora Gerceker,R,2H,TUR
 A769,Marc Abdulnour,Marc Abdelnour,19880811,,,,,,,,SYR
 A785,Dario Acosta,Dario Acosta,19870909,0,0,0,,,,Unknown,URY
 A789,Maxime Authom,Maxime Authom,19870329,,,,,,R,,BEL
@@ -296,7 +296,7 @@ AC35,Mahammad Abid,Muhammad Abid,19940603,,,,,,,,PAK
 AC39,Mubarak Shannan Zayid,Mubarak Shannan Zayid,19950414,,,,,,R,2H,QAT
 AC58,Nicolas Alvarez,Nicolas Alvarez,19960608,80,185,,"Quito, Ecuador",,R,2H,PER
 AC84,Collin Altamirano,Collin Altamirano,19951207,85,188,2017,"Sacramento, CA, USA","Joseph Gilbert, Thom Billadeau, Jimmy Roberts",R,2H,USA
-AD04,Sarp Agabigun,Sarp Agabigun,19970612,75,178,,"Istanbul, Turkiye",Dominik Hrbaty,R,2H,
+AD04,Sarp Agabigun,Sarp Agabigun,19970612,75,178,,"Istanbul, Turkiye",Dominik Hrbaty,R,2H,TUR
 AD08,Robert Armytage,R. Armytage,,,,,,,,,GBR
 AD11,Antonio Andrade,Antonio Andrade,,,,,,,,,ESP
 AD14,Athanasios Anastopoulos,Athanasios Anastopoulos,19580205,,,,,,,,GRC
@@ -943,7 +943,7 @@ BT68,Elliot Benchetrit,Elliot Benchetrit,19981002,88,193,2016,"Nice, France","Lu
 BT72,Nuno Borges,Nuno Borges,19970219,78,185,2019,"Maia, Portugal","Rui Machado, Hugo Anao",R,2H,PRT
 BT77,Darko Bojanovic,Darko Bojanovic,19970208,72,180,,Forchheim,,R,2H,BIH
 BU10,Jacopo Berrettini,Jacopo Berrettini,19981127,88,191,2016,"Rome, Italy","Fabio gorietti, Riccardo Maiga",R,2H,ITA
-BU13,Zizou Bergs,Zizou Bergs,,88,185,2018,"Lommel, Belgium",Kristof Vliegen,R,2H,BEL
+BU13,Zizou Bergs,Zizou Bergs,19990603,88,185,2018,"Lommel, Belgium",Kristof Vliegen,R,2H,BEL
 BU24,Skyler Butts,Skyler Butts,19930918,79,178,,"Ocala, Florida",,R,,HKG
 BU54,Geoffrey Blancaneaux,Geoffrey Blancaneaux,19980808,75,180,2016,"Paris, France",Maximilien Blancaneaux,R,2H,FRA
 BU63,Maxim Bulat,Maxim Bulat,19970318,,,,"Chisinau, Moldova",,R,2H,MDA
@@ -1098,7 +1098,7 @@ C0JP,Raphael Collignon,Raphael Collignon,20020113,86,191,,"Rochester,Olmsted",St
 C0KL,Marcos Lee Chan Baratau,Marcos Lee Chan Baratau,20051115,56,178,,Miami,Javier Nalbandian,R,2H,ECU
 C0L4,Stylianos Christodoulou,Stylianos Christodoulou,,,,,,,,,CYP
 C0LQ,Danny Cox,,,,,,,,,,USA
-C0MH,Gerard Campana Lee,Gerard Campana Lee,20041001,83,183,,Barcelona,,R,2H,
+C0MH,Gerard Campana Lee,Gerard Campana Lee,20041001,83,183,,Barcelona,,R,2H,KOR
 C0NB,Federico Cina,Federico Cina,20070330,73,185,,Palermo,Francesco Cin�,R,2H,ITA
 C0NU,Cesar Cruz,Cesar Cruz,20060911,,,,,,,Unknown,SLV
 C0O0,Federico Cervantes,Federico Cervantes,,,,,,,,,MEX
@@ -1366,7 +1366,7 @@ CD85,Pablo Carreno Busta,Pablo Carreno Busta,19910712,78,188,2009,"Gijon, Spain"
 CE25,Salvatore Caruso,Salvatore Caruso,19921215,80,185,2010,"Avola, Italy",Paolo Cannova,R,2H,ITA
 CE77,Federico Coria,Federico Coria,19920309,73,180,2010,"Rosario, Argentina",Carlos Berlocq,R,2H,ARG
 CF01,Marco Cecchinato,Marco Cecchinato,19920930,78,185,2010,"Palermo, Italy",Massimo Sartori,R,1H,ITA
-CF07,Hong Chung,Hong Chung,19930516,76,170,,Suwon,,L,2H,
+CF07,Hong Chung,Hong Chung,19930516,76,170,,Suwon,,L,2H,KOR
 CF10,Nick Chappell,Nick Chappell,19920919,82,178,,"Toronto, Canada",Dan O'Neill,L,2H,USA
 CF59,Roberto Carballes Baena,Roberto Carballes Baena,19930323,77,183,2011,"Tenerife, Spain",Jose Maria Garrido Ros,R,2H,ESP
 CF88,Roberto Cid,Roberto Cid Subervi,19930830,82,193,,Santo Domingo,,R,2H,DOM
@@ -1378,9 +1378,9 @@ CG40,Patrick Ciorcila,Patrick Ciorcila,19960920,70,180,,"Cluj Napoca , Romania",
 CG73,Ayoub Chakrouni,Ayoub Chakrouni,19910610,,,,,,,,MAR
 CG80,Borna Coric,Borna Coric,19961114,85,188,2013,"Zagreb, Croatia",Franko Skugor,R,2H,HRV
 CG94,Enzo Couacaud,Enzo Couacaud,19950301,78,183,2013,"Curepipe, Mauritius",,R,2H,FRA
-CH05,Altug Celikbilek,Altug Celikbilek,19960907,73,183,2015,"Antalya, Turkiye",Tobias Hinzmann,R,2H,
+CH05,Altug Celikbilek,Altug Celikbilek,19960907,73,183,2015,"Antalya, Turkiye",Tobias Hinzmann,R,2H,TUR
 CH12,Jan Choinski,Jan Choinski,19960610,88,196,,"Koblenz, Germany","Andrzej Choinski, Gunter Bresnik",R,2H,GBR
-CH27,Hyeon Chung,Hyeon Chung,19960519,89,188,2014,"Suwon, South Korea",,R,2H,
+CH27,Hyeon Chung,Hyeon Chung,19960519,89,188,2014,"Suwon, South Korea",,R,2H,KOR
 CH69,Tim Cooper,Tim Cooper,19510921,,,,,,,,USA
 CH70,Simon Clarke,Simon Clarke,,,,,,,,,AUS
 CH71,Jimmy Casey,J. Casey,,,,,,,,,IRL
@@ -1388,7 +1388,7 @@ CH73,Petros Chrysochos,Petros Chrysochos,19960408,84,185,2019,"Larnaca, Cyprus",
 CH74,Giovanni Cierro,Giovanni Cierro,19510830,,,,,,,,ITA
 CH86,P. Coyle,P. Coyle,,,,,,,,,IRL
 CH87,Leonzio Collas,Leonzio Collas,,,,,,,,,USA
-CH90,Yun seong Chung,Yun seong Chung,19980327,78,178,2017,"Seoul, South Korea",Jean-Luc Fontanot,R,2H,
+CH90,Yun seong Chung,Yun seong Chung,19980327,78,178,2017,"Seoul, South Korea",Jean-Luc Fontanot,R,2H,KOR
 CH99,Dan Cassidy,Dan Cassidy,,,,,,,,,USA
 CI00,Tim Clayton,Tim Clayton,,,,,,,,,AUS
 CI01,David Cantrell,David Cantrell,,,,,,,,,USA
@@ -1703,7 +1703,7 @@ D829,Andrei Daescu,Andrei Daescu,19880828,,,,,,,,ROU
 D833,Marcelo Demoliner,Marcelo Demoliner,19890118,90,191,2006,"Caxias do Sul, Brazil","Duda Matos, Joao Zwetsch",R,1H,BRA
 D836,Shendrit Deari,Shendrit Deari,19890211,,,,,,,,MKD
 D852,Valentin Dimov,Valentin Dimov,19890312,,,,,,R,,BGR
-D864,Evgeny Donskoy,Evgeny Donskoy,19900509,75,185,2007,"Moscow, Russia",,R,2H,
+D864,Evgeny Donskoy,Evgeny Donskoy,19900509,75,185,2007,"Moscow, Russia",,R,2H,RUS
 D868,Christopher Diaz-Figueroa,Christopher Diaz-Figueroa,19900314,70,175,,Guatemala,,R,2H,GTM
 D872,Luis Delgado,Luis Delgado,19910218,,,,,,,,DOM
 D874,Federico Delbonis,Federico Delbonis,19901005,90,193,2007,"Azul, Argentina",Mariano Hood,L,2H,ARG
@@ -1753,7 +1753,7 @@ DE21,Tom Diederich,Tom Diederich,19921208,,,,,,L,2H,LUX
 DF88,Aziz Dougaz,Aziz Dougaz,19970326,82,188,2020,"La Marsa, Tunisia",,L,2H,TUN
 DF92,Corentin Denolly,Corentin Denolly,19970606,79,188,2015,"Vienne, France",Olivier Ramos,L,2H,FRA
 DG51,Sharmal Dissanayake,Sharmal Dissanayake,19960514,,,,,,R,2H,LKA
-DG97,Artem Dubrivnyy,Artem Dubrivnyy,19990131,75,183,,Taganrog,,R,2H,
+DG97,Artem Dubrivnyy,Artem Dubrivnyy,19990131,75,183,,Taganrog,,R,2H,RUS
 DH19,Yasitha De Silva,Yasitha De Silva,19950703,,,,,,,,LKA
 DH46,Alexander Donski,Alexander Donski,19980801,80,188,2017,"Philadelphia, PA, USA","Mislav, Mike Donski",R,2H,BGR
 DH50,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,19990605,80,180,2017,"Malaga, Spain","Felix Mantilla, David Sanchez",R,2H,ESP
@@ -1802,7 +1802,7 @@ E084,Mert Ertunga,Mert Ertunga,,,,,,,R,,TUR
 E085,Yaman Esin,Yaman Esin,,,,,,,R,,TUR
 E097,Victor Egorov,Victor Egorov,,,,,,,R,,UKR
 E09U,Hernando Jose Escurra Isnardi,Hernando Jose Escurra Isnardi,19971213,80,183,,Pedro Juan Caballero,Orlando Guardatti Gomez,R,1H,PRY
-E0AA,Yanki Erel,Yanki Erel,20000925,73,178,,Tekirdag,Anil Yuksel,L,2H,
+E0AA,Yanki Erel,Yanki Erel,20000925,73,178,,Tekirdag,Anil Yuksel,L,2H,TUR
 E0AS,Moataz El Sonbol,Moataz El Sonbol,19361224,,,,,,,,EGY
 E0AT,Nils Elvik,Nils Elvik,19450129,,,,,,,,NOR
 E0AY,Ammar Elamin,Ammar Elamin,20020619,80,185,,Mullingar,Mohamed Elamin,R,2H,IRL
@@ -2159,7 +2159,7 @@ F731,Max Franklin,Max Franklin,,,,,,,,,GBR
 F779,Helmut Fickentscher,Helmut Fickentscher,,,,,,,,,DEU
 F786,Sanjar Fayziev,Sanjar Fayziev,19940729,73,188,,"Tashkent, Uzbekistan",Leonidich,R,2H,UZB
 F811,Bjorn Fratangelo,Bjorn Fratangelo,19930719,79,183,2012,"Pittsburgh, PA, USA",Eric Nunez,R,2H,USA
-F840,Nerman Fatic,Nerman Fatic,19941024,88,191,2014,"Sarajevo, Bosnia & Herzegovina",Patricio Remondegui,R,2H,
+F840,Nerman Fatic,Nerman Fatic,19941024,88,191,2014,"Sarajevo, Bosnia & Herzegovina",Patricio Remondegui,R,2H,BIH
 F849,Viktor Filipenko,Viktor Filipenko,19910925,,,,,,,,HUN
 F850,Gabriel Flores Ruiz,Gabriel Flores Ruiz,19920218,,,,,,,,PRI
 F902,Jesse Flores,Jesse Flores,19950331,82,188,,Oakville,,R,2H,CRI
@@ -2461,7 +2461,7 @@ G642,Andrei Gorban,Andrei Gorban,19830719,,,,,,,Unknown,MDA
 G654,Ismar Gorcic,Ismar Gorcic,19830522,,,,,,,,BIH
 G668,Enrique Guerrero,Enrique Guerrero,,,,,,,,,ESP
 G676,Daniel Gimeno-Traver,Daniel Gimeno-Traver,19850807,80,183,2004,"Valencia, Spain",Jorge Montesinos & Sergio Gallego,R,2H,ESP
-G681,Teymuraz Gabashvili,Teymuraz Gabashvili,19850523,87,185,2001,"Tbilisi, Georgia",,R,2H,
+G681,Teymuraz Gabashvili,Teymuraz Gabashvili,19850523,87,185,2001,"Tbilisi, Georgia",,R,2H,GEO
 G692,Mustafa Gencsoy,Mustafa Gencsoy,19850824,,,,,,,,TUR
 G695,Augustin Gensse,Augustin Gensse,19830810,,180,2001,,,R,2H,FRA
 G705,Ivor Grazette,Ivor Grazette,,,,,,,,,TTO
@@ -2522,7 +2522,7 @@ GB42,Alejandro Gomez,Alejandro Gomez,19910814,85,183,2015,"Cali, Colombia",,R,2H
 GB53,Federico Gaio,Federico Gaio,19920305,85,178,2009,"Faenza, Italy",Fabio Filippo Colangelo,R,1H,ITA
 GB61,Viktor Galovic,Viktor Galovic,19900919,88,193,2011,"Nova Gradiska, Croatia",Cristian Brandi,R,2H,CRO
 GB88,David Goffin,David Goffin,19901207,70,180,2009,"Rocourt, Belgium",Jean Demeroutis,R,2H,BEL
-GB93,Norbert Gombos,Norbert Gombos,19900813,85,193,2009,"Galanta, Slovakia",Tibor Toth,R,2H,
+GB93,Norbert Gombos,Norbert Gombos,19900813,85,193,2009,"Galanta, Slovakia",Tibor Toth,R,2H,SVK
 GC22,Amaury Gomez,Amaury Gomez,19810314,,,,,,,,DOM
 GC34,Diego Galeano,Diego Galeano,19920201,,,,,,,,PRY
 GC38,Oliver Golding,Oliver Golding,19930929,84,188,2011,"Richmond, England",,R,2H,GBR
@@ -2530,12 +2530,12 @@ GC54,Scott Griekspoor,Scott Griekspoor,19910110,80,188,,"Haarlem, Netherlands",K
 GC70,Glenn Gerstmar,Glenn Gerstmar,,,,,,,,,USA
 GC87,Lucas Gomez,Lucas Gomez,19950811,72,178,,"Tijuana, Mexico",Marc Gorriz,L,2H,MEX
 GC88,Marcos Giron,Marcos Giron,19930724,77,180,2014,"Thousand Oaks, CA, USA","Karue Sell, Maxime Tabatruong",R,2H,USA
-GC89,Egor Gerasimov,Egor Gerasimov,19921111,86,196,2010,"Minsk, Belarus",,R,2H,
+GC89,Egor Gerasimov,Egor Gerasimov,19921111,86,196,2010,"Minsk, Belarus",,R,2H,BLR
 GD01,Wilfredo Gonzalez,Wilfredo Gonzalez,19930106,83,188,,Guatemala City,Stefan Gonzalez,R,1H,GTM
 GD02,Waharo Godrella,Waharo Godrella,,,,,,,,,FRA
 GD64,Cristian Garin,Cristian Garin,19960530,85,185,2011,"Santiago, Chile",,R,2H,CHL
 GD84,Andre Gaspar Murta,Andre Gaspar Murta,19940808,84,193,,"Faro, Portugal","João Antunes , André Podalca",R,2H,PRT
-GE28,Ivan Gakhov,Ivan Gakhov,19961104,83,191,,"Moscow, Russia","Miguel Sánchez, Salvador Navarro, Igor Muguruza",L,2H,
+GE28,Ivan Gakhov,Ivan Gakhov,19961104,83,191,,"Moscow, Russia","Miguel Sánchez, Salvador Navarro, Igor Muguruza",L,2H,RUS
 GE29,Julius Gotovskis,Julius Gotovskis,19930116,,,,,,R,2H,LTU
 GE33,Daniel Elahi Galan,Daniel Elahi Galan,19960618,72,191,2015,"Bucaramanga, Colombia",Santos Galan,R,2H,COL
 GE70,Ricardo Gonzalez Diaz,Ricardo Gonzalez-Diaz,19850528,,,,,,R,2H,PRI
@@ -2629,12 +2629,12 @@ H088,Carl-Axel Hageskog,Carl-Axel Hageskog,,,,,,,R,,SWE
 H090,Mark Harner,Mark Harner,,,,,,,R,,USA
 H097,Pavel Hutka,Pavel Hutka,19490228,,,,"Sumperk, Czechoslovakia",,R,,CZE
 H098,Rudy Hernando,Rudy Hernando,19390610,,,,"Detroit, MI, USA",,R,,USA
-H09F,Yu Hsiou Hsu,Yu Hsiou Hsu,19990402,75,178,2016,"Yuanlin, Chinese Taipei",Hsiao-Yung Chang,R,2H,
+H09F,Yu Hsiou Hsu,Yu Hsiou Hsu,19990402,75,178,2016,"Yuanlin, Chinese Taipei",Hsiao-Yung Chang,R,2H,TPE
 H09N,August Holmgren,August Holmgren,19980422,84,188,2022,"Espergaerde, Denmark","Jonas Svendsen, Ryan Keckley",R,1H,DNK
 H09P,Brandon Holt,Brandon Holt,19980406,82,185,2020,"Rolling Hills, CA, USA",,R,2H,USA
 H0A4,Nick Hardt,Nick Hardt,20000920,85,185,,Santiago De Los Caballeros,Mikel Gonzalez,R,2H,DOM
 H0AB,Adam Hornby,Adam Hornby,19950723,,,,,,,,BRB
-H0B5,Tsung-Hao Huang,Tsung-Hao Huang,19991122,68,173,,Pingtung,,R,2H,
+H0B5,Tsung-Hao Huang,Tsung-Hao Huang,19991122,68,173,,Pingtung,,R,2H,TPE
 H0BC,Lukas Hellum-Lilleengen,Lukas Hellum-Lilleengen,20001115,75,180,2019,"Meyrin, Switzerland",Thomas Finck,R,2H,NOR
 H0BF,Philip Henning,Philip Henning,20001110,80,180,,Bloemfontein,Federico Coppini,R,2H,ZAF
 H0BH,Rinky Hijikata,Rinky Hijikata,20010223,72,178,2021,"Sydney, Australia",Mark Draper,R,2H,AUS
@@ -2901,7 +2901,7 @@ HC09,Toizo Hosoi,Toizo Hosoi,19470213,,,,,,,,JPN
 HC12,J. Hill,J. Hill,,,,,,,,,GBR
 HC13,D. Hardiman,D. Hardiman,,,,,,,,,GBR
 HC20,Alejandro Harms,Alejandro Harms,19491025,,,,,,,,ARG
-HC21,Seongchan Hong,Seongchan Hong,19970630,65,175,,Gwangwondo,,R,2H,
+HC21,Seongchan Hong,Seongchan Hong,19970630,65,175,,Gwangwondo,,R,2H,KOR
 HC24,R. Hunt,R. Hunt,,,,,,,,,AUS
 HC25,Phil Holten,Phil Holten,,,,,,,,,AUS
 HC27,M. J. R. Hales,M. J. R. Hales,,,,,,,,,GBR
@@ -2970,11 +2970,11 @@ I205,Ali Ismaeel,Ali Ismaeel,19880101,,,,,,,,KWT
 I207,Mikk Irdoja,Mikk Irdoja,19870717,,,,,,,,EST
 I218,Charles Irie,Charles Irie,19850707,,,,,,R,,CIV
 I230,Tatsuma Ito,Tatsuma Ito,19880518,75,180,2006,"Mie, Japan",Alexander Waske,R,2H,JPN
-I236,Uladzimir Ignatik,Uladzimir Ignatik,19900714,82,183,2007,"Minsk, Belarus",,R,Unknown,
+I236,Uladzimir Ignatik,Uladzimir Ignatik,19900714,82,183,2007,"Minsk, Belarus",,R,Unknown,BLR
 I286,Temur Ismailov,Temur Ismailov,19950114,,,,,,,,UZB
 I294,Win Irwin,Win Irwin,,,,,,,,,USA
-I305,Ilya Ivashka,Ilya Ivashka,19940224,87,193,2013,"Minsk, Belarus",,R,2H,
-I306,Cem Ilkel,Cem Ilkel,19950821,81,185,2013,"Istanbul, Turkiye",Gavin Hopper,R,2H,
+I305,Ilya Ivashka,Ilya Ivashka,19940224,87,193,2013,"Minsk, Belarus",,R,2H,BLR
+I306,Cem Ilkel,Cem Ilkel,19950821,81,185,2013,"Istanbul, Turkiye",Gavin Hopper,R,2H,TUR
 I308,Ifthekar Sardar,Samir Iftikhar,19920323,,,,,,,,PAK
 I326,Pruchya Isarow,Pruchya Isaro,19951016,70,175,,"Songkhla, Thailand",Soonton Isarow,R,2H,THA
 I344,Aleksandr Ivanov,Aleksandr Ivanov,,,,,,,,,RUS
@@ -3030,7 +3030,7 @@ J096,Seung-Ho Ji,Seung-Ho Ji,19680128,,,,,,R,,KOR
 J098,Donald Johnson,Donald Johnson,19680909,84,191,1992,"Bethlehem, PA, USA",Juan Barcelo,L,,USA
 J09X,Filip Cristian Jianu,Filip Cristian Jianu,20010918,78,180,,Bucharest,----------,R,2H,ROU
 J0A4,Paul Jubb,Paul Jubb,19991031,72,180,2020,"York, England",Jaime Pulgar-Garcia,R,2H,GBR
-J0AZ,Kyrian Jacquet,Kyrian Jacquet,20010511,71,175,,Lyon,STÉPHANE ROBERT,R,2H,FRA
+J0AZ,Kyrian Jacquet,Kyrian Jacquet,20010511,71,175,,Lyon,Stefane Robert,R,2H,FRA
 J0B0,Kyle Johnson,Kyle Johnson,19930930,,,,,,,,USA
 J0BL,Rick Jordan,Rick Jordan,,,,,,,,,USA
 J0BM,Erwin Jager,Erwin Jager,,,,,,,,,DEU
@@ -3098,7 +3098,7 @@ J361,Greg Jones,Greg Jones,19890131,84,193,2007,"Sydney, Australia",,R,,AUS
 J365,Petar Jelenic,Petar Jelenic,19870613,80,,,"Split, Croatia",,R,,CRO
 J374,Damion Johnson,Damion Johnson,19850503,,,,,,,,JAM
 J378,Tomislav Jotovski,Tomislav Jotovski,19901027,,,,,,,,MKD
-J380,Jason Jung,Jason Jung,19890615,69,180,2011,"Torrance, CA, USA",Oliver Messerli,R,2H,
+J380,Jason Jung,Jason Jung,19890615,69,180,2011,"Torrance, CA, USA",Oliver Messerli,R,2H,TPE
 J386,Steve Johnson,Steve Johnson,19891224,86,188,2012,"Orange, CA, USA","Peter Smith, Marc Lucero",R,2H,USA
 J397,Jerzy Janowicz,Jerzy Janowicz,19901113,94,203,2007,"Lodz, Poland",,R,2H,POL
 J399,Mehdi Jdi,Mehdi Jdi,19881213,,,,,,,,MAR
@@ -3185,7 +3185,7 @@ K094,Akira Kawaguchi,Akira Kawaguchi,,,,,,,R,,JPN
 K097,Vladimir Korotkov,Vladimir Korotkov,19480423,,,,Moscow,,R,,RUS
 K098,Stepan Koudelka,Stepan Koudelka,19450221,,,,Prague,,R,,DEU
 K099,Jan Kukal,Jan Kukal,19420913,,,,"Bratislava, Czechoslovakia",,R,,CZE
-K09F,Pavel Kotov,Pavel Kotov,19981118,89,191,2016,"Moscow, Russia","Liliya Kotova, Mikhail Bril",R,2H,
+K09F,Pavel Kotov,Pavel Kotov,19981118,89,191,2016,"Moscow, Russia","Liliya Kotova, Mikhail Bril",R,2H,RUS
 K0A3,Patrick Kypson,Patrick Kypson,19991028,82,188,2019,"Durham, NC, USA",Alejandro Gonzalez,R,2H,USA
 K0AH,Sebastian Korda,Sebastian Korda,20000705,82,196,2018,"Bradenton, FL, USA",Martin Stepanek,R,2H,USA
 K0AZ,Aleksandar Kovacevic,Aleksandar Kovacevic,19980829,79,183,2021,"New York, NY, USA",Damion Jackson,R,1H,USA
@@ -3195,7 +3195,7 @@ K0CF,Sheil Kotecha,Sheil Kotecha,20000328,,,,,,R,2H,KEN
 K0D6,Yousaf Khalil,Yousaf Khalil,19990401,,,,,,,Unknown,PAK
 K0D9,Wai Yu Kai,Wai Yu Kai,20010320,,,,,,,,HKG
 K0DP,Oleksii Krutykh,Oleksii Krutykh,20000310,78,185,,Kiev,,R,2H,UKR
-K0E6,Alibek Kachmazov,Alibek Kachmazov,20020817,81,185,,"Vladikavkaz, North-Ossetia",Milan Kalaba,R,Unknown,
+K0E6,Alibek Kachmazov,Alibek Kachmazov,20020817,81,185,,"Vladikavkaz, North-Ossetia",Milan Kalaba,R,Unknown,RUS
 K0EE,Omni Kumar,Omni Kumar,20011010,73,173,,"Mountain View, CA, USA",Brandon Lam,L,1H,USA
 K0EP,Jerome Kym,Jerome Kym,20030212,87,198,2019,"Rheinfelden, Switzerland",Markus Hipfl,R,2H,CHE
 K0F6,Junzo Kawamori,Junzo Kawamori,,,,,,,,,JPN
@@ -3236,7 +3236,7 @@ K0KQ,G. Kenworthy,,,,,,,,,,GBR
 K0KR,P.F. Kingham,,,,,,,,,,GBR
 K0KU,Dennis Kirsten,,,,,,,,,,CAN
 K0KV,Paul Kramer,,,,,,,,,,USA
-K0KX,Atakan Karahan,Atakan Karahan,20060424,,,,,,R,2H,
+K0KX,Atakan Karahan,Atakan Karahan,20060424,,,,,,R,2H,TUR
 K0L2,I. Kuba,,,,,,,,,,AUS
 K0N7,Heve Kelley,Heve Kelley,19970329,,,,,,,,POC
 K100,Julian Krinsky,Julian Krinsky,,,,,,,R,,ZAF
@@ -3403,7 +3403,7 @@ K760,Evgeny Korolev,Evgeny Korolev,19880214,82,185,2005,"Moscow, Russia",Evgeny 
 K761,Bertram Knowles,Bertram Knowles,,,,,,,,,
 K762,Arif Kocak,Arif Kocak,,,,,,,,,TUR
 K765,Ken Kelleher,Ken Kelleher,,,,,,,,,IRL
-K771,Marsel Ilhan,Marsel Ilhan,19870611,80,191,2006,"Samarkand, Uzbekistan",Erhan Oral,R,2H,
+K771,Marsel Ilhan,Marsel Ilhan,19870611,80,191,2006,"Samarkand, Uzbekistan",Erhan Oral,R,2H,TUR
 K773,Rouzbeh Kamran,Rouzbeh Kamran,19830903,,,,,,,,IRN
 K776,Konstantin Kravchuk,Konstantin Kravchuk,19850223,80,191,2004,"Moscow, Russia",Mikhail Bril,R,2H,RUS
 K777,Evgeny Kirillov,Evgeny Kirillov,19870714,,,,,,R,,RUS
@@ -3429,7 +3429,7 @@ K926,Mikhail Kukushkin,Mikhail Kukushkin,19871226,72,183,2006,"Volgograd, Russia
 K945,Blazej Koniusz,Blazej Koniusz,19880222,,,,,,,,POL
 K961,Barry King,Barry King,19850122,,,,,,R,,IRL
 K964,Brydan Klein,Brydan Klein,19891231,83,188,2007,"Perth, Australia",,R,2H,GBR
-K966,Martin Klizan,Martin Klizan,19890711,85,191,2007,"Bratislava, Slovakia",,L,2H,
+K966,Martin Klizan,Martin Klizan,19890711,85,191,2007,"Bratislava, Slovakia",,L,2H,SVK
 K981,Hyun-Joon Kim,Hyun-Joon Kim,19871027,,,,"Seoul, Korea",,L,,KOR
 KA00,Austin Krajicek,Austin Krajicek,19900616,79,188,2012,"Tampa, FL, USA",Philip Farmer,L,2H,USA
 KA18,Kevin Kung,Kevin Kung,19890930,,,,,,,,HKG
@@ -3446,18 +3446,18 @@ KB14,Kevin King,Kevin King,19910228,86,191,2013,"Atlanta, GA, USA",,L,2H,USA
 KB34,Christoffer Konigsfeldt,Christoffer Konigsfeldt,19890712,,,,,,,,DNK
 KB37,Evan King,Evan King,19920325,79,185,2013,"Chicago, IL, USA",Sean Maymi,L,2H,USA
 KB43,Robin Kern,Robin Kern,19931003,87,188,,"Nuremberg, Germany",Daniel Steinbrenner,R,2H,DEU
-KB54,Andrey Kuznetsov,Andrey Kuznetsov,1991-02-22,70,183,2008,"Tula, Russia",Burghard Riehemann,R,2H,
+KB54,Andrey Kuznetsov,Andrey Kuznetsov,1991-02-22,70,183,2008,"Tula, Russia",Burghard Riehemann,R,2H,RUS
 KB56,Micke Kontinen,Micke Kontinen,19921218,,,,,,,,FIN
 KB80,Nutthanon Kadchapanan,Nuttanon Kadchapanan,19930607,,,,,,R,,THA
 KB92,Kevin Krawietz,Kevin Krawietz,19920124,85,188,2010,"Coburg, Germany",Lukas Wolff,R,2H,DEU
 KB95,Jason Kubler,Jason Kubler,19930519,74,178,2011,"Brisbane, Australia","Jarrad Bunt, Stephen Huss",R,2H,AUS
-KC04,Jozef Kovalik,Jozef Kovalik,19921104,82,183,2010,"Bratislava, Slovakia",Boris Borgula,R,2H,
+KC04,Jozef Kovalik,Jozef Kovalik,19921104,82,183,2010,"Bratislava, Slovakia",Boris Borgula,R,2H,SVK
 KC11,Daniel Kosakowski,Daniel Kosakowski,19920221,79,185,2011,"Huntington Park, California",Marcin Kosakowski,R,,USA
 KC12,Mitchell Krueger,Mitchell Krueger,19940112,82,188,2012,"Fort Worth, TX, USA",Craig Kardon,R,2H,USA
 KC28,Pavel Katliarov,Trpimir Kujundzic,19900508,,,,,,,,CRO
 KC29,Nicolas Kicker,Nicolas Kicker,19920816,75,178,2009,"Merlo, Argentina",Juan Pablo Brzezicki,R,1H,ARG
 KC33,Dimitar Kuzmanov,Dimitar Kuzmanov,19930728,77,183,2009,"Plovdiv, Bulgaria",Stefan Rangelov,R,2H,BGR
-KC56,Aslan Karatsev,Aslan Karatsev,19930904,85,185,2011,"Vladikavkaz, Russia",Vladimir Polyakov,R,2H,
+KC56,Aslan Karatsev,Aslan Karatsev,19930904,85,185,2011,"Vladikavkaz, Russia",Vladimir Polyakov,R,2H,RUS
 KC86,Darian King,Darian King,19920426,77,188,2010,"Bridgetown, Barbados",Christopher King,R,2H,BRB
 KD02,Sergis Kyratzis,Sergis Kyratzis,19950512,,,,,,L,2H,CYP
 KD35,Thai-Son Kwiatkowski,Thai-Son Kwiatkowski,19950213,81,188,2017,"Charlotte, NC, USA",Carlos Benatzky,R,2H,USA
@@ -3466,17 +3466,17 @@ KD46,Thanasi Kokkinakis,Thanasi Kokkinakis,19960410,84,193,2013,"Adelaide, Austr
 KD48,Markos Kalovelonis,Markos Kalovelonis,19940518,90,191,2012,"Marousi, Greece",Elina Neplii,R,2H,GRC
 KD70,Pedja Krstin,Pedja Krstin,19940903,80,183,2012,"Mokrin, Serbia",,R,2H,SRB
 KD81,Jaan Kononov,Jaan Kononov,19920731,,,,,,R,,EST
-KD87,Evgeny Karlovskiy,Evgeny Karlovskiy,19940807,86,191,2012,"Moscow, Russia",,R,2H,
+KD87,Evgeny Karlovskiy,Evgeny Karlovskiy,19940807,86,191,2012,"Moscow, Russia",,R,2H,RUS
 KE05,Danylo Kalenichenko,Danylo Kalenichenko,19940202,78,188,,"Kiev, Ukraine",,R,2H,UKR
 KE17,Nick Kyrgios,Nick Kyrgios,19950427,85,193,2013,"Canberra, Australia",,R,2H,AUS
 KE25,Hamza Karmoussi,Hamza Karmoussi,19931126,,,,,,,Unknown,MAR
-KE29,Karen Khachanov,Karen Khachanov,19960521,87,198,2013,"Moscow, Russia","Jose Clavet, Vedran Martic, Evgeny Donskoy",R,2H,
+KE29,Karen Khachanov,Karen Khachanov,19960521,87,198,2013,"Moscow, Russia","Jose Clavet, Vedran Martic, Evgeny Donskoy",R,2H,RUS
 KE58,Markus Kerner,Markus Kerner,19941122,95,198,,"Viljandi, Estonia",,R,2H,EST
 KE64,Stefan Kozlov,Stefan Kozlov,19980201,79,183,2013,"Skopje, Macedonia",Andrei Kozlov,R,2H,USA
 KE73,Dominik Koepfer,Dominik Koepfer,19940429,79,180,2016,"Furtwangen, Germany","Rhyne Williams, Billy Heiser",L,2H,DEU
 KF11,Brendan Kelly,B. Kelly,,,,,,,,,IRL
 KF14,Peter Keller,Peter Keller,19441019,,,,,,,,AUS
-KF17,Soonwoo Kwon,Soonwoo Kwon,19971202,72,180,2015,"Sangju, South Korea",Daniel Yoo,R,2H,
+KF17,Soonwoo Kwon,Soonwoo Kwon,19971202,72,180,2015,"Sangju, South Korea",Daniel Yoo,R,2H,KOR
 KF18,Jorge Kon,Jorge Kon,,,,,,,,,ARG
 KF27,Rob Kilderry,Rob Kilderry,,,,,,,,,AUS
 KF28,Lornie Kuhle,Lornie Kuhle,,,,,,,,,USA
@@ -3486,7 +3486,7 @@ KF38,Ichizo Konishi,Ichizo Konishi,19390315,,,,,,,,JPN
 KF57,Senaka Kumara,Senaka Kumara,,,,,,,,,LKA
 KF62,Butch Krikorian,Butch Krikorian,19220613,,,,,,,,USA
 KF76,Johann Kupferburger,Johann Kupferburger,,,,,,,,,ZAF
-KG27,Strong Kirchheimer,Strong Kirchheimer,19950426,79,185,,"Highland Park, Illinois","Robert Kirchheimer, Arvid Swan",R,Unknown,USA
+KG27,Strong Kirchheimer,Strong Kirchheimer,19950426,79,185,,"Highland Park, Illinois","Robert Kirchheimer, Arvid Swan",R,,USA
 KG72,Jurabek Karimov,Jurabek Karimov,19980604,83,191,,"Tashkent, Uzbekistan",,R,2H,UZB
 KH41,Patrick Kaukovalta,Patrick Kaukovalta,19981201,83,193,,Turku,,R,2H,FIN
 KH43,George Kallis,Georgios Kallis,19870925,,,,Nicosia,,,,CYP
@@ -3495,8 +3495,8 @@ KH77,Niki Kaliyanda Poonacha,Niki Kaliyanda Poonacha,19950427,88,191,,"Neyveli, 
 KH83,Kim Huat Khoo,Hyeon seung Kim,,,,,,,,,KOR
 KI34,Hao Sheng Koay,Hao Sheng Koay,19980727,,,,,,,,MYS
 KI45,William Kirkman,William Kirkman,19971116,,,,Puerto Plata,,R,,DOM
-KI48,Ergi Kirkin,Ergi Kirkin,19990127,78,180,,"Ankara, Turkiye",,R,2H,
-KI63,Lukas Klein,Lukas Klein,19980322,85,193,,"Spisska Nova Ves, Slovakia",Karol Kucera,R,Unknown,
+KI48,Ergi Kirkin,Ergi Kirkin,19990127,78,180,,"Ankara, Turkiye",,R,2H,TUR
+KI63,Lukas Klein,Lukas Klein,19980322,85,193,,"Spisska Nova Ves, Slovakia",Karol Kucera,R,,SVK
 KI74,Nicola Kuhn,Nicola Kuhn,20000320,80,185,2015,"Innsbruck, Austria",Dirk Hordorff,R,2H,DEU
 KI82,Vit Kopriva,Vit Kopriva,19970615,69,178,2015,"Bilovec, Czechia",Jaroslav Pospisil,R,2H,CZE
 KI95,Miomir Kecmanovic,Miomir Kecmanovic,19990831,75,183,2017,"Belgrade, Serbia",Viktor Troicki,R,2H,SRB
@@ -3796,7 +3796,7 @@ LB50,Mikelis Libietis,Mikelis Libietis,19920709,87,193,,"Sigulda, Latvia",,R,2H,
 LB51,Julian Lenz,Julian Lenz,19930217,82,188,,"Giessen, Germany",Klaus Langenbach,R,2H,DEU
 LB66,Constant Lestienne,Constant Lestienne,19920523,71,180,2012,"Amiens, France",,R,2H,FRA
 LB75,John Lowman,John Lowman,,,,,,,,,USA
-LB78,Jea Moon Lee,Jea Moon Lee,19930702,,,,,,R,2H,
+LB78,Jea Moon Lee,Jea Moon Lee,19930702,,,,,,R,2H,KOR
 LB84,Juan Ignacio Londero,Juan Ignacio Londero,19930815,70,180,2010,"Jesus Maria, Argentina",Andres Schneiter,R,2H,ARG
 LB85,Daniel Llarenas,Daniel Llarenas,19880708,,,,,,,,GUM
 LC11,Tristan Lamasine,Tristan Lamasine,19930305,69,183,2010,"Thiais, France",Georges Bell,R,2H,FRA
@@ -3804,13 +3804,13 @@ LC12,Laurent Lokoli,Laurent Lokoli,19941018,78,188,,"Bastia, France",Jonathan Ka
 LC27,Shibu Lal,Shibu Lal,19890102,,,,,,,,BGD
 LC54,Benjamin Lock,Benjamin Lock,19930304,86,198,,"Harare, Zimbabwe","Freeman Nyamunokora, Albert Portas",R,2H,ZWE
 LC94,Siu Fai Kelvin Lam,Siu-Fai Kelvin Lam,19940106,,,,,,R,2H,HKG
-LD22,Nam Hoang Ly,Nam Hoang Ly,19970225,69,175,,"Ho Chi Minh, Vietnam",Christian Brydniak,R,2H,
+LD22,Nam Hoang Ly,Nam Hoang Ly,19970225,69,175,,"Ho Chi Minh, Vietnam",Christian Brydniak,R,2H,VNM
 LD26,Edan Leshem,Edan Leshem,19970319,72,183,,"New York, NY, USA",Amos Mansdrof,R,2H,ISR
 LD60,Arturs Lazdins,Arturs Lazdins,19970409,,,,,,R,2H,LVA
 LD90,Hei Yin Andrew Li,Hei Yin Andrew Li,19970328,,,,,,R,2H,HKG
 LD95,Unknown Lindorff,Unknown Lindorff,,,,,,,,,DEU
 LD99,Nick Lee,Nick Lee,,,,,,,,,GBR
-LE01,Duckhee Lee,Duckhee Lee,19980529,73,170,2013,"Jecheon, South Korea",,R,2H,
+LE01,Duckhee Lee,Duckhee Lee,19980529,73,170,2013,"Jecheon, South Korea",,R,2H,KOR
 LE04,Noel Lennon,N. Lennon,,,,,,,,,IRL
 LE06,Toomas Leius,Toomas Leius,19410828,,,,"Tallinn, Estonia",,R,,EST
 LE08,Jack Lowe,Jack Lowe,,,,,,,,,USA
@@ -4008,7 +4008,7 @@ M0ON,Johannus Monday,Johannus Monday,20020122,86,198,,Hull,,L,2H,GBR
 M0OQ,James McCabe,James McCabe,20030705,82,188,,"Iba Zambales, Philippines","Patrick McCabe, Wally Masur",R,2H,AUS
 M0PK,Giulio Massara,,,,,,,,,,ITA
 M0QE,Clement Mainguy,Clement Mainguy,20030203,,,,,,,,VUT
-M0QL,Alex Michelsen,Alex Michelsen,20040825,2023,78,193,"Robby Ginepri, Craig Boynton","Laguna Hills, CA, USA",R,2H,USA
+M0QL,Alex Michelsen,Alex Michelsen,20040825,78,193,2023,"Robby Ginepri, Craig Boynton","Laguna Hills, CA, USA",R,2H,USA
 M0SE,Maxim Mrva,Maxim Mrva,20070802,68,178,,Prostjov,emanuel ehola,R,2H,CZE
 M0SH,Alfredo Millet,Alfredo Millet,,,,,,,,,MEX
 M0SI,Ross Maskell,,,,,,,,,,GBR
@@ -4235,7 +4235,7 @@ M579,Rolandas Murashka,Rolandas Murashka,19730313,,,,,,R,,LTU
 M584,Adolf Musil,Adolf Musil,19740210,,,,,,R,,CZE
 M588,Eduardo Medica,Eduardo Medica,19760210,79,180,1995,"Buenos Aires, Argentina",Ruben Puerta,R,,ARG
 M590,Alberto Martin,Alberto Martin,19780820,73,175,1995,"Barcelona, Spain",Marcos Gorriz,R,1H,ESP
-M595,Max Mirnyi,Max Mirnyi,19770706,93,196,1994,"Minsk, Belarus",Nikolai Mirnyi,R,1H,
+M595,Max Mirnyi,Max Mirnyi,19770706,93,196,1994,"Minsk, Belarus",Nikolai Mirnyi,R,1H,BLR
 M596,Dimitri Muzyka,Dimitri Muzyka,,,,,,,R,,UKR
 M600,Ion Moldovan,Ion Moldovan,19780117,90,188,1996,Constanta,Liviu Vasilescu,R,1H,ROU
 M601,Olivier Malcor,Olivier Malcor,19750128,68,180,1994,"Falaise, France",Jerome Potier,R,,FRA
@@ -4390,7 +4390,7 @@ ME82,Adrian Mannarino,Adrian Mannarino,19880629,79,180,2004,"Soisy-sous-Montmore
 ME89,Illya Marchenko,Illya Marchenko,19870908,87,185,2006,"Dneprodzerzhinsk, Ukraine",Filip Havaj,R,2H,UKR
 MF09,Nikola Mektic,Nikola Mektic,19881224,79,183,2008,"Zagreb, Croatia",Goran Oresic,R,2H,HRV
 MF11,Pfungwa Mahefu,Pfungwa Mahefu,19820804,79,183,2005,"Mutare, Zimbabwe",Carl Goodman,R,2H,ZWE
-MF35,Andrej Martin,Andrej Martin,19890920,83,183,2007,"Bratislava, Slovakia",,R,2H,
+MF35,Andrej Martin,Andrej Martin,19890920,83,183,2007,"Bratislava, Slovakia",,R,2H,SVK
 MF36,Miloslav Mecir,Miloslav Mecir,19880120,88,196,,"Prague, Czechia",,R,2H,SVK
 MF57,Michael McClune,Michael McClune,19890822,84,188,2007,"Long Beach, California, USA",Eliot Teltscher,R,,USA
 MF70,Luis David Martinez,Luis David Martinez,19890512,77,178,,"Barquisimeto, Venezuela",Maurice Ruah,R,2H,VEN
@@ -4503,7 +4503,7 @@ MQ75,Kamil Majchrzak,Kamil Majchrzak,19960113,80,183,2013,"Piotrkow Trybunalski,
 MT52,W. Marsden,W. Marsden,,,,,,,,,
 MU88,Rudolfs Mednis,Rudolfs Mednis,19980119,,,,,,,,LVA
 MU94,Jaume Munar,Jaume Munar,19970505,76,183,2014,"Santanyi, Mallorca, Spain","Javier Fernandez, Miguel Sanchez",R,2H,ESP
-MV14,Alex Molcan,Alex Molcan,19971201,73,178,2015,"Presov, Slovakia","Karol Beck, Marian Vajda",L,2H,
+MV14,Alex Molcan,Alex Molcan,19971201,73,178,2015,"Presov, Slovakia","Karol Beck, Marian Vajda",L,2H,SVK
 MV32,Egor Matvievici,Egor Matvievici,19970214,70,175,2014,"Chisinau, Moldova",Denis Matvievici,L,2H,MDA
 MV33,Philip Wilbert Major,Philip Wilbert Major,19960302,,,,,,L,2H,BHS
 MV76,Irakli Metreveli,Irakli Metreveli,19980404,,,,,,,,GEO
@@ -4575,7 +4575,7 @@ N0AM,Emilio Nava,Emilio Nava,20011202,79,185,2018,"Woodland Hills, CA, USA",Osca
 N0BE,Adam Neff,Adam Neff,20010530,84,185,,"Miami, Florida",Grant Chen,R,2H,USA
 N0BF,Thabo Ncube,Thabo Ncube,20010416,,,,,,,,ZWE
 N0BG,Luca Nardi,Luca Nardi,20030806,80,185,,Pesaro,"Claudio Galoppini, Gabriele Costantini",R,2H,ITA
-N0BK,Hazem Naw,Hazem Naw,20000101,77,183,,Aleppo,Amer Naow,R,2H,
+N0BK,Hazem Naw,Hazem Naw,20000101,77,183,,Aleppo,Amer Naow,R,2H,SYR
 N0BS,Mariano Navone,Mariano Navone,20010227,73,178,,9 de julio,Andres Dellatorre,R,2H,ARG
 N0C3,Les Nicholson,,,,,,,,,,USA
 N0CJ,Petr Nesterov,Petr Nesterov,20030307,78,0,,Moscow,,R,2H,BGR
@@ -4591,7 +4591,7 @@ N0D2,Hans Nordstrom,,,,,,,,,,SWE
 N0D3,Toshiyuki Nakasawa,,,,,,,,,,JPN
 N0D4,F. Nakano,F. Nakano,,,,,,,,,JPN
 N0D5,R. Naylor,R. Naylor,,,,,,,,,AUS
-N0DB,Andrej Nedic,Andrej Nedic,20041016,76,185,,Doboj,Zoran Zrnic,R,2H,
+N0DB,Andrej Nedic,Andrej Nedic,20041016,76,185,,Doboj,Zoran Zrnic,R,2H,BIH
 N0DV,Claudio Narbone,,,,,,,,,,ITA
 N0EH,Ricardo Narcio,Ricardo Narcio,,,,,,,,,MEX
 N0EJ,P. Neck,,,,,,,,,,UGA
@@ -4674,12 +4674,12 @@ N522,Terence Nugent,Terence Nugent,19860301,,,,,,R,,CIV
 N523,West Nott,West Nott,19820608,,,,,,,,MHL
 N552,Kei Nishikori,Kei Nishikori,19891229,73,178,2007,"Shimane, Japan",Thomas Johansson,R,2H,JPN
 N558,N. Sriram Balaji,N.Sriram Balaji,19900318,78,180,,"Coimbatore, India",Alexander Waske Tennis University,R,2H,IND
-N561,Ivan Nedelko,Ivan Nedelko,19860512,80,185,2006,"St. Petersburg, Russia","Valery Shilkov, Artem Kirillov",R,2H,
+N561,Ivan Nedelko,Ivan Nedelko,19860512,80,185,2006,"St. Petersburg, Russia","Valery Shilkov, Artem Kirillov",R,2H,RUS
 N586,Pablo Nunez,Pablo Nunez,19910412,,,,,,,,CRI
 N587,Mahmoud-Nader Al Baloushi,Mahmoud-Nader Al Baloushi,19800630,,,,,,,,ARE
 N598,Takuto Niki,Takuto Niki,19871012,73,183,,"San Diego,CA, USA","Eiji Takeuchi,Masafumi Komada",R,2H,JPN
 N632,Marco Aurelio Nunez,Marco Aurelio Nunez,19930521,,,,,,L,2H,MEX
-N652,JiSung Nam,JiSung Nam,19930815,80,183,,"Busan, South Korea",,R,2H,
+N652,JiSung Nam,JiSung Nam,19930815,80,183,,"Busan, South Korea",,R,2H,KOR
 N653,Jung-Woong Na,Jung-Woong Na,19921031,,,,,,,,KOR
 N657,Jack Neer,Jack Neer,,,,,,,,,USA
 N670,Hugo Nys,Hugo Nys,19910216,80,183,2010,"Evian-les-Bains, France","Guillaume Couillard, Kévin Blandy",R,1H,MCO
@@ -4765,7 +4765,7 @@ O0BL,R. Orford,R. Orford,,,,,,,,,AUS
 O0BM,Julian Olave,Julian Olave,,,,,,,,,ESP
 O0BN,John O'Shea,John O'Shea,,,,,,,,,IRL
 O0BQ,Karlis Ozolins,Karlis Ozolins,20020615,93,196,,Riga,Brad Dancer,R,2H,LVA
-O0BR,Daniil Ostapenkov,Daniil Ostapenkov,20030508,,,,,,R,2H,
+O0BR,Daniil Ostapenkov,Daniil Ostapenkov,20030508,,,,,,R,2H,BLR
 O0BS,Bernd Osterhorn,Bernd Osterhorn,,,,,,,,,DEU
 O0BT,Garth O'Maley,Garth O'Maley,19460303,,,,,,,,USA
 O0BU,Javier Oyaga,Javier Oyaga,,,,,,,,,COL
@@ -4964,7 +4964,7 @@ P0HH,Mark Pinchbeck,,,,,,,,,,AUS
 P0HI,Ian Perkin,,,,,,,,,,GBR
 P0HJ,J. Plain,J. Plain,,,,,,,,,AUS
 P0HK,J. Pugh,J. Pugh,,,,,,,,,AUS
-P0HP,Lukas Pokorny,Lukas Pokorny,20020228,83,191,,Bratislava,Lubomír Kurhajec,R,2H,
+P0HP,Lukas Pokorny,Lukas Pokorny,20020228,83,191,,Bratislava,Lubomír Kurhajec,R,2H,SVK
 P0HT,Jack Pinnington Jones,Jack Pinnington Jones,20030330,82,180,,KINGSTON UPON THAMES,Morgan Phillips,R,2H,GBR
 P0HW,Dino Prizmic,Dino Prizmic,20050805,80,188,,"Split, Croatia",Luka Kutanjac,R,2H,HRV
 P0I5,Ignacio Parisca,Ignacio Parisca Romera,20050820,,,,,,,Unknown,VEN
@@ -5196,7 +5196,7 @@ PH90,Lennart Ploughmann,L. Ploughman,,,,,,,,,ZAF
 PH91,Dave Phillips,Dave Phillips,,,,,,,,,ZAF
 PH92,Jamie Presslie,Jamie Presslie,19470823,,,,"Palm Beach, FL, USA",,R,,USA
 PH93,Vladimir Petrovic,Vladimir Petrovic,19290511,,,,,,,,YUG
-PH94,Graham Primrose,Graham Primrose,19390222,,,,,,,,
+PH94,Graham Primrose,Graham Primrose,19390222,,,,,,,,AUS
 PH97,G. R. D. Portcous,G. R. D. Porteus,,,,,,,,,GBR
 PH98,S. J. Parry,S. J. Parry,,,,,,,,,GBR
 PH99,M. S. Palmer,M. S. Palmer,,,,,,,,,GBR
@@ -5574,7 +5574,7 @@ RE05,Jim Ryan,Jim Ryan,,,,,,,,,AUS
 RE08,Anthony Richards,Anthony Richards,,,,,,,,,AUS
 RE32,Jeffrey Robinson,Jeffrey Robinson,,,,,,,,,GBR
 RE34,Gustavo Rueda,Gustavo Rueda,,,,,,,,,COL
-RE44,Andrey Rublev,Andrey Rublev,19971020,75,188,2014,"Moscow, Russia","Fernando Vicente, Alberto Martin",R,2H,
+RE44,Andrey Rublev,Andrey Rublev,19971020,75,188,2014,"Moscow, Russia","Fernando Vicente, Alberto Martin",R,2H,RUS
 RG42,Alex Rybakov,Alex Rybakov,19970127,77,185,2019,"Plainview, New York","Devin Bowen, David Roditi",L,1H,USA
 RG88,Ricardo Rodriguez,Ricardo Rodriguez,19830202,,,,,,,,VEN
 RH16,Casper Ruud,Casper Ruud,19981222,81,183,2015,"Oslo, Norway","Christian Ruud , Pedro Clar",R,2H,NOR
@@ -5651,7 +5651,7 @@ S095,Masaru Suishu,Masaru Suishu,,,,,,,R,,JPN
 S096,Yakubu Suleiman,Yakubu Suleiman,,,,,,,R,,NGA
 S097,Henrik Sundstrom,Henrik Sundstrom,19640229,73,188,,"Lund, Sweden",Roland Jonsson,R,,SWE
 S099,Stefan Svensson,Stefan Svensson,19620217,81,185,,"Gothenberg, Sweden",,R,,SWE
-S09P,Sanhui Shin,Sanhui Shin,19970318,83,178,,"Seoul, Korea",,R,2H,
+S09P,Sanhui Shin,Sanhui Shin,19970318,83,178,,"Seoul, Korea",,R,2H,KOR
 S09V,David Szintai,David Szintai,19970609,,,,,,R,2H,HUN
 S0AG,Jannik Sinner,Jannik Sinner,20010816,77,191,2018,"San Candido, Italy","Simone Vagnozzi, Darren Cahill",R,2H,ITA
 S0AK,Henri Squire,Henri Squire,20000927,82,196,,Düsseldorf,Jeremy Jahn,R,2H,DEU
@@ -6177,7 +6177,7 @@ SF19,Frank Schwanner,Frank Schwanner,,,,,,,,,NZL
 SF21,Kirati Siributwong,Kirati Siributwong,19870517,,,,,,,,THA
 SF35,Shehab Shehab,Abdul-Rahman Shehab,19710321,,,,,,,,BHR
 SF36,Igor Sijsling,Igor Sijsling,19870818,85,191,2006,"Amsterdam, Netherlands",Vedrah Tvrtkovic,R,1H,NLD
-SF41,Aldin Setkic,Aldin Setkic,19871221,86,191,,"Sarajevo, Bosnia & Herzegovina",Alberto Castellani,R,2H,
+SF41,Aldin Setkic,Aldin Setkic,19871221,86,191,,"Sarajevo, Bosnia & Herzegovina",Alberto Castellani,R,2H,BIH
 SF48,Olivier Sajous,Olivier Sajous,19870204,72,,,,,R,2H,USA
 SF62,Tim Smyczek,Tim Smyczek,19871230,73,175,2006,"Milwaukee, WI, USA",Dustin Taylor,R,2H,USA
 SF76,Franko Skugor,Franko Skugor,19870920,96,196,,"Sibenik, Croatia",Alan Maric,R,2H,CRO
@@ -6225,7 +6225,7 @@ SK65,Henry So,Henry So,,,,,,,,,HKG
 SK67,Jan Satral,Jan Satral,19900724,83,185,2010,"Melnik, Czechia",Jiri Hrebec,R,2H,CZE
 SK69,Joao Pedro Sorgi,Joao Pedro Sorgi,19931018,82,188,,Sertaozinho,Carlos Albano,R,2H,BRA
 SK94,Cedrik-Marcel Stebe,Cedrik-Marcel Stebe,19901009,70,180,2010,"Muehlacker, Germany",Eddy Kranjcevic,L,2H,DEU
-SK97,Yaraslav Shyla,Yaraslav Shyla,19930305,98,191,2011,"Minsk, Belarus",Alena Shyla,R,2H,
+SK97,Yaraslav Shyla,Yaraslav Shyla,19930305,98,191,2011,"Minsk, Belarus",Alena Shyla,R,2H,BLR
 SL07,Alexander Sarkissian,Alexander Sarkissian,19900403,79,191,2014,"Glendale, CA, USA",Federico Browne,R,2H,USA
 SL08,Tennys Sandgren,Tennys Sandgren,19910722,88,188,2011,"Gallatin, TN, USA",,R,2H,USA
 SL09,Raymond Sarmiento,Raymond Sarmiento,19920724,68,178,,"Glendale, USA","Haydn Lewis, Peter Rennert",R,2H,USA
@@ -6242,7 +6242,7 @@ SM88,Karue Sell,Karue Sell,19931113,81,183,,"Jaraguá do Sul, Brazil",,R,2H,BRA
 SN15,Andrei Soltoianu,Andrei Soltoianu,19931004,,,,,,R,2H,MDA
 SN33,Tunde Segodo,Tunde Segodo,19941121,,,,,,,,BEN
 SN54,Frederico Ferreira Silva,Frederico Ferreira Silva,19950318,74,178,2013,"Caldas da Rainha, Portugal",Pedro Felner,L,2H,PRT
-SN70,Min Kyu Song,MinKyu Song,19900825,77,183,,"Yong-In, Korea",,R,2H,
+SN70,Min Kyu Song,MinKyu Song,19900825,77,183,,"Yong-In, Korea",,R,2H,KOR
 SN77,Vaclav Safranek,Vaclav Safranek,19940520,82,183,2012,"Brno, Czechia",Petr Frelich,R,2H,CZE
 SN90,Syed Mohd Agil Syed Naguib,Syed Mohd Agil Syed Naguib,19940210,,,,,,,,MYS
 SO02,Warit Sornbutnark,Warit Sornbutnark,19930227,63,180,,"Bangkok, Thailand",Nuttawut,R,,THA
@@ -6569,12 +6569,12 @@ TD43,L. B. Taylor,L. B. Taylor,,,,,,,,,GBR
 TD44,R. P. Tuck,R. P. Tuck,,,,,,,,,GBR
 TD45,P. M. Thomas,A. M. Thomas,,,,,,,,,GBR
 TD46,Unknown Terrade,Unknown Terrade,,,,,,,,,ITA
-TD47,Evgenii Tiurnev,Evgenii Tiurnev,19970408,85,191,,Gatchina,Mikhail Tsybin,R,2H,
+TD47,Evgenii Tiurnev,Evgenii Tiurnev,19970408,85,191,,Gatchina,Mikhail Tsybin,R,2H,RUS
 TD49,Mert Naci Turker,Mert Naci Turker,19980816,,,,,,,Unknown,
 TD51,Frances Tiafoe,Frances Tiafoe,19980120,86,188,2015,"Hyattsville, MD, USA","David Witt, Jordi Arconada",R,2H,USA
 TD53,Williams Tully,Williams Tully,19251209,,,,,,,,USA
 TD56,Ed Turville,Ed Turville,19440613,,,,,,,,USA
-TD59,Humphrey Truman,Humphrey Truman,19350805,,,,,,,,
+TD59,Humphrey Truman,Humphrey Truman,19350805,,,,,,,,GBR
 TD60,James Tattersall,James Tattersall,,,,,,,,,GBR
 TD67,Hugh Tierney,Hugh Tierney,,,,,,,,,USA
 TD80,Jack Tuero,Jack Tuero,,,,,,,,,USA
@@ -6795,7 +6795,7 @@ V628,Juan Sebastian Vivanco,Juan-Sebastian Vivanco,19900414,,,,,,,,ECU
 V698,Duilio Vallebuona,Duilio Vallebuona,19920706,,,,,,,,PER
 V708,Jiri Vesely,Jiri Vesely,19930710,94,198,2009,"Pribram, Czechia",Emanuel Rehola,L,2H,CZE
 V713,Sebastien Vidal,Sebastien Vidal,19891209,,,,,,R,2H,GTM
-V717,Alexey Vatutin,Alexey Vatutin,19921027,69,178,,"Volgograd, Russia","Yuriy Kozlovich, Eduard Davydenko, Andrei Gorban",R,2H,
+V717,Alexey Vatutin,Alexey Vatutin,19921027,69,178,,"Volgograd, Russia","Yuriy Kozlovich, Eduard Davydenko, Andrei Gorban",R,2H,RUS
 V746,Mike Vermeer,Mike Vermeer,19921108,,,,,,,,LUX
 V758,David Vega Hernandez,David Vega Hernandez,19940623,78,188,,"Las Palmas, Spain",Alberto Lopez,R,2H,ESP
 V763,Filip Veger,Filip Veger,19941221,,,,,,,,CRO
@@ -7058,7 +7058,7 @@ W756,R. Walker,R. Walker,,,,,,,,,GBR
 W757,P. D. R. Williams,P. D. R. Williams,,,,,,,,,GBR
 W759,J. Williamson,J. Williamson,,,,,,,,,IRL
 W763,Robert White,Robert White,,,,,,,,,AUS
-W857,Tung-Lin Wu,Tung-Lin Wu,19980512,81,188,2016,"Taichung, Chinese Taipei","Tsai Chia Yen, Ezra Stump",R,2H,
+W857,Tung-Lin Wu,Tung-Lin Wu,19980512,81,188,2016,"Taichung, Chinese Taipei","Tsai Chia Yen, Ezra Stump",R,2H,TPE
 WB08,Yosuke Watanuki,Yosuke Watanuki,19980412,73,180,2016,"Saitama, Japan",Keisuke Watanuki,R,2H,JPN
 WB15,Hong Kit Jack Wong,Hong Kit Wong,19980830,,,,,,,,HKG
 WB25,Louis Wessels,Louis Wessels,19980827,90,198,,"Bielefeld, Germany",Dirk Wessels,R,2H,DEU
@@ -7088,7 +7088,7 @@ Y039,Yu Zhang,Yu Zhang,19760412,,,,,,R,,CHN
 Y044,Denis Yakimenko,Denis Yakimenko,19770614,,,,,,R,,UKR
 Y046,Jing-Zhu Yang,Jing Zhu Yang,19760119,,,,,,R,,CHN
 Y047,Sergei Yaroshenko,Sergei Yaroshenko,19770406,,,,,,R,,UKR
-Y061,Mikhail Youzhny,Mikhail Youzhny,19820625,73,183,1999,"Moscow, Russia",Boris Sobkin,R,1H,
+Y061,Mikhail Youzhny,Mikhail Youzhny,19820625,73,183,1999,"Moscow, Russia",Boris Sobkin,R,1H,RUS
 Y070,Michael Yani,Michael Yani,19801231,75,185,2003,Singapore,,R,2H,USA
 Y087,John Yeomans,John Yeomans,19440608,,,,"Los Angeles, CA, U.S.A.",,,,USA
 Y099,Hiu-Tung Yu,Hiu-Tung Yu,19840205,,,,,,,,HKG
@@ -7107,7 +7107,7 @@ Y102,Dannio Yahya,Dannio Yahya,,,,,,,,,MYS
 Y105,Xin-Yuan Yu,Xin-Yuan Yu,19850213,,,,,,L,,CHN
 Y114,Daniel Yoo,Daniel Yoo,19850925,80,180,,Daejeon,Pierre Arnold,L,2H,KOR
 Y118,Ali Yenilmez,Ali Yenilmez,,,,,,,,,TUR
-Y123,Chu-Huan Yi,Chu-Huan Yi,19870831,72,178,2005,"Taiwan, Taipei",,L,1H,
+Y123,Chu-Huan Yi,Chu-Huan Yi,19870831,72,178,2005,"Taiwan, Taipei",,L,1H,TPE
 Y124,Donald Young,Donald Young,19890723,79,183,2004,"Chicago, IL, USA","Illona Young, Donald Young Sr.",L,2H,USA
 Y152,Anil Yuksel,Anil Yuksel,19900519,78,,,"Venlo, Netherlands",,L,2H,TUR
 Y171,Denis Yevseyev,Denis Yevseyev,19930522,80,188,,Almaty,Yevgen Tseplyayev,R,2H,KAZ
@@ -7151,13 +7151,13 @@ Z079,Jicham Zaatini,Jicham Zaatini,19760617,,,,,,R,,LBN
 Z084,Radim Zitko,Radim Zitko,19781208,,,,,,R,,CZE
 Z090,Yu Zheng,Yu Zheng,19760515,,,,,,R,,CHN
 Z096,Ben-Qiang Zhu,Ben-Qiang Zhu,19790313,,,,,,R,,CHN
-Z09B,Alexander Zgirovsky,Alexander Zgirovsky,20010710,80,191,,"Minsk, Belarus",,R,2H,
+Z09B,Alexander Zgirovsky,Alexander Zgirovsky,20010710,80,191,,"Minsk, Belarus",,R,2H,BLR
 Z09D,Kacper Zuk,Kacper Zuk,19990121,77,183,2016,"Nowy Dwor Mazowiecki, Poland",Artur Zuk,R,2H,POL
 Z09F,Patrick Zahraj,Patrick Zahraj,19990717,88,191,,Giessen,Dusan Karol,R,Unknown,DEU
 Z09L,Ayed Zatar,Ayed Zatar,19960329,,,,,,R,2H,PRY
 Z09Z,Beibit Zhukayev,Beibit Zhukayev,20001012,93,198,,Aktau,Meirambek Tatiyev,R,2H,KAZ
 Z0A1,Giulio Zeppieri,Giulio Zeppieri,20011207,82,183,2019,"Rome, Italy","Massimo Sartori, Nicola Ceragioli, Tommaso Castagnola",L,2H,ITA
-Z0AB,Alex Zakharia,Alexey Zakharov,20000421,83,188,,"Moscow, Russia",,R,2H,
+Z0AB,Alex Zakharia,Alexey Zakharov,20000421,83,188,,"Moscow, Russia",,R,2H,RUS
 Z0AC,Zulfiqar Ahmed,Nicolas Zaidman,19991207,,,,,,,,ARG
 Z0BL,Fares Zakaryia,Fares Zakaria,20010513,85,183,,Jeddah,,R,2H,EGY
 Z0BO,John Zweig,,,,,,,,,,USA
@@ -7197,3 +7197,13 @@ Z399,Kasparas Zemaitelis,Kasparas Zemaitelis,19951005,,,,,,R,2H,LTU
 Z404,Colin Zeeman,Colin Zeeman,,,,,,,,,ZAF
 Z419,Bernabe Zapata Miralles,Bernabe Zapata Miralles,19970112,79,183,2015,"Valencia, Spain",Samuel Ribeiro,R,2H,ESP
 Z423,Jan Zielinski,Jan Zielinski,19961116,83,180,2019,"Warsaw, Poland",Mariusz Fyrstenberg,R,2H,POL
+"V0EG","Les Van Dorpie","","","","","","","","","","USA"
+"P0HC","Brian Parrott","","","","","","","","","","USA"
+"B074","Jim Brown","Jimmy Brown","1965-04-28","68","180","1981","Hialeah, FL","","R","","USA"
+"M0ME","Dick Moffatt","","","","","","","","","","USA"
+"S0Q8","John Solow","","","","","","","","","","USA"
+"PH92","Jamie Pressly","Jamie Presslie","19470823","","","","Palm Beach, FL, USA","","R","","USA"
+"C0L4","Stylianos Christodoulou","Stylianos Christodoulou","20041104","","","","","","","Unknown","CYP"
+"DA86","Joris De Loore","Joris De Loore","19930421","86","191","2011","Bruges, Belgium","Bastian Suwanprateep","R","2H","BEL"
+"E768","Baris Erguden","Antoine Escoffier","19920229","78","185","","Le Pont-De-Beauvoisin","","R","2H","FRA"
+"E768","Antoine Escoffier","Antoine Escoffier","19920229","78","185","","Le Pont-De-Beauvoisin","","R","2H","FRA"
