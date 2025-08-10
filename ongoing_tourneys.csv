@@ -31,12 +31,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-422,Cincinnati Masters,,96,M,20250807,,RC91,,,Arthur Rinderknech,R,196,FRA,30.04,64,914,BT72,,,Nuno Borges,R,185,PRT,28.46,42,1265,6-3 6-3,3,R128,84,6,3,55,33,28,12,9,2,2,2,4,58,33,22,14,9,2,5
 2025-422,Cincinnati Masters,,96,M,20250807,,SX50,,,Roman Safiullin,R,185,RUS,28,82,741,TE30,,,Alejandro Tabilo,L,188,CHL,28.18,104,605,6-3 6-3,3,R128,68,11,3,47,29,25,12,9,0,0,6,1,50,30,23,9,9,2,5
 2025-422,Cincinnati Masters,,96,M,20250807,,W0BH,,,Coleman Wong,R,191,HKG,21.17,168,323,M0GZ,,,Giovanni Mpetshi Perricard,R,203,FRA,22.08,43,1205,6-3 6-2,3,R128,55,6,1,46,34,28,8,9,0,0,7,5,42,22,20,6,8,4,7
-2025-422,Cincinnati Masters,,96,M,20250807,,SU87,31,,Lorenzo Sonego,R,191,ITA,30.24,38,1281,BU13,,,Zizou Bergs,R,185,BEL,26.18,52,1049,6-3 7-6(4),3,R64,101,5,2,66,43,36,13,11,1,1,5,5,64,31,23,19,10,3,4
+2025-422,Cincinnati Masters,,96,M,20250807,,FB98,4,,Taylor Fritz,R,196,USA,27.78,4,5135,N0AM,,,Emilio Nava,R,185,USA,23.68,114,539,6-4 6-4,3,R64,68,12,0,53,32,26,16,10,2,2,9,2,50,32,25,9,10,1,3
 2025-422,Cincinnati Masters,,96,M,20250807,,S0AG,1,,Jannik Sinner,R,191,ITA,23.98,1,12030,GE33,,,Daniel Elahi Galan,R,191,COL,29.14,134,455,6-1 6-1,3,R64,59,6,3,36,23,22,8,7,1,1,5,2,48,26,13,8,7,8,13
 2025-422,Cincinnati Masters,,96,M,20250807,,R0DG,7,,Holger Rune,R,188,DNK,22.28,9,3250,SX50,,,Roman Safiullin,R,185,RUS,28,82,741,7-5 7-6(5),3,R64,118,4,4,84,47,32,23,12,2,4,2,4,70,38,24,21,12,2,5
 2025-422,Cincinnati Masters,,96,M,20250807,,BM95,,,Benjamin Bonzi,R,183,FRA,29.16,66,905,M0EJ,8,,Lorenzo Musetti,R,185,ITA,23.43,10,3195,5-7 6-4 7-6(4),3,R64,166,10,4,110,65,43,22,17,9,14,11,5,110,67,46,21,17,3,8
+2025-422,Cincinnati Masters,,96,M,20250807,,TD51,10,,Frances Tiafoe,R,188,USA,27.55,12,2990,CF59,,,Roberto Carballes Baena,R,183,ESP,32.38,89,690,6-4 6-3,3,R64,90,7,3,54,24,18,14,9,1,4,10,4,74,39,25,12,10,11,17
 2025-422,Cincinnati Masters,,96,M,20250807,,RC91,,,Arthur Rinderknech,R,196,FRA,30.04,64,914,RH16,11,,Casper Ruud,R,183,NOR,26.63,13,2905,6-7(5) 6-4 6-2,3,R64,157,13,6,95,63,49,18,15,8,9,8,3,88,49,35,20,15,0,4
 2025-422,Cincinnati Masters,,96,M,20250807,,PL56,13,,Tommy Paul,R,185,USA,28.22,15,2620,MO44,,,Pedro Martinez,R,185,ESP,28.28,68,890,6-2 6-2,3,R64,91,8,2,56,33,25,13,8,6,6,0,4,65,37,19,13,8,6,10
+2025-422,Cincinnati Masters,,96,M,20250807,,A0GC,,,Terence Atmane,L,193,FRA,23.58,132,458,C0E9,15,,Flavio Cobolli,R,183,ITA,23.26,17,2385,6-4 3-6 7-6(5),3,R64,134,9,5,106,61,46,22,15,8,10,7,6,94,49,40,27,16,3,5
 2025-422,Cincinnati Masters,,96,M,20250807,,F0FV,,,Joao Fonseca,R,188,BRA,18.96,49,1110,DH50,17,,Alejandro Davidovich Fokina,R,180,ESP,26.17,19,2225,6-7(4) 5-4 RET,3,R64,98,7,3,65,42,28,11,10,2,6,7,4,68,32,23,18,11,2,7
 2025-422,Cincinnati Masters,,96,M,20250807,,ME82,,,Adrian Mannarino,L,180,FRA,37.11,94,661,M0FH,19,,Tomas Machac,R,183,CZE,24.82,22,2110,6-3 6-3,3,R64,90,5,0,59,29,24,16,9,3,4,7,7,75,41,21,16,9,7,11
 2025-422,Cincinnati Masters,,96,M,20250807,,HH26,20,,Ugo Humbert,L,188,FRA,27.12,23,2095,W0BH,,,Coleman Wong,R,191,HKG,21.17,168,323,6-3 6-4,3,R64,67,10,1,57,37,32,10,10,1,1,6,1,45,32,25,7,9,2,4
@@ -44,3 +46,4 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-422,Cincinnati Masters,,96,M,20250807,,TE51,25,,Stefanos Tsitsipas,R,193,GRC,26.99,30,1825,M0CI,,,Fabian Marozsan,R,193,HUN,25.83,56,1005,7-6(3) 6-2,3,R64,83,9,0,63,44,33,12,10,3,3,2,5,65,38,29,11,10,1,3
 2025-422,Cincinnati Masters,,96,M,20250807,,M0QI,28,,Alex Michelsen,R,193,USA,20.95,34,1555,MW02,,,Corentin Moutet,L,180,FRA,26.3,46,1139,3-6 6-3 6-4,3,R64,146,2,4,87,46,37,18,14,3,6,8,4,92,55,36,17,14,9,13
 2025-422,Cincinnati Masters,,96,M,20250807,,D0F6,30,,Gabriel Diallo,R,203,CAN,23.87,36,1333,B0BI,,,Sebastian Baez,R,170,ARG,24.61,45,1180,7-5 6-4,3,R64,91,9,3,56,32,27,12,11,0,2,0,5,67,44,29,10,11,3,7
+2025-422,Cincinnati Masters,,96,M,20250807,,SU87,31,,Lorenzo Sonego,R,191,ITA,30.24,38,1281,BU13,,,Zizou Bergs,R,185,BEL,26.18,52,1049,6-3 7-6(4),3,R64,101,5,2,66,43,36,13,11,1,1,5,5,64,31,23,19,10,3,4
