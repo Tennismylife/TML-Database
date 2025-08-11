@@ -31,8 +31,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-422,Cincinnati Masters,,96,M,20250807,,RC91,,,Arthur Rinderknech,R,196,FRA,30.04,64,914,BT72,,,Nuno Borges,R,185,PRT,28.46,42,1265,6-3 6-3,3,R128,84,6,3,55,33,28,12,9,2,2,2,4,58,33,22,14,9,2,5
 2025-422,Cincinnati Masters,,96,M,20250807,,SX50,,,Roman Safiullin,R,185,RUS,28,82,741,TE30,,,Alejandro Tabilo,L,188,CHL,28.18,104,605,6-3 6-3,3,R128,68,11,3,47,29,25,12,9,0,0,6,1,50,30,23,9,9,2,5
 2025-422,Cincinnati Masters,,96,M,20250807,,W0BH,,,Coleman Wong,R,191,HKG,21.17,168,323,M0GZ,,,Giovanni Mpetshi Perricard,R,203,FRA,22.08,43,1205,6-3 6-2,3,R128,55,6,1,46,34,28,8,9,0,0,7,5,42,22,20,6,8,4,7
-2025-422,Cincinnati Masters,,96,M,20250807,,N0AE,27,,Brandon Nakashima,R,188,USA,24.01,32,1700,B0PG,,,Alexander Blockx,R,193,BEL,20.33,121,492,4-6 6-3 7-6(5),3,R64,,,,,,,,,,,,,,,,,,,
 2025-422,Cincinnati Masters,,96,M,20250807,,A0E2,2,,Carlos Alcaraz,R,183,ESP,22.26,2,8600,D923,,,Damir Dzumhur,R,175,BIH,33.22,54,1028,6-1 2-6 6-3,3,R64,101,7,6,73,44,30,15,12,0,3,2,1,83,58,32,13,12,5,10
+2025-422,Cincinnati Masters,,96,M,20250807,,Z355,3,,Alexander Zverev,R,198,DEU,28.3,3,6030,B0NN,,,Nishesh Basavareddy,R,180,USA,20.27,110,580,6-3 6-3,3,R64,66,12,1,50,41,32,4,9,0,0,1,4,51,26,18,12,9,0,3
 2025-422,Cincinnati Masters,,96,M,20250807,,S0S1,5,,Ben Shelton,L,193,USA,22.83,7,3520,U182,,,Camilo Ugo Carabelli,R,185,ARG,26.14,47,1133,6-3 3-1 RET,3,R64,63,4,3,44,31,26,6,7,1,1,0,3,38,19,15,8,6,3,5
 2025-422,Cincinnati Masters,,96,M,20250807,,O522,,,Reilly Opelka,R,211,USA,27.94,74,827,DH58,6,,Alex de Minaur,R,183,AUS,26.47,8,3335,7-6(6) 6-4,3,R64,99,14,5,76,41,31,24,11,7,7,2,0,69,49,37,12,11,0,1
 2025-422,Cincinnati Masters,,96,M,20250807,,RE44,9,,Andrey Rublev,R,188,RUS,27.8,11,3110,T0HA,,,Learner Tien,L,180,USA,19.68,61,940,7-6(4) 6-3,3,R64,104,12,0,67,40,34,15,11,3,4,4,8,74,37,27,17,10,4,6
@@ -43,6 +43,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-422,Cincinnati Masters,,96,M,20250807,,L0BV,22,,Jiri Lehecka,R,185,CZE,23.75,27,2015,B0EJ,,,Tristan Boyer,R,188,USA,24.3,123,480,4-6 6-1 6-4,3,R64,113,9,5,71,46,40,14,14,2,3,4,1,77,48,36,13,13,0,3
 2025-422,Cincinnati Masters,,96,M,20250807,,N0BG,,,Luca Nardi,R,185,ITA,22,97,655,SU55,24,,Denis Shapovalov,L,185,CAN,26.31,29,1836,6-7(5) 6-3 6-4,3,R64,148,3,3,101,64,48,21,16,5,6,4,8,103,69,48,16,15,7,10
 2025-422,Cincinnati Masters,,96,M,20250807,,M0JF,,,Hamad Medjedovic,R,188,SRB,22.06,73,869,GJ37,26,,Tallon Griekspoor,R,188,NLD,29.1,31,1715,6-4 7-6(3),3,R64,100,14,3,72,43,36,17,11,5,6,13,7,72,44,36,11,11,5,7
+2025-422,Cincinnati Masters,,96,M,20250807,,N0AE,27,,Brandon Nakashima,R,188,USA,24.01,32,1700,B0PG,,,Alexander Blockx,R,193,BEL,20.33,121,492,4-6 6-3 7-6(5),3,R64,143,6,3,107,73,50,20,16,11,15,7,3,100,61,43,20,15,12,16
 2025-422,Cincinnati Masters,,96,M,20250807,,C0DF,,,Francisco Comesana,R,178,ARG,24.84,71,874,D0FJ,29,,Luciano Darderi,R,183,ITA,23.48,35,1414,6-4 3-1 RET,3,R64,52,14,2,33,22,22,6,7,0,0,3,10,43,12,9,15,7,0,2
 2025-422,Cincinnati Masters,,96,M,20250807,,BD06,,,Roberto Bautista Agut,R,183,ESP,37.31,53,1046,N771,32,,Cameron Norrie,L,188,GBR,29.96,39,1277,6-4 6-3,3,R64,111,9,2,74,50,39,9,10,6,7,6,6,64,38,28,10,9,8,11
 2025-422,Cincinnati Masters,,96,M,20250807,,B0CD,,,Jenson Brooksby,R,193,USA,24.78,102,627,C0H0,,,Arthur Cazaux,R,183,FRA,22.96,75,800,7-5 6-1,3,R64,113,3,1,65,42,34,13,10,6,6,5,3,81,42,33,13,9,6,9
@@ -62,4 +63,3 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2025-422,Cincinnati Masters,,96,M,20250807,,M0QI,28,,Alex Michelsen,R,193,USA,20.95,34,1555,MW02,,,Corentin Moutet,L,180,FRA,26.3,46,1139,3-6 6-3 6-4,3,R64,146,2,4,87,46,37,18,14,3,6,8,4,92,55,36,17,14,9,13
 2025-422,Cincinnati Masters,,96,M,20250807,,D0F6,30,,Gabriel Diallo,R,203,CAN,23.87,36,1333,B0BI,,,Sebastian Baez,R,170,ARG,24.61,45,1180,7-5 6-4,3,R64,91,9,3,56,32,27,12,11,0,2,0,5,67,44,29,10,11,3,7
 2025-422,Cincinnati Masters,,96,M,20250807,,SU87,31,,Lorenzo Sonego,R,191,ITA,30.24,38,1281,BU13,,,Zizou Bergs,R,185,BEL,26.18,52,1049,6-3 7-6(4),3,R64,101,5,2,66,43,36,13,11,1,1,5,5,64,31,23,19,10,3,4
-
