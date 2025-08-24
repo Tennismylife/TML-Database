@@ -135,6 +135,17 @@ We are open and thankful for collaborations and reporting of eventual
 bugs, missing data and other errors: we all want to improve the
 quality of this database.
 
+# 2025 Reset
+
+Due to the high request for this database in 2025, a full 𝐫𝐞𝐬𝐞𝐭 of the entire database was necessary. This reset includes:
+
+- **Re-scraping all ATP tournaments** from 1968 to 2025 from the ATP website, with particular attention to using the site’s IDs.
+- **Creation of a supporting database** containing all player data using ATP IDs (`ATP_Database.csv`).
+- **Scraping all ATP rankings** along with additional rankings (from 1973 to 1984). Details are available in [this repository](https://github.com/Tennismylife/TML-Rankings-Database)
+- **Reset of the debugging programs** and their execution, also available in this repository in [this repository](https://github.com/Tennismylife/Tennis-R-ecord-Debugger).
+
+For all intents and purposes we can talk about a 𝐧𝐞𝐰 database
+
 Enjoy!
 
 This database is offered in partnership with https://canaltenis.com/
