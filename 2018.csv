@@ -2522,8 +2522,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-568,St. Petersburg,Hard,32,A,20180917,25,TB69,1,,Dominic Thiem,R,185,AUT,25.038,8,3665,BD06,5,,Roberto Bautista Agut,R,183,ESP,30.426,26,1570,6-4 6-3,3,SF,85,15,1,59,40,29,13,10,1,1,1,2,61,38,25,12,9,6,8
 2018-568,St. Petersburg,Hard,32,A,20180917,26,K966,,,Martin Klizan,L,191,SVK,29.185,65,823,W367,,WC,Stan Wawrinka,R,183,SUI,33.473,88,650,4-6 6-3 7-5,3,SF,137,10,4,102,60,48,21,16,4,6,6,0,85,52,37,18,15,1,4
 2018-568,St. Petersburg,Hard,32,A,20180917,27,TB69,1,,Dominic Thiem,R,185,AUT,25.038,8,3665,K966,,,Martin Klizan,L,191,SVK,29.185,65,823,6-3 6-1,3,F,68,3,1,45,21,18,16,8,2,2,4,1,44,27,18,6,8,3,7
-2018-9210,Laver Cup,Hard,2,A,20180921,1,F324,,,Roger Federer,R,185,SUI,37.12,2,6900,I186,,,John Isner,R,208,USA,33.405,10,3470,6-7(5) 7-6(6) 1-0(7),,RR,,,,,,,,,,,,,,,,,,,
-2018-9210,Laver Cup,Hard,2,A,20180921,2,Z355,,,Alexander Zverev,R,198,GER,21.421,5,4890,A678,,,Kevin Anderson,R,203,RSA,32.345,9,3595,6-7(3) 7-5 1-0(7),,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,1,F324,,,Roger Federer,R,185,SUI,37.12,2,6900,I186,,,John Isner,R,208,USA,33.405,10,3470,6-7(5) 7-6(6) 1-0(7),3,RR,,,,,,,,,,,,,,,,,,,
+2018-9210,Laver Cup,Hard,2,A,20180921,2,Z355,,,Alexander Zverev,R,198,GER,21.421,5,4890,A678,,,Kevin Anderson,R,203,RSA,32.345,9,3595,6-7(3) 7-5 1-0(7),3,RR,,,,,,,,,,,,,,,,,,,
 2018-9210,Laver Cup,Hard,2,A,20180921,3,A678,,,Kevin Anderson,R,203,RSA,32.345,9,3595,D643,,,Novak Djokovic,R,188,SRB,31.335,3,6445,7-6(5) 5-7 1-0(6),3,RR,,,,,,,,,,,,,,,,,,,
 2018-9210,Laver Cup,Hard,2,A,20180921,4,F324,,,Roger Federer,R,185,SUI,37.12,2,6900,KE17,,,Nick Kyrgios,R,193,AUS,23.403,27,1425,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,
 2018-9210,Laver Cup,Hard,2,A,20180921,5,Z355,,,Alexander Zverev,R,198,GER,21.421,5,4890,I186,,,John Isner,R,208,USA,33.405,10,3470,3-6 7-6(6) 1-0(7),3,RR,,,,,,,,,,,,,,,,,,,
@@ -2891,22 +2891,22 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2018-352,Paris Masters,Hard,48,M,20181029,45,D643,2,,Novak Djokovic,R,188,SRB,31.439,2,7445,F324,3,,Roger Federer,R,185,SUI,37.224,3,6260,7-6(6) 5-7 7-6(3),3,SF,182,8,0,113,76,56,28,18,1,2,17,2,139,93,69,25,18,12,12
 2018-352,Paris Masters,Hard,48,M,20181029,46,KE29,,,Karen Khachanov,R,198,RUS,22.439,18,1845,TB69,6,,Dominic Thiem,R,185,AUT,25.153,8,3825,6-4 6-1,3,SF,70,2,0,47,35,24,8,8,2,3,3,0,55,29,19,8,9,3,8
 2018-352,Paris Masters,Hard,48,M,20181029,47,KE29,,,Karen Khachanov,R,198,RUS,22.439,18,1845,D643,2,,Novak Djokovic,R,188,SRB,31.439,2,7445,7-5 6-4,3,F,97,9,2,66,50,38,8,11,4,5,5,1,71,43,30,14,11,5,8
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,1,TE51,1,,Stefanos Tsitsipas,R,193,GRE,20.235,15,2095,HB71,6,,Hubert Hurkacz,R,196,POL,21.733,85,658,4-1 4-3(2) 4-1,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,2,DH58,2,,Alex de Minaur,R,183,AUS,19.718,31,1298,FB98,4,,Taylor Fritz,R,196,USA,21.024,47,987,4-3(8) 4-1 4-2,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,3,MU94,7,,Jaume Munar,R,183,ESP,21.506,76,703,TD51,3,,Frances Tiafoe,R,188,USA,20.794,40,1080,4-1 4-3(3) 4-1,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,4,RE44,5,,Andrey Rublev,R,188,RUS,21.046,68,760,CO06,,,Liam Caruana,R,178,ITA,20.789,622,45,4-3(7) 4-1 4-2,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,5,TE51,1,,Stefanos Tsitsipas,R,193,GRE,20.235,15,2095,TD51,3,,Frances Tiafoe,R,188,USA,20.794,40,1080,4-3(3) 4-3(5) 4-2,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,6,DH58,2,,Alex de Minaur,R,183,AUS,19.718,31,1298,RE44,5,,Andrey Rublev,R,188,RUS,21.046,68,760,4-1 3-4(5) 4-1 4-2,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,7,FB98,4,,Taylor Fritz,R,196,USA,21.024,47,987,CO06,,,Liam Caruana,R,178,ITA,20.789,622,45,1-4 4-1 4-3(9) 4-2,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,8,HB71,6,,Hubert Hurkacz,R,196,POL,21.733,85,658,MU94,7,,Jaume Munar,R,183,ESP,21.506,76,703,4-2 4-2 2-4 3-4(5) 4-1,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,9,DH58,2,,Alex de Minaur,R,183,AUS,19.718,31,1298,CO06,,,Liam Caruana,R,178,ITA,20.789,622,45,4-1 4-1 4-2,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,10,TD51,3,,Frances Tiafoe,R,188,USA,20.794,40,1080,HB71,6,,Hubert Hurkacz,R,196,POL,21.733,85,658,4-1 4-2 2-4 4-3(10),,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,11,TE51,1,,Stefanos Tsitsipas,R,193,GRE,20.235,15,2095,MU94,7,,Jaume Munar,R,183,ESP,21.506,76,703,4-3(5) 4-3(3) 3-4(4) 4-2,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,12,RE44,5,,Andrey Rublev,R,188,RUS,21.046,68,760,FB98,4,,Taylor Fritz,R,196,USA,21.024,47,987,4-2 1-4 3-4(4) 4-3(2) 4-2,,RR,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,13,TE51,1,,Stefanos Tsitsipas,R,193,GRE,20.235,15,2095,RE44,5,,Andrey Rublev,R,188,RUS,21.046,68,760,4-3(3) 3-4(5) 4-0 2-4 4-3(2),,SF,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,14,DH58,2,,Alex de Minaur,R,183,AUS,19.718,31,1298,MU94,7,,Jaume Munar,R,183,ESP,21.506,76,703,3-4(5) 4-1 4-1 3-4(4) 4-2,,SF,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,15,RE44,5,,Andrey Rublev,R,188,RUS,21.046,68,760,MU94,7,,Jaume Munar,R,183,ESP,21.506,76,703,1-4 4-3(4) 2-4 4-2 4-3(3),,3rd/4th,,,,,,,,,,,,,,,,,,,
-2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,16,TE51,1,,Stefanos Tsitsipas,R,193,GRE,20.235,15,2095,DH58,2,,Alex de Minaur,R,183,AUS,19.718,31,1298,2-4 4-1 4-3(3) 4-3(3),,F,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,1,TE51,1,,Stefanos Tsitsipas,R,193,GRE,20.235,15,2095,HB71,6,,Hubert Hurkacz,R,196,POL,21.733,85,658,4-1 4-3(2) 4-1,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,2,DH58,2,,Alex de Minaur,R,183,AUS,19.718,31,1298,FB98,4,,Taylor Fritz,R,196,USA,21.024,47,987,4-3(8) 4-1 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,3,MU94,7,,Jaume Munar,R,183,ESP,21.506,76,703,TD51,3,,Frances Tiafoe,R,188,USA,20.794,40,1080,4-1 4-3(3) 4-1,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,4,RE44,5,,Andrey Rublev,R,188,RUS,21.046,68,760,CO06,,,Liam Caruana,R,178,ITA,20.789,622,45,4-3(7) 4-1 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,5,TE51,1,,Stefanos Tsitsipas,R,193,GRE,20.235,15,2095,TD51,3,,Frances Tiafoe,R,188,USA,20.794,40,1080,4-3(3) 4-3(5) 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,6,DH58,2,,Alex de Minaur,R,183,AUS,19.718,31,1298,RE44,5,,Andrey Rublev,R,188,RUS,21.046,68,760,4-1 3-4(5) 4-1 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,7,FB98,4,,Taylor Fritz,R,196,USA,21.024,47,987,CO06,,,Liam Caruana,R,178,ITA,20.789,622,45,1-4 4-1 4-3(9) 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,8,HB71,6,,Hubert Hurkacz,R,196,POL,21.733,85,658,MU94,7,,Jaume Munar,R,183,ESP,21.506,76,703,4-2 4-2 2-4 3-4(5) 4-1,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,9,DH58,2,,Alex de Minaur,R,183,AUS,19.718,31,1298,CO06,,,Liam Caruana,R,178,ITA,20.789,622,45,4-1 4-1 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,10,TD51,3,,Frances Tiafoe,R,188,USA,20.794,40,1080,HB71,6,,Hubert Hurkacz,R,196,POL,21.733,85,658,4-1 4-2 2-4 4-3(10),5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,11,TE51,1,,Stefanos Tsitsipas,R,193,GRE,20.235,15,2095,MU94,7,,Jaume Munar,R,183,ESP,21.506,76,703,4-3(5) 4-3(3) 3-4(4) 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,12,RE44,5,,Andrey Rublev,R,188,RUS,21.046,68,760,FB98,4,,Taylor Fritz,R,196,USA,21.024,47,987,4-2 1-4 3-4(4) 4-3(2) 4-2,5,RR,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,13,TE51,1,,Stefanos Tsitsipas,R,193,GRE,20.235,15,2095,RE44,5,,Andrey Rublev,R,188,RUS,21.046,68,760,4-3(3) 3-4(5) 4-0 2-4 4-3(2),5,SF,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,14,DH58,2,,Alex de Minaur,R,183,AUS,19.718,31,1298,MU94,7,,Jaume Munar,R,183,ESP,21.506,76,703,3-4(5) 4-1 4-1 3-4(4) 4-2,5,SF,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,15,RE44,5,,Andrey Rublev,R,188,RUS,21.046,68,760,MU94,7,,Jaume Munar,R,183,ESP,21.506,76,703,1-4 4-3(4) 2-4 4-2 4-3(3),5,3rd/4th,,,,,,,,,,,,,,,,,,,
+2018-7696,Next Gen ATP Finals,Hard,8,F,20181106,16,TE51,1,,Stefanos Tsitsipas,R,193,GRE,20.235,15,2095,DH58,2,,Alex de Minaur,R,183,AUS,19.718,31,1298,2-4 4-1 4-3(3) 4-3(3),5,F,,,,,,,,,,,,,,,,,,,
 2018-605,Tour Finals,Hard,8,F,20181112,1,TB69,6,,Dominic Thiem,R,185,AUT,25.191,8,3895,N552,7,,Kei Nishikori,R,178,JPN,28.871,9,3390,6-1 6-4,3,RR,84,3,2,66,47,31,12,9,4,4,0,6,63,37,26,9,8,6,9
 2018-605,Tour Finals,Hard,8,F,20181112,2,A678,4,,Kevin Anderson,R,203,RSA,32.487,6,4310,N552,7,,Kei Nishikori,R,178,JPN,28.871,9,3390,6-0 6-1,3,RR,64,10,0,36,28,23,5,7,0,0,2,2,49,22,11,10,6,7,12
 2018-605,Tour Finals,Hard,8,F,20181112,3,A678,4,,Kevin Anderson,R,203,RSA,32.487,6,4310,TB69,6,,Dominic Thiem,R,185,AUT,25.191,8,3895,6-3 7-6(10),3,RR,108,13,4,72,44,40,16,11,0,0,5,3,71,41,33,18,10,6,7
