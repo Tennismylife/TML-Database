@@ -1,0 +1,12 @@
+# .github/workflows/notify-users.yml
+name: Ping Downloaders
+on: [push]
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Issue per New Stars
+      uses: actions/create-github-issue@v1
+      with:
+        title: "New Stats Site Live!"
+        body: "https://stats.tennismylife.org/ – link!"
