@@ -1,33 +1,69 @@
-# .github/workflows/notify-stargazers.yml  ? COPIA QUESTO ESATTO
-name: Notify Stargazers on Push
-on: [push]  # O schedule per meno spam
+name: Notify All Stargazers
+on: [push]  # Or use `schedule` to reduce spam
 
 jobs:
   ping:
     runs-on: ubuntu-latest
     permissions:
-      issues: write  # Fix permessi
+      issues: write
     steps:
-    - name: Fetch Stargazers & Post Comment
+    - name: Fetch All Stargazers & Notify
       uses: actions/github-script@v7
       with:
         script: |
-          // Lista primi 5 stargazers
-          const stargazers = await github.rest.activity.listStargazersForRepo({
+          // Function to fetch all stargazers (handle multiple pages)
+          async function getAllStargazers() {
+            let page = 1;
+            const per_page = 100; // max allowed
+            let allUsers = [];
+            while (true) {
+              const res = await github.rest.activity.listStargazersForRepo({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                per_page,
+                page
+              });
+              if (res.data.length === 0) break;
+              allUsers = allUsers.concat(res.data.map(u => `@${u.login}`));
+              page++;
+            }
+            return allUsers;
+          }
+
+          const users = await getAllStargazers();
+          if (users.length === 0) {
+            console.log("No stargazers yet!");
+            return;
+          }
+
+          const mentionText = users.join(' ');
+
+          // Check if an issue "Stargazers Notification" already exists
+          const issues = await github.rest.issues.listForRepo({
             owner: context.repo.owner,
             repo: context.repo.repo,
-            per_page: 5
+            state: 'open'
           });
-          
-          const users = stargazers.data.map(u => `@${u.login}`).join(' ');
-          
-          // Crea/Commenta Issue esistente (ID 1 o crea nuovo)
-          const issue = await github.rest.issues.create({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            title: '?? Stargazers: Live Tennis Stats Site!',
-            body: `Ciao community!\n\nStats live da TML-Database: https://stats.tennismylife.org/\n\n**Linkalo nei tuoi progetti!**\n\n${users}\n\n#tennis #stats #TML`,
-            labels: ['promotion']
-          });
-          
-          console.log('Issue creata:', issue.data.html_url);
+
+          const existing = issues.data.find(i => i.title === "Stargazers Notification");
+
+          if (existing) {
+            // Update the existing issue
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: existing.number,
+              body: `Hello community!\n\nLive stats from TML-Database: https://stats.tennismylife.org/\n\n**Feel free to link it in your projects!**\n\n${mentionText}\n\n#tennis #stats #TML`
+            });
+            console.log("Issue updated:", existing.html_url);
+          } else {
+            // Create a new issue
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: "Stargazers Notification",
+              body: `Hello community!\n\nLive stats from TML-Database: https://stats.tennismylife.org/\n\n**Feel free to link it in your projects!**\n\n${mentionText}\n\n#tennis #stats #TML`,
+              labels: ['promotion']
+            });
+            console.log("Issue created:", issue.data.html_url);
+          }
