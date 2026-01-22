@@ -10,7 +10,8 @@ Follow updates on Twitter: [@TennisMyLife68](https://twitter.com/TennisMyLife68)
 
 🚀 The **TML-Database** has been **fully moved to our official website** to provide **live access, continuous updates, and an interactive experience**:  
 
-👉 [https://stats.tennismylife.org/tennis-match-database]([https://stats.tennismylife.org](https://stats.tennismylife.org/tennis-match-database))  
+👉 TML Tennis Match Database: [https://stats.tennismylife.org/tennis-match-database](https://stats.tennismylife.org/tennis-match-database)
+
 
 Here you will find:  
 - All **historical and live-updated ATP match data**  
