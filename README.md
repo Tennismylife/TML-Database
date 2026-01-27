@@ -1,4 +1,4 @@
-![]([http://www.tennismylife.org/wp-content/uploads/2015/09/cropped-header.jpg](https://stats.tennismylife.org/_next/image?url=%2Fheader.jpg&w=1920&q=75))
+[![TML Header](https://stats.tennismylife.org/_next/image?url=%2Fheader.jpg&w=1920&q=75)](https://stats.tennismylife.org/)
 
 # TML-Database – Complete Live ATP Match Database
 
@@ -19,7 +19,6 @@ Here you will find:
 - Advanced filters for exploring records and customized stats  
 
 💡 This GitHub repository is now kept only for **historical reference and technical purposes**, but **all features and the fully updated database are available on the website**.
-
 
 ---
 
