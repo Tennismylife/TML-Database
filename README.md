@@ -29,7 +29,7 @@ This database contains **ATP match data, player statistics, and historical recor
 Please note:  
 
 - All ATP player IDs, match results, and tournament information are based on the official ATP website.  
-- Redistribution, commercial use, or selling of the raw database without permission from TennisMyLife and/or the ATP may violate copyright or terms of use.  
+- **No commercial use is authorized by these public terms.** Prior express written permission from TennisMyLife is required for commercial uses, including commercial model training, publication of monetized model-generated probabilities, advertising-supported products and premium subscriptions. Third-party permissions or restrictions may also apply.  
 - The database is **frequently updated**, but errors or missing data may exist. Use at your own discretion.  
 - Collaborations, bug reports, and data contributions are **welcome and appreciated**.  
 
@@ -138,7 +138,9 @@ Please submit issues or pull requests in this repository. Together we can improv
 - Data collected from **ATP official website**, newspapers, blogs, and other tennis stats sites.  
 - Database offered in partnership with [CanalTenis](https://canaltenis.com/).  
 
-All data usage is **non-commercial** unless explicitly permitted.
+**Data usage terms:** The datasets are provided for personal, educational and non-commercial research use. Free access or CSV downloads do not grant commercial-use rights. Redistribution or resale of the raw database is not authorized by these public terms. **Commercial use requires prior express written permission from TennisMyLife**, including the training, validation or use of statistical prediction models for commercial services and the monetization of derived predictions. No such commercial authorization is granted by these public terms. These terms apply only to rights TennisMyLife is entitled to grant; separate third-party rights may apply.
+
+See the current [TennisMyLife Match Database data usage terms](https://stats.tennismylife.org/tennis-match-database#usage-terms).
 
 ---
 
